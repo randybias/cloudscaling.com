@@ -19,7 +19,7 @@ confirm() {
 # Deploy to production
 deploy_prod() {
 	echo "Building blog"
-	jekyll build --config _config.yml
+	jekyll build --config _config_prod.yml
 	echo "Dry run"
 	s3_website push --dry-run --config-dir _s3_prod_config
 
@@ -35,7 +35,7 @@ deploy_prod() {
 # Deploy to stage
 deploy_stage() {
 	echo "Building blog"
-	jekyll build --config _config_dev.yml
+	jekyll build --config _config_stage.yml
 	echo "Dry run"
 	s3_website push --dry-run --config-dir _s3_stage_config
 
