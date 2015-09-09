@@ -21,7 +21,7 @@ Let me explain.
 
 ## The Storage Unicorn & a Rational Solution
 
-We all want what we can’t have: a single globally distributed, unified storage system, that is infinitely scalable, easy to manage, replicated between datacenters and serves block devices, file systems, and object, all without hiccups.  Bonus points if you throw in tape as well!  This is the Storage Unicorn.  No such beast exists and never will.  Even before the EMC acquisition of Cloudscaling I was talking about these issues in my white paper: [The Case for Tiered Storage in Private Clouds](http://www.cloudscaling.com/wp-content/themes/cloudscaling/assets/downloads/cloudscaling_whitepaper_tiered_storage_private_clouds.pdf).
+We all want what we can’t have: a single globally distributed, unified storage system, that is infinitely scalable, easy to manage, replicated between datacenters and serves block devices, file systems, and object, all without hiccups.  Bonus points if you throw in tape as well!  This is the Storage Unicorn.  No such beast exists and never will.  Even before the EMC acquisition of Cloudscaling I was talking about these issues in my white paper: [The Case for Tiered Storage in Private Clouds](/assets/pdf/cloudscaling_whitepaper_tiered_storage_private_clouds.pdf).
 
 The nut of that white paper is that tier-1, mission critical storage, is optimized for IOPS, while tier-3 is optimized for long term durability.  Think of flash vs. tape.  These are not the same technologies nor can they serve the same purpose or use cases.
 
