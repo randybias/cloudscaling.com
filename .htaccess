@@ -1,7 +1,0 @@
----
-layout: null
----
-
-{% for post in site.posts %}
-  ^{{ post.link }}index.html: {{ site.url }}{{ post.url }}
-{% endfor %}
