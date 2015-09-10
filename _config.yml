@@ -1,3 +1,6 @@
+# This is the default config for Jekyll
+# This is used for your local environment
+
 # Site settings
 title: Cloudscaling
 email: your-email@domain.com
