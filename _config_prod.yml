@@ -10,3 +10,6 @@ github_username:  randybias
 
 # Build settings
 markdown: kramdown
+
+paginate: 10
+paginate_path: "/page:num/"

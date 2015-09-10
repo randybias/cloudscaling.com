@@ -1,7 +1,0 @@
----
-layout: null
----
-
-{% for post in site.posts %}
-  RewriteRule ^{{ post.link }} {{ site.url }}{{ post.url }} [R=301,L]
-{% endfor %}

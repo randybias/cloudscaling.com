@@ -1,0 +1,18 @@
+.post {
+	.post-content {
+		// Hide the first h1 since we are using Jekyll to display the title
+		h1:first-child {
+			display: none;
+		}
+	}
+}
+.home {
+	.content {
+		// Hide the first h1 since we are using Jekyll to display the title
+		.excerpt {
+			h1:first-child {
+				display: none;
+			}
+		}
+	}
+}

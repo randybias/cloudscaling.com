@@ -25,8 +25,9 @@ s3_endpoint: us-west-2
 
 # ignore_on_server: that_folder_of_stuff_i_dont_keep_locally
 
-# exclude_from_upload:
-#   - those_folders_of_stuff
+exclude_from_upload:
+    - .htaccess
+    - README.md
 #   - i_wouldnt_want_to_upload
 
 # s3_reduced_redundancy: true
@@ -45,10 +46,10 @@ s3_endpoint: us-west-2
 
 # concurrency_level: 5
 
-# redirects:
-#   index.php: /
-#   about.php: about.html
-#   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
+redirects:
+#  index.php: /
+  blog/cloud-computing/cloud-youre-doing-it-wrong/index.html: /2015/08/11/cloud-youre-doing-it-wrong.html
+  #music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # routing_rules:
 #   - condition:
