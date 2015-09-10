@@ -13,3 +13,6 @@ github_username:  randybias
 
 # Build settings
 markdown: kramdown
+
+paginate: 5
+paginate_path: "/blog/page:num/"
