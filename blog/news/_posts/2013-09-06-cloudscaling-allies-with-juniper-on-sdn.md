@@ -11,6 +11,7 @@ post_name: cloudscaling-allies-with-juniper-on-sdn
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Allies with Juniper On SDN

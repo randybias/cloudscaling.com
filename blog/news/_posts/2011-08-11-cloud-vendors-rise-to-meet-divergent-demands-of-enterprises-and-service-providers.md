@@ -11,6 +11,7 @@ post_name: cloud-vendors-rise-to-meet-divergent-demands-of-enterprises-and-servi
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloud vendors rise to meet divergent demands of enterprises and service providers

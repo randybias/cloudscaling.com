@@ -11,6 +11,7 @@ post_name: openstack-havana-goes-live-but-heres-whats-important-new-users
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Havana goes live, but here’s what’s important: new users!

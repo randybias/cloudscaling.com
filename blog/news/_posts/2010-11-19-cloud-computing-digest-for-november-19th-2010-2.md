@@ -11,6 +11,7 @@ post_name: cloud-computing-digest-for-november-19th-2010-2
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloud computing digest for November 19th, 2010

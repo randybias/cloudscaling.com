@@ -11,6 +11,7 @@ post_name: making-money-from-big-data-starts-with-data
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Making money from big data starts with data

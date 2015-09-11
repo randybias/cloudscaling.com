@@ -11,6 +11,7 @@ post_name: cloudscaler-takes-on-leadership-role-at-nanog
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Cloudscaler takes on leadership role at NANOG

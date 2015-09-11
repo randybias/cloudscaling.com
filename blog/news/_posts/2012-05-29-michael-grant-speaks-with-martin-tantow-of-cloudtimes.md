@@ -11,6 +11,7 @@ post_name: michael-grant-speaks-with-martin-tantow-of-cloudtimes
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Michael Grant speaks with Martin Tantow of Cloudtimes

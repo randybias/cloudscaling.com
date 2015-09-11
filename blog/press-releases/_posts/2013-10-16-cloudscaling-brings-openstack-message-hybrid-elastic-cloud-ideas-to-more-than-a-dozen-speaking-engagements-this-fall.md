@@ -11,6 +11,7 @@ post_name: cloudscaling-brings-openstack-message-hybrid-elastic-cloud-ideas-to-m
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Brings OpenStack Message, Hybrid Elastic Cloud Ideas to More than a Dozen Speaking Engagements This Fall

@@ -11,6 +11,7 @@ post_name: openstack-is-key-to-a-hybrid-world
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OpenStack is Key to a Hybrid World

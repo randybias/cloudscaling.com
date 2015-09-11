@@ -11,6 +11,7 @@ post_name: monitoring-the-web-two-dot-ooooh
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Monitoring the Web-Two-Dot-Ooooh …

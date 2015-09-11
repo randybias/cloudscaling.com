@@ -11,6 +11,7 @@ post_name: carriers-get-control-of-the-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Carriers Get Control of the Cloud

@@ -11,6 +11,7 @@ post_name: whats-holding-back-the-cloud-industry
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # What's holding back the cloud industry?

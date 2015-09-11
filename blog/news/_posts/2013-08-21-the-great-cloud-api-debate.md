@@ -11,6 +11,7 @@ post_name: the-great-cloud-api-debate
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The Great Cloud API Debate

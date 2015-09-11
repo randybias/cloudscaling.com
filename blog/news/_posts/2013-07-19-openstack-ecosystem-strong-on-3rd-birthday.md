@@ -11,6 +11,7 @@ post_name: openstack-ecosystem-strong-on-3rd-birthday
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Ecosystem Strong on 3rd Birthday

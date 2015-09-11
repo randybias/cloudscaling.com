@@ -11,6 +11,7 @@ post_name: cloudscaling-bringing-openstack-clouds-to-aws
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Bringing OpenStack Clouds to AWS

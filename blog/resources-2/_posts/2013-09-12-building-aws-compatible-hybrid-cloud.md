@@ -11,6 +11,7 @@ post_name: building-aws-compatible-hybrid-cloud
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Building AWS-Compatible Hybrid Clouds

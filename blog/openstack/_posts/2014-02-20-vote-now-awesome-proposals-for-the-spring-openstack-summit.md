@@ -11,6 +11,7 @@ post_name: vote-now-awesome-proposals-for-the-spring-openstack-summit
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # Vote Now: Awesome Proposals for the Spring OpenStack Summit

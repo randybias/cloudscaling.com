@@ -11,6 +11,7 @@ post_name: vancouver-openstack-summit-emc-federation-presentations
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # Vancouver OpenStack Summit - EMC Federation Presentations

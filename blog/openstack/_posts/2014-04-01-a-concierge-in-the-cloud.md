@@ -11,6 +11,7 @@ post_name: a-concierge-in-the-cloud
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # A Concierge in the Cloud

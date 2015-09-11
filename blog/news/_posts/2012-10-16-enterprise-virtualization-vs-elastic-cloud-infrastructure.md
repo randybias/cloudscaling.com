@@ -11,6 +11,7 @@ post_name: enterprise-virtualization-vs-elastic-cloud-infrastructure
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Enterprise virtualization vs. elastic cloud infrastructure

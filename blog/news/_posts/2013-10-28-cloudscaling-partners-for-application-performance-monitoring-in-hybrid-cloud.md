@@ -11,6 +11,7 @@ post_name: cloudscaling-partners-for-application-performance-monitoring-in-hybri
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Partners for Application Performance Monitoring in Hybrid Cloud

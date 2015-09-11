@@ -11,6 +11,7 @@ post_name: opscode-announces-support-for-ocs-2-0
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Opscode announces support for OCS 2.0

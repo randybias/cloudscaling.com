@@ -11,6 +11,7 @@ post_name: kt-to-build-south-koreas-largest-private-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # KT to build South Korea’s largest private cloud

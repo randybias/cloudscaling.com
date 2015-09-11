@@ -11,6 +11,7 @@ post_name: 451-analyst-brief
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # 451 Analyst Brief

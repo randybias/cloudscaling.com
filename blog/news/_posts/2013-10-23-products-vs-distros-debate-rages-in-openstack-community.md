@@ -11,6 +11,7 @@ post_name: products-vs-distros-debate-rages-in-openstack-community
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Products vs. distros: Debate rages in OpenStack community

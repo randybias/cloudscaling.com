@@ -11,6 +11,7 @@ post_name: these-arent-the-2014-openstack-predictions-youre-looking-for
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # These Aren't the 2014 OpenStack Predictions You're Looking For

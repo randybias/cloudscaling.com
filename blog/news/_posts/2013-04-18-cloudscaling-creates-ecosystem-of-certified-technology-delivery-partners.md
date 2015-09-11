@@ -11,6 +11,7 @@ post_name: cloudscaling-creates-ecosystem-of-certified-technology-delivery-partn
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Creates Ecosystem of Certified Technology, Delivery Partners

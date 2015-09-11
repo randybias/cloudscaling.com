@@ -11,6 +11,7 @@ post_name: open-source-heroes-brian-behlendorf
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Open Source Heroes: Brian Behlendorf

@@ -11,6 +11,7 @@ post_name: the-cloud-standards-war-is-on
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The cloud standards war is on

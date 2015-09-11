@@ -11,6 +11,7 @@ post_name: the-top-three-things-to-bookmark-for-the-juno-summit
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # The Top Three Things To Bookmark for the Juno Summit

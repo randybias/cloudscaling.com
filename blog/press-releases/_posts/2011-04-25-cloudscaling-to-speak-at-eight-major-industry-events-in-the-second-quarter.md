@@ -11,6 +11,7 @@ post_name: cloudscaling-to-speak-at-eight-major-industry-events-in-the-second-qu
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling to Speak at Eight Major Industry Events in the Second Quarter

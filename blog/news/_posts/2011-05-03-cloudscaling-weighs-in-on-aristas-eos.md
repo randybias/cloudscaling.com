@@ -11,6 +11,7 @@ post_name: cloudscaling-weighs-in-on-aristas-eos
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling weighs in on Arista’s EOS

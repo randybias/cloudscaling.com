@@ -11,6 +11,7 @@ post_name: juniper-seagate-join-trinity-in-10m-cloudscaling-round
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper, Seagate join Trinity in $10M Cloudscaling round

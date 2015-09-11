@@ -11,6 +11,7 @@ post_name: cloudscaling-seagate-partner-on-solutions-for-the-openstack-environme
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling, Seagate Partner on Solutions for the OpenStack Environment

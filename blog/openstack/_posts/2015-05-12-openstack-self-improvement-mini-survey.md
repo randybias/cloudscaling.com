@@ -11,6 +11,7 @@ post_name: openstack-self-improvement-mini-survey
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # OpenStack Self-Improvement Mini-Survey

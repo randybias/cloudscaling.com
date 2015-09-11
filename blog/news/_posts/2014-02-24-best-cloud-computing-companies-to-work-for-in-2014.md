@@ -11,6 +11,7 @@ post_name: best-cloud-computing-companies-to-work-for-in-2014
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Best Cloud Computing Companies to work for in 2014

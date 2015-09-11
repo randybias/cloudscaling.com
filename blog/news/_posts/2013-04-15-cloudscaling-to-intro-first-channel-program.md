@@ -11,6 +11,7 @@ post_name: cloudscaling-to-intro-first-channel-program
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling To Intro First Channel Program

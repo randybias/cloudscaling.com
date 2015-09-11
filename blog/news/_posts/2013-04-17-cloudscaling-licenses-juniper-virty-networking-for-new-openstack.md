@@ -11,6 +11,7 @@ post_name: cloudscaling-licenses-juniper-virty-networking-for-new-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling licenses Juniper virty networking for new OpenStack

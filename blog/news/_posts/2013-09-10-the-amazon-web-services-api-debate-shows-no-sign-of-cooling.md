@@ -11,6 +11,7 @@ post_name: the-amazon-web-services-api-debate-shows-no-sign-of-cooling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The Amazon Web Services API debate shows no sign of cooling

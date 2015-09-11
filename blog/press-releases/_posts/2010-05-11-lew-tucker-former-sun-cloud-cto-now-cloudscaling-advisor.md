@@ -11,6 +11,7 @@ post_name: lew-tucker-former-sun-cloud-cto-now-cloudscaling-advisor
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Lew Tucker, former Sun Cloud CTO, now Cloudscaling advisor

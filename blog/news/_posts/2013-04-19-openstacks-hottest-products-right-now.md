@@ -11,6 +11,7 @@ post_name: openstacks-hottest-products-right-now
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack's Hottest Products Right Now

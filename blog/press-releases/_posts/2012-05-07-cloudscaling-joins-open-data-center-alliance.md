@@ -11,6 +11,7 @@ post_name: cloudscaling-joins-open-data-center-alliance
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Joins Open Data Center Alliance  

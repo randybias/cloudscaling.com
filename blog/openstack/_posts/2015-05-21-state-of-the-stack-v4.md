@@ -11,6 +11,7 @@ post_name: state-of-the-stack-v4
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # State of the Stack v4 - OpenStack In All It's Glory

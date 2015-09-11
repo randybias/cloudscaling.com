@@ -11,6 +11,7 @@ post_name: run-your-own-on-premise-elastic-cloud-infrastructure
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Run your own on-premise elastic cloud infrastructure

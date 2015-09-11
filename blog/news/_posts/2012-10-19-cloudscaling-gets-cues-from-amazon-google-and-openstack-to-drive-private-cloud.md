@@ -11,6 +11,7 @@ post_name: cloudscaling-gets-cues-from-amazon-google-and-openstack-to-drive-priv
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling gets cues from Amazon, Google and OpenStack to drive private cloud

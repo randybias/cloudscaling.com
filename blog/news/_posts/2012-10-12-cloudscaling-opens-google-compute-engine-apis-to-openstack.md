@@ -11,6 +11,7 @@ post_name: cloudscaling-opens-google-compute-engine-apis-to-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling opens Google Compute Engine APIs to OpenStack

@@ -11,6 +11,7 @@ post_name: vanilla-openstack-doesnt-exist-and-never-will
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # "Vanilla OpenStack" Doesn't Exist and Never Will

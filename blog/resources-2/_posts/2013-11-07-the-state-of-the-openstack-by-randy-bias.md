@@ -11,6 +11,7 @@ post_name: the-state-of-the-openstack-by-randy-bias
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # The State of the (Open)Stack by Randy Bias

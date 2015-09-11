@@ -11,6 +11,7 @@ post_name: cloudscaling-adds-amazon-and-canonical-veterans-to-advisory-board
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Adds Amazon and Canonical Veterans to Advisory Board

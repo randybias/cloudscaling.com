@@ -11,6 +11,7 @@ post_name: the-empire-fights-back
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The empire fights back

@@ -11,6 +11,7 @@ post_name: open-cloud-comes-to-the-enterprise
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Open cloud comes to the enterprise

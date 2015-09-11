@@ -11,6 +11,7 @@ post_name: cloudscaling-set-to-offer-openstack-cloud-platform
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling set to offer OpenStack cloud platform

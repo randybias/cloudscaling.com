@@ -11,6 +11,7 @@ post_name: openstack-storage-and-the-future-of-the-storage-industry
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Storage and the Future of the Storage Industry

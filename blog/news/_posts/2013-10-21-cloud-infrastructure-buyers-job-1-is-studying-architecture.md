@@ -11,6 +11,7 @@ post_name: cloud-infrastructure-buyers-job-1-is-studying-architecture
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloud Infrastructure Buyers: Job 1 Is Studying Architecture

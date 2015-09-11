@@ -11,6 +11,7 @@ post_name: google-slashes-cloud-prices-and-ups-the-cross-platform-support-ante
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Google Slashes Cloud Prices And Ups The Cross Platform Support Ante

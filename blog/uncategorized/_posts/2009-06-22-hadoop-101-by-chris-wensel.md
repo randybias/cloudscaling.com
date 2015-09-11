@@ -11,6 +11,7 @@ post_name: hadoop-101-by-chris-wensel
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Hadoop 101 by Chris Wensel

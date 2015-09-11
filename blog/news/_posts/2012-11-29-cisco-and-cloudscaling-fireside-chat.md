@@ -11,6 +11,7 @@ post_name: cisco-and-cloudscaling-fireside-chat
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cisco and Cloudscaling fireside chat

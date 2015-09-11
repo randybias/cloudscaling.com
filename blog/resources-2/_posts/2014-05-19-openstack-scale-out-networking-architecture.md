@@ -11,6 +11,7 @@ post_name: openstack-scale-out-networking-architecture
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OpenStack Scale-out Networking Architecture

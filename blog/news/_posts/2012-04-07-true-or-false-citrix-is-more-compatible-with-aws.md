@@ -11,6 +11,7 @@ post_name: true-or-false-citrix-is-more-compatible-with-aws
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # True or false: Citrix is more compatible with AWS

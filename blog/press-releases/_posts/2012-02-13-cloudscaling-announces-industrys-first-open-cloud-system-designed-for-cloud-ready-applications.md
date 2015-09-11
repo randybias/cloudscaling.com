@@ -11,6 +11,7 @@ post_name: cloudscaling-announces-industrys-first-open-cloud-system-designed-for
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Announces Industry's First Open Cloud System Designed for Cloud-Ready Applications

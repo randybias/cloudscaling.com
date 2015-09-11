@@ -11,6 +11,7 @@ post_name: cloudscaling-offers-production-grade-elastic-cloud-infrastructure-sys
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling offers production-grade Elastic Cloud Infrastructure System based on OpenStack

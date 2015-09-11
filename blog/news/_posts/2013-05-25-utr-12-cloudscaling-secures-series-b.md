@@ -11,6 +11,7 @@ post_name: utr-12-cloudscaling-secures-series-b
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # UTR '12 Cloudscaling Secures Series B

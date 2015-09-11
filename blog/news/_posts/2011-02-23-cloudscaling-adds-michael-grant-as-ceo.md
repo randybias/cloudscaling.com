@@ -11,6 +11,7 @@ post_name: cloudscaling-adds-michael-grant-as-ceo
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling adds Michael Grant as CEO

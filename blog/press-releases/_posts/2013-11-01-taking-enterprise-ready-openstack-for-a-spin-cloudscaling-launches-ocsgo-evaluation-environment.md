@@ -11,6 +11,7 @@ post_name: taking-enterprise-ready-openstack-for-a-spin-cloudscaling-launches-oc
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Taking Enterprise-Ready OpenStack for a Spin: Cloudscaling Launches OCSgo Evaluation Environment

@@ -11,6 +11,7 @@ post_name: hybrid-cloud-solution-brief
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Hybrid Cloud Solution Brief

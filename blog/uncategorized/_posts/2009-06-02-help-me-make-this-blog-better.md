@@ -11,6 +11,7 @@ post_name: help-me-make-this-blog-better
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Help Me Make This Blog Better

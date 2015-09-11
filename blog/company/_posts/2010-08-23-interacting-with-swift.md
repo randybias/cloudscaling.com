@@ -11,6 +11,7 @@ post_name: interacting-with-swift
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Interacting with your Swift install

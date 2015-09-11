@@ -11,6 +11,7 @@ post_name: redundancy-doesnt-always-mean-ha-or-cluster
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Redundancy Doesn’t Always Mean “HA” or “Cluster”

@@ -11,6 +11,7 @@ post_name: build-a-hybrid-cloud-and-save-50
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # From OpenStack Summit: Build a hybrid cloud and save 50%

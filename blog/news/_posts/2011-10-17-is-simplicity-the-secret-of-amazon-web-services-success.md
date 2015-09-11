@@ -11,6 +11,7 @@ post_name: is-simplicity-the-secret-of-amazon-web-services-success
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Is simplicity the secret of Amazon Web Services success?

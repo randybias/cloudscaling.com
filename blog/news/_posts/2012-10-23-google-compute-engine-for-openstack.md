@@ -11,6 +11,7 @@ post_name: google-compute-engine-for-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Google Compute Engine for OpenStack

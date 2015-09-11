@@ -11,6 +11,7 @@ post_name: state-of-the-stack-image-management
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # State of the Stack – Image Management

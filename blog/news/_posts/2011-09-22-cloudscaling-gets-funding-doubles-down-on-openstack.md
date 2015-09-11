@@ -11,6 +11,7 @@ post_name: cloudscaling-gets-funding-doubles-down-on-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling gets funding – doubles down on OpenStack

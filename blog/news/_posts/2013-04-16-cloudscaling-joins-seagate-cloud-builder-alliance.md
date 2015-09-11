@@ -11,6 +11,7 @@ post_name: cloudscaling-joins-seagate-cloud-builder-alliance
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Joins Seagate Cloud Builder Alliance

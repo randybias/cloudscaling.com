@@ -11,6 +11,7 @@ post_name: you-cant-collapse-tiered-storage-in-private-clouds-built-on-openstack
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # You Can't Collapse Tiered Storage in Private Clouds Built on OpenStack: Whitepaper

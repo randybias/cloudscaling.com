@@ -11,6 +11,7 @@ post_name: looking-in-the-mirror-a-response-to-my-open-letter
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Looking in the Mirror: A Response to My Open Letter

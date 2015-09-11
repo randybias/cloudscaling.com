@@ -11,6 +11,7 @@ post_name: four-ways-openstack-improves-enterprise-it
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Four ways OpenStack improves enterprise IT

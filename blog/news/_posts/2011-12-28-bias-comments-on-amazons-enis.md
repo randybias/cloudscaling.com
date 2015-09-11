@@ -11,6 +11,7 @@ post_name: bias-comments-on-amazons-enis
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Bias comments on Amazon's ENIs

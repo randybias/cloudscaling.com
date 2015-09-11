@@ -11,6 +11,7 @@ post_name: big-changes-ahead
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Big Changes Ahead

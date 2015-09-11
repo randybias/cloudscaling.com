@@ -11,6 +11,7 @@ post_name: juniper-seagate-invest-in-improving-cloud-infrastructure-with-cloudsc
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper, Seagate invest in improving cloud infrastructure with Cloudscaling

@@ -11,6 +11,7 @@ post_name: eu-cloud-strategy-focuses-on-standards
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # EU cloud strategy focuses on standards

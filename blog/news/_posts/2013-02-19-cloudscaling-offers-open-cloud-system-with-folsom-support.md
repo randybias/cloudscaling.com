@@ -11,6 +11,7 @@ post_name: cloudscaling-offers-open-cloud-system-with-folsom-support
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling offers Open Cloud System with Folsom support

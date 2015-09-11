@@ -11,6 +11,7 @@ post_name: hardware-certification-list
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OCS Hardware Certification List

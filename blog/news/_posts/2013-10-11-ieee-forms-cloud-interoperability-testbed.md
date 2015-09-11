@@ -11,6 +11,7 @@ post_name: ieee-forms-cloud-interoperability-testbed
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # IEEE forms cloud interoperability “testbed”

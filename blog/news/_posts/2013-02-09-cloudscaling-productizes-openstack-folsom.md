@@ -11,6 +11,7 @@ post_name: cloudscaling-productizes-openstack-folsom
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling productizes OpenStack Folsom

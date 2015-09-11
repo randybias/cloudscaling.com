@@ -11,6 +11,7 @@ post_name: sdn-breaking-the-vlan-contract
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # SDN & Breaking The VLAN Contract

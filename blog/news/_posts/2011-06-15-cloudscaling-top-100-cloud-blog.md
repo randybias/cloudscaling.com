@@ -11,6 +11,7 @@ post_name: cloudscaling-top-100-cloud-blog
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling: Top 100 Cloud Blog

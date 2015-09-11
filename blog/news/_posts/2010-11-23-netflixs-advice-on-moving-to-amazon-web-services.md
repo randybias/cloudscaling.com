@@ -11,6 +11,7 @@ post_name: netflixs-advice-on-moving-to-amazon-web-services
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Netflix’s advice on moving to Amazon Web Services

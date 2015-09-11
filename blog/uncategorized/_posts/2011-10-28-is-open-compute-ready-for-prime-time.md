@@ -11,6 +11,7 @@ post_name: is-open-compute-ready-for-prime-time
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Is Open Compute Ready for Prime Time?

@@ -11,6 +11,7 @@ post_name: your-journey-to-a-hybrid-cloud
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Your Journey to a Hybrid Cloud

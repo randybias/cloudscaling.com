@@ -11,6 +11,7 @@ post_name: what-cios-can-learn-from-shadow-it
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # What CIOs Can Learn From Shadow IT

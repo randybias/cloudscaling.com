@@ -11,6 +11,7 @@ post_name: randy-bias-talks-with-jolie-odell-of-venturebeat
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias talks with Jolie O’Dell of VentureBeat

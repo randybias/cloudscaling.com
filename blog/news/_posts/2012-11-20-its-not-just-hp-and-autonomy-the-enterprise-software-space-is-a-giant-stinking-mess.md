@@ -11,6 +11,7 @@ post_name: its-not-just-hp-and-autonomy-the-enterprise-software-space-is-a-giant
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # It’s not Just HP and Autonomy, the enterprise software space is a giant stinking mess

@@ -11,6 +11,7 @@ post_name: a-new-high-performance-low-cost-cloud-service-for-apac
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # A new high-performance, low cost cloud service for APAC

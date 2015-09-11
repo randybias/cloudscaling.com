@@ -11,6 +11,7 @@ post_name: embracing-the-cloud-disruption
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Embracing the cloud disruption

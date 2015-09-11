@@ -11,6 +11,7 @@ post_name: cloudscaling-ships-open-cloud-system-v-2-0
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Ships Open Cloud System v 2.0

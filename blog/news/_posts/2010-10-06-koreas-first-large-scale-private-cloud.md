@@ -11,6 +11,7 @@ post_name: koreas-first-large-scale-private-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Korea’s first large-scale private cloud

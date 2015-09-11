@@ -11,6 +11,7 @@ post_name: major-carriers-choose-cloudscaling-for-telecom-council-award
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Major Carriers Choose Cloudscaling for Telecom Council Award

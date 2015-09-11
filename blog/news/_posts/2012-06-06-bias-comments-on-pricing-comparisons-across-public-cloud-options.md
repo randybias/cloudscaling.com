@@ -11,6 +11,7 @@ post_name: bias-comments-on-pricing-comparisons-across-public-cloud-options
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Bias comments on pricing comparisons across public cloud options

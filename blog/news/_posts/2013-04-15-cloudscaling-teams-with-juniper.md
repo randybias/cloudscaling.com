@@ -11,6 +11,7 @@ post_name: cloudscaling-teams-with-juniper
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Teams With Juniper

@@ -11,6 +11,7 @@ post_name: koreas-kt-launches-public-cloud-cs-in-asia-pacific-region
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Korea's KT launches public cloud CS in Asia Pacific region

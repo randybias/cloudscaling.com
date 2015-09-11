@@ -11,6 +11,7 @@ post_name: support-japanese-relief-efforts
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Support Japanese Relief Efforts

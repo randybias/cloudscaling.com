@@ -11,6 +11,7 @@ post_name: building-deploying-leveraging-aws-compatible-hybrid-clouds-the-focus-
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Building, Deploying, Leveraging AWS-Compatible Hybrid Clouds the Focus of Cloudscaling Fall Webinar Series

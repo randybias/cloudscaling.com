@@ -11,6 +11,7 @@ post_name: grassroots-clears-away-the-cloudwash
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Grassroots clears away the cloudwash

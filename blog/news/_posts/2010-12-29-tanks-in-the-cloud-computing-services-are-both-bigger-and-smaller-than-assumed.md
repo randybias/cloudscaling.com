@@ -11,6 +11,7 @@ post_name: tanks-in-the-cloud-computing-services-are-both-bigger-and-smaller-tha
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Tanks in the cloud – computing services are both bigger and smaller than assumed

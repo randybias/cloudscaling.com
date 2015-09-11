@@ -11,6 +11,7 @@ post_name: top-8-questions-for-the-openstack-summit
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Top 8 questions for the OpenStack Summit

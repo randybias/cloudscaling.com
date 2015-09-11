@@ -11,6 +11,7 @@ post_name: cumulogic-launches-cloud-services-platform-to-cloudscaling-iaas-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # CumuLogic Launches Cloud Services Platform to Cloudscaling IaaS Clouds

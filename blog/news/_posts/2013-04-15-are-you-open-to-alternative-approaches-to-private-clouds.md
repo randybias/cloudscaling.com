@@ -11,6 +11,7 @@ post_name: are-you-open-to-alternative-approaches-to-private-clouds
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Are you Open to Alternative Approaches to Private Clouds?

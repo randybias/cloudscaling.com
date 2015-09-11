@@ -11,6 +11,7 @@ post_name: ibms-cloud-computing-strategy-flying-blind
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # IBM’s cloud computing strategy: flying blind?

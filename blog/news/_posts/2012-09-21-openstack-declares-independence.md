@@ -11,6 +11,7 @@ post_name: openstack-declares-independence
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Declares Independence

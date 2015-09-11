@@ -11,6 +11,7 @@ post_name: work-in-progress
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 <!--Updating to WP 2.7-->

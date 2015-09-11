@@ -11,6 +11,7 @@ post_name: cloudscaling-offers-amazon-google-federation
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling offers Amazon & Google federation 

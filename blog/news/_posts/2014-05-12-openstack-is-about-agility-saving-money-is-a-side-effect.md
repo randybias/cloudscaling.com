@@ -11,6 +11,7 @@ post_name: openstack-is-about-agility-saving-money-is-a-side-effect
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack is about agility. Saving money is a side effect

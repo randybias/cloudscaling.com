@@ -11,6 +11,7 @@ post_name: kt-launches-public-cloud-with-higher-performance-lower-pricing-than-a
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # KT Launches Public Cloud With Higher Performance, Lower Pricing Than Amazon’s EC2

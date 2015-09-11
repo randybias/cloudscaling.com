@@ -11,6 +11,7 @@ post_name: the-rise-of-the-new-cloud-admin
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Forrester: The Rise of the New Cloud Admin

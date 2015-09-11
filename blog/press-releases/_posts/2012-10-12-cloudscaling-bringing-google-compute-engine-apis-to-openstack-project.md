@@ -11,6 +11,7 @@ post_name: cloudscaling-bringing-google-compute-engine-apis-to-openstack-project
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Bringing Google Compute Engine APIs to OpenStack Project

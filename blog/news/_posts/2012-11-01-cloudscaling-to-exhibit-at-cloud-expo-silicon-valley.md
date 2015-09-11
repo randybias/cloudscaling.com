@@ -11,6 +11,7 @@ post_name: cloudscaling-to-exhibit-at-cloud-expo-silicon-valley
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling to exhibit at Cloud Expo Silicon Valley

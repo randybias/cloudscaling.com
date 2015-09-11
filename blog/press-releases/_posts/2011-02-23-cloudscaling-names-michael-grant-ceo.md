@@ -11,6 +11,7 @@ post_name: cloudscaling-names-michael-grant-ceo
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Names Michael Grant CEO

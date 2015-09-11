@@ -11,6 +11,7 @@ post_name: deploying-an-openstack-powered-hybrid-cloud
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Deploying an OpenStack-Powered Hybrid Cloud

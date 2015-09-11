@@ -11,6 +11,7 @@ post_name: the-cloud-is-forked
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The cloud is forked

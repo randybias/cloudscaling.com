@@ -11,6 +11,7 @@ post_name: kt-aims-to-be-leader-in-cloud-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # KT aims to be leader in cloud computing

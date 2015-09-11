@@ -11,6 +11,7 @@ post_name: market-interest-in-elastic-cloud-infrastructure-accelerates
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Market interest in elastic cloud infrastructure accelerates

@@ -11,6 +11,7 @@ post_name: why-vcs-will-continue-to-invest-in-big-data-startups
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Why VCs will continue to invest in big data startups

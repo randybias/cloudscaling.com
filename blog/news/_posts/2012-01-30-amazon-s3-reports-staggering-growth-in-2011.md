@@ -11,6 +11,7 @@ post_name: amazon-s3-reports-staggering-growth-in-2011
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Amazon S3 reports staggering growth in 2011

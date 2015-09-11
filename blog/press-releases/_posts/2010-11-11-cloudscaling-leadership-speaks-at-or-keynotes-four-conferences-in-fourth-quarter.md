@@ -11,6 +11,7 @@ post_name: cloudscaling-leadership-speaks-at-or-keynotes-four-conferences-in-fou
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Leadership Speaks at or Keynotes Four Conferences in Fourth Quarter

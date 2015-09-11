@@ -11,6 +11,7 @@ post_name: the-great-openstack-api-debate
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The great OpenStack API debate

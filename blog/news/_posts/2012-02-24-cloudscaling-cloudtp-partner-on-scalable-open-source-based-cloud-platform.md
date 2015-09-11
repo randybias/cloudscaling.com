@@ -11,6 +11,7 @@ post_name: cloudscaling-cloudtp-partner-on-scalable-open-source-based-cloud-plat
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling, cloudTP partner on scalable, open source-based cloud platform

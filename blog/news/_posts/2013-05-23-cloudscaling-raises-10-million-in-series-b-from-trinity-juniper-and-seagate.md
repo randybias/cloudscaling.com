@@ -11,6 +11,7 @@ post_name: cloudscaling-raises-10-million-in-series-b-from-trinity-juniper-and-s
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Raises $10 Million In Series B From Trinity, Juniper, and Seagate

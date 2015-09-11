@@ -11,6 +11,7 @@ post_name: 15-most-powerful-openstack-companies
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 15 most powerful OpenStack companies

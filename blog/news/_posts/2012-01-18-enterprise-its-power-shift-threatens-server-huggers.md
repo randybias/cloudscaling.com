@@ -11,6 +11,7 @@ post_name: enterprise-its-power-shift-threatens-server-huggers
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Enterprise IT's power shift threatens server-huggers

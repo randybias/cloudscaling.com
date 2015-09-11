@@ -11,6 +11,7 @@ post_name: enterprise-sales-veteran-to-lead-cloudscaling-sales-organization
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Enterprise Sales Veteran to Lead Cloudscaling Sales Organization

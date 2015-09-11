@@ -11,6 +11,7 @@ post_name: gce-api-available-now-on-openstack-stackforge
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # GCE API - Available Now on OpenStack StackForge

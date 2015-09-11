@@ -11,6 +11,7 @@ post_name: the-time-for-openstack-to-embrace-amazon-is-now
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The time for OpenStack to embrace Amazon is now

@@ -11,6 +11,7 @@ post_name: idc-capitalizing-on-the-cloud-revolution-with-openstack
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # IDC: Capitalizing on the Cloud Revolution with OpenStack

@@ -11,6 +11,7 @@ post_name: best-of-both-worlds-in-the-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Best of both worlds in the cloud

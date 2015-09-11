@@ -11,6 +11,7 @@ post_name: heroes-of-the-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Heroes of the cloud

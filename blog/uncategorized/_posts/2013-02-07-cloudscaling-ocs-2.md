@@ -11,6 +11,7 @@ post_name: cloudscaling-ocs-2
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Cloudscaling OCS 2.0 – with Block Storage and Folsom Support – Now Shipping

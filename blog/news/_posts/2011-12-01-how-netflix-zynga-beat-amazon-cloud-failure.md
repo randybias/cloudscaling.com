@@ -11,6 +11,7 @@ post_name: how-netflix-zynga-beat-amazon-cloud-failure
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # How Netflix, Zynga beat Amazon cloud failure

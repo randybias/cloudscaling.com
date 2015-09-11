@@ -11,6 +11,7 @@ post_name: openstack-powered-cloud-startup-cloudscaling-scores-10m-from-trinity-
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack-powered cloud startup Cloudscaling scores $10M from Trinity, Juniper, Seagate

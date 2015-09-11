@@ -11,6 +11,7 @@ post_name: cloudscaling-closes-series-a
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Cloudscaling Closes Series A

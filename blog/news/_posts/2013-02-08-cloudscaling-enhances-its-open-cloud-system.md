@@ -11,6 +11,7 @@ post_name: cloudscaling-enhances-its-open-cloud-system
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling enhances its Open Cloud System

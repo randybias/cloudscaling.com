@@ -11,6 +11,7 @@ post_name: kt-private-cloud-performance-scores
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # KT Private Cloud Performance Scores

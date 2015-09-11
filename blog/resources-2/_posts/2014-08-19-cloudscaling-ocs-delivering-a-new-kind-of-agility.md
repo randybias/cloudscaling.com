@@ -11,6 +11,7 @@ post_name: cloudscaling-ocs-delivering-a-new-kind-of-agility
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Cloudscaling OCS: Delivering a New Kind of AgilityWhite Paper

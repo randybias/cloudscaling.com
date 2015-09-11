@@ -11,6 +11,7 @@ post_name: cloudscaling-nominated-by-telecom-council-of-silicon-valley-for-award
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Nominated by Telecom Council of Silicon Valley for  Award as Best Fixed Telecom Opportunity

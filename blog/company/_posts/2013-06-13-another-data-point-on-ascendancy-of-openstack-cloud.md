@@ -11,6 +11,7 @@ post_name: another-data-point-on-ascendancy-of-openstack-cloud
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Another Data Point on Ascendancy of OpenStack Cloud

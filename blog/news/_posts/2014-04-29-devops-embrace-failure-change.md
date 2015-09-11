@@ -11,6 +11,7 @@ post_name: devops-embrace-failure-change
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # DevOps: Embrace Failure & Change

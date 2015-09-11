@@ -11,6 +11,7 @@ post_name: top-20-cloud-infrastructure-vendors-of-2011
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Top 20 Cloud Infrastructure Vendors of 2011

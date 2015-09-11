@@ -11,6 +11,7 @@ post_name: scale-out-provider-cloudscaling-raises-10m-with-investment-from-junip
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Scale Out Provider Cloudscaling Raises $10M With Investment From Juniper And Seagate

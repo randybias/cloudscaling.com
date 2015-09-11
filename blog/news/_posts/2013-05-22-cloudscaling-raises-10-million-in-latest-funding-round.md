@@ -11,6 +11,7 @@ post_name: cloudscaling-raises-10-million-in-latest-funding-round
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Raises $10 Million In Latest Funding Round

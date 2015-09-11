@@ -11,6 +11,7 @@ post_name: cloudstack-vs-openstack-debate-rages-on
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # CloudStack Vs. OpenStack debate rages on

@@ -11,6 +11,7 @@ post_name: this-is-about-as-close-as-you-can-get-to-an-amazon-private-cloud-usin
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # This is about as close as you can get to an Amazon private cloud using OpenStack

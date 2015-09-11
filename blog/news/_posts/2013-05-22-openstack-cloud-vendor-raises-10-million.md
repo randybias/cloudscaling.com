@@ -11,6 +11,7 @@ post_name: openstack-cloud-vendor-raises-10-million
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Cloud Vendor Raises $10 Million

@@ -11,6 +11,7 @@ post_name: openstack-and-aws-the-fastest-path-to-hybrid-it-2
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OpenStack and AWS: The Fastest Path to Hybrid IT

@@ -11,6 +11,7 @@ post_name: cloudscaling-juniper-networks-innovation-for-dynamic-computing-enviro
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Cloudscaling + Juniper Networks: Innovation for Dynamic Computing Environments

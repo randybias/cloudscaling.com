@@ -11,6 +11,7 @@ post_name: new-openstack-v8-clinches-containerization
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # New OpenStack v8 clinches containerization

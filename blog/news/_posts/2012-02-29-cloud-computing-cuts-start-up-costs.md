@@ -11,6 +11,7 @@ post_name: cloud-computing-cuts-start-up-costs
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloud computing cuts start-up costs

@@ -11,6 +11,7 @@ post_name: cloudscaling-teams-with-juniper-for-elastic-cloud-infrastructure-solu
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Teams With Juniper For Elastic Cloud Infrastructure Solution

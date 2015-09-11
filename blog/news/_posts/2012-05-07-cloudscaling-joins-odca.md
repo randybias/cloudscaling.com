@@ -11,6 +11,7 @@ post_name: cloudscaling-joins-odca
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling joins ODCA

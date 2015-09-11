@@ -11,6 +11,7 @@ post_name: interop-las-vegas-previews-announcements-from-more-than-100-exhibitor
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Interop Las Vegas Previews Announcements From More Than 100 Exhibitors and Sponsors

@@ -11,6 +11,7 @@ post_name: should-openstack-open-up-to-amazon
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Should OpenStack open up to Amazon?

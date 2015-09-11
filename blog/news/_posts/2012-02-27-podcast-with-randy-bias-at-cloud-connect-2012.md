@@ -11,6 +11,7 @@ post_name: podcast-with-randy-bias-at-cloud-connect-2012
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Podcast with Randy Bias at Cloud Connect 2012

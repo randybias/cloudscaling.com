@@ -11,6 +11,7 @@ post_name: the-top-100-cloud-computing-experts-on-twitter
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The Top 100 Cloud Computing Experts On Twitter

@@ -11,6 +11,7 @@ post_name: hybrid-cloud-demonstration-ocs-and-gce
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Hybrid Cloud Demonstration: OCS and GCE

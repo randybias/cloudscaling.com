@@ -11,6 +11,7 @@ post_name: thought-leaders-in-the-cloud-talking-with-randy-bias-cloud-computing-
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Thought leaders in the cloud: talking with Randy Bias

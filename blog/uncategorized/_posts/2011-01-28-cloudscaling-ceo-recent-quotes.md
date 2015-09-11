@@ -11,6 +11,7 @@ post_name: cloudscaling-ceo-recent-quotes
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Cloudscaling CEO Recent Quotes

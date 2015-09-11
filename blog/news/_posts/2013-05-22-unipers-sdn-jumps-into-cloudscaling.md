@@ -11,6 +11,7 @@ post_name: unipers-sdn-jumps-into-cloudscaling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper's SDN Jumps Into Cloudscaling

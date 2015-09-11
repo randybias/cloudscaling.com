@@ -11,6 +11,7 @@ post_name: cloudscaling-announces-partner-program
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Announces Partner Program

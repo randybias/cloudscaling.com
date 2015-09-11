@@ -11,6 +11,7 @@ post_name: top-cloud-computing-influencers
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Top Cloud Computing Influencers

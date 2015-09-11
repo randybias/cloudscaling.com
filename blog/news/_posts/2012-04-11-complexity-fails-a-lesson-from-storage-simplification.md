@@ -11,6 +11,7 @@ post_name: complexity-fails-a-lesson-from-storage-simplification
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 #  Complexity fails: A lesson from storage simplification

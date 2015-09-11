@@ -11,6 +11,7 @@ post_name: cloudscaling-unveils-plan-to-co-opt-amazons-cloud-mimic-it
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling unveils plan to co-opt Amazon’s cloud: mimic it

@@ -11,6 +11,7 @@ post_name: tarkan-maner-joins-cloudscaling-board-of-directors
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Tarkan Maner Joins Cloudscaling Board of Directors

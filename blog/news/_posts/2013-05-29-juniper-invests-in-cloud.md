@@ -11,6 +11,7 @@ post_name: juniper-invests-in-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper invests in cloud

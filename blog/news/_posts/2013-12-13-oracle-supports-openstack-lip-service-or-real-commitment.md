@@ -11,6 +11,7 @@ post_name: oracle-supports-openstack-lip-service-or-real-commitment
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Oracle Supports OpenStack: Lip Service Or Real Commitment?

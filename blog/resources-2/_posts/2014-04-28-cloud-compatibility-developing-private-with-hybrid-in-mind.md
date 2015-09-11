@@ -11,6 +11,7 @@ post_name: cloud-compatibility-developing-private-with-hybrid-in-mind
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Cloud Compatibility: Developing Private with Hybrid in Mind

@@ -11,6 +11,7 @@ post_name: the-emc-federation-joins-the-openstack-foundation
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # The EMC Federation Joins the OpenStack Foundation

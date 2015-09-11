@@ -11,6 +11,7 @@ post_name: enterprise-solution-brief
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Enterprise Solution Brief

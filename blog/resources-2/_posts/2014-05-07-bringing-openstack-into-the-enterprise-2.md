@@ -11,6 +11,7 @@ post_name: bringing-openstack-into-the-enterprise-2
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Bringing OpenStack into the Enterprise

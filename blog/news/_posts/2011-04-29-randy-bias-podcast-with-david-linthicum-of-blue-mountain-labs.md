@@ -11,6 +11,7 @@ post_name: randy-bias-podcast-with-david-linthicum-of-blue-mountain-labs
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias podcast with David Linthicum of Blue Mountain Labs

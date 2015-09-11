@@ -11,6 +11,7 @@ post_name: gce-apis-to-openstack-and-other-cloud-news
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # GCE APIs to OpenStack and other cloud news

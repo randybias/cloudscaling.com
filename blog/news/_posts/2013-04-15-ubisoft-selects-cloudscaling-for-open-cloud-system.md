@@ -11,6 +11,7 @@ post_name: ubisoft-selects-cloudscaling-for-open-cloud-system
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Ubisoft Selects Cloudscaling for Open Cloud System

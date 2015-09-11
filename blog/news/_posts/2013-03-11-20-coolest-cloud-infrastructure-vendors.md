@@ -11,6 +11,7 @@ post_name: 20-coolest-cloud-infrastructure-vendors
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 20 Coolest Cloud Infrastructure Vendors

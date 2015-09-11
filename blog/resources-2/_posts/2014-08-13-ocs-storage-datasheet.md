@@ -11,6 +11,7 @@ post_name: ocs-storage-datasheet
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OCS Storage Data Sheet

@@ -11,6 +11,7 @@ post_name: cloudscaling-raises-10-million
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling raises $10 million

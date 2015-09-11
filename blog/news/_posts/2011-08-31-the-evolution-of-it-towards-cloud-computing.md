@@ -11,6 +11,7 @@ post_name: the-evolution-of-it-towards-cloud-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The evolution of IT towards cloud computing

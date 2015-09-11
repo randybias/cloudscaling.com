@@ -11,6 +11,7 @@ post_name: new-korean-cloud-kicks-amazons-butt
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # New Korean cloud kicks Amazon’s butt

@@ -11,6 +11,7 @@ post_name: vmwares-vcloud-api-forces-cloud-standards
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # VMware's vCloud API Forces Cloud Standards

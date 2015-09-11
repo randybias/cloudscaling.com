@@ -11,6 +11,7 @@ post_name: tech-titans-pledge-support-for-openstack-foundation
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Tech titans pledge support for OpenStack Foundation

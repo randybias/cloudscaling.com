@@ -11,6 +11,7 @@ post_name: cloudscaling-closes-series-a-with-trinity-ventures
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Closes Series A With Trinity Ventures

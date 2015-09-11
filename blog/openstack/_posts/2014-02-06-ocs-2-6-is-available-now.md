@@ -11,6 +11,7 @@ post_name: ocs-2-6-is-available-now
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # OCS 2.6 is Now Available !

@@ -11,6 +11,7 @@ post_name: hps-openstack-cloud-in-beta
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # HP’s OpenStack Cloud in beta

@@ -11,6 +11,7 @@ post_name: infrastructure-as-code-velocity-conf
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Infrastructure as Code Presentations

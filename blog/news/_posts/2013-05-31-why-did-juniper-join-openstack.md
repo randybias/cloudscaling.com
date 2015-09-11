@@ -11,6 +11,7 @@ post_name: why-did-juniper-join-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Why Did Juniper Join OpenStack?

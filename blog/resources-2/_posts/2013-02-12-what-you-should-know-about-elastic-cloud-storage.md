@@ -11,6 +11,7 @@ post_name: what-you-should-know-about-elastic-cloud-storage
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # What You Should Know About Elastic Cloud Storage

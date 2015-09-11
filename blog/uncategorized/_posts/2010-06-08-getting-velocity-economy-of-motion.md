@@ -11,6 +11,7 @@ post_name: getting-velocity-economy-of-motion
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Getting Velocity - Economy of Motion

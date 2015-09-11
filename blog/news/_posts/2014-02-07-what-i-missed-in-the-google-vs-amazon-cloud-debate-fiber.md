@@ -11,6 +11,7 @@ post_name: what-i-missed-in-the-google-vs-amazon-cloud-debate-fiber
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # What I missed in the Google vs. Amazon cloud debate - fiber!

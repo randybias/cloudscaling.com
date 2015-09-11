@@ -11,6 +11,7 @@ post_name: ibs-datafort-chooses-open-cloud-system-for-public-elastic-cloud-infra
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # IBS DataFort Chooses Open Cloud System for Public Elastic Cloud Infrastructure Deployment

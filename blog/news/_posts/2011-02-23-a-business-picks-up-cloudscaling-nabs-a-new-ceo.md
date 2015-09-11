@@ -11,6 +11,7 @@ post_name: a-business-picks-up-cloudscaling-nabs-a-new-ceo
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # A business picks up, Cloudscaling nabs a new CEO

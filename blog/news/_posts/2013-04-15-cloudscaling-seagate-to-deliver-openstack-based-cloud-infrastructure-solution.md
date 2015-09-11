@@ -11,6 +11,7 @@ post_name: cloudscaling-seagate-to-deliver-openstack-based-cloud-infrastructure-
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling, Seagate to Deliver OpenStack-Based Cloud Infrastructure Solution

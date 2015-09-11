@@ -11,6 +11,7 @@ post_name: vendor-spotlight-a-discussion-with-randy-bias-of-cloudscaling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Vendor spotlight: a discussion with Randy Bias of Cloudscaling

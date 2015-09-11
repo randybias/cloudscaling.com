@@ -11,6 +11,7 @@ post_name: the-great-aws-api-debate
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # The Great AWS API Debate

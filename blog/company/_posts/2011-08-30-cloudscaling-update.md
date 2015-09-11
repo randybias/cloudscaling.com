@@ -11,6 +11,7 @@ post_name: cloudscaling-update
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Cloudscaling Update

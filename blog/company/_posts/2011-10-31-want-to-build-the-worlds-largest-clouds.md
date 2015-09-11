@@ -11,6 +11,7 @@ post_name: want-to-build-the-worlds-largest-clouds
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Want to Build the World’s Largest Clouds?

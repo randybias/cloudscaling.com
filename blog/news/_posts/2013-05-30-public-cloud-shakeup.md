@@ -11,6 +11,7 @@ post_name: public-cloud-shakeup
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Public Cloud Shakeup

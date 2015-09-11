@@ -11,6 +11,7 @@ post_name: cloudscaling-reduces-the-complexity-of-bringing-openstack-into-the-en
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Reduces the Complexity of Bringing Openstack into the Enterprise with New Cloud Concierge Service

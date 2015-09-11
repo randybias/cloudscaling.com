@@ -11,6 +11,7 @@ post_name: three-years-in-should-you-bet-on-openstack
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Three years in, should you bet on OpenStack?

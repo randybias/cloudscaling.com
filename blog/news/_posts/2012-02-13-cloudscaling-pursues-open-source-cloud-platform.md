@@ -11,6 +11,7 @@ post_name: cloudscaling-pursues-open-source-cloud-platform
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling pursues open source cloud platform

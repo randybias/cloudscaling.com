@@ -11,6 +11,7 @@ post_name: cloudscaling-to-support-docker-for-ocs-application-workloads
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling To Support Docker For OCS Application Workloads

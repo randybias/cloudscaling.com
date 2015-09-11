@@ -11,6 +11,7 @@ post_name: nexenta-ceo-tarkan-maner-joins-cloudscaling-board-of-directors
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Nexenta CEO Tarkan Maner Joins Cloudscaling Board of Directors

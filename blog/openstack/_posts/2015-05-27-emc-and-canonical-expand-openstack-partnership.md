@@ -11,6 +11,7 @@ post_name: emc-and-canonical-expand-openstack-partnership
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # EMC and Canonical expand OpenStack Partnership

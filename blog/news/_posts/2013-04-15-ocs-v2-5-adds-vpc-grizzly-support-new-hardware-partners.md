@@ -11,6 +11,7 @@ post_name: ocs-v2-5-adds-vpc-grizzly-support-new-hardware-partners
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OCS v2.5 adds VPC, grizzly support, new hardware partners

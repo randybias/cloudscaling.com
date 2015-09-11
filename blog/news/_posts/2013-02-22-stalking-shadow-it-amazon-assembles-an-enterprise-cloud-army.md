@@ -11,6 +11,7 @@ post_name: stalking-shadow-it-amazon-assembles-an-enterprise-cloud-army
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Stalking shadow IT: Amazon assembles an enterprise cloud army

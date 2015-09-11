@@ -11,6 +11,7 @@ post_name: 5-reasons-to-include-openstack-in-your-cloud-strategy
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # 5 Reasons to Include OpenStack in Your Cloud Strategy White Paper

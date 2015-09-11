@@ -11,6 +11,7 @@ post_name: cloudscaling-partners-with-new-relic-to-optimize-hybrid-cloud-perform
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Partners with New Relic to Optimize Hybrid Cloud Performance

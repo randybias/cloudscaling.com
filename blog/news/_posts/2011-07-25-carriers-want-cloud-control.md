@@ -11,6 +11,7 @@ post_name: carriers-want-cloud-control
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Carriers want cloud control

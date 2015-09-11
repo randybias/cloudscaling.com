@@ -11,6 +11,7 @@ post_name: cloudscalings-litmus-test-enterprise-cloud-vs-open-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling’s litmus test – enterprise cloud vs. open cloud

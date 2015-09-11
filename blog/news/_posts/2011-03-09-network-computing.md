@@ -11,6 +11,7 @@ post_name: network-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Standardizing cloud APIs Is useless

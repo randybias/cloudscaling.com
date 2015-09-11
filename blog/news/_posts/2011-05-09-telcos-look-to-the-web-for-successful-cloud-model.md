@@ -11,6 +11,7 @@ post_name: telcos-look-to-the-web-for-successful-cloud-model
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Telcos look to the web for successful cloud model

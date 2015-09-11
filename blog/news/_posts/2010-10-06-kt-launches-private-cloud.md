@@ -11,6 +11,7 @@ post_name: kt-launches-private-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # KT launches private cloud

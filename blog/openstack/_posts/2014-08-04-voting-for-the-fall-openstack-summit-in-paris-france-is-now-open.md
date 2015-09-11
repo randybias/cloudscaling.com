@@ -11,6 +11,7 @@ post_name: voting-for-the-fall-openstack-summit-in-paris-france-is-now-open
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # Voting for the Fall OpenStack Summit in Paris, France is now open!

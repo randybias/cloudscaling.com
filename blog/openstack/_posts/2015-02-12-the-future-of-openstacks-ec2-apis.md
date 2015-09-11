@@ -11,6 +11,7 @@ post_name: the-future-of-openstacks-ec2-apis
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # The Future of OpenStack's EC2 APIs

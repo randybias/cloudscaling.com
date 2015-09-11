@@ -11,6 +11,7 @@ post_name: randy-bias-talks-apis-at-structure-event
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias talks APIs at Structure event

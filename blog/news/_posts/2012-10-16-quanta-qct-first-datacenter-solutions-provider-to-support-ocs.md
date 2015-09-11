@@ -11,6 +11,7 @@ post_name: quanta-qct-first-datacenter-solutions-provider-to-support-ocs
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Quanta QCT first datacenter solutions provider to support OCS

@@ -11,6 +11,7 @@ post_name: cloudscaling-expands-executive-team-as-market-interest-in-elastic-clo
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Expands Executive Team as Market Interest in Elastic Cloud Infrastructure Accelerates

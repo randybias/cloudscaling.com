@@ -11,6 +11,7 @@ post_name: the-cloudist-interview-randy-bias-at-cloudbeat-2012
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The Cloudist Interview – Randy Bias at CloudBeat 2012

@@ -11,6 +11,7 @@ post_name: south-korea-telco-kt-to-run-countrys-largest-private-cloud-platform
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # South Korea telco KT to run country’s largest 'private cloud' platform

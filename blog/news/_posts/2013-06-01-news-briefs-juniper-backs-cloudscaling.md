@@ -11,6 +11,7 @@ post_name: news-briefs-juniper-backs-cloudscaling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # News briefs: Juniper backs Cloudscaling

@@ -11,6 +11,7 @@ post_name: vmware-to-join-openstack-now-what
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # VMware to join OpenStack: Now what?

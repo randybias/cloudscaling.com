@@ -11,6 +11,7 @@ post_name: draft-created-on-march-17-2012-at-550-pm
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # What carriers are missing about cloud

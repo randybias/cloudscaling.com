@@ -11,6 +11,7 @@ post_name: cloudscaling-partners-with-activestate-in-stackato-program
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling partners with ActiveState in Stackato program

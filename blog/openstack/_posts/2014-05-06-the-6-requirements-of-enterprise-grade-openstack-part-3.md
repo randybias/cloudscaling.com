@@ -11,6 +11,7 @@ post_name: the-6-requirements-of-enterprise-grade-openstack-part-3
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # The 6 Requirements of Enterprise-grade OpenStack, Part 3

@@ -11,6 +11,7 @@ post_name: are-service-provider-cloud-goals-too-lofty
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Are service provider cloud goals too lofty?

@@ -11,6 +11,7 @@ post_name: openstack-architected-like-aws
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # OpenStack Architected Like AWS

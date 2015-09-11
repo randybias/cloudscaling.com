@@ -11,6 +11,7 @@ post_name: startup-camp-in-lon
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Startup Camp in LON

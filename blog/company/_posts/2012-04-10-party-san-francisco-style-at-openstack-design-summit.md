@@ -11,6 +11,7 @@ post_name: party-san-francisco-style-at-openstack-design-summit
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Party San Francisco-Style at OpenStack Design Summit 

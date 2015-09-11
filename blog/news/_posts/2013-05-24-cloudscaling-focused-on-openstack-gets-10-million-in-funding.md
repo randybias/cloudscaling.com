@@ -11,6 +11,7 @@ post_name: cloudscaling-focused-on-openstack-gets-10-million-in-funding
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling, Focused on OpenStack, Gets $10 Million in Funding

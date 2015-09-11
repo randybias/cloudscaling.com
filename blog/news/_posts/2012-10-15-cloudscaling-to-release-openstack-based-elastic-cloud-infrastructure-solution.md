@@ -11,6 +11,7 @@ post_name: cloudscaling-to-release-openstack-based-elastic-cloud-infrastructure-
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling to release OpenStack-based elastic cloud infrastructure solution

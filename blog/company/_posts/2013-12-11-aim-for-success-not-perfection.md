@@ -11,6 +11,7 @@ post_name: aim-for-success-not-perfection
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # “Aim for Success, Not Perfection”

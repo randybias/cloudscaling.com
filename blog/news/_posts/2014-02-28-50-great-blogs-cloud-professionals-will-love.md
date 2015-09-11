@@ -11,6 +11,7 @@ post_name: 50-great-blogs-cloud-professionals-will-love
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 50 Great Blogs Cloud Professionals Will Love

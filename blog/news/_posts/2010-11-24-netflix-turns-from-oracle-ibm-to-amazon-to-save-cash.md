@@ -11,6 +11,7 @@ post_name: netflix-turns-from-oracle-ibm-to-amazon-to-save-cash
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Netflix turns from Oracle, IBM to Amazon to save cash

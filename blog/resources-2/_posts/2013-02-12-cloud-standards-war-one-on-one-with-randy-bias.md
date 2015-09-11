@@ -11,6 +11,7 @@ post_name: cloud-standards-war-one-on-one-with-randy-bias
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Cloud Standards War: One-on-One with Randy Bias

@@ -11,6 +11,7 @@ post_name: cloudscaling-nets-10m-from-juniper-seagate-and-friends
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling nets $10M from Juniper, Seagate and friends

@@ -11,6 +11,7 @@ post_name: join-us-at-gigaom-structure-2013
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Join Us at GigaOm Structure 2013

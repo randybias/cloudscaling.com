@@ -11,6 +11,7 @@ post_name: should-providers-emulate-amazon-google-cloud-business-models
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Should providers emulate Amazon, Google cloud business models?

@@ -11,6 +11,7 @@ post_name: openstack-and-cloudstack-with-randy-bias-and-david-linthicum
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack and CloudStack with Randy Bias and David Linthicum

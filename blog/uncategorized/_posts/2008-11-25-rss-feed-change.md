@@ -11,6 +11,7 @@ post_name: rss-feed-change
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # RSS Feed Change

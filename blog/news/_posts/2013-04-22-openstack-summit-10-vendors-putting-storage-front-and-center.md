@@ -11,6 +11,7 @@ post_name: openstack-summit-10-vendors-putting-storage-front-and-center
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Summit: 10 Vendors Putting Storage Front And Center

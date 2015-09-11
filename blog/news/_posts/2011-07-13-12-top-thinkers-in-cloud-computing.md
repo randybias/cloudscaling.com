@@ -11,6 +11,7 @@ post_name: 12-top-thinkers-in-cloud-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 12 top thinkers in cloud computing

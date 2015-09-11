@@ -11,6 +11,7 @@ post_name: telcos-adopt-the-big-cloud-first-login-required
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Telcos: adopt the “big cloud” first (login required)

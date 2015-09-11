@@ -11,6 +11,7 @@ post_name: the-future-of-openstack-is-now-2015
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # The Future of OpenStack is Now, 2015

@@ -11,6 +11,7 @@ post_name: tiered-storage-white-paper
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Tiered Storage White Paper

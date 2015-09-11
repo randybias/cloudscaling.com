@@ -11,6 +11,7 @@ post_name: juniper-seagate-invest-in-cloudscaling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper & Seagate Invest in Cloudscaling

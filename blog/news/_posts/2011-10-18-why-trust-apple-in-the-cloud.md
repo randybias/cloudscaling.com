@@ -11,6 +11,7 @@ post_name: why-trust-apple-in-the-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Why trust Apple in the cloud?

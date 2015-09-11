@@ -11,6 +11,7 @@ post_name: will-you-be-at-mobile-world-congress-lets-meet-up
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # Will you be at Mobile World Congress? Let’s meet up.

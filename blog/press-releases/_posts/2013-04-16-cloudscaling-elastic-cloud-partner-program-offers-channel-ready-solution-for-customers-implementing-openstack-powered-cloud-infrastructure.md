@@ -11,6 +11,7 @@ post_name: cloudscaling-elastic-cloud-partner-program-offers-channel-ready-solut
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Elastic Cloud Partner Program Offers Channel-Ready Solution for Customers Implementing OpenStack-Powered Cloud Infrastructure

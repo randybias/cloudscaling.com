@@ -11,6 +11,7 @@ post_name: randy-bias-keynotes-at-cloud-connect
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias keynotes at Cloud Connect

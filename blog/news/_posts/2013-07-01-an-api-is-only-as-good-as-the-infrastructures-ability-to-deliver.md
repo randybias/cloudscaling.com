@@ -11,6 +11,7 @@ post_name: an-api-is-only-as-good-as-the-infrastructures-ability-to-deliver
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # An API Is Only As Good As The Infrastructure's Ability to Deliver

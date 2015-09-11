@@ -11,6 +11,7 @@ post_name: cloudscaling-launches-openstack-based-cloud-infrastructure
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling launches OpenStack-based cloud infrastructure

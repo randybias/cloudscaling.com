@@ -11,6 +11,7 @@ post_name: cloudscaling-and-seagate-partner-to-deliver-elastic-cloud-infrastruct
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling and Seagate Partner to Deliver Elastic Cloud Infrastructure Based on OpenStack Technology

@@ -11,6 +11,7 @@ post_name: randy-bias-2011-top-cloud-computing-leaders
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias: 2011 Top Cloud Computing Leaders

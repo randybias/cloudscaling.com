@@ -11,6 +11,7 @@ post_name: open-projects-drive-the-open-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Open Projects Drive the Open Cloud

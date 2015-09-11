@@ -11,6 +11,7 @@ post_name: cloudscaling-hp-update-their-openstack-clouds
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling, HP update their OpenStack clouds

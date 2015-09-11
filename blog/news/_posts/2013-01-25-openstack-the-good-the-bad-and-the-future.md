@@ -11,6 +11,7 @@ post_name: openstack-the-good-the-bad-and-the-future
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack: The Good, the Bad and the Future

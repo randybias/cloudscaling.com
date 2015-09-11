@@ -11,6 +11,7 @@ post_name: cloudscaling-builds-momentum-with-first-commercial-openstack-based-st
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # Cloudscaling Builds Momentum with First Commercial OpenStack-Based Storage Cloud

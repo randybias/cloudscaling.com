@@ -11,6 +11,7 @@ post_name: the-case-for-tiered-storage-in-private-clouds
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # The Case for Tiered Storage in Private Clouds

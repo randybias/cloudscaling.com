@@ -11,6 +11,7 @@ post_name: enstratus-announces-support-for-cloudscaling-ocs-2-0
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # enStratus announces support for Cloudscaling OCS 2.0

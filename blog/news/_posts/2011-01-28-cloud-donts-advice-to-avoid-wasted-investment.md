@@ -11,6 +11,7 @@ post_name: cloud-donts-advice-to-avoid-wasted-investment
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # “Cloud don’ts”: advice to avoid wasted investment

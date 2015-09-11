@@ -11,6 +11,7 @@ post_name: new-openstack-clouds-mean-something-for-everyone
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # New OpenStack clouds mean something for everyone

@@ -11,6 +11,7 @@ post_name: cloudscaling-faq
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Cloudscaling FAQ

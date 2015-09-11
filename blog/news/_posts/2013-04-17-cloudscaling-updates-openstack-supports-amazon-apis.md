@@ -11,6 +11,7 @@ post_name: cloudscaling-updates-openstack-supports-amazon-apis
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Updates OpenStack, Supports Amazon APIs

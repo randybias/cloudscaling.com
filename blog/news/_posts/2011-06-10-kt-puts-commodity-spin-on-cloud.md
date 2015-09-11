@@ -11,6 +11,7 @@ post_name: kt-puts-commodity-spin-on-cloud
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # KT puts commodity spin on cloud

@@ -11,6 +11,7 @@ post_name: openstack-havana-has-amazon-like-aura
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack Havana Has Amazon-Like Aura

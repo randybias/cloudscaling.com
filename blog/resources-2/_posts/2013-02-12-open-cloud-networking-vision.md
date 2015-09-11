@@ -11,6 +11,7 @@ post_name: open-cloud-networking-vision
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # Open Cloud Networking Vision

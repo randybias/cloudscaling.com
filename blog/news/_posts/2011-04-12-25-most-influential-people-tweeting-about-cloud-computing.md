@@ -11,6 +11,7 @@ post_name: 25-most-influential-people-tweeting-about-cloud-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 25 Most Influential People Tweeting About Cloud Computing

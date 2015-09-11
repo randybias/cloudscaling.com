@@ -11,6 +11,7 @@ post_name: iaas-virtualization
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # IaaS ≠ Virtualization

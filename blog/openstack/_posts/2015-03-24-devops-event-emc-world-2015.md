@@ -11,6 +11,7 @@ post_name: devops-event-emc-world-2015
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # DevOps Event @ EMC World 2015

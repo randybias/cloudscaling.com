@@ -11,6 +11,7 @@ post_name: cloud-computing-sells-itself-the-view-from-netflix
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloud computing sells itself: the view from Netflix

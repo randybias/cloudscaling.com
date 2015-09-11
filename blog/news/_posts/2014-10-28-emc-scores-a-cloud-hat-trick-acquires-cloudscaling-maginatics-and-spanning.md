@@ -11,6 +11,7 @@ post_name: emc-scores-a-cloud-hat-trick-acquires-cloudscaling-maginatics-and-spa
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # EMC Scores a Cloud Hat-trick; Acquires Cloudscaling, Maginatics and Spanning

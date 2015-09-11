@@ -11,6 +11,7 @@ post_name: cloudscaling-closes-10-million-series-b-funding-2
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Cloudscaling Closes $10 Million Series B Funding

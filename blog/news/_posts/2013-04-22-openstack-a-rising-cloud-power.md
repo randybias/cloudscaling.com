@@ -11,6 +11,7 @@ post_name: openstack-a-rising-cloud-power
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack, A Rising Cloud Power

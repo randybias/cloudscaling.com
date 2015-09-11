@@ -11,6 +11,7 @@ post_name: livingsocial-chooses-open-cloud-system
 status: publish
 post_type: post
 layout: post
+category: press-releases
 ---
 
 # LivingSocial Chooses Open Cloud System

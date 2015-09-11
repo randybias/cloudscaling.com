@@ -11,6 +11,7 @@ post_name: blog-name-change
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # Blog Name Change

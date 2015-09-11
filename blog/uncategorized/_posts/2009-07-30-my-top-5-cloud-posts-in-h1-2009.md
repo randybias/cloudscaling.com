@@ -11,6 +11,7 @@ post_name: my-top-5-cloud-posts-in-h1-2009
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # My Top 5 Cloud Posts in H1 2009

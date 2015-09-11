@@ -11,6 +11,7 @@ post_name: the-great-openstack-amazon-api-debate
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # The Great OpenStack-Amazon API Debate

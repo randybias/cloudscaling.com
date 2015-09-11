@@ -11,6 +11,7 @@ post_name: juniper-seagate-stuff-cash-down-cloudscalings-openstack-trousers
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Juniper, Seagate stuff cash down Cloudscaling's OpenStack trousers

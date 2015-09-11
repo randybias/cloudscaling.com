@@ -11,6 +11,7 @@ post_name: simplicity-scales-a-winning-strategy-for-cloud-builders
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Simplicity scales: a winning strategy for cloud builders

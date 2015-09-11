@@ -11,6 +11,7 @@ post_name: openstack-board-of-directors-talks-randy-bias-at-cloudscaling
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # OpenStack board of directors talks: Randy Bias at Cloudscaling

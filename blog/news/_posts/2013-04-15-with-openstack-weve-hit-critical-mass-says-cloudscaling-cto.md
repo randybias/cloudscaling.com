@@ -11,6 +11,7 @@ post_name: with-openstack-weve-hit-critical-mass-says-cloudscaling-cto
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # “With OpenStack, we’ve hit critical mass,” says Cloudscaling CTO

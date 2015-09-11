@@ -11,6 +11,7 @@ post_name: randy-bias-joins-cloudcentral-advisory-board
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Randy Bias joins CloudCentral advisory board

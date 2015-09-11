@@ -11,6 +11,7 @@ post_name: kt-and-cloudscaling-launch-koreas-first-major-private-cloud
 status: publish
 post_type: post
 layout: post
+category: company
 ---
 
 # KT and Cloudscaling launch Korea’s first major private cloud

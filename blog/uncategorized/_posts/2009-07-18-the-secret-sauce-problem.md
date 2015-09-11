@@ -11,6 +11,7 @@ post_name: the-secret-sauce-problem
 status: publish
 post_type: post
 layout: post
+category: uncategorized
 ---
 
 # The Secret Sauce Problem

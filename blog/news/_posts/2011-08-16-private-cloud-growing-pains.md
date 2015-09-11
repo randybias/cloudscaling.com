@@ -11,6 +11,7 @@ post_name: private-cloud-growing-pains
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # Private cloud growing pains

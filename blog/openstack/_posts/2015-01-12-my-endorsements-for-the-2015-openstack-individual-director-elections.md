@@ -11,6 +11,7 @@ post_name: my-endorsements-for-the-2015-openstack-individual-director-elections
 status: publish
 post_type: post
 layout: post
+category: openstack
 ---
 
 # My Endorsements for the 2015 OpenStack Individual Director Elections

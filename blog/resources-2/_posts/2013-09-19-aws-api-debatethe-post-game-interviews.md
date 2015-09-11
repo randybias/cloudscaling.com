@@ -11,6 +11,7 @@ post_name: aws-api-debatethe-post-game-interviews
 status: publish
 post_type: post
 layout: post
+category: resources-2
 ---
 
 # AWS API Debate:The Post-Game Interviews

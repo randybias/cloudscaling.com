@@ -11,6 +11,7 @@ post_name: 10-pioneers-of-cloud-computing
 status: publish
 post_type: post
 layout: post
+category: news
 ---
 
 # 10 pioneers of cloud computing
