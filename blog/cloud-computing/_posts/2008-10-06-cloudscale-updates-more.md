@@ -1,0 +1,19 @@
+---
+title: 'CloudScale Updates & More'
+link: http://cloudscaling.com/blog/cloud-computing/cloudscale-updates-more/
+author: randybias
+description: 
+post_id: 2361
+created: 2008/10/06 07:05:40
+created_gmt: 2008/10/06 07:05:40
+comment_status: open
+post_name: cloudscale-updates-more
+status: publish
+post_type: post
+layout: post
+category: cloud-computing
+---
+
+# CloudScale Updates & More
+
+It's been a while since my last post and a lot has happened for both neoTactics and CloudScale. I'm quite excited to make several announcements about the [CloudScale Project](http://neotactics.com/cloudscale/) here. Although it's not the announcement I had hoped to make, that we had received venture funding, I am pleased about our new direction. **Background** neoTactics has been incubating CloudScale as part of our cloud-onboarding engagements with several clients. It was intended as a next generation cloud management platform, similar to [RightScale](http://www.rightscale.com) or [Elastra](http://www.elastra.com), but architected and developed by experienced Internet and web operations professionals. We designed it to solve the generic problem of managing groups of servers that form web applications on any cloud. CloudScale reached a final ALPHA very recently, but for a variety of reasons we have decided to open source parts of the project and perhaps the entire solution in the future. We are currently evaluating our options, but you will see bits trickling into the open source community soon. While CloudScale may not emerge as a commercial entity in the near term we feel that releasing parts of it will be beneficial for everyone. **The First Bits** The very first bit we're releasing, in conjunction with David Schmitt of [das Z](http://dasz.at/), are some extensions to [Puppet](http://puppet.reductivelabs.com) to add support for configuring [collectd](http://www.collectd.org). We commissioned this work from David to help accelerate our progress on CloudScale. If you use Puppet, also be sure to check out his [extensive list](http://reductivelabs.com/trac/puppet/wiki/CompleteConfiguration) of other [Puppet modules](http://git.black.co.at/). David's [announcement](http://groups.google.com/group/puppet-users/browse_thread/thread/cc9a6d612e7bd3ae) can be found on the [Puppet users mailing list](http://groups.google.com/group/puppet-users). **Monitoring & Configuration Management** The release of the collectd extensions for Puppet is very important. Historically, monitoring and gathering performance data from servers is a 'bolt-on' activity where the implementation is added after the fact. This is a huge problem on clouds. If you want to turn on 10 servers for a day, then spending a half day configuring performance monitoring is a huge amount of overhead. `collectd` is one of the few monitoring and instrumentation tools available that inherently works in a distributed, cloud-friendly fashion. By making it trivial to configure collectd with Puppet, authors of Puppet modules can now create not only a recipe for installing applications like Apache and MySQL but also include the recipe for **monitoring** those same applications! Puppet is, of course, the only rational tool for doing any kind of significant cloud configuration management and provisioning. Making these two tools work closely together will make it much easier to develop robust cloud and datacenter infrastructure. **More Soon** Stand by. There will be a bunch of new blog posts and releases coming soon. Now that we're not spending so much time attempting to raise money we should have lots more time to post and tidy up the bits of code we want to release. Good times!
