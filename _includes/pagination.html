@@ -5,14 +5,14 @@
 		{% if page.previous.url %}
 		<div class="pagination">
 			<a class="previous" href="{{page.previous.url}}">
-				&laquo; {{page.previous.title}}
+				{{page.previous.title}} <span class="label">Previous Post </span>
 			</a>
 		</div>
 		{% endif %}
 		{% if page.next.url %}
 		<div class="pagination">
 			<a class="next" href="{{page.next.url}}">
-				{{page.next.title}} &raquo;
+				<span class="label">Next Post</span> {{page.next.title}} 
 			</a>
 		</div>
 		{% endif %}

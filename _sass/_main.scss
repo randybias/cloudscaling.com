@@ -1,10 +1,12 @@
-.post,
-.home {
+.post {
 	max-width: $content-width;
 	margin-left: $content-left-margin;
 	@include media-query($on-laptop) {
 		margin-left: auto;
 	}
+}
+.home {
+	
 }
 .post {
 	.post-content {
