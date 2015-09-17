@@ -1,7 +1,7 @@
 ---
 title: 'Pre-release CLI Utility for GoGrid'
 link: http://cloudscaling.com/blog/cloud-computing/pre-release-cli-utility-for-gogrid/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2383
 created: 2009/01/12 21:55:23

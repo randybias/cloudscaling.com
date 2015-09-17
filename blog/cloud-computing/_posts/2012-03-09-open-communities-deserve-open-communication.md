@@ -1,7 +1,7 @@
 ---
 title: 'Open Communities Deserve Equitable Governance'
 link: http://cloudscaling.com/blog/cloud-computing/open-communities-deserve-open-communication/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3703
 created: 2012/03/09 14:26:51

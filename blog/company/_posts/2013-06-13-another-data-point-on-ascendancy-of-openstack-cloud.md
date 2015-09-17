@@ -1,7 +1,7 @@
 ---
 title: 'Another Data Point on Ascendancy of OpenStack Cloud'
 link: http://cloudscaling.com/blog/company/another-data-point-on-ascendancy-of-openstack-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6427
 created: 2013/06/13 12:33:14

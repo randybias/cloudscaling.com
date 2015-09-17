@@ -1,7 +1,7 @@
 ---
 title: 'Cloud-Based Scalability Testing'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-based-scalability-testing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 425
 created: 2009/07/21 08:30:15

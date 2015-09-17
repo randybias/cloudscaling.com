@@ -1,7 +1,7 @@
 ---
 title: 'Monitoring the Web-Two-Dot-Ooooh …'
 link: http://cloudscaling.com/blog/company/monitoring-the-web-two-dot-ooooh/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2327
 created: 2006/02/08 07:23:58

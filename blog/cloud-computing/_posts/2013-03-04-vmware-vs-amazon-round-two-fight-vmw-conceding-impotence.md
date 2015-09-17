@@ -1,7 +1,7 @@
 ---
 title: 'VMware vs. Amazon ... ROUND TWO ... FIGHT! — VMW Conceding Impotence?'
 link: http://cloudscaling.com/blog/cloud-computing/vmware-vs-amazon-round-two-fight-vmw-conceding-impotence/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5776
 created: 2013/03/04 10:14:31

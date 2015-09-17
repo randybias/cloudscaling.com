@@ -1,7 +1,7 @@
 ---
 title: 'Up, Out, Centralized, and Decentralized'
 link: http://cloudscaling.com/blog/cloud-computing/up-out-centralized-and-decentralized/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 433
 created: 2009/07/28 08:30:51

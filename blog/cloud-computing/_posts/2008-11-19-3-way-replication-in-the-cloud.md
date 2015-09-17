@@ -1,7 +1,7 @@
 ---
 title: '3-way Replication in the Cloud'
 link: http://cloudscaling.com/blog/cloud-computing/3-way-replication-in-the-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2367
 created: 2008/11/19 10:41:06

@@ -1,7 +1,7 @@
 ---
 title: 'Pets vs. Cattle: The Elastic Cloud Story'
 link: http://cloudscaling.com/blog/cloud-computing/pets-vs-cattle-the-elastic-cloud-story/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7239
 created: 2014/02/27 14:02:43

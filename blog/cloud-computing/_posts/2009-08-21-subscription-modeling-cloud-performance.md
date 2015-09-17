@@ -1,7 +1,7 @@
 ---
 title: 'Subscription Modeling & Cloud Performance'
 link: http://cloudscaling.com/blog/cloud-computing/subscription-modeling-cloud-performance/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 512
 created: 2009/08/21 08:30:46

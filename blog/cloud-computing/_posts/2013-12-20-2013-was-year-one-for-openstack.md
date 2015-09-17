@@ -1,7 +1,7 @@
 ---
 title: '2013 Was YEAR ONE for OpenStack'
 link: http://cloudscaling.com/blog/cloud-computing/2013-was-year-one-for-openstack/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7065
 created: 2013/12/20 13:17:29

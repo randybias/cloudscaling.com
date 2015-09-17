@@ -1,7 +1,7 @@
 ---
 title: 'Rumor Mill: Google EC2 Competitor Coming in 2010?'
 link: http://cloudscaling.com/blog/cloud-computing/rumor-mill-google-ec2-competitor-coming-in-2010/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1174
 created: 2010/07/05 08:00:34

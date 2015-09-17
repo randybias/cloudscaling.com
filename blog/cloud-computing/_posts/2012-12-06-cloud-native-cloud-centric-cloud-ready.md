@@ -1,7 +1,7 @@
 ---
 title: 'Cloud-native, cloud-centric, or cloud-ready?'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-native-cloud-centric-cloud-ready/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5450
 created: 2012/12/06 08:54:10

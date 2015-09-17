@@ -1,7 +1,7 @@
 ---
 title: 'Introducing CoprHD ("copperhead"), the Cornerstone of a Software-Defined Future'
 link: http://cloudscaling.com/blog/cloud-computing/introducing-coprhd-copperhead-the-cornerstone-of-a-software-defined-future/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7752
 created: 2015/05/06 09:30:54

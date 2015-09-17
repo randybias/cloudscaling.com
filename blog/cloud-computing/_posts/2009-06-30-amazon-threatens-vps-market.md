@@ -1,7 +1,7 @@
 ---
 title: 'Amazon Threatens VPS Market'
 link: http://cloudscaling.com/blog/cloud-computing/amazon-threatens-vps-market/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 367
 created: 2009/06/30 09:00:42

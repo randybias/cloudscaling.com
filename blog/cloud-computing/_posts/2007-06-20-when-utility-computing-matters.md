@@ -1,7 +1,7 @@
 ---
 title: 'When Utility Computing Matters'
 link: http://cloudscaling.com/blog/cloud-computing/when-utility-computing-matters/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2330
 created: 2007/06/20 06:54:03

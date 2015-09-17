@@ -1,7 +1,7 @@
 ---
 title: 'Is Amazon Winning the Cloud Race?'
 link: http://cloudscaling.com/blog/cloud-computing/is-amazon-winning-the-cloud-race/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 966
 created: 2010/03/30 08:00:31

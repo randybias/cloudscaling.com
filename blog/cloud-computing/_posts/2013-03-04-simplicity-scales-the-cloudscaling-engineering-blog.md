@@ -1,7 +1,7 @@
 ---
 title: 'Simplicity Scales: The Cloudscaling Engineering Blog '
 link: http://cloudscaling.com/blog/cloud-computing/simplicity-scales-the-cloudscaling-engineering-blog/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5782
 created: 2013/03/04 12:52:39

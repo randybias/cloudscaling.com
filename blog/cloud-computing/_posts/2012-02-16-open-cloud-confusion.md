@@ -1,7 +1,7 @@
 ---
 title: 'Open, Cloud, Confusion'
 link: http://cloudscaling.com/blog/cloud-computing/open-cloud-confusion/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3575
 created: 2012/02/16 17:07:55

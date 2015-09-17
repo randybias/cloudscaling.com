@@ -1,7 +1,7 @@
 ---
 title: 'OpenStack Self-Improvement Mini-Survey'
 link: http://cloudscaling.com/blog/openstack/openstack-self-improvement-mini-survey/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7758
 created: 2015/05/12 14:07:21

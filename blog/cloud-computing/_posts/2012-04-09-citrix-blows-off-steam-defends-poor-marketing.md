@@ -1,7 +1,7 @@
 ---
 title: 'An Appliance Does Not Make Your Software Architecture AWS Compatible'
 link: http://cloudscaling.com/blog/cloud-computing/citrix-blows-off-steam-defends-poor-marketing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3858
 created: 2012/04/09 11:49:59

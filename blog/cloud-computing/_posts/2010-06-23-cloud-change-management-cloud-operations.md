@@ -1,7 +1,7 @@
 ---
 title: 'Cloud: Change Management & Cloud Operations'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-change-management-cloud-operations/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1156
 created: 2010/06/23 19:57:56

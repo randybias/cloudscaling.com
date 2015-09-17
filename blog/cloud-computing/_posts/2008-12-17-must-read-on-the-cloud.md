@@ -1,7 +1,7 @@
 ---
 title: 'Must Read on “The” Cloud'
 link: http://cloudscaling.com/blog/cloud-computing/must-read-on-the-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2376
 created: 2008/12/17 04:46:58

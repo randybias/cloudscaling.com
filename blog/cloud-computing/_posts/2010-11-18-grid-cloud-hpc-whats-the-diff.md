@@ -1,7 +1,7 @@
 ---
 title: "Grid, Cloud, HPC ... What's the Diff?"
 link: http://cloudscaling.com/blog/cloud-computing/grid-cloud-hpc-whats-the-diff/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1517
 created: 2010/11/18 11:22:42

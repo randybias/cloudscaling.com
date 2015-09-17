@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Migrations Track @Cloud_Connect 2010'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-migrations-track-cloud_connect-2010/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 940
 created: 2010/02/10 20:23:06

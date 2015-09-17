@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Values'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-values/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2354
 created: 2008/06/22 08:42:33

@@ -1,7 +1,7 @@
 ---
 title: 'OpenStack at 3: This is What Winning Looks Like'
 link: http://cloudscaling.com/blog/cloud-computing/openstack-at-3-this-is-what-winning-looks-like/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6493
 created: 2013/07/19 10:44:08

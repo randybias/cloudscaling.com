@@ -1,7 +1,7 @@
 ---
 title: "VMware's vCloud API Forces Cloud Standards"
 link: http://cloudscaling.com/blog/uncategorized/vmwares-vcloud-api-forces-cloud-standards/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 526
 created: 2009/09/02 08:00:45

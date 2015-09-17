@@ -1,7 +1,7 @@
 ---
 title: 'Intellum Interview Series with Randy Bias on Cloud'
 link: http://cloudscaling.com/blog/cloud-computing/intellum-interview-series-with-randy-bias-on-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 948
 created: 2010/03/01 08:00:03

@@ -1,7 +1,7 @@
 ---
 title: 'DevOps Event @ EMC World 2015'
 link: http://cloudscaling.com/blog/openstack/devops-event-emc-world-2015/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7742
 created: 2015/03/24 08:03:40

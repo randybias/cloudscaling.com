@@ -1,7 +1,7 @@
 ---
 title: 'Architectures for open and scalable clouds #ccevent'
 link: http://cloudscaling.com/blog/cloud-computing/architectures-for-open-and-scalable-clouds-ccevent/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3582
 created: 2012/02/21 10:43:22

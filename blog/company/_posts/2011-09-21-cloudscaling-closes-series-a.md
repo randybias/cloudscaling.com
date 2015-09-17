@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling Closes Series A'
 link: http://cloudscaling.com/blog/company/cloudscaling-closes-series-a/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2202
 created: 2011/09/21 17:00:42

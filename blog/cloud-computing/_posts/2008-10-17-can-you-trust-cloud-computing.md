@@ -1,7 +1,7 @@
 ---
 title: 'Can You Trust Cloud Computing?'
 link: http://cloudscaling.com/blog/cloud-computing/can-you-trust-cloud-computing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2364
 created: 2008/10/17 06:24:39

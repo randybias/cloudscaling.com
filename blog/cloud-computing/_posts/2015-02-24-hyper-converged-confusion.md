@@ -1,7 +1,7 @@
 ---
 title: 'Hyper-Converged Confusion'
 link: http://cloudscaling.com/blog/cloud-computing/hyper-converged-confusion/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7730
 created: 2015/02/24 09:39:25

@@ -1,7 +1,7 @@
 ---
 title: 'My Top 5 Cloud Posts in H1 2009'
 link: http://cloudscaling.com/blog/uncategorized/my-top-5-cloud-posts-in-h1-2009/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 448
 created: 2009/07/30 08:30:49

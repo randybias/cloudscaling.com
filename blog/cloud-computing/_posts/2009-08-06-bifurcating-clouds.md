@@ -1,7 +1,7 @@
 ---
 title: 'Bifurcating Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/bifurcating-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 403
 created: 2009/08/06 08:30:19

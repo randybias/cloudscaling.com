@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling Update'
 link: http://cloudscaling.com/blog/company/cloudscaling-update/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2167
 created: 2011/08/30 20:11:40

@@ -1,7 +1,7 @@
 ---
 title: 'The end of the 32-bit Operating System'
 link: http://cloudscaling.com/blog/cloud-computing/technology/the-end-of-the-32-bit-operating-system/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 22
 created: 2007/02/21 23:54:02

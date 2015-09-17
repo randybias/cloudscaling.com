@@ -1,7 +1,7 @@
 ---
 title: 'Machine Virtualization & Trends'
 link: http://cloudscaling.com/blog/cloud-computing/technology/machine-virtualization-trends/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 15
 created: 2006/06/04 18:16:23

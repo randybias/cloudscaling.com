@@ -1,7 +1,7 @@
 ---
 title: 'Cloud-Oriented Architectures Coming of Age?'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-oriented-architectures-coming-of-age/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2375
 created: 2008/12/08 06:46:17

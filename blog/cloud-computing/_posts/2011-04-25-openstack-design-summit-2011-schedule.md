@@ -1,7 +1,7 @@
 ---
 title: 'OpenStack Design Summit 2011 - Schedule'
 link: http://cloudscaling.com/blog/cloud-computing/openstack-design-summit-2011-schedule/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1883
 created: 2011/04/25 11:05:49

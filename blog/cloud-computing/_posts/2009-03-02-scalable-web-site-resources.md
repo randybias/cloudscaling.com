@@ -1,7 +1,7 @@
 ---
 title: 'Scalable Web Site Resources'
 link: http://cloudscaling.com/blog/cloud-computing/scalable-web-site-resources/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2393
 created: 2009/03/02 23:38:55

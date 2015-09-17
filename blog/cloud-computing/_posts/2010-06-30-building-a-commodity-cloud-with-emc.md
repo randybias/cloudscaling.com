@@ -1,7 +1,7 @@
 ---
 title: 'Building A Commodity Cloud with EMC?'
 link: http://cloudscaling.com/blog/cloud-computing/building-a-commodity-cloud-with-emc/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1163
 created: 2010/06/30 05:09:40

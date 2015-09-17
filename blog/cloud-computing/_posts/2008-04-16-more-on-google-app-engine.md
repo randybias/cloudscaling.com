@@ -1,7 +1,7 @@
 ---
 title: 'More on Google App Engine'
 link: http://cloudscaling.com/blog/cloud-computing/more-on-google-app-engine/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2346
 created: 2008/04/16 18:10:07

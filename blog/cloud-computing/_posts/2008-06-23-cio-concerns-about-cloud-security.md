@@ -1,7 +1,7 @@
 ---
 title: 'CIO Concerns about Cloud Security'
 link: http://cloudscaling.com/blog/cloud-computing/cio-concerns-about-cloud-security/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2355
 created: 2008/06/23 18:29:29

@@ -1,7 +1,7 @@
 ---
 title: 'The EMC Federation Joins the OpenStack Foundation'
 link: http://cloudscaling.com/blog/openstack/the-emc-federation-joins-the-openstack-foundation/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7686
 created: 2014/12/09 08:00:05

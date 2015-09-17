@@ -1,7 +1,7 @@
 ---
 title: "AMZN 'Other' Revenue in 2011+"
 link: http://cloudscaling.com/blog/cloud-computing/amzn-other-revenue-in-2011/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2418
 created: 2011/11/09 09:18:53

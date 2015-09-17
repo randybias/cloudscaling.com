@@ -1,7 +1,7 @@
 ---
 title: 'Looking in the Mirror: A Response to My Open Letter'
 link: http://cloudscaling.com/blog/company/looking-in-the-mirror-a-response-to-my-open-letter/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6587
 created: 2013/08/06 07:16:20

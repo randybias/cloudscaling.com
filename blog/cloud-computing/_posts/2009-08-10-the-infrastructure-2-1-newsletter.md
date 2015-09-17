@@ -1,7 +1,7 @@
 ---
 title: 'The Infrastructure 2.1 Newsletter'
 link: http://cloudscaling.com/blog/cloud-computing/the-infrastructure-2-1-newsletter/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 489
 created: 2009/08/10 08:00:39

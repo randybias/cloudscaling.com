@@ -1,7 +1,7 @@
 ---
 title: 'Massive MySQL & ZFS Scale-Up Capability'
 link: http://cloudscaling.com/blog/cloud-computing/technology/massive-mysql-zfs-scale-up-capability/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2369
 created: 2008/11/20 17:59:32

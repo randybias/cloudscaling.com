@@ -1,7 +1,7 @@
 ---
 title: 'ZFS to go GPL?'
 link: http://cloudscaling.com/blog/cloud-computing/zfs-to-go-gpl/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2374
 created: 2008/12/06 21:11:40

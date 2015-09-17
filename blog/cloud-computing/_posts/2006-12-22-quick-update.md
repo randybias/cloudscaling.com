@@ -1,7 +1,7 @@
 ---
 title: 'Quick Update'
 link: http://cloudscaling.com/blog/cloud-computing/technology/quick-update/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 21
 created: 2006/12/22 07:49:16

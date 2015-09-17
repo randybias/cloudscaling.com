@@ -1,7 +1,7 @@
 ---
 title: "Juniper's OpenContrail Is a Sign of the Times"
 link: http://cloudscaling.com/blog/cloud-computing/junipers-opencontrail-is-a-sign-of-the-times/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6764
 created: 2013/09/16 09:39:15

@@ -1,7 +1,7 @@
 ---
 title: 'RSS Feed Change'
 link: http://cloudscaling.com/blog/uncategorized/rss-feed-change/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 78
 created: 2008/11/25 04:41:00

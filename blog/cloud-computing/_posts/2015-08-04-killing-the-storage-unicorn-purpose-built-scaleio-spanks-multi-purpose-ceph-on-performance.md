@@ -1,7 +1,7 @@
 ---
 title: 'Killing the Storage Unicorn: Purpose-Built ScaleIO Spanks Multi-Purpose Ceph on Performance'
 link: http://cloudscaling.com/blog/cloud-computing/killing-the-storage-unicorn-purpose-built-scaleio-spanks-multi-purpose-ceph-on-performance/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7796
 created: 2015/08/04 08:30:51

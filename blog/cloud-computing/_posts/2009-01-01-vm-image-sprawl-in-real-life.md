@@ -1,7 +1,7 @@
 ---
 title: 'VM Image Sprawl in Real Life'
 link: http://cloudscaling.com/blog/cloud-computing/vm-image-sprawl-in-real-life/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2382
 created: 2009/01/01 23:45:12

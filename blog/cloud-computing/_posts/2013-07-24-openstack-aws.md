@@ -1,7 +1,7 @@
 ---
 title: "OpenStack's Future Depends on Embracing Amazon. Now."
 link: http://cloudscaling.com/blog/cloud-computing/openstack-aws/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6503
 created: 2013/07/24 07:29:02

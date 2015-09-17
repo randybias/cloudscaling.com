@@ -1,7 +1,7 @@
 ---
 title: 'VMware vs. Amazon ... ROUND ONE ... FIGHT!'
 link: http://cloudscaling.com/blog/cloud-computing/vmware-vs-amazon-round-one-fight/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 531
 created: 2009/09/15 08:00:37

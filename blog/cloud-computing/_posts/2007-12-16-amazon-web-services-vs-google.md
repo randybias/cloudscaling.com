@@ -1,7 +1,7 @@
 ---
 title: 'Amazon Web Services vs. Google'
 link: http://cloudscaling.com/blog/cloud-computing/amazon-web-services-vs-google/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2336
 created: 2007/12/16 00:19:02

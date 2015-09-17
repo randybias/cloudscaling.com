@@ -1,7 +1,7 @@
 ---
 title: 'Open Source Heroes: Brian Behlendorf'
 link: http://cloudscaling.com/blog/company/open-source-heroes-brian-behlendorf/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6589
 created: 2013/08/08 07:22:36

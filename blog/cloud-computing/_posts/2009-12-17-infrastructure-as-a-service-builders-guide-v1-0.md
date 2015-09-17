@@ -1,7 +1,7 @@
 ---
 title: "Infrastructure-as-a-Service Builder's Guide v1.0"
 link: http://cloudscaling.com/blog/cloud-computing/infrastructure-as-a-service-builders-guide-v1-0/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 867
 created: 2009/12/17 08:00:57

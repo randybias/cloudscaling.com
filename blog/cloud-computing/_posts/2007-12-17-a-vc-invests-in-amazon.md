@@ -1,7 +1,7 @@
 ---
 title: 'A VC invests in Amazon'
 link: http://cloudscaling.com/blog/cloud-computing/a-vc-invests-in-amazon/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2337
 created: 2007/12/17 07:43:54

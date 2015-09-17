@@ -1,7 +1,7 @@
 ---
 title: 'Production RoR Stack for EC2'
 link: http://cloudscaling.com/blog/cloud-computing/production-ror-stack-for-ec2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2340
 created: 2007/12/21 08:13:03

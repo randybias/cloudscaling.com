@@ -1,7 +1,7 @@
 ---
 title: "Why is Amazon's SAS70 Audit Bogus?"
 link: http://cloudscaling.com/blog/cloud-computing/why-amazons-sas70-is-bogus/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 805
 created: 2009/11/16 07:39:29

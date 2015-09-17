@@ -1,7 +1,7 @@
 ---
 title: 'Havana: OpenStack Continues Its March Toward Dominance'
 link: http://cloudscaling.com/blog/cloud-computing/havana-openstack-continues-its-march-toward-dominance/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6879
 created: 2013/10/17 06:36:27

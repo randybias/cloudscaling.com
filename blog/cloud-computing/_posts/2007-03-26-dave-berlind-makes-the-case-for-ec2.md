@@ -1,7 +1,7 @@
 ---
 title: 'Dave Berlind Makes the Case for EC2'
 link: http://cloudscaling.com/blog/cloud-computing/technology/dave-berlind-makes-the-case-for-ec2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2328
 created: 2007/03/26 05:10:43

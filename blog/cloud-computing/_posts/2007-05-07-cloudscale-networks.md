@@ -1,7 +1,7 @@
 ---
 title: 'CloudScale Networks'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscale-networks/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2329
 created: 2007/05/07 17:25:45

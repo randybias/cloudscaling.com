@@ -1,7 +1,7 @@
 ---
 title: 'Tarkan Maner Joins Cloudscaling Board of Directors'
 link: http://cloudscaling.com/blog/company/tarkan-maner-joins-cloudscaling-board-of-directors/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7485
 created: 2014/05/20 18:33:42

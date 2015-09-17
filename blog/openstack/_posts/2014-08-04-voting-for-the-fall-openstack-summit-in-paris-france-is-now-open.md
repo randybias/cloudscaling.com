@@ -1,7 +1,7 @@
 ---
 title: 'Voting for the Fall OpenStack Summit in Paris, France is now open!'
 link: http://cloudscaling.com/blog/openstack/voting-for-the-fall-openstack-summit-in-paris-france-is-now-open/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7562
 created: 2014/08/04 15:12:52

@@ -1,7 +1,7 @@
 ---
 title: 'How Clouds Enable Global Reach'
 link: http://cloudscaling.com/blog/cloud-computing/how-clouds-enable-global-reach/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 884
 created: 2009/12/19 12:46:16

@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Futures Pt. 2: Commodity Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-2-commodity-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2412
 created: 2009/06/05 09:30:44

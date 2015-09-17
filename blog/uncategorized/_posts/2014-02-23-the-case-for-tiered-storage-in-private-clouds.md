@@ -1,7 +1,7 @@
 ---
 title: 'The Case for Tiered Storage in Private Clouds'
 link: http://cloudscaling.com/blog/uncategorized/the-case-for-tiered-storage-in-private-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7217
 created: 2014/02/23 09:09:22

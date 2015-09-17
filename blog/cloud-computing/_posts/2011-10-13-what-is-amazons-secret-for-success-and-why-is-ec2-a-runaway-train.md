@@ -1,7 +1,7 @@
 ---
 title: "What is Amazon's Secret for Success and Why is EC2 a Runaway Train?"
 link: http://cloudscaling.com/blog/cloud-computing/what-is-amazons-secret-for-success-and-why-is-ec2-a-runaway-train/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2212
 created: 2011/10/13 10:57:41

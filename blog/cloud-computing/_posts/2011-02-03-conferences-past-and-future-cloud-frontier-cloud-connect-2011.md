@@ -1,7 +1,7 @@
 ---
 title: 'Conferences Past and Future: Cloud Frontier & Cloud Connect 2011'
 link: http://cloudscaling.com/blog/cloud-computing/conferences-past-and-future-cloud-frontier-cloud-connect-2011/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1602
 created: 2011/02/03 08:00:17

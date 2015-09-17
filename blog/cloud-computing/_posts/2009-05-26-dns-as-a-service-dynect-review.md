@@ -1,7 +1,7 @@
 ---
 title: 'DNS-as-a-Service + Dynect Review'
 link: http://cloudscaling.com/blog/cloud-computing/dns-as-a-service-dynect-review/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2407
 created: 2009/05/26 11:04:15

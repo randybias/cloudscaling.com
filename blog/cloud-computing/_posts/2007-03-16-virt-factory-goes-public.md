@@ -1,7 +1,7 @@
 ---
 title: 'virt-factory goes public'
 link: http://cloudscaling.com/blog/cloud-computing/technology/virt-factory-goes-public/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 25
 created: 2007/03/16 17:20:11

@@ -1,7 +1,7 @@
 ---
 title: 'Citrix Joins Apache and Contributes CloudStack: Bold Move or Brash Decision?'
 link: http://cloudscaling.com/blog/cloud-computing/citrix-joins-apache-and-contributes-cloudstack-bold-move-or-brash-decision/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3839
 created: 2012/04/02 21:30:27

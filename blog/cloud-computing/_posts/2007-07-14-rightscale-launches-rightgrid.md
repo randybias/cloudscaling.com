@@ -1,7 +1,7 @@
 ---
 title: 'RightScale announces RightGrid'
 link: http://cloudscaling.com/blog/cloud-computing/rightscale-launches-rightgrid/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2332
 created: 2007/07/14 02:43:57

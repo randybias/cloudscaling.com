@@ -1,7 +1,7 @@
 ---
 title: "The 'Cloud' Is NOT Outsourcing"
 link: http://cloudscaling.com/blog/cloud-computing/the-cloud-is-not-outsourcing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 451
 created: 2009/07/30 15:13:17

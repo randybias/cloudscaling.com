@@ -1,7 +1,7 @@
 ---
 title: 'Securing Your Data on Amazon’s EC2'
 link: http://cloudscaling.com/blog/cloud-computing/securing-amazons-ec2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 23
 created: 2007/02/22 07:02:04

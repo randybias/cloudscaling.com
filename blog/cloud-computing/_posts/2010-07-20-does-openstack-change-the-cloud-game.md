@@ -1,7 +1,7 @@
 ---
 title: 'Does OpenStack Change the Cloud Game?'
 link: http://cloudscaling.com/blog/cloud-computing/does-openstack-change-the-cloud-game/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1180
 created: 2010/07/20 12:01:46

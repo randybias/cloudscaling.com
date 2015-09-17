@@ -1,7 +1,7 @@
 ---
 title: 'neoTactics’ Blog Added to Alltop'
 link: http://cloudscaling.com/blog/cloud-computing/neotactics-blog-added-to-alltop/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2365
 created: 2008/10/22 01:00:15

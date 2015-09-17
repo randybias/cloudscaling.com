@@ -1,7 +1,7 @@
 ---
 title: 'Help Me Make This Blog Better'
 link: http://cloudscaling.com/blog/uncategorized/help-me-make-this-blog-better/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2410
 created: 2009/06/02 22:31:00

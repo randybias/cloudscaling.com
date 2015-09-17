@@ -1,7 +1,7 @@
 ---
 title: 'Nicira & Citrix are Warming Up'
 link: http://cloudscaling.com/blog/cloud-computing/nicira-citrix-are-warming-up/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 916
 created: 2010/01/18 16:58:39

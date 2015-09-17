@@ -1,7 +1,7 @@
 ---
 title: 'A response to Geoffrey Moore: Manifest Disruption'
 link: http://cloudscaling.com/blog/cloud-computing/a-response-to-geoffrey-moore-manifest-disruption/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5305
 created: 2012/10/18 15:56:24

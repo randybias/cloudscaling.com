@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Computing Came to a Head in 2011'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-computing-came-to-a-head-in-2011/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2637
 created: 2011/12/30 16:42:39

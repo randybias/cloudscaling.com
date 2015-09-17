@@ -1,7 +1,7 @@
 ---
 title: "You Can't Collapse Tiered Storage in Private Clouds Built on OpenStack: Whitepaper"
 link: http://cloudscaling.com/blog/company/you-cant-collapse-tiered-storage-in-private-clouds-built-on-openstack-whitepaper/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6743
 created: 2013/09/10 12:10:00

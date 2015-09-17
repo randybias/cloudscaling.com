@@ -1,7 +1,7 @@
 ---
 title: 'The Secret Sauce Problem'
 link: http://cloudscaling.com/blog/uncategorized/the-secret-sauce-problem/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 406
 created: 2009/07/18 20:25:38

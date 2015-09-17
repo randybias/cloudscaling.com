@@ -1,7 +1,7 @@
 ---
 title: 'Joining the GoGrid Team'
 link: http://cloudscaling.com/blog/cloud-computing/joining-the-gogrid-team/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2371
 created: 2008/11/24 01:59:30

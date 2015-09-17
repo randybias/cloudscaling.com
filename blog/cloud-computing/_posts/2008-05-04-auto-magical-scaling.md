@@ -1,7 +1,7 @@
 ---
 title: '“Auto-magical” Scaling'
 link: http://cloudscaling.com/blog/cloud-computing/auto-magical-scaling/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2349
 created: 2008/05/04 02:49:17

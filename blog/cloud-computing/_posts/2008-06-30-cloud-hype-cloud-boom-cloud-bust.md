@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Hype, Cloud Boom, Cloud Bust'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-hype-cloud-boom-cloud-bust/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2358
 created: 2008/06/30 02:33:15

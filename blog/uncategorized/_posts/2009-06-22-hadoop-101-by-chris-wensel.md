@@ -1,7 +1,7 @@
 ---
 title: 'Hadoop 101 by Chris Wensel'
 link: http://cloudscaling.com/blog/uncategorized/hadoop-101-by-chris-wensel/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 350
 created: 2009/06/22 09:15:21

@@ -1,7 +1,7 @@
 ---
 title: 'Neutron in Production: Work in Progress or Ready for Prime Time?'
 link: http://cloudscaling.com/blog/cloud-computing/neutron-in-production-work-in-progress-or-ready-for-prime-time/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7040
 created: 2013/12/06 15:31:54

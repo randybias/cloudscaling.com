@@ -1,7 +1,7 @@
 ---
 title: "Amazon's EC2 Generating 220M+ Annually"
 link: http://cloudscaling.com/blog/cloud-computing/amazons-ec2-generating-220m-annually/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 569
 created: 2009/10/01 08:00:45

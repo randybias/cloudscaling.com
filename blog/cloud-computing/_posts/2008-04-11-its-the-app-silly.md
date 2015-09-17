@@ -1,7 +1,7 @@
 ---
 title: 'It’s the App, Silly'
 link: http://cloudscaling.com/blog/cloud-computing/its-the-app-silly/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2345
 created: 2008/04/11 05:27:52

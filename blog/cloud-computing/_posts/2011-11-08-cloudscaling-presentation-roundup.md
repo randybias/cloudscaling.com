@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling Presentation Roundup for 2011'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscaling-presentation-roundup/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2416
 created: 2011/11/08 08:00:56

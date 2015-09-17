@@ -1,7 +1,7 @@
 ---
 title: 'MySQL and ZFS Hitting the Big Leagues'
 link: http://cloudscaling.com/blog/cloud-computing/mysql-and-zfs-hitting-the-big-leagues/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2379
 created: 2008/12/24 03:16:47

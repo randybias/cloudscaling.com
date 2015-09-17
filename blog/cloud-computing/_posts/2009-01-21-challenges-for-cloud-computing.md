@@ -1,7 +1,7 @@
 ---
 title: 'Challenges for Cloud Storage'
 link: http://cloudscaling.com/blog/cloud-computing/challenges-for-cloud-computing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2386
 created: 2009/01/21 18:08:57

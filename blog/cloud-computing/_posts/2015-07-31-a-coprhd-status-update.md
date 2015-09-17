@@ -1,7 +1,7 @@
 ---
 title: 'A CoprHD Status Update'
 link: http://cloudscaling.com/blog/cloud-computing/a-coprhd-status-update/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7793
 created: 2015/07/31 16:03:05

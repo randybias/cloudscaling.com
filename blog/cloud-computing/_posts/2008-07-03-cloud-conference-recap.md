@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Conference Recap'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-conference-recap/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2359
 created: 2008/07/03 03:26:18

@@ -1,7 +1,7 @@
 ---
 title: 'The Evolution of IT Towards Cloud Computing'
 link: http://cloudscaling.com/blog/cloud-computing/the-evolution-of-it-towards-cloud-computing-vmworld/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2170
 created: 2011/08/31 09:23:46

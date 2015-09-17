@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling on a Tear - 2009 in Review'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscaling-on-a-tear-2009-in-review/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 888
 created: 2010/01/15 10:16:17

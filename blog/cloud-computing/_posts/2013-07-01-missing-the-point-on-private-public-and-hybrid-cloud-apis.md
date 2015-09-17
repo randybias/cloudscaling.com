@@ -1,7 +1,7 @@
 ---
 title: 'Missing the Point on Private, Public, and Hybrid Cloud APIs'
 link: http://cloudscaling.com/blog/cloud-computing/missing-the-point-on-private-public-and-hybrid-cloud-apis/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6444
 created: 2013/07/01 07:16:50

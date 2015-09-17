@@ -1,7 +1,7 @@
 ---
 title: 'Protected: Cloud Services Economy'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-services-economy/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2360
 created: 2008/07/13 21:49:36

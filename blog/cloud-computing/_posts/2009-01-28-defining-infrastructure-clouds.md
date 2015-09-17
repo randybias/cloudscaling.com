@@ -1,7 +1,7 @@
 ---
 title: 'Defining Infrastructure Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/defining-infrastructure-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2389
 created: 2009/01/28 00:26:21

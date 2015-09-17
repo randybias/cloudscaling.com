@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling’s New Strategy: Open Cloud infrastructure'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscalings-new-strategy-open-cloud-infrastructure-2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3535
 created: 2012/02/13 07:30:50

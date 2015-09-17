@@ -1,7 +1,7 @@
 ---
 title: 'Net Neutrality Documentary'
 link: http://cloudscaling.com/blog/cloud-computing/technology/net-neutrality-documentary/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 24
 created: 2007/02/26 20:03:15

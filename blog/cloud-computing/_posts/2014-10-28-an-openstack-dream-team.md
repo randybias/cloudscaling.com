@@ -1,7 +1,7 @@
 ---
 title: 'An OpenStack Dream Team: EMC + Cloudscaling'
 link: http://cloudscaling.com/blog/cloud-computing/an-openstack-dream-team/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7637
 created: 2014/10/28 08:01:27

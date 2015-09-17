@@ -1,7 +1,7 @@
 ---
 title: "Project CoprHD's Architecture"
 link: http://cloudscaling.com/blog/cloud-computing/project-coprhds-architecture/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7779
 created: 2015/07/08 09:05:04

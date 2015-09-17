@@ -1,7 +1,7 @@
 ---
 title: 'EMC and Canonical expand OpenStack Partnership'
 link: http://cloudscaling.com/blog/openstack/emc-and-canonical-expand-openstack-partnership/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7771
 created: 2015/05/27 08:05:19

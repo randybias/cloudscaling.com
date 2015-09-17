@@ -1,7 +1,7 @@
 ---
 title: 'Infrastructure as Code Presentations'
 link: http://cloudscaling.com/blog/uncategorized/infrastructure-as-code-velocity-conf/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 356
 created: 2009/06/26 11:09:53

@@ -1,7 +1,7 @@
 ---
 title: 'Is Open Compute Ready for Prime Time?'
 link: http://cloudscaling.com/blog/uncategorized/is-open-compute-ready-for-prime-time/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2414
 created: 2011/10/28 12:00:45

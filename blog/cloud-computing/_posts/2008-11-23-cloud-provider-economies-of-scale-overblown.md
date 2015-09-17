@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Provider ‘Economies of Scale’ Overblown?'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-provider-economies-of-scale-overblown/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2370
 created: 2008/11/23 01:56:15

@@ -1,7 +1,7 @@
 ---
 title: 'IaaS ≠ Virtualization'
 link: http://cloudscaling.com/blog/uncategorized/iaas-virtualization/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1620
 created: 2011/02/11 21:16:22

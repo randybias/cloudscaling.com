@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Philosophy: An Interview with Randy Bias'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-philosophy-an-interview-with-randy-bias/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1887
 created: 2011/05/10 08:30:48

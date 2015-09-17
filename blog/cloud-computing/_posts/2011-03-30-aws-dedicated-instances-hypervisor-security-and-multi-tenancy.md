@@ -1,7 +1,7 @@
 ---
 title: 'AWS Dedicated Instances, Hypervisor Security, and Multi-tenancy'
 link: http://cloudscaling.com/blog/cloud-computing/aws-dedicated-instances-hypervisor-security-and-multi-tenancy/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1831
 created: 2011/03/30 15:55:02

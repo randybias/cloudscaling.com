@@ -1,7 +1,7 @@
 ---
 title: 'ZFS in the Cloud'
 link: http://cloudscaling.com/blog/cloud-computing/zfs-in-the-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2350
 created: 2008/05/07 17:29:17

@@ -1,7 +1,7 @@
 ---
 title: 'Live From Hong Kong: State of the (Open)Stack, v2'
 link: http://cloudscaling.com/blog/cloud-computing/live-from-hong-kong-state-of-the-openstack-v2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6966
 created: 2013/11/01 12:37:48

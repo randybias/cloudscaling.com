@@ -1,7 +1,7 @@
 ---
 title: 'Clouds are complex, but simplicity scales; a winning strategy for cloud builders'
 link: http://cloudscaling.com/blog/cloud-computing/clouds-are-complex-but-simplicity-scales-a-winning-strategy-for-cloud-builders/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3606
 created: 2012/02/29 09:54:25

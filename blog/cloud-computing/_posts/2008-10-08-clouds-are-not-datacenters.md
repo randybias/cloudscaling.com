@@ -1,7 +1,7 @@
 ---
 title: 'Clouds are not Datacenters'
 link: http://cloudscaling.com/blog/cloud-computing/clouds-are-not-datacenters/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2362
 created: 2008/10/08 18:15:41

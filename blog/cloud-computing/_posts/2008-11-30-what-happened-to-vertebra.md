@@ -1,7 +1,7 @@
 ---
 title: 'What Happened to Vertebra?'
 link: http://cloudscaling.com/blog/cloud-computing/what-happened-to-vertebra/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2373
 created: 2008/11/30 09:01:37

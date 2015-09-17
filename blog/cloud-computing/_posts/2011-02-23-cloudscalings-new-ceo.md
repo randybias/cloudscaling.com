@@ -1,7 +1,7 @@
 ---
 title: "Cloudscaling's New CEO"
 link: http://cloudscaling.com/blog/cloud-computing/cloudscalings-new-ceo/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1650
 created: 2011/02/23 20:41:33

@@ -1,7 +1,7 @@
 ---
 title: 'CloudScale Updates & More'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscale-updates-more/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2361
 created: 2008/10/06 07:05:40

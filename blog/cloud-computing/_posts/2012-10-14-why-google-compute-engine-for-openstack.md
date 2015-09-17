@@ -1,7 +1,7 @@
 ---
 title: 'Why Google Compute Engine for OpenStack'
 link: http://cloudscaling.com/blog/cloud-computing/why-google-compute-engine-for-openstack/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5278
 created: 2012/10/14 17:02:18

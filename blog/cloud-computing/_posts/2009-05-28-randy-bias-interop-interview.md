@@ -1,7 +1,7 @@
 ---
 title: 'Randy Bias Interop Interview'
 link: http://cloudscaling.com/blog/cloud-computing/randy-bias-interop-interview/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2408
 created: 2009/05/28 13:13:46

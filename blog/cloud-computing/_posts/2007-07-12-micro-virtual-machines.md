@@ -1,7 +1,7 @@
 ---
 title: 'Micro Virtual Machines'
 link: http://cloudscaling.com/blog/cloud-computing/technology/micro-virtual-machines/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2331
 created: 2007/07/12 06:51:11

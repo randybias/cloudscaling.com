@@ -1,7 +1,7 @@
 ---
 title: "Public Cloud Economies of (Web-)Scale Aren't About Buying Power"
 link: http://cloudscaling.com/blog/cloud-computing/public-cloud-economies-of-web-scale-arent-about-buying-power/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7568
 created: 2014/08/07 23:22:50

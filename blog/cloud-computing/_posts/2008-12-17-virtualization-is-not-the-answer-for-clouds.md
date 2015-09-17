@@ -1,7 +1,7 @@
 ---
 title: 'Virtualization is not ‘The Answer’ for Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/virtualization-is-not-the-answer-for-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2377
 created: 2008/12/17 22:32:49

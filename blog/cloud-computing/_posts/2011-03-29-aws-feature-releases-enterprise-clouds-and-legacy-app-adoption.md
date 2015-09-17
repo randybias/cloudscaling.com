@@ -1,7 +1,7 @@
 ---
 title: 'AWS Feature Releases, Enterprise Clouds, and Legacy App Adoption'
 link: http://cloudscaling.com/blog/cloud-computing/aws-feature-releases-enterprise-clouds-and-legacy-app-adoption/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1808
 created: 2011/03/29 08:00:51

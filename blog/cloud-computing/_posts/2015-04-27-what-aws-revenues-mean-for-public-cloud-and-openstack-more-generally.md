@@ -1,7 +1,7 @@
 ---
 title: 'What AWS Revenues Mean for Public Cloud and OpenStack More Generally'
 link: http://cloudscaling.com/blog/cloud-computing/what-aws-revenues-mean-for-public-cloud-and-openstack-more-generally/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7747
 created: 2015/04/27 08:20:10

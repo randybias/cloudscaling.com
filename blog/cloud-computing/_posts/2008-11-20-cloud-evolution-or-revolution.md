@@ -1,7 +1,7 @@
 ---
 title: 'Cloud: Evolution or Revolution?'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-evolution-or-revolution/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2368
 created: 2008/11/20 08:33:42

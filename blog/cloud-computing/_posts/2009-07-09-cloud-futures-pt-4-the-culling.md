@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Futures Pt. 4: The Culling'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-4-the-culling/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 395
 created: 2009/07/09 10:30:00

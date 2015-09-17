@@ -1,7 +1,7 @@
 ---
 title: 'How is AWS Failing to Service Webscale Applications?'
 link: http://cloudscaling.com/blog/cloud-computing/how-is-aws-failing-to-service-webscale-applications/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2440
 created: 2011/11/16 12:54:55

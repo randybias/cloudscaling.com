@@ -1,7 +1,7 @@
 ---
 title: 'Looking back, looking ahead: 200th Linthicum podcast'
 link: http://cloudscaling.com/blog/cloud-computing/looking-back-looking-ahead-200th-linthicum-podcast/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 4035
 created: 2012/06/20 09:07:30

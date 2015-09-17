@@ -1,7 +1,7 @@
 ---
 title: 'Support Japanese Relief Efforts'
 link: http://cloudscaling.com/blog/uncategorized/support-japanese-relief-efforts/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1845
 created: 2011/04/01 08:00:07

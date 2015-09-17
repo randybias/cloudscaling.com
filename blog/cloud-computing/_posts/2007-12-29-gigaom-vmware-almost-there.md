@@ -1,7 +1,7 @@
 ---
 title: 'GigaOM & VMware … almost there!'
 link: http://cloudscaling.com/blog/cloud-computing/gigaom-vmware-almost-there/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2342
 created: 2007/12/29 07:40:14

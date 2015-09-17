@@ -1,7 +1,7 @@
 ---
 title: 'NetApp gets Virtualization'
 link: http://cloudscaling.com/blog/cloud-computing/technology/netapp-gets-virtualization/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 19
 created: 2006/10/20 19:19:46

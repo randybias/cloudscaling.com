@@ -1,7 +1,7 @@
 ---
 title: 'More on Cloud Services'
 link: http://cloudscaling.com/blog/cloud-computing/more-on-cloud-services/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2353
 created: 2008/06/12 07:31:20

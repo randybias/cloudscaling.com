@@ -1,7 +1,7 @@
 ---
 title: 'Podcast w/ Blue Mountain Labs & Cloudscaling'
 link: http://cloudscaling.com/blog/cloud-computing/podcast-w-blue-mountain-labs-cloudscaling/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1907
 created: 2011/04/29 14:31:07

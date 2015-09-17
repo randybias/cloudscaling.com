@@ -1,7 +1,7 @@
 ---
 title: 'Lesson in simplified storage shows how complexity fails'
 link: http://cloudscaling.com/blog/cloud-computing/lesson-in-simplified-storage-shows-how-complexity-fails/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 4012
 created: 2012/06/14 08:57:33

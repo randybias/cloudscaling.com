@@ -1,7 +1,7 @@
 ---
 title: 'Private Clouds Matter'
 link: http://cloudscaling.com/blog/cloud-computing/private-clouds-matter/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2411
 created: 2009/06/04 09:00:27

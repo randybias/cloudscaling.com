@@ -1,7 +1,7 @@
 ---
 title: '"Hybrid" Clouds are Half-Baked'
 link: http://cloudscaling.com/blog/cloud-computing/hybrid-clouds-are-half-baked/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 931
 created: 2010/02/02 09:49:01

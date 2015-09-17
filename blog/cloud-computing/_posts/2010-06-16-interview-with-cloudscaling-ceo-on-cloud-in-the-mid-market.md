@@ -1,7 +1,7 @@
 ---
 title: 'Interview with Cloudscaling CEO on Cloud in the Mid-market'
 link: http://cloudscaling.com/blog/cloud-computing/interview-with-cloudscaling-ceo-on-cloud-in-the-mid-market/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1125
 created: 2010/06/16 08:24:51

@@ -1,7 +1,7 @@
 ---
 title: "The Future of OpenStack's EC2 APIs"
 link: http://cloudscaling.com/blog/openstack/the-future-of-openstacks-ec2-apis/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7721
 created: 2015/02/12 13:29:12

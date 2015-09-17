@@ -1,7 +1,7 @@
 ---
 title: 'The Future of OpenStack is Now, 2015'
 link: http://cloudscaling.com/blog/openstack/the-future-of-openstack-is-now-2015/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7691
 created: 2015/01/12 08:00:39

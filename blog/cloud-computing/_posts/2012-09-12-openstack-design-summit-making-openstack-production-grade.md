@@ -1,7 +1,7 @@
 ---
 title: 'VOTE! - OpenStack Design Summit - Making #OpenStack Production-Grade'
 link: http://cloudscaling.com/blog/cloud-computing/openstack-design-summit-making-openstack-production-grade/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 4176
 created: 2012/09/12 10:39:53

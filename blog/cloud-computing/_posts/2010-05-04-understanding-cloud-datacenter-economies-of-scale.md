@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Cloud Datacenter Economies of Scale'
 link: http://cloudscaling.com/blog/cloud-computing/understanding-cloud-datacenter-economies-of-scale/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1023
 created: 2010/05/04 07:03:28

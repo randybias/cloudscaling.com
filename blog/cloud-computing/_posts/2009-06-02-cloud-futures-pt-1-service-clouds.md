@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Futures Pt. 1: Service Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-1-service-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2409
 created: 2009/06/02 10:00:33

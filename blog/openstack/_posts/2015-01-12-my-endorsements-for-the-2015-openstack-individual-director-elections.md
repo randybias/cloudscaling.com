@@ -1,7 +1,7 @@
 ---
 title: 'My Endorsements for the 2015 OpenStack Individual Director Elections'
 link: http://cloudscaling.com/blog/openstack/my-endorsements-for-the-2015-openstack-individual-director-elections/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7699
 created: 2015/01/12 11:51:47

@@ -1,7 +1,7 @@
 ---
 title: 'GoGrid Makes the Gartner Magic Quadrant'
 link: http://cloudscaling.com/blog/cloud-computing/gogrid-makes-the-gartner-magic-quadrant/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 384
 created: 2009/07/08 10:57:04

@@ -1,7 +1,7 @@
 ---
 title: 'The Right Storage, the Right Cloud'
 link: http://cloudscaling.com/blog/cloud-computing/the-right-storage-the-right-cloud/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 4044
 created: 2012/06/28 14:01:27

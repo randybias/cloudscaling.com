@@ -1,7 +1,7 @@
 ---
 title: 'Vblogatta: Virtualization, Open Source, VC, and More'
 link: http://cloudscaling.com/blog/cloud-computing/technology/vblogatta-virtualization-open-source-vc-and-more/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2334
 created: 2007/07/31 05:58:38

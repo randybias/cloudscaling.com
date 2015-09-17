@@ -1,7 +1,7 @@
 ---
 title: "Google is Amazon's Only Real Competition"
 link: http://cloudscaling.com/blog/cloud-computing/google-is-amazons-only-real-competition/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7115
 created: 2014/02/05 14:30:55

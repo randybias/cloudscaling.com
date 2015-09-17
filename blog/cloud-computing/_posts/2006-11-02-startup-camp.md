@@ -1,7 +1,7 @@
 ---
 title: 'Startup Camp'
 link: http://cloudscaling.com/blog/cloud-computing/technology/startup-camp/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 20
 created: 2006/11/02 23:26:06

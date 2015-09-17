@@ -1,7 +1,7 @@
 ---
 title: 'Vancouver OpenStack Summit - EMC Federation Presentations'
 link: http://cloudscaling.com/blog/openstack/vancouver-openstack-summit-emc-federation-presentations/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7726
 created: 2015/02/18 13:21:56

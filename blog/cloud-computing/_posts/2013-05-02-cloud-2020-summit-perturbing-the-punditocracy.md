@@ -1,7 +1,7 @@
 ---
 title: 'Cloud 2020 Summit: Perturbing the Punditocracy'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-2020-summit-perturbing-the-punditocracy/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 6216
 created: 2013/05/02 08:03:23

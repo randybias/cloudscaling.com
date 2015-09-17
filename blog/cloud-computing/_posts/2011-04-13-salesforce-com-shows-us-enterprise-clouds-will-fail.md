@@ -1,7 +1,7 @@
 ---
 title: 'Salesforce.com Shows Us Enterprise Clouds Will Fail'
 link: http://cloudscaling.com/blog/cloud-computing/salesforce-com-shows-us-enterprise-clouds-will-fail/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1858
 created: 2011/04/13 11:09:19

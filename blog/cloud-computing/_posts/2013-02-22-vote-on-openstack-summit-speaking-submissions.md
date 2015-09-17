@@ -1,7 +1,7 @@
 ---
 title: 'Vote on OpenStack Summit Speaking Submissions'
 link: http://cloudscaling.com/blog/cloud-computing/vote-on-openstack-summit-speaking-submissions/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5748
 created: 2013/02/22 09:45:53

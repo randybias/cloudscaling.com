@@ -1,7 +1,7 @@
 ---
 title: 'neoTactics Networking Services'
 link: http://cloudscaling.com/blog/cloud-computing/technology/neotactics-networking-services/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2351
 created: 2008/05/28 12:37:17

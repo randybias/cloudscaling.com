@@ -1,7 +1,7 @@
 ---
 title: "State of the Stack v4 - OpenStack In All It's Glory"
 link: http://cloudscaling.com/blog/openstack/state-of-the-stack-v4/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7764
 created: 2015/05/21 21:26:34

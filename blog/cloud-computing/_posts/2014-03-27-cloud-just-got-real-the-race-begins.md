@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Just Got Real - The Race Begins'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-just-got-real-the-race-begins/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7269
 created: 2014/03/27 08:44:42

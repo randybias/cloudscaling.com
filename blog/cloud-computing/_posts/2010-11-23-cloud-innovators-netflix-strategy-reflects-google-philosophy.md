@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Innovators: Netflix Strategy Reflects Google Philosophy'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-innovators-netflix-strategy-reflects-google-philosophy/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1539
 created: 2010/11/23 08:00:22

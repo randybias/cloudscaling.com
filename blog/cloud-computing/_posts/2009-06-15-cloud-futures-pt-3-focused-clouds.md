@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Futures Pt. 3: Focused Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-3-focused-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 336
 created: 2009/06/15 09:15:07

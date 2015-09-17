@@ -1,7 +1,7 @@
 ---
 title: 'GoGrid Quietly Releases Larger Servers'
 link: http://cloudscaling.com/blog/cloud-computing/gogrid-quietly-releases-larger-servers/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2392
 created: 2009/02/12 16:37:26

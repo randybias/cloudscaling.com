@@ -1,7 +1,7 @@
 ---
 title: 'Vote Now: Awesome Proposals for the Spring OpenStack Summit'
 link: http://cloudscaling.com/blog/openstack/vote-now-awesome-proposals-for-the-spring-openstack-summit/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7219
 created: 2014/02/20 13:25:15

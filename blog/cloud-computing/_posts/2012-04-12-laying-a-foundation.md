@@ -1,7 +1,7 @@
 ---
 title: 'Laying a Foundation'
 link: http://cloudscaling.com/blog/cloud-computing/laying-a-foundation/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3883
 created: 2012/04/12 07:01:52

@@ -1,7 +1,7 @@
 ---
 title: "IaaS Builder's Guide - Network Edition"
 link: http://cloudscaling.com/blog/cloud-computing/updated-iaas-builders-guide/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1699
 created: 2011/03/08 22:44:00

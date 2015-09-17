@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling CEO Speaking in Europe and NYC'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscaling-ceo-speaking-in-europe-and-nyc/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1459
 created: 2010/10/09 07:28:27

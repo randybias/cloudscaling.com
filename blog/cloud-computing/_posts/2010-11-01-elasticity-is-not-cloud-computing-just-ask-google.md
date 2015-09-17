@@ -1,7 +1,7 @@
 ---
 title: 'Elasticity is NOT #Cloud Computing ... Just Ask Google'
 link: http://cloudscaling.com/blog/cloud-computing/elasticity-is-not-cloud-computing-just-ask-google/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1492
 created: 2010/11/01 09:16:05

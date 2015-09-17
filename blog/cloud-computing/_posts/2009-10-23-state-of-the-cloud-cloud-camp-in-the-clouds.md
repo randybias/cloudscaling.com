@@ -1,7 +1,7 @@
 ---
 title: 'State of the Cloud - Cloud Camp in the Clouds'
 link: http://cloudscaling.com/blog/cloud-computing/state-of-the-cloud-cloud-camp-in-the-clouds/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 601
 created: 2009/10/23 18:17:54

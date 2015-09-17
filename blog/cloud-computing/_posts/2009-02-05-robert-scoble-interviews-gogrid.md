@@ -1,7 +1,7 @@
 ---
 title: 'Robert Scoble Interviews GoGrid'
 link: http://cloudscaling.com/blog/cloud-computing/robert-scoble-interviews-gogrid/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2390
 created: 2009/02/05 21:35:24

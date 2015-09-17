@@ -1,7 +1,7 @@
 ---
 title: 'More ZFS on EC2'
 link: http://cloudscaling.com/blog/cloud-computing/more-zfs-on-ec2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2363
 created: 2008/10/11 20:14:36

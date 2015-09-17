@@ -1,7 +1,7 @@
 ---
 title: 'Simplicity Scales: An Alternative Approach to OpenStack Nova RPC Messaging'
 link: http://cloudscaling.com/blog/cloud-computing/simplicity-scales-an-alternative-approach-to-openstack-nova-rpc-messaging/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3913
 created: 2012/04/18 12:04:47

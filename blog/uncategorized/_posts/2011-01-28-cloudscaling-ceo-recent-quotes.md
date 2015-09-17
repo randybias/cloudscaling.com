@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling CEO Recent Quotes'
 link: http://cloudscaling.com/blog/uncategorized/cloudscaling-ceo-recent-quotes/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1570
 created: 2011/01/28 01:39:33

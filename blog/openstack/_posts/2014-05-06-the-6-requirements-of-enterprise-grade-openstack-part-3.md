@@ -1,7 +1,7 @@
 ---
 title: 'The 6 Requirements of Enterprise-grade OpenStack, Part 3'
 link: http://cloudscaling.com/blog/openstack/the-6-requirements-of-enterprise-grade-openstack-part-3/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7407
 created: 2014/05/06 09:05:38

@@ -1,0 +1,37 @@
+<div class="pagination-wrapper">
+
+	{% if page.path contains '_posts' %}
+		<!-- Single Post -->
+		{% if page.previous.url %}
+		<div class="pagination">
+			<a class="previous" href="{{page.previous.url}}">
+				&laquo; {{page.previous.title}}
+			</a>
+		</div>
+		{% endif %}
+		{% if page.next.url %}
+		<div class="pagination">
+			<a class="next" href="{{page.next.url}}">
+				{{page.next.title}} &raquo;
+			</a>
+		</div>
+		{% endif %}
+		<!-- End Single Post -->
+	{% else %}
+		{% if paginator.previous_page %}
+		<div class="pagination">
+			<a href="{{ paginator.previous_page_path }}" class="previous">Previous <span class="page_number "> Page: {{ paginator.page - 1 }} of {{ paginator.total_pages }}</span></a>
+
+		</div>
+		{% else %}
+		<span class="previous">Previous</span>
+		{% endif %}
+		{% if paginator.next_page %}
+		<div class="pagination">
+			<a href="{{ paginator.next_page_path }}" class="next">Next <span class="page_number "> Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></a>
+		</div>
+		{% else %}
+		<span class="next ">Next</span>
+		{% endif %}
+	{% endif %}
+</div>

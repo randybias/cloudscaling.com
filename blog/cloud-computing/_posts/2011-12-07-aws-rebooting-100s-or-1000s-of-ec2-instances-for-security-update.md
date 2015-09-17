@@ -1,7 +1,7 @@
 ---
 title: 'AWS Rebooting 100s or 1000s of EC2 Instances for Security Update'
 link: http://cloudscaling.com/blog/cloud-computing/aws-rebooting-100s-or-1000s-of-ec2-instances-for-security-update/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2615
 created: 2011/12/07 10:36:10

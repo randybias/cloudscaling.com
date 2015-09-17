@@ -1,7 +1,7 @@
 ---
 title: 'Another take on Web-Scale Computing'
 link: http://cloudscaling.com/blog/cloud-computing/another-take-on-web-scale-computing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2338
 created: 2007/12/18 16:47:18

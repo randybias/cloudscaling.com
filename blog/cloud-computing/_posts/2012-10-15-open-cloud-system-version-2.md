@@ -1,7 +1,7 @@
 ---
 title: 'Open Cloud System. Version 2.'
 link: http://cloudscaling.com/blog/cloud-computing/open-cloud-system-version-2/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5270
 created: 2012/10/15 08:00:01

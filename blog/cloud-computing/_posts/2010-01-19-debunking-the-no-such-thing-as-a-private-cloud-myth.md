@@ -1,7 +1,7 @@
 ---
 title: 'Debunking the "No Such Thing as A Private Cloud" Myth'
 link: http://cloudscaling.com/blog/cloud-computing/debunking-the-no-such-thing-as-a-private-cloud-myth/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 896
 created: 2010/01/19 06:50:12

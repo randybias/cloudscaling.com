@@ -1,7 +1,7 @@
 ---
 title: 'Network Diagramming Examples'
 link: http://cloudscaling.com/blog/cloud-computing/technology/network-diagramming-examples/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2344
 created: 2008/03/02 22:18:55

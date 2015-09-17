@@ -1,7 +1,7 @@
 ---
 title: 'GigaOm’s Pizza Boxes Need New Toppings'
 link: http://cloudscaling.com/blog/cloud-computing/gigaoms-pizza-boxes-need-new-toppings/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2339
 created: 2007/12/20 06:49:29

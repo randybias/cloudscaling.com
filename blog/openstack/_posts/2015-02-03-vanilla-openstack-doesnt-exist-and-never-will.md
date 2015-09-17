@@ -1,7 +1,7 @@
 ---
 title: "\"Vanilla OpenStack\" Doesn't Exist and Never Will"
 link: http://cloudscaling.com/blog/openstack/vanilla-openstack-doesnt-exist-and-never-will/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7704
 created: 2015/02/03 08:45:26

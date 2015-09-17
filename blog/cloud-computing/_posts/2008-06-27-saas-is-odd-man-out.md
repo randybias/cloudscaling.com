@@ -1,7 +1,7 @@
 ---
 title: 'Private: SaaS is Odd Man Out?'
 link: http://cloudscaling.com/blog/cloud-computing/saas-is-odd-man-out/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2356
 created: 2008/06/27 05:15:00

@@ -1,7 +1,7 @@
 ---
 title: 'Overcast Interviews GoGrid'
 link: http://cloudscaling.com/blog/cloud-computing/overcast-interviews-gogrid/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2391
 created: 2009/02/09 17:57:36

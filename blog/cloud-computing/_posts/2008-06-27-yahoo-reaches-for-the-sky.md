@@ -1,7 +1,7 @@
 ---
 title: 'Yahoo! Reaches for the Sky'
 link: http://cloudscaling.com/blog/cloud-computing/yahoo-reaches-for-the-sky/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2357
 created: 2008/06/27 08:12:43

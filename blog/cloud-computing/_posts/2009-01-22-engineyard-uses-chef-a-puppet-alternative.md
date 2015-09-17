@@ -1,7 +1,7 @@
 ---
 title: 'EngineYard uses Chef, a Puppet Alternative'
 link: http://cloudscaling.com/blog/cloud-computing/engineyard-uses-chef-a-puppet-alternative/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2387
 created: 2009/01/22 21:19:07

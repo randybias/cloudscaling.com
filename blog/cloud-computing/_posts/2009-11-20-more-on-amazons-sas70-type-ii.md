@@ -1,7 +1,7 @@
 ---
 title: "More on Amazon's SAS70 Type II"
 link: http://cloudscaling.com/blog/cloud-computing/more-on-amazons-sas70-type-ii/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 829
 created: 2009/11/20 18:59:23

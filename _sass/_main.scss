@@ -1,12 +1,26 @@
+.post,
+.home {
+	max-width: $content-width;
+	margin-left: $content-left-margin;
+	@include media-query($on-laptop) {
+		margin-left: auto;
+	}
+}
 .post {
 	.post-content {
 		// Hide the first h1 since we are using Jekyll to display the title
 		h1:first-child {
 			display: none;
 		}
+		p {
+			text-align: justify;
+		}
 	}
 }
 .home {
+	p {
+		text-align: justify;
+	}
 	.content {
 		// Hide the first h1 since we are using Jekyll to display the title
 		.excerpt {

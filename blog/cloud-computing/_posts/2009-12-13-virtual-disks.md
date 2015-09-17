@@ -1,7 +1,7 @@
 ---
 title: 'Virtual Server vs. Real Server Disk Drive Speed'
 link: http://cloudscaling.com/blog/cloud-computing/virtual-disks/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 837
 created: 2009/12/13 13:09:42

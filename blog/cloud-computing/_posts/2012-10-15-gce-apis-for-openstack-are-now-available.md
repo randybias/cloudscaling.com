@@ -1,7 +1,7 @@
 ---
 title: 'GCE APIs for OpenStack are Now Available!'
 link: http://cloudscaling.com/blog/cloud-computing/gce-apis-for-openstack-are-now-available/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 5287
 created: 2012/10/15 15:58:50

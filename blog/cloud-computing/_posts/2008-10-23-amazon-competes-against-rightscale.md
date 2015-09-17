@@ -1,7 +1,7 @@
 ---
 title: 'Amazon Competes Against RightScale'
 link: http://cloudscaling.com/blog/cloud-computing/amazon-competes-against-rightscale/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2366
 created: 2008/10/23 22:21:56

@@ -1,7 +1,7 @@
 ---
 title: "Cloud ... You're Doing it Wrong!"
 link: http://cloudscaling.com/blog/cloud-computing/cloud-youre-doing-it-wrong/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 7806
 created: 2015/08/11 08:47:47

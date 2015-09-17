@@ -1,7 +1,7 @@
 ---
 title: 'Storage, Storage, Storage'
 link: http://cloudscaling.com/blog/cloud-computing/technology/storage-storage-storage/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2348
 created: 2008/04/28 03:05:11

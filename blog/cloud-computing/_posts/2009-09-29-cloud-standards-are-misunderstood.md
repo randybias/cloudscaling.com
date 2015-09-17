@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Standards are Misunderstood'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-standards-are-misunderstood/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 563
 created: 2009/09/29 08:06:14

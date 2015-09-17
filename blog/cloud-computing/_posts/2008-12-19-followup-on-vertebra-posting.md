@@ -1,7 +1,7 @@
 ---
 title: 'Followup on Vertebra Posting'
 link: http://cloudscaling.com/blog/cloud-computing/followup-on-vertebra-posting/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2378
 created: 2008/12/19 20:29:05

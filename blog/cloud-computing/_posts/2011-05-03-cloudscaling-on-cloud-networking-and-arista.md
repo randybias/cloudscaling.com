@@ -1,7 +1,7 @@
 ---
 title: 'Cloudscaling on Cloud Networking and Arista'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscaling-on-cloud-networking-and-arista/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1911
 created: 2011/05/03 16:43:25

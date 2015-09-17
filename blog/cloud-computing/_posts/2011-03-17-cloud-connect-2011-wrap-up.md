@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Connect 2011 & The Cloudscaling Keynote #ccevent'
 link: http://cloudscaling.com/blog/cloud-computing/cloud-connect-2011-wrap-up/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1748
 created: 2011/03/17 19:02:01

@@ -1,7 +1,7 @@
 ---
 title: '@Cloudscaling CEO @randybias on #VMworld & #Interop 2010'
 link: http://cloudscaling.com/blog/cloud-computing/cloudscalings-ceo-randybias-on-vmworld-interop-2010/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1478
 created: 2010/10/25 11:42:24

@@ -1,7 +1,7 @@
 ---
 title: 'Startup Camp in LON'
 link: http://cloudscaling.com/blog/uncategorized/startup-camp-in-lon/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2343
 created: 2008/01/22 23:36:51

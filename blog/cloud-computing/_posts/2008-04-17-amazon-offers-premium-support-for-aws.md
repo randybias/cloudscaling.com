@@ -1,7 +1,7 @@
 ---
 title: 'Amazon offers Premium Support for AWS'
 link: http://cloudscaling.com/blog/cloud-computing/amazon-offers-premium-support-for-aws/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2347
 created: 2008/04/17 23:28:29

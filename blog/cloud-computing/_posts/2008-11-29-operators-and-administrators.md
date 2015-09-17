@@ -1,7 +1,7 @@
 ---
 title: '‘Operators’ and ‘Administrators’'
 link: http://cloudscaling.com/blog/cloud-computing/operators-and-administrators/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2372
 created: 2008/11/29 19:44:53

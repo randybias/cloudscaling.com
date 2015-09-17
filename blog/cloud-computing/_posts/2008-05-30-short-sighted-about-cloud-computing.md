@@ -1,7 +1,7 @@
 ---
 title: 'Short-Sighted about Cloud Computing'
 link: http://cloudscaling.com/blog/cloud-computing/short-sighted-about-cloud-computing/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2352
 created: 2008/05/30 06:34:56

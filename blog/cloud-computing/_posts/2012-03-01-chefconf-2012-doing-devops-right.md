@@ -1,7 +1,7 @@
 ---
 title: '#ChefConf 2012 - Doing DevOps Right'
 link: http://cloudscaling.com/blog/cloud-computing/chefconf-2012-doing-devops-right/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 3626
 created: 2012/03/01 10:54:30

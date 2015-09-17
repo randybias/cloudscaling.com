@@ -1,7 +1,7 @@
 ---
 title: "Amazon Web Services' Rapid Release Cycle"
 link: http://cloudscaling.com/blog/cloud-computing/amazon-web-services-rapid-release-cycle/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 1724
 created: 2011/03/11 11:27:28

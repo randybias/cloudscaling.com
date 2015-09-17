@@ -1,7 +1,7 @@
 ---
 title: 'Virtualization and Organization Sitting in a Tree …'
 link: http://cloudscaling.com/blog/cloud-computing/virtualization-and-organization-sitting-in-a-tree/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2335
 created: 2007/08/17 03:51:25

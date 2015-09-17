@@ -1,7 +1,7 @@
 ---
 title: 'CapEx vs. OpEx for Storage Systems'
 link: http://cloudscaling.com/blog/cloud-computing/capex-vs-opex-for-storage-systems/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2333
 created: 2007/07/17 03:23:47

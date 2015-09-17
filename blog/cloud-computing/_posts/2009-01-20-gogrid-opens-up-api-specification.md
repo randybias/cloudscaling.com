@@ -1,7 +1,7 @@
 ---
 title: 'GoGrid Opens Up API Specification'
 link: http://cloudscaling.com/blog/cloud-computing/gogrid-opens-up-api-specification/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2385
 created: 2009/01/20 09:10:18

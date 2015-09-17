@@ -1,7 +1,7 @@
 ---
 title: 'Hyperic Clued on Cloud Monitoring'
 link: http://cloudscaling.com/blog/cloud-computing/hyperic-clued-on-cloud-monitoring/
-author: randybias
+author: Randy Bias
 description: 
 post_id: 2384
 created: 2009/01/16 18:36:27
