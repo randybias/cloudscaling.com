@@ -19,7 +19,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: $background-color;
+    background-color: white;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -201,4 +201,35 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+// Tables
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+    border-collapse: collapse;
+    thead {
+        tr {
+            background-color: $grey-color;
+        }
+    }
+    tr {
+        background-color: #fff;
+        border-top: 1px solid #ccc;
+        th, td {
+            padding: 20px;
+            border-bottom: 1px solid #ddd;
+            &:last-child {
+                border: none;
+            }
+        }
+    }
+    // th, td {
+    //     padding: 6px 13px;
+    // }
+
 }

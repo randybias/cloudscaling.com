@@ -6,6 +6,7 @@ jQuery(function() {
     this.field('title', { boost: 10 });
     this.field('author');
     this.field('category');
+    this.field('excerpt');
   });
 
   // Download the data from the JSON file we generated
@@ -20,11 +21,39 @@ jQuery(function() {
     });
   });
 
+  //setup before functions
+    var typingTimer;                //timer identifier
+    var doneTypingInterval = 500;  //time in ms, 5 second for example
+    var $input = $('#site_search');
+
+    //on keyup, start the countdown
+    $input.on('keyup', function () {
+      clearTimeout(typingTimer);
+      typingTimer = setTimeout(doneTyping, doneTypingInterval);
+    });
+
+    //on keydown, clear the countdown 
+    $input.on('keydown', function () {
+      clearTimeout(typingTimer);
+    });
+
+    //user is "finished typing," do something
+    function doneTyping () {
+      // event.preventDefault();
+      var query = $("#search_box").val(); // Get the value for the text field
+      var results = window.idx.search(query); // Get lunr to perform a search
+            console.log(results);
+
+      display_search_results(results); // Hand
+    }
+
   // Event when the form is submitted
   $("#site_search").submit(function(){
       event.preventDefault();
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
+            console.log(results);
+
       display_search_results(results); // Hand the results off to be displayed
   });
 

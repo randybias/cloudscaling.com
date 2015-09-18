@@ -20,6 +20,10 @@ markdown: kramdown
 # configure kramdown
 kramdown:
   parse_block_html: true
+  input: GFM
+
+encoding: utf-8
+
 # Blog Permalink
 permalink:     '/:categories/:title/'
 
