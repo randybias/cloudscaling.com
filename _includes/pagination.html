@@ -1,4 +1,4 @@
-<div class="pagination-wrapper">
+<div class="pagination-wrapper {% if paginator.previous_page or  page.previous.url %} multiple-pagination {% endif %}">
 
 	{% if page.path contains '_posts' %}
 		<!-- Single Post -->
@@ -23,8 +23,7 @@
 			<a href="{{ paginator.previous_page_path }}" class="previous">Previous <span class="page_number "> Page: {{ paginator.page - 1 }} of {{ paginator.total_pages }}</span></a>
 
 		</div>
-		{% else %}
-		<span class="previous">Previous</span>
+		
 		{% endif %}
 		{% if paginator.next_page %}
 		<div class="pagination">

@@ -1,0 +1,18 @@
+---
+author: Teri Elniski
+comments: true
+date: 2013-01-19 01:45:54+00:00
+layout: post
+slug: '5556'
+title: On cloud and disruption
+wordpress_id: 5556
+old_categories:
+- News
+tags:
+- Clayton Christensen
+- disruption
+- Diversity Limited
+- Geoffrey Moore
+---
+
+Luckily the cloud world has its own caped crusader in the form of [Cloudscaling](http://www.cloudscaling.com/) founder Randy Bias..."

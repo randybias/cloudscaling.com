@@ -17,7 +17,9 @@ rss_url: feed
 linkedin_url: http://www.linkedin.com/randybias
 # Build settings
 markdown: kramdown
-
+# configure kramdown
+kramdown:
+  parse_block_html: true
 # Blog Permalink
 permalink:     '/:categories/:title/'
 

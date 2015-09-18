@@ -18,6 +18,8 @@ layout: default
 			</div>  
 		</div>
 	</div>
+	{% if forloop.length != forloop.index %}
 	<hr>
+	{% endif %}
 	{% endfor %}
 </div>

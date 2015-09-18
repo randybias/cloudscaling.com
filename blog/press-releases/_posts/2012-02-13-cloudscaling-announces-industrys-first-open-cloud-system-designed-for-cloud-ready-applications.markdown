@@ -1,0 +1,60 @@
+---
+author: Teri Elniski
+comments: true
+date: 2012-02-13 15:30:04+00:00
+layout: post
+slug: cloudscaling-announces-industrys-first-open-cloud-system-designed-for-cloud-ready-applications
+title: Cloudscaling Announces Industry's First Open Cloud System Designed for Cloud-Ready
+  Applications
+wordpress_id: 3523
+old_categories:
+- Press Releases
+---
+
+SAN FRANCISCO, February 13, 2012 -- Cloudscaling has announced the industry’s first open cloud infrastructure solution for cloud-ready applications. The Cloudscaling Open Cloud System (OCS) is the first infrastructure-as-a-service solution designed to deliver the cost, performance and scalability benefits of Amazon Web Services (AWS), for private or public clouds.
+
+The Cloudscaling OCS is based on the OpenStack open source project and leverages the company’s expertise from production OpenStack software deployments at companies such as KT (formerly Korea Telecom) and Internap. Cloudscaling has more production OpenStack experience than any other company.
+
+Open clouds eliminate vendor lock-in, proprietary protocols, closed hardware platforms and excessive enterprise licensing fees sometimes referred to as “software taxation.” These advances are made possible through the use of open hardware, open networking, open APIs and open source software. Cloud-ready applications are those that are designed to take advantage of the economics and agility achievable by using open cloud infrastructure. These applications differ fundamentally from traditional applications in that they are more elastic in nature and support higher peak loads. Cloud-ready applications manage failure in software as opposed to hardware, eliminating typical enterprise application dependencies on expensive and proprietary infrastructure solutions.
+
+“Cloudscaling OCS is our answer to customers who are telling us that they want public and private cloud infrastructure that’s specifically designed to support the cloud-ready applications they’re building,” said Michael Grant, CEO of Cloudscaling. “They want the freedom that comes with an open infrastructure architecture, and that’s what Cloudscaling OCS delivers.”
+
+Cloudscaling OCS has three core components: Open Cloud OS, hardware blueprints and CloudBlocks ™.
+
+
+
+	
+  * Open Cloud OS: An OpenStack-powered cloud operating system for production cloud deployments. Open Cloud OS extends core OpenStack software with production capabilities and features including management, scalability, security and performance.
+
+	
+  * Hardware Blueprints: Proven deployment configurations for compute, storage and networking equipment. Hardware blueprints detail turn-key, scale-engineered hardware configurations to meet specific price/performance and availability targets.
+
+	
+  * CloudBlocks: Cloudscaling’s unified architecture integrates Open Cloud OS  software with hardware reference blueprints to define modular cloud building blocks.
+
+
+“The market is demanding supported, production-centric, OpenStack solutions. Cloudscaling is focused on delivering enterprise-ready cloud infrastructure to meet that demand,” said Randy Bias, co-founder and CTO of Cloudscaling.  “Our timing is ideal, as our customers are finding that traditional enterprise cloud approaches are not well-suited for next-generation, cloud-ready apps. Cloudscaling OCS is a production-grade, open cloud system that gives enterprises their own scalable and elastic infrastructure to support like-minded applications.”
+
+**Comments from Partners About Cloudscaling OCS**
+“The partnership with Cloudscaling is a meeting of the minds,” said Chris Greendale, founder and CEO, Cloud Technology Partners ([cloudTP](http://www.cloudtp.com/)). “The Cloudscaling Open Cloud System delivers on how we think OpenStack technology clouds should be deployed for production environments.”
+
+“Cloudscaling's Open Cloud OS brings an important capability for deploying OpenStack software in a production environment,” said Bailey Caldwell, vice president of business development at RightScale. "Today [RightScale](http://www.rightscale.com/) manages many of the largest public and private cloud deployments, and we know that customers greatly benefit from running applications on production open cloud infrastructure.”
+
+"We're very excited about continuing our long partnership with Cloudscaling and the launch of Open Cloud OS, " said George Reese, CTO of [enStratus](http://http://enstratus.com/). "Together, enStratus enterprise cloud management and Cloudscaling's Open Cloud OS join enterprise controls with cloud scalability."
+
+**About Cloudscaling**
+[Cloudscaling](http://cloudscaling.com/) is the leading provider of open cloud infrastructure solutions for cloud-ready applications. The Cloudscaling Open Cloud System (OCS) is the first infrastructure-as-a-service solution designed to deliver the cost, performance and scalability benefits of Amazon Web Services (AWS) for public and private clouds. Based on the industry-supported OpenStack open source project, the Cloudscaling OCS delivers a production-grade solution for open cloud infrastructure. Cloudscaling has more production OpenStack software experience than any other company, including successful deployments with customers such as KT (formerly Korea Telecom) and Internap. The Cloudscaling team are industry veterans who have designed and deployed large-scale cloud infrastructure for industry pioneers such as AWS, GoGrid, RightScale and eBay.
+
+Cloudscaling serves clients in four market segments: communications service providers such as MSOs and telecommunications companies, Internet application providers, enterprises and governments. Cloudscaling’s industry partners include, cloudTP, Arista Networks, Quanta Computing Technologies, RightScale, Nokia Siemens Networks, enStratus and the OpenStack open source project. Founded in 2006, Cloudscaling is headquartered in San Francisco. More at [http://cloudscaling.com](http://cloudscaling.com/).
+
+Speakers from Cloudscaling will present at the Carrier Cloud Form on February 13 and at the Cloud Connect event February 14-15. Both events take place at the Santa Clara Convention Center in Santa Clara, Calif.
+
+
+**###**
+
+
+Media Contact:
+Robert Cathey
+[robert@cloudscaling.com](mailto:robert@cloudscaling.com)
+865-386-6118
+@robertcathey

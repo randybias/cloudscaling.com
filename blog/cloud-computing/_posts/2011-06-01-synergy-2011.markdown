@@ -1,0 +1,55 @@
+---
+author: su
+comments: true
+date: 2011-06-01 19:46:53+00:00
+layout: post
+slug: synergy-2011
+title: Private Cloud Choices
+wordpress_id: 2107
+old_categories:
+- Cloud Computing
+- Company
+- Events
+tags:
+- private cloud
+- webscale
+---
+
+
+
+Last Thursday, I had the pleasure of joining Dustin Fennell, CIO of Scottsdale (Ariz.) Community College, and Paul Roberts, Cloud Architect at [Carpathia](http://www.carpathia.com/), on a panel coordinated and emceed by [Morgan Gerhart](http://community.citrix.com/blogs/citrite/morgang) at [Citrix Synergy](http://www.citrix.com/events/detail/citrix-synergy-san-francisco-may252011).
+
+The topic was  "Is There Such a Thing as a Private Cloud?” Thankfully, we got past the surface question quickly enough and were all in agreement that there is such a thing. We then moved on to what types and flavours of private clouds can be found in the world and how to think in a more nuanced way about them.<!-- more -->
+
+The key message I focused on in the session was the following: In order to think more effectively about clouds, it is helpful to think about them as one of four types: inside/outside and legacy/webscale.
+
+
+![](https://lh5.googleusercontent.com/X_M7lxMc-uotGUlYUESGiEAPyIgg93pBqIl6ZyWTdESBz8j2AFPfeP2_fKwGQssvechkmuj-BHxGJii7AaMbs3N8XLuZ0An5y5g_XV-OER0iJRrSWHTDpga35-VBpIQ)
+
+
+Legacy clouds are ideal for highly regulated, complex client/server environments, with extremely complicated layer 2 networking requirements. Webscale clouds are ideal for less regulated, web/mobile applications, greenfield apps and simpler stacks that need to scale (as well as a[ growing list](http://www.pcworld.com/businesscenter/article/228518/oracles_database_now_available_on_amazon_web_services.html) of enterprise apps). Public is outside the firewall, while private is inside.
+
+Each choice carries its own pros and cons and a different cost structure.* It is IT’s job to understand the different models and decide where to move workloads to in order to achieve the lowest cost, highest flexibility, and best return on capital and assets for their business.The diagram below hopefully helps provide a simple view:
+
+![](https://lh4.googleusercontent.com/1Rk61pR6kKHARKrvtWRBqmyuqXSBcADzLvdHKfeLYBWj-ayJL45NI6K1nEhMV4CPxlMQdy9H3NYXROz7SzjZgv9UeMX1ziq_aaqlUQKZ8JMmvlgeLUeVeoV7Fj_Ktiw)
+
+So for those organizations building private clouds, it's key to realize that there are choices. If you do not require a legacy architecture for your private cloud, you'd gain substantial CAPEX, OPEX and flexibility advantages by choosing the webscale architecture.
+
+The other thing to realize is that webscale clouds are moving quickly up the feature ramp as they disrupt the legacy clouds. We’ve seen this recently as AWS has embraced Oracle and SAP.
+
+My slides from the presentation are at the end of this post. I go into a lot more detail on the distinctions between the different cloud types in the deck. Please ping me with questions or comments. My email is troy at cloudscaling dot com. Or just leave comments here on the blog. I’d love to know if these distinctions are helpful to people.
+
+Thanks again to [Citrix](http://www.citrix.com/) for inviting us to be part of Synergy.
+
+[*The numbers here are rough estimates and are being used simply as a guide to show how each choice has a different cost structure for the IT buyer. These numbers come from a range of internal research done by the Cloudscaling team on public and private clouds across many different geographies.]
+
+
+
+
+**[Is There Such a Thing as a Private Cloud? Citrix Synergy 2011](http://www.slideshare.net/randybias/is-there-such-a-thing-as-a-private-cloud-citrix-synergy-2011)** 
+
+
+View more [presentations](http://www.slideshare.net/) from [Randy Bias](http://www.slideshare.net/randybias)
+
+
+

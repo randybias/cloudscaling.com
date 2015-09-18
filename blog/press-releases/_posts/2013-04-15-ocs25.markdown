@@ -1,0 +1,58 @@
+---
+author: Teri Elniski
+comments: true
+date: 2013-04-15 16:47:03+00:00
+layout: post
+slug: ocs25
+title: Open Cloud System Version 2.5 Adds Virtual Private Cloud, Grizzly Support,
+  New Hardware Partners
+wordpress_id: 6018
+old_categories:
+- Press Releases
+---
+
+_**Momentum Builds with the Third Generation of Cloudscaling Open Cloud System**_
+
+**PORTLAND, Ore. — April 15, 2013 —** Cloudscaling, the elastic cloud company, today unveiled the third major release of its Open Cloud System (OCS), adding a new virtual private cloud (VPC) network capability, enhancements to block storage, support for OpenStack Grizzly and certified hardware from Juniper, Dell and Cisco.
+
+The new version will be announced at the [OpenStack Summit](http://www.openstack.org/summit/portland-2013/) in Portland this week and is the third generation of the company’s OpenStack-powered OCS elastic cloud infrastructure system. Version 2.5 further advances the product’s lead with features valued by enterprise customers, SaaS providers and cloud service providers.**** ****
+
+The new VPC capability enables isolation of elastic cloud resources without sacrificing the core benefits of elastic clouds. Using proven, robust and scalable networking technologies, VPC allows unparalleled control over network options that accelerates deployment of dynamic apps as well as existing enterprise applications. VPC also delivers increased security options as well as a roadmap for customers to deploy apps in public or hybrid elastic cloud infrastructure in the future. OCS VPC incorporates Juniper’s Virtual Network Control (VNC) technology, also [announced today](http://www.cloudscaling.com/blog/press-releases/juniper).
+
+Enhancements to OCS Block Storage include point-in-time copies of volumes that are stored in OCS Object Storage. Snapshots protect data by providing cost-effective backups for OCS Block Storage volumes, and they simplify the process of launching new instances. Additionally, OCS Block Storage now supports automated installation and deployment of the service with increased redundancy and interconnects to protect against infrastructure failures.
+
+Continuing the trend to incorporate and extend OpenStack’s high-velocity innovation for production deployments, OCS version 2.5 is built using OpenStack Grizzly, the latest release of OpenStack announced on April 4. In addition to core OpenStack projects such as Nova, Swift, Cinder, Glance and Keystone, OCS now also supports Quantum. More than 480 contributors made 7,620 updates in the [Grizzly release](https://www.openstack.org/software/grizzly/press-release).**** ****
+
+OCS now supports certified hardware from Juniper, Dell and Cisco. These vendors complement existing certified hardware from Quanta and Arista. The broadening of hardware choices in OCS provides customers with an expanded range of configuration options and price points. Additionally, customers can now more easily leverage their established relationships with current hardware vendors when deploying OCS.
+
+“The advancements in OCS 2.5 clearly highlight how OCS is a cloud system, with the features and refinements that customers expect to have in a product that’s easy to deploy, operate and use,” said Randy Bias, co-founder and CTO of Cloudscaling. “While raw OpenStack and selected OpenStack distros can be viable options for some situations, the market has clearly responded that it wants a complete system product, and Open Cloud System is the only product that delivers this.”**** ****
+
+“While our competitors are launching the first generation of proprietary OpenStack appliances or iterating on distros, we’re pushing ahead with a third-generation elastic cloud system,” said Azmir Mohamed, senior director of product management at Cloudscaling.  "This release also demonstrates how a systems approach to deploying OpenStack is both cost-effective at the start and increasingly valuable over time. In contrast to a custom implementation, Cloudscaling customers are deployed in weeks, supported by a team that understands operations at scale, and then upgraded regularly with curated releases. And, compared to proprietary appliances, customers have the security and risk reduction that can only come from holding the source code. With OCS, customers benefit from both OpenStack and Cloudscaling development velocity without incremental effort, expense or proprietary risk."
+
+Open Cloud System version 2.5 is scheduled for general availability in the summer of 2013.
+
+**Analyst Quotes**
+
+"OCS support for enterprise grade products from Juniper, Cisco and Dell should resonate well with commercial IT shops that want to build out cloud services. Virtual private cloud (VPC) will allow companies to offer cloud services with robust security to any endpoint as well as enabling the applications to scale elastically. Snapshotting lets companies leverage enterprise-grade data protection techniques for backup and recovery as well as improving the time to provision new instances. To me, this all adds up to significant improvements in the types of services and capabilities that enterprise customers require. Seeing them on an open source offering so soon is impressive."
+
+— Wayne Pauley, senior analyst, Enterprise Services Group.
+
+**** ****
+
+“The latest Grizzly release of OpenStack shows how the open source community is rapidly addressing the needs of large enterprise organizations. Products such as Cloudscaling's Open Cloud System 2.5, the third version of the software, build on this community with contributions and features that elevate OpenStack as a more viable cloud infrastructure option in the market.”
+
+— Jay Lyman, senior analyst, Enterprise Software, 451 Group
+
+**** ****
+
+"With thousands of contributions from hundreds of contributors, OpenStack continues to evolve as a project, making it a more capable cloud foundation. To help customers speed and simplify adoption, players like Cloudscaling are packaging the project up into a digestible system form, as with its OCS 2.5 release."
+
+— Stephen O'Grady, principal analyst with RedMonk
+
+**** ****
+
+**About Cloudscaling**
+
+Cloudscaling is the leader in elastic cloud infrastructure. The company’s core product, Open Cloud System (OCS), is the world’s most advanced OpenStack cloud infrastructure system. OCS is designed to meet the requirements of next-generation dynamic applications, delivering the agility, performance, and economic benefits of leading cloud providers, but deployable in the customer’s data center and under the IT team’s control. Cloudscaling is backed by Trinity Ventures and headquartered in San Francisco. For more information, please visit[ www.cloudscaling.com](http://www.cloudscaling.com/)
+
+###
