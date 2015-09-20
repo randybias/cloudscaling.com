@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.url | slugify }}">
 
     {% include header.html %}
 
@@ -13,7 +13,9 @@
       </div>
     </div>
     
-    {% include pagination.html %}
+    {% if page.include_pagination%}
+     {% include pagination.html %}
+    {% endif %}
 
     {% include footer.html %}
     

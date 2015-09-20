@@ -1,0 +1,19 @@
+---
+layout: page
+footer: false
+---
+
+<div id="blog-archives" class="author">
+
+	{% assign index = true %}
+        {% for post in site.posts %}
+          {% if post.author contains page.author %}
+            {% assign content = post.content %}
+            {% assign title = post.title %}
+	    <article>
+  	      {% include archive_post.html %}
+	    </article>
+          {% endif %}
+	{% endfor %}
+</div>
+

@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<form action="get" id="site_search">
-  <label for="search_box">Search</label><input type="text" id="search_box">
-  <input type="submit" value="search">
-</form>
-
-<ul id="results"></ul>
-
-<script src="/js/lunr.min.js"></script>
+<div class="loader"></div>
+{% include search.html %}
 <script src="/js/search.js"></script>
+
+

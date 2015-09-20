@@ -1,15 +1,23 @@
 ---
 layout: default
+include_pagination: true
 ---
 
 <div class="home">
 
 	<!-- This loops through the paginated posts -->
 	{% for post in paginator.posts %}
+
+	{% assign post_author = site.data.authors[post.author] %}
+
 	<div class="index--single-post">
 		<div class="post-header">
 			<h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-			<p class="post-meta">Posted on <span class="date-meta">{{ post.date | date: "%b %-d, %Y" }}</span>{% if post.author %} by <span class="author-meta">{{ post.author }}</span>{% endif %}</p>
+			<p class="post-meta">Posted on <span class="date-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+			{% if post_author %} by <span class="author-meta"><a href="/blog/author/{{ post_author.slug }}">
+					{{ post.author }}
+				</a></span>
+			{% else if post.author %} by <span class="author-meta">{{ post.author }}</span>{% endif %}</p>
 		</div>
 
 		<div class="content">

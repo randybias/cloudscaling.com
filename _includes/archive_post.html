@@ -1,0 +1,28 @@
+{% if post.author %}
+{% assign author = post.author %}
+{% assign permalink = post.url %}
+{% assign excerpt = post.excerpt %}
+
+{% elsif page.author %}
+{% assign author = page.author %}
+{% assign permalink = page.url %}
+{% assign excerpt = page.excerpt %}
+
+{% else %}
+{% assign author = site.author %}
+{% endif %}
+
+
+
+<div class="index--single-post">
+	<div class="post-header">
+		<h2 class="post-title"><a href="{{ post.url }}">{{ title }}</a></h2>
+		<p class="post-meta">Posted on <span class="date-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
+	</div>
+
+	<div class="content">
+		<div class="excerpt">
+			{{ content | truncatewords: 50 }}
+		</div>  
+	</div>
+</div>
