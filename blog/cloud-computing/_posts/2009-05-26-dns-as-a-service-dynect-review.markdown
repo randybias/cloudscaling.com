@@ -83,7 +83,7 @@ I've been using Dynect for well over a year now and during that time have experi
 
 The UI, while clunky, is usable and there are a number of convenience features for experienced DNS admins like the ability to import a standard DNS zone file. More importantly, the reporting data is excellent allowing you to get detailed usage reports at any level of detail like the following:
 
-![Dynect Reporting Example](http://cloudscaling.com/wp-content/uploads/2009/05/dynect-report1.jpg)
+![Dynect Reporting Example](/assets/media/2009/05/dynect-report1.jpg)
 
 The only major downside I encountered with the Dynect service was that the API had not been designed well for concurrency, meaning that if you had multiple processes making updates at the same time with the same credentials they would run over each other. I believe the Dynect folks have either fixed this or a fix is in their current roadmap.
 

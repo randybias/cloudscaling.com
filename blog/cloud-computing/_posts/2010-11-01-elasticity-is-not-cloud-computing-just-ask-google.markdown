@@ -35,7 +35,7 @@ Public utility cloud providers exist because "warehouse" (cloud) computing is no
 In [Nick Carr's](http://www.roughtype.com/) famous book, [Does IT Matter](http://www.amazon.com/exec/obidos/ASIN/1591394449/routyp-20), he argued eloquently, providing copious examples, that most business infrastructure goes through a fairly common cycle.  This cycle is well-understood and more of a force of nature than anything else.  What we are seeing now with cloud computing is nothing more than this cycle replayed again with information technology (IT), just like it has with electricity, roads/highways, banking, and telecommunications before it.
 
 Here is a diagram that illustrates the cycle.
-![nick-carr-adoption-curve](http://cloudscaling.com/wp-content/uploads/2010/10/nick-carr-adoption-curve-1024x581.png)
+![nick-carr-adoption-curve](/assets/media/2010/10/nick-carr-adoption-curve-1024x581.png)
 
 
 This cycle also maps directly to the three clear phases that we see with IT infrastructure:
@@ -43,7 +43,7 @@ This cycle also maps directly to the three clear phases that we see with IT infr
 
 
 
-![nick-carr-adoption-curve-color](http://cloudscaling.com/wp-content/uploads/2010/10/nick-carr-adoption-curve-color-1024x501.png)I think this really says it all.  For us, cloud computing is a whole new way of delivering IT services, particularly at the infrastructure level that does not look anything like what has come before.  In the same way that Mainframe and Client-Server computing are very very different.
+![nick-carr-adoption-curve-color](/assets/media/2010/10/nick-carr-adoption-curve-color-1024x501.png)I think this really says it all.  For us, cloud computing is a whole new way of delivering IT services, particularly at the infrastructure level that does not look anything like what has come before.  In the same way that Mainframe and Client-Server computing are very very different.
 
 
 
@@ -53,7 +53,7 @@ Another way to illustrate this is to look at the approaches that each of these t
 
 
 
-![mainframe-clientserver-cloud-evolution-blue-and-black](http://cloudscaling.com/wp-content/uploads/2010/10/mainframe-clientserver-cloud-evolution-blue-and-black-1024x702.png)
+![mainframe-clientserver-cloud-evolution-blue-and-black](/assets/media/2010/10/mainframe-clientserver-cloud-evolution-blue-and-black-1024x702.png)
 
 
 
@@ -84,7 +84,7 @@ Then we have to look carefully at how and why an Amazon or Google did what they 
 
 
 
-![causation-results-side-effects-cloud-computing](http://cloudscaling.com/wp-content/uploads/2010/10/causation-results-side-effects-cloud-computing1-1024x635.png)
+![causation-results-side-effects-cloud-computing](/assets/media/2010/10/causation-results-side-effects-cloud-computing1-1024x635.png)
 
 
 

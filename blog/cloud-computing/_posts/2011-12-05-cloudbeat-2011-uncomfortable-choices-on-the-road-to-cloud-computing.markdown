@@ -21,7 +21,7 @@ tags:
 - SLA
 ---
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/12/iStock_000017079014XSmall-300x200.jpg)](http://cloudscaling.com/blog/cloud-computing/cloudbeat-2011-uncomfortable-choices-on-the-road-to-cloud-computing/attachment/choice-ahead-road-sign)
+[![](/assets/media/2011/12/iStock_000017079014XSmall-300x200.jpg)](http://cloudscaling.com/blog/cloud-computing/cloudbeat-2011-uncomfortable-choices-on-the-road-to-cloud-computing/attachment/choice-ahead-road-sign)
 
 Building a cloud that works like AWS or Google involves a complete rethink of just about every concept considered canonical in enterprise IT for the past 20 years.
 

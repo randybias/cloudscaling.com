@@ -38,7 +38,7 @@ SDS or SDN can seem a little confusing at first, but for me it’s easy. There a
 
 
 
-[![SD-star Controllers.001](http://cloudscaling.com/wp-content/uploads/2015/07/SD-star-Controllers.001.jpg)](http://cloudscaling.com/wp-content/uploads/2015/07/SD-star-Controllers.001.jpg)
+[![SD-star Controllers.001](/assets/media/2015/07/SD-star-Controllers.001.jpg)](/assets/media/2015/07/SD-star-Controllers.001.jpg)
 
 
 
@@ -268,7 +268,7 @@ Cassandra is covered elsewhere, but I always like to point to this slide I used 
 
 
 
-![Patterns for Elastic Clouds - Deloitte.018](http://cloudscaling.com/wp-content/uploads/2015/07/Patterns-for-Elastic-Clouds-Deloitte.018.jpg)
+![Patterns for Elastic Clouds - Deloitte.018](/assets/media/2015/07/Patterns-for-Elastic-Clouds-Deloitte.018.jpg)
 
 
 
@@ -293,7 +293,7 @@ So here’s a quick comparison chart to make things clear. This comparison is pu
 
 
 
-[![SD-star Controllers.002](http://cloudscaling.com/wp-content/uploads/2015/07/SD-star-Controllers.002.jpg)](http://cloudscaling.com/wp-content/uploads/2015/07/SD-star-Controllers.002.jpg)
+[![SD-star Controllers.002](/assets/media/2015/07/SD-star-Controllers.002.jpg)](/assets/media/2015/07/SD-star-Controllers.002.jpg)
 
 
 

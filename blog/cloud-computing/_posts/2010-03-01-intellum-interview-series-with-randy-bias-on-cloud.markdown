@@ -40,4 +40,4 @@ There is a lot of great cloud information in here that I don't get a chance to t
 
 During this interview series I also refer to four layers in cloud.  Most folks like to talk about infrastructure (Infrastructure-as-a-Service), platforms (Platform-as-a-Service), and applications (Software-as-a-Service).  There is a fourth layer that rides on top that I haven't had a chance to blog on yet, but Part 2 goes into some detail.  To make it a little more clear what I mean, see the diagram below.
 
-![Cloud Stack](http://cloudscaling.com/wp-content/uploads/2010/02/cloud-stack-small.jpg)
+![Cloud Stack](/assets/media/2010/02/cloud-stack-small.jpg)

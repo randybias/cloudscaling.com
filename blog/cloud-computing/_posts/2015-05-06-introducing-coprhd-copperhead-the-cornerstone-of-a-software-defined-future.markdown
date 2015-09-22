@@ -38,7 +38,7 @@ CoprHD is the open source version of ViPR Controller.  A comparison:
 
 
 
-[![Comparing CoprHD vs ViPR Controller.001](http://cloudscaling.com/wp-content/uploads/2015/05/Comparing-CoprHD-vs-ViPR-Controller.001-1024x576.jpg)](http://cloudscaling.com/wp-content/uploads/2015/05/Comparing-CoprHD-vs-ViPR-Controller.001.jpg)
+[![Comparing CoprHD vs ViPR Controller.001](/assets/media/2015/05/Comparing-CoprHD-vs-ViPR-Controller.001-1024x576.jpg)](/assets/media/2015/05/Comparing-CoprHD-vs-ViPR-Controller.001.jpg)
 
 
 

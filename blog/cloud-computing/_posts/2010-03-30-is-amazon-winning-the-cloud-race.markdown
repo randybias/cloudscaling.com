@@ -32,7 +32,7 @@ With the possible exception of Rackspace Cloud, I'm not sure that anyone else is
 From a  quick culling of all of the Amazon Web Services press releases since the launch of it's initial service (SQS in 2004), after removing non-feature press releases and minor releases of little value, we  came up with the following graph:
 
 
-![aws-feature-releases-by-year](http://cloudscaling.com/wp-content/uploads/2010/03/aws-feature-releases-by-year.png)
+![aws-feature-releases-by-year](/assets/media/2010/03/aws-feature-releases-by-year.png)
 
 
 

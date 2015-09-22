@@ -47,7 +47,7 @@ A multi-purpose tool is great in a pinch, but if you need to do real work, you n
 
 
 
-[![Ceph testing-13-RLB-edits.002](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.002.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.002.jpg)
+[![Ceph testing-13-RLB-edits.002](/assets/media/2015/08/Ceph-testing-13-RLB-edits.002.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.002.jpg)
 
 
 
@@ -108,7 +108,7 @@ Glossed over is that RADOS itself is reliant on an underlying filesystem to stor
 
 
 
-[![Ceph testing-13-RLB-edits.003](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.003.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.003.jpg)
+[![Ceph testing-13-RLB-edits.003](/assets/media/2015/08/Ceph-testing-13-RLB-edits.003.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.003.jpg)
 
 
 
@@ -118,7 +118,7 @@ So in a given data path, for example a block written to disk, there is a high le
 
 
 
-[![Ceph testing-13-RLB-edits.005](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.005.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.005.jpg)
+[![Ceph testing-13-RLB-edits.005](/assets/media/2015/08/Ceph-testing-13-RLB-edits.005.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.005.jpg)
 
 
 
@@ -128,7 +128,7 @@ In contrast, a purpose-built block storage system that does not compromise and i
 
 
 
-[![Ceph testing-13-RLB-edits.006](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.006.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.006.jpg)
+[![Ceph testing-13-RLB-edits.006](/assets/media/2015/08/Ceph-testing-13-RLB-edits.006.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.006.jpg)
 
 
 
@@ -297,7 +297,7 @@ As you can see from the following diagram, in terms of raw throughput, ScaleIO a
 
 
 
-[![Ceph testing-13-RLB-edits.014](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.014.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.014.jpg)
+[![Ceph testing-13-RLB-edits.014](/assets/media/2015/08/Ceph-testing-13-RLB-edits.014.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.014.jpg)
 
 
 
@@ -307,7 +307,7 @@ In terms of latency, Ceph’s situation is much grimmer, with Ceph having incred
 
 
 
-[![Ceph testing-13-RLB-edits.015](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.015.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.015.jpg)
+[![Ceph testing-13-RLB-edits.015](/assets/media/2015/08/Ceph-testing-13-RLB-edits.015.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.015.jpg)
 
 
 
@@ -332,7 +332,7 @@ In the meantime, here’s the brief summary table I put together:
 
 
 
-[![Ceph testing-13-RLB-edits.007](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.007.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/Ceph-testing-13-RLB-edits.007.jpg)
+[![Ceph testing-13-RLB-edits.007](/assets/media/2015/08/Ceph-testing-13-RLB-edits.007.jpg)](/assets/media/2015/08/Ceph-testing-13-RLB-edits.007.jpg)
 
 
 

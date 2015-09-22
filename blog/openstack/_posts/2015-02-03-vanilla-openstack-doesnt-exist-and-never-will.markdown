@@ -30,7 +30,7 @@ Vanilla OpenStack does not exist, never has existed, and never will exist.
 
 First of all, it’s a reasonable request.  The potential new OpenStack customer is indirectly asking for those things that led them to OpenStack in the first place.  The bi-annual user survey has already told us what people care about:
 
-[![OpenStack User Survey Fall 2014 v1 copy.001](http://cloudscaling.com/wp-content/uploads/2015/02/OpenStack-User-Survey-Fall-2014-v1-copy.001.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/OpenStack-User-Survey-Fall-2014-v1-copy.001.jpg)
+[![OpenStack User Survey Fall 2014 v1 copy.001](/assets/media/2015/02/OpenStack-User-Survey-Fall-2014-v1-copy.001.jpg)](/assets/media/2015/02/OpenStack-User-Survey-Fall-2014-v1-copy.001.jpg)
 
 The top reasons for OpenStack boil down to:
 
@@ -88,7 +88,7 @@ There are now 20 projects in OpenStack.  Removing libraries and non-shipping pr
 
 Many of these new projects are above the imaginary waterline many have created in their minds for OpenStack.  Meaning that for many OpenStack is an IaaS-only effort.  However, we can now see efforts like Zaqar, Sahara, and others are blurring the line and moving us up into PaaS land.
 
-[![Slide1](http://cloudscaling.com/wp-content/uploads/2015/02/Slide1.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/Slide1.jpg)
+[![Slide1](/assets/media/2015/02/Slide1.jpg)](/assets/media/2015/02/Slide1.jpg)
 
 So when a customer is asking for “OpenStack”, just what are they asking for?  The answer is that we don’t know and rarely do they.  The lack of definition on the part of the Board, the Foundation, and the TC has made explaining this very challenging.
 
@@ -133,7 +133,7 @@ That means in order to meet the actual requirements of the customer they have to
 
 If you look at the laundry list of storage actually used in production you’ll see that over half of all deployments take this option and that the default Cinder configuration is only 23% of production deployments:
 
-[![OpenStack User Survey Fall 2014 v1 - Block Storage Slide Only.001](http://cloudscaling.com/wp-content/uploads/2015/02/OpenStack-User-Survey-Fall-2014-v1-Block-Storage-Slide-Only.001.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/OpenStack-User-Survey-Fall-2014-v1-Block-Storage-Slide-Only.001.jpg)
+[![OpenStack User Survey Fall 2014 v1 - Block Storage Slide Only.001](/assets/media/2015/02/OpenStack-User-Survey-Fall-2014-v1-Block-Storage-Slide-Only.001.jpg)](/assets/media/2015/02/OpenStack-User-Survey-Fall-2014-v1-Block-Storage-Slide-Only.001.jpg)
 
 _Application Management_
 

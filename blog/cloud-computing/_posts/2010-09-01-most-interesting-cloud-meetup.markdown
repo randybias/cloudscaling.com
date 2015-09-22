@@ -13,7 +13,7 @@ tags:
 - VMWorld
 ---
 
-![most_interesting](http://cloudscaling.com/wp-content/uploads/2010/09/most_interesting.jpg)
+![most_interesting](/assets/media/2010/09/most_interesting.jpg)
 
 Relax after VMWorld and come share Dos Equis with the OpenStackers.
 
@@ -29,4 +29,4 @@ Come out and meet people working on OpenStack. (We're interesting people and wil
 [View Larger Map](http://maps.google.com/maps?f=d&source=embed&saddr=747+Howard+Street,+San+Francisco,+CA+94103-3118+(Moscone+Center)&daddr=130+Townsend+Street,+San+Francisco,+CA&hl=en&geocode=FeOKQAId4lS0-CFoS2zSNh8BvSmxZCp9h4CFgDE4t-jNRQDQdg%3BFcd7QAIdonO0-Ckn4lze13-PgDGYtSMo9kSdtw&mra=ltm&dirflg=w&sll=37.781061,-122.396965&sspn=0.01567,0.023603&ie=UTF8&ll=37.78156,-122.395375&spn=0.00542,0.00835)
 
 Stay Open My Friends
-![open-stack-cloud-computing-logo](http://cloudscaling.com/wp-content/uploads/2010/08/open-stack-cloud-computing-logo.png)
+![open-stack-cloud-computing-logo](/assets/media/2010/08/open-stack-cloud-computing-logo.png)

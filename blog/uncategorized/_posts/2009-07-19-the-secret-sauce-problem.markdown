@@ -24,7 +24,7 @@ Secret sauce comes in many flavors and sizes.  Some sites need software, some n
 This diagram illustrates how these particular solutions work:
 
 
-![secret-sauce-diagram](http://cloudscaling.com/wp-content/uploads/2009/07/secret-sauce-diagram-1024x549.jpg)
+![secret-sauce-diagram](/assets/media/2009/07/secret-sauce-diagram-1024x549.jpg)
 
 
 

@@ -53,7 +53,7 @@ Don't misunderstand me.  I *do* think some kind of multi-tenancy is important, 
 So, let's dig into this notion of hypervisor tenancy.  I have a couple of diagrams to show my point.  Assume we have 6 customers with 4 instances each on a cloud with 6 compute nodes.  Randomly distributed we see something roughly like this:
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt1.png)](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt1.png)
+[![](/assets/media/2011/03/hypervisor-shuffle-pt1.png)](/assets/media/2011/03/hypervisor-shuffle-pt1.png)
 
 
 
@@ -68,7 +68,7 @@ However, if we re-shuffle these instances and 'bin pack' them onto dedicated ser
 
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt2.png)](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt2.png)
+[![](/assets/media/2011/03/hypervisor-shuffle-pt2.png)](/assets/media/2011/03/hypervisor-shuffle-pt2.png)
 
 
 
@@ -83,7 +83,7 @@ Let's look at a more real world example, though, since most clouds don't run at 
 
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt3.png)](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt3.png)
+[![](/assets/media/2011/03/hypervisor-shuffle-pt3.png)](/assets/media/2011/03/hypervisor-shuffle-pt3.png)
 
 
 Here we have a cloud running at about 75% utilization rate with instances randomly distributed.  This is in pretty good shape, but of course, all of these open 'slots' aren't generating revenue anyway.  Of course, that's part of the business model, so no harm, no foul.
@@ -91,7 +91,7 @@ Here we have a cloud running at about 75% utilization rate with instances random
 Time to reshuffle!
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt4.png)](http://cloudscaling.com/wp-content/uploads/2011/03/hypervisor-shuffle-pt4.png)
+[![](/assets/media/2011/03/hypervisor-shuffle-pt4.png)](/assets/media/2011/03/hypervisor-shuffle-pt4.png)
 
 
 Right, so now we're still running at 75% for the entire cloud, but some customers are 25% utilization for their dedicated servers, some 50%, and some 100%.  Our cloud wide efficiency hasn't been reduced significantly, but per customer it has.  This also means that customers are going to control the efficiency rate quite a bit more we would like, holding certain physical servers to themselves if this is the same as the AWS Dedicated Instances model.

@@ -19,7 +19,7 @@ tags:
 
 Once you have [swift](https://launchpad.net/swift) services running, you are going to want to interact with them. (You can have them running in minutes if you want: [swift-solo](http://github.com/cloudscaling/swift-solo))
 
-[![OpenStack Logo](http://cloudscaling.com/wp-content/uploads/2010/08/OpenStack-Logo.png)](http://openstack.org)
+[![OpenStack Logo](/assets/media/2010/08/OpenStack-Logo.png)](http://openstack.org)
 
 Most of the currently available tools that interact with [Rackspace's Cloudfiles](http://www.rackspacecloud.com/cloud_hosting_products/files) are hardcoded to that API endpoint, so even though the APIs are virtually identical, most the current releases don't work with swift yet. Since we needed something for testing and demonstrations, we've been patching some of the third party projects to store and retrieve files with swift. Here's a couple quick examples using [Cyberduck](http://cyberduck.ch/), a GUI program, and [Fog](http://github.com/geemus/fog), a Ruby gem, from the command line.
 
@@ -71,7 +71,7 @@ Objects: 0`
 ## **Using Cyberduck**
 
 
-[![cyberduck logo](http://cloudscaling.com/wp-content/uploads/2010/08/cyberduck-logo.gif)](http://cyberduck.ch/)
+[![cyberduck logo](/assets/media/2010/08/cyberduck-logo.gif)](http://cyberduck.ch/)
 
 
 Download the [Cyberduck sources](http://cyberduck.ch/Cyberduck-3.5.1.zip), and edit the Protocol.java and lib/cloudfiles.properties to reflect the new endpoint following the [instructions in the swift documentation](http://swift.openstack.org/howto_cyberduck.html). (go Caleb!)
@@ -89,7 +89,7 @@ Then rebuild cyberduck, and start it.  You should be able to interact with your
 ## **Using fog**
 
 
-![fog](http://cloudscaling.com/wp-content/uploads/2010/08/fog-300x120.jpg)
+![fog](/assets/media/2010/08/fog-300x120.jpg)
 
 
 We have provided a patch to the [fog](http://github.com/geemus/fog) gem to enable support for Swift, as of version 0.2.27.  Install the fog gem, then setup your ~/.fog configuration file:

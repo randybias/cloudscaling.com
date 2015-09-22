@@ -26,7 +26,7 @@ I'm borrowing this notion from Alistair Croll ([linkedin](http://www.linkedin.co
 
 Service clouds shy away from the notion that you must be either Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), or Software-as-a-Service (SaaS).  They provide a slice of on-demand services that include all of these as shown in this diagram:
 
-![Service Cloud Illustration](http://cloudscaling.com/wp-content/uploads/2009/05/cloudstack-iaas-paas-saas1-1024x464.png)
+![Service Cloud Illustration](/assets/media/2009/05/cloudstack-iaas-paas-saas1-1024x464.png)
 
 The best examples of service clouds are Amazon, Google, and Microsoft.  All three either provide, or are in the process of providing, a complete ecosystem that includes elements of infrastructure, platform, and software (applications).  Service clouds are also 'cloud [platforms](http://blog.pmarca.com/2007/09/the-three-kinds.html)' (not to be confused with PaaS).  Platform in the same sense that an operating system is a 'platform'.
 

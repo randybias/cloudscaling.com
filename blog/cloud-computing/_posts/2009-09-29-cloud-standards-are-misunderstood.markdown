@@ -39,7 +39,7 @@ You see, just as cloud computing has been hard to pin down, so has any handful o
   * Platform-as-a-Service (PaaS) control & management APIs
 
 
-[caption id="attachment_564" align="alignright" width="368" caption="Figure 1. Cloud Stack with Target Customers"]![Figure 1. Cloud Stack with Target Customers](http://cloudscaling.com/wp-content/uploads/2009/09/cloud-stack-with-target-customers-1024x776.png)[/caption]
+[caption id="attachment_564" align="alignright" width="368" caption="Figure 1. Cloud Stack with Target Customers"]![Figure 1. Cloud Stack with Target Customers](/assets/media/2009/09/cloud-stack-with-target-customers-1024x776.png)[/caption]
 
 If you go back to the original 3-layer 'cloud stack' that most use as a starting point for any cloud conversation (see Figure 1. right), it's worth noticing that software (applications), platforms, and infrastructure all solve different problems and have different stakeholders with different concerns.  On top of this, there is quite a bit of interdependence between the layers[1].  The result is that each layer, each stakeholder, and each technology have different needs that must be  met through standardization.
 

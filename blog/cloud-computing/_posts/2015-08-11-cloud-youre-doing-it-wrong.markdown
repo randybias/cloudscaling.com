@@ -63,7 +63,7 @@ What kind of company does this look like to you?
 
 
 
-[![citibank-greg-lavander-wordcloud](http://cloudscaling.com/wp-content/uploads/2015/08/citibank-greg-lavander-wordcloud-1024x379.jpg)](http://cloudscaling.com/wp-content/uploads/2015/08/citibank-greg-lavander-wordcloud.jpg)
+[![citibank-greg-lavander-wordcloud](/assets/media/2015/08/citibank-greg-lavander-wordcloud-1024x379.jpg)](/assets/media/2015/08/citibank-greg-lavander-wordcloud.jpg)
 
 
 

@@ -25,7 +25,7 @@ tags:
 
 
 
-![vert-scaling-diagram1](http://cloudscaling.com/wp-content/uploads/2009/07/vert-scaling-diagram1-269x299.png)It can be confusing to understand how to scale computing systems, but it's not rocket science.  There are really only two main axes of scale: out and up.  Closely related to the axis of scale is the general type of architecture: centralized or decentralized.  In this article I'm going to briefly revisit scaling and then talk about centralized vs. decentralized architectures.
+![vert-scaling-diagram1](/assets/media/2009/07/vert-scaling-diagram1-269x299.png)It can be confusing to understand how to scale computing systems, but it's not rocket science.  There are really only two main axes of scale: out and up.  Closely related to the axis of scale is the general type of architecture: centralized or decentralized.  In this article I'm going to briefly revisit scaling and then talk about centralized vs. decentralized architectures.
 
 
 **The Axes of Scale**
@@ -49,7 +49,7 @@ Scale-out means use more of a single unit of resource (below), while scale-up m
 
 
 
-![horizontal-scaling-diagram](http://cloudscaling.com/wp-content/uploads/2009/07/horizontal-scaling-diagram-1024x227.png)
+![horizontal-scaling-diagram](/assets/media/2009/07/horizontal-scaling-diagram-1024x227.png)
 
 
 

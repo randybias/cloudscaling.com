@@ -12,7 +12,7 @@ tags:
 - GoGrid
 ---
 
-[![Gartner Magic Quadrant for Hosting/Cloud](http://cloudscaling.com/wp-content/uploads/2009/07/168687_0001.png)](http://mediaproducts.gartner.com/reprints/gogrid/article2/article2.html)
+[![Gartner Magic Quadrant for Hosting/Cloud](/assets/media/2009/07/168687_0001.png)](http://mediaproducts.gartner.com/reprints/gogrid/article2/article2.html)
 
 This slipped by me, but looks like [GoGrid](http://www.gogrid.com) made the famous Gartner 'magic quadrant' for [Web Hosting and](http://mediaproducts.gartner.com/reprints/gogrid/article2/article2.html)[ Hosted Cloud Infrastructure Services (On Demand)](http://mediaproducts.gartner.com/reprints/gogrid/article2/article2.html).[1]  You can see the quadrant here to the right.
 

@@ -22,7 +22,7 @@ This is the first post that will refer to aspects of James' talk (and I plan at 
 
 Central to James' presentation is the breaking down the total cost of ownership of computational infrastructure. His breakdown is based on his own data running web scale services and he provides us with a great analysis on the inevitability and sustainability of cloud computing business models. One of the key points James makes is that the only variable cost in the chart is the cost of power.
 
-[caption id="attachment_1026" align="alignnone" width="300" caption="Cost Breakdown from James' Hamilton"]![Cost Breakdown from James' Hamilton](http://cloudscaling.com/wp-content/uploads/2010/05/james-hamilton-pie-chart-300x188.png)[/caption]
+[caption id="attachment_1026" align="alignnone" width="300" caption="Cost Breakdown from James' Hamilton"]![Cost Breakdown from James' Hamilton](/assets/media/2010/05/james-hamilton-pie-chart-300x188.png)[/caption]
 
 The thing I want to focus on here is the missing cost of personnel. James touches on this at different points discussing administration and automation. He gives out the number 'as low as 3% for services', so I'm assuming he is burying this as a negligible cost. I would argue that this cost is actually highly variable, and, while correlated with scale, is also a function of the types of services an organization provides and how those services relate to the core business. Additionally, automation investments can be scaled down effectively, but that's what I've been working on for a couple years so this is likely a reflection of my bias.
 

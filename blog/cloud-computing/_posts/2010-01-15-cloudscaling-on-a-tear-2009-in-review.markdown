@@ -20,7 +20,7 @@ In particular, a number of articles posted here last year were extremely widely 
 Here's a chart showing our blog traffic growth over 2009:
 
 
-![2009-cloudscaling-blog-stats](http://cloudscaling.com/wp-content/uploads/2010/01/2009-cloudscaling-blog-stats.png)
+![2009-cloudscaling-blog-stats](/assets/media/2010/01/2009-cloudscaling-blog-stats.png)
 
 
 

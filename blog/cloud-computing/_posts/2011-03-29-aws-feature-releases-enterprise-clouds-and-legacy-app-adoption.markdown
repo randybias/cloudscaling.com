@@ -23,13 +23,13 @@ A couple of weeks ago I posted about Amazon's continued [rapid release cycle](ht
 The stacked graph by service is as follows (click through for full size image):
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/very-big-stacked-graph.png)](http://cloudscaling.com/wp-content/uploads/2011/03/very-big-stacked-graph.png)
+[![](/assets/media/2011/03/very-big-stacked-graph.png)](/assets/media/2011/03/very-big-stacked-graph.png)
 
 
 And here is a slightly different view that unpacks the various services a bit:
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/03/very-big-unstacked-graph.png)](http://cloudscaling.com/wp-content/uploads/2011/03/very-big-unstacked-graph.png)
+[![](/assets/media/2011/03/very-big-unstacked-graph.png)](/assets/media/2011/03/very-big-unstacked-graph.png)
 
 
 
