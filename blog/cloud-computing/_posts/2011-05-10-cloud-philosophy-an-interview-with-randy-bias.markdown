@@ -26,7 +26,7 @@ It's an hour long interview, but with a lot of high quality content, so it's wor
 <!-- more -->
 
 
-<blockquote>
+
 
 > 
 > 

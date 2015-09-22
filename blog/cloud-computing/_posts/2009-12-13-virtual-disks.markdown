@@ -40,7 +40,7 @@ The bonnie++ command line was as simple as possible:
 
 
 
-<blockquote>bonnie++ -n 512</blockquote>
+bonnie++ -n 512</blockquote>
 
 
 

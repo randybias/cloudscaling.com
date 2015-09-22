@@ -22,7 +22,7 @@ Once again, Wikipedia to the rescue where we find that a [datacenter](http://en.
 
 
 
-<blockquote>... a facility used to house computer systems and associated components, such as telecommunications and storage systems. It generally includes redundant or backup power supplies, redundant data communications connections, environmental controls (e.g., air conditioning, fire suppression) and security devices.</blockquote>
+... a facility used to house computer systems and associated components, such as telecommunications and storage systems. It generally includes redundant or backup power supplies, redundant data communications connections, environmental controls (e.g., air conditioning, fire suppression) and security devices.</blockquote>
 
 
 
@@ -60,7 +60,7 @@ The distributed computing entry on Wikipedia gives us some background, but suffe
 
 
 
-<blockquote>A programming paradigm focusing on designing distributed, open, scalable, transparent, fault tolerant systems. This paradigm is a natural result of the use of computers to form networks.</blockquote>
+A programming paradigm focusing on designing distributed, open, scalable, transparent, fault tolerant systems. This paradigm is a natural result of the use of computers to form networks.</blockquote>
 
 
 

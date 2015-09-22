@@ -19,7 +19,7 @@ Earlier this week, I gave the keynote address at the [Storage Plumbing and Data 
 
 My keynote was an updated version of the “[State of the Stack](http://go.cloudscaling.com/state-of-the-stack-2013)” presentation on OpenStack and cloud computing that I’ve given several times since the OpenStack Summit in Portland a couple of months ago. Everywhere I’ve given this presentation to a non-OpenStack audience, I ask the audience:
 
-<blockquote>**"How many of you are familiar with OpenStack?"**
+**"How many of you are familiar with OpenStack?"**
 > 
 > </blockquote>
 

@@ -117,7 +117,7 @@ The key quote is here:
 
 
 
-<blockquote>
+
 
 > 
 > “We will spend the majority of our development efforts on this New World,” wrote [Urs] Hölzle. “Every developer will want to live in this world…and it’s our job to build it.”

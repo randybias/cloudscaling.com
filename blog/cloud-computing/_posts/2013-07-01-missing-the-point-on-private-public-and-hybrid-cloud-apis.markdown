@@ -25,7 +25,7 @@ That assumption is that app architects and enterprise IT teams intuitively under
 
 APIs usually reflect the underlying architectural assumptions of a given system. In the case of infrastructure clouds this means:
 
-<blockquote>**The capabilities of an API are only as good as that infrastructure’s ability to deliver on what the API promises. And elastic clouds like AWS deliver different services than enterprise architectures like VCE’s VBlock.**
+**The capabilities of an API are only as good as that infrastructure’s ability to deliver on what the API promises. And elastic clouds like AWS deliver different services than enterprise architectures like VCE’s VBlock.**
 > 
 > </blockquote>
 

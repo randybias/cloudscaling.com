@@ -14,7 +14,7 @@ old_categories:
 I've talked about this idea many times and it's been picked up and echoed by many in the mainstream media.  The idea is this:
 
 
-<blockquote>Cloud computing is a new paradigm for IT that displaces the current dominant paradigm, enterprise computing.  This is in the same way that enterprise computing (or "client/server") displaced mainframe computing as the dominant paradigm.</blockquote>
+Cloud computing is a new paradigm for IT that displaces the current dominant paradigm, enterprise computing.  This is in the same way that enterprise computing (or "client/server") displaced mainframe computing as the dominant paradigm.</blockquote>
 
 
 This is a powerful and important idea to understand and internalize.  It sets some of the common misconceptions about cloud on their head such as it being about [virtualization](http://www.zdnet.com/blog/virtualization/virtualization-isnt-cloud-computing/2182) (incorrect), [outsourcing](http://cloudscaling.com/blog/cloud-computing/the-cloud-is-not-outsourcing) (incorrect), or business models like "pay-as-you-go" (incorrect).
@@ -24,7 +24,7 @@ Cloud computing is a new paradigm for IT in the same way that robotics automatio
 This is why in many of my [presentations](http://www.slideshare.net/randybias/cloudscaling-presentation-at-tm-forum-management-world-dublin-2011) I say:
 
 
-<blockquote>While the terms "cloud" and "cloud computing" may be hotly debated, I have never once heard anyone credibly refute that these ideas were pioneered and implemented by today's web giants such as Amazon, Google, and Facebook.</blockquote>
+While the terms "cloud" and "cloud computing" may be hotly debated, I have never once heard anyone credibly refute that these ideas were pioneered and implemented by today's web giants such as Amazon, Google, and Facebook.</blockquote>
 
 
 This is where we get back to that first statement.  I'm not throwing around words like 'paradigm' because I feel like being a marketing drone.  I'm talking about fundamental and deep changes to how the entire IT stack is designed, delivered, and managed.  Try taking the Open Compute project hardware as-is and putting it in any modern enterprise datacenter.  Try taking one of Google's custom Ethernet switches and doing the same.  Or perhaps you could take a typical enterprise IT admin and give him a week to try and figure out how to administer Amazon EC2.

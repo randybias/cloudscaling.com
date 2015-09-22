@@ -11,6 +11,8 @@
 	background: url('/assets/images/page-loader.gif') 50% 50% no-repeat rgb(249,249,249);
 }
 
+.site-container,
+.home,
 .post {
 	max-width: $content-width;
 	margin-left: $content-left-margin;

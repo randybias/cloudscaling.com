@@ -20,7 +20,7 @@ Unfortunately, none of this exists and probably none of it should have ever been
 
 The problem can be summed up by a request I still see regularly from customers:
 
-<blockquote>I want ‘vanilla OpenStack’
+I want ‘vanilla OpenStack’
 > 
 > </blockquote>
 
@@ -59,7 +59,7 @@ Which immediately leads into the next problem: what is “OpenStack”?  Which 
 
 UPDATE: to be more clear, the baseline set above *does* have a name. It is called "core" and called out in section 4.1 of the [bylaws](http://www.openstack.org/legal/bylaws-of-the-openstack-foundation/), which is below. I apologize for the confusion as "core" has been overloaded a fair bit in discussions on the board and at one point trademark rights were tied to "core".
 
-<blockquote>4.1 General Powers.
+4.1 General Powers.
 > 
 > (a) The business and affairs of the Foundation shall be managed by or under the direction of a Board of Directors, who may exercise all of the powers of the Foundation except as otherwise provided by these Bylaws.  
 (b) The management of the technical matters relating to the OpenStack Project shall be managed by the Technical Committee. The management of the technical matters for the OpenStack Project is designed to be a technical meritocracy. The **“OpenStack Project” shall consist of a “Core OpenStack Project,”** library projects, gating projects and supporting projects. . The Core OpenStack Project **means the software modules which are part of an integrated release and for which an OpenStack trademark may be used.** The other modules which are part of the OpenStack Project, but **not the Core OpenStack Project may not be identified using the OpenStack trademark except when distributed with the Core OpenStack Project.** The role of the Board of Directors in the management of the OpenStack Project and the Core OpenStack Project are set forth in Section 4.13. **On formation of the Foundation, the Core OpenStack Project is the Block Storage, Compute, Dashboard, Identity Service, Image Service, Networking, and Object Storage modules.** The Secretary shall maintain a list of the modules in the Core OpenStack Project which shall be posted on the Foundation’s website.

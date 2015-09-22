@@ -42,7 +42,7 @@ When looking at the CloudHarmony results it's important to look carefully at the
 The first benchmark provided is CPU Performance for Large Servers.  Here, the top performer listed is BlueLock with 29.2 CCUs.  This number marginally edges out the KT private cloud numbers at 28.66.  However, the BlueLock VM tested was running 8 x 2.67Ghz cores (roughly 21.36Ghz) vs. 6 x 2Ghz cores (roughly 12Ghz).  In this particular example the "6x2Ghz" for the KT VM indicates that the vCPUs (virtual CPUs) are capped at 2 Ghz each.  That means, we’re actually looking at:
 
 
-<blockquote>
+
 
 > 
 > 29.2 CCUs for 21.36Ghz of total CPU clock speed vs.

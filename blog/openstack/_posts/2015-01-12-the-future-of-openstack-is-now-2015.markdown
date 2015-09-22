@@ -131,7 +131,7 @@ We asked for this when we encouraged an inclusive environment and I certainly do
 
 
 
-<blockquote>
+
 
 > 
 > _We need OpenStack by Design and Intent, not by accident._

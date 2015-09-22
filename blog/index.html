@@ -22,7 +22,11 @@ include_pagination: true
 
 		<div class="content">
 			<div class="excerpt">
+			{% if forloop.index == 1%}
+				{{ post.content }}
+			{% else %}
 				{{ post.content | truncatewords: 50 }}
+			{% endif %}
 			</div>  
 		</div>
 	</div>

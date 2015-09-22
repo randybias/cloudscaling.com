@@ -15,7 +15,7 @@ tags:
 
 Two and a half years ago I wrote about the inevitable throwdown between VMware and Amazon Web Services (AWS), but recently VMware’s senior leadership appeared to [outright admit defeat](http://www.crn.com/news/cloud/240149626/vmware-top-execs-lash-out-at-amazon-public-cloud.htm).  The message to VMware’s partners was simple:
 
-<blockquote>"We want to own corporate workload," said Pat Gelsinger, VMware’s CEO. "We all lose if they end up in these commodity public clouds.”
+"We want to own corporate workload," said Pat Gelsinger, VMware’s CEO. "We all lose if they end up in these commodity public clouds.”
 > 
 > </blockquote>
 

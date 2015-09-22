@@ -26,7 +26,7 @@ We get a lot of inquiries from clients, potential clients, friends of the family
 Some of this will seem self-evident to those in the OpenStack community, but for those outside, I think they represent a fairly common set of questions that folks ask when trying to understand where Swift is at.
 
 
-<blockquote>** Q**: Are there commercial installations of Swift ? Any changes to the code in those deployments?
+** Q**: Are there commercial installations of Swift ? Any changes to the code in those deployments?
 
 A: Outside of Rackspace, we know of three additional commercial deployments: Internap's XIPCloud, KT's ucloud and Nephoscale. We are aware of a number of other folks working on deployments, but can't name names. Altogether, these are some very large deployments outside of Rackspace that are running Swift in production. The core of Swift has been battle-tested not just by Rackspace, but by these other service providers as well.
 

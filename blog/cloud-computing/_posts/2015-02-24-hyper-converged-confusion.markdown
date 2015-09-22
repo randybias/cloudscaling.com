@@ -34,13 +34,13 @@ There are some definitions out there that we can leverage to set initial context
 
 [Converged infrastructure](http://searchdatacenter.techtarget.com/definition/converged-infrastructure) (CI):
 
-<blockquote>Converged infrastructure (CI) is an approach to data center management that relies on a specific vendor and the vendor’s partners to provide pre-configured bundles of hardware and software in a single chassis.
+Converged infrastructure (CI) is an approach to data center management that relies on a specific vendor and the vendor’s partners to provide pre-configured bundles of hardware and software in a single chassis.
 > 
 > </blockquote>
 
 [Hyper-converged infrastructure](http://searchvirtualstorage.techtarget.com/definition/hyper-convergence) (HCI):
 
-<blockquote>Hyper-convergence (hyperconvergence) is a type of infrastructure system with a software-centric architecture that tightly integrates compute, storage, networking and virtualization resources and other technologies from scratch in a commodity hardware box supported by a single vendor. 
+Hyper-convergence (hyperconvergence) is a type of infrastructure system with a software-centric architecture that tightly integrates compute, storage, networking and virtualization resources and other technologies from scratch in a commodity hardware box supported by a single vendor. 
 > 
 > </blockquote>
 

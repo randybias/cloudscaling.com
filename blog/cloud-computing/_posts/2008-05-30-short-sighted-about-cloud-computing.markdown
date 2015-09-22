@@ -50,7 +50,7 @@ Web services are historically a large business (i.e. 'enterprise') based technol
 Cloud services are _fundamentally game changing_, where web services are just 'ho-hum'.  They are the final democratization and commoditization of 'web services' out in the cloud, usually created by many different organizations, and consumed by anyone.  This is a natural response to market forces seeking to have more control, scale, and usage from 'web services'.  Web services, like most recent Internet related technologies are more interesting when the power of 'the net' is applied.  In other words:
 
 
-<blockquote>
+
 web services ('ho-hum') + network effect == cloud services ('holy cow!')
 </blockquote>
 

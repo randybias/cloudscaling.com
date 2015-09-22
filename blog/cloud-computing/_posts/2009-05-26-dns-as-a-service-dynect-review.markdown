@@ -23,7 +23,7 @@ Domain Name Service (DNS) is a crucial part of the cloud infrastructure stack th
 ** The Domain Name Service (DNS) does one thing very well. It translates IP addresses into hostnames and vice versa:
 
 
-<blockquote>192.168.1.1 -> firewall.company.com
+192.168.1.1 -> firewall.company.com
 
 firewall.company.com -> 192.168.1.1</blockquote>
 
@@ -31,7 +31,7 @@ firewall.company.com -> 192.168.1.1</blockquote>
 This makes it trivial to type URLs into your browser bar. For instance:
 
 
-<blockquote>http://www.google.com</blockquote>
+http://www.google.com</blockquote>
 
 
 Behind the scenes DNS looks up the IP address(es) for 'www.google.com' and your computer can connect directly.

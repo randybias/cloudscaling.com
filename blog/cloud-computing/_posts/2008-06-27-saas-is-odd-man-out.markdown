@@ -15,7 +15,7 @@ old_categories:
 [Here](http://www.readwriteweb.com/archives/working_the_clouds.php) is a review of a panel at the recent [Structure '08](http://events.gigaom.com/structure/08/) conference by Lidjia Davis.  It's a quick synopsis followed by a so-called 'Cloud Computing Primer' with a particularly questionable assertion:
 
 
-<blockquote>
+
 However, the general consensus is that cloud computing has become an umbrella term covering various solutions.
 </blockquote>
 
