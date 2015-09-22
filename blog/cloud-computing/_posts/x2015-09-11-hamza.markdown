@@ -166,9 +166,9 @@ Renders to:
 and this HTML:
 
 ``` html
-<blockquote>
+
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-</blockquote>
+
 ```
 
 Blockquotes can also be nested:

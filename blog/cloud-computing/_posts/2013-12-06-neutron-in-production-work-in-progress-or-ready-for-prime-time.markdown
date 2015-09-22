@@ -42,12 +42,12 @@ Our panel set out to discern the reality from hype in SDN and Neutron Networking
 
 
 
-<blockquote>
+
 
 > 
 > Do we really need Neutron? Is nova-network good enough since many of the biggest OpenStack deployments are using nova-network with their own plug-ins?
 > 
-> </blockquote>
+
 
 
 
@@ -62,12 +62,12 @@ Next, we took on a more challenging line of questioning:
 
 
 
-<blockquote>
+
 
 > 
 > Given that Neutron will support some critical functionality that will never be in Nova, is it the right place to dump _all_ networking functionality in OpenStack like load balancing as a service, VPN as a service, you-name-it as a service?
 > 
-> </blockquote>
+
 
 
 
@@ -82,12 +82,12 @@ This led into a conversation about the fact that people want to expose certain f
 
 
 
-<blockquote>
+
 
 > 
 > Should the API expose the lowest common denominator of functionality, or should it allow vendors to have all kind of extended functionality that's specific to their products? Does it make sense to have all of the functionality of all networking abstractions possible in one single unified API, or does it make more sense for Neutron to be a lower-level system that stitches together higher-order network services and just does basic service chaining, allowing you to manage each of those other individual network services via their own API's directly?
 > 
-> </blockquote>
+
 
 
 
@@ -102,12 +102,12 @@ Next, we explored the question:
 
 
 
-<blockquote>
+
 
 > 
 > Given that we need Neutron and its added functionality over time, is vanilla Neutron ready for production today, without any vendor plug ins?
 > 
-> </blockquote>
+
 
 
 
@@ -127,12 +127,12 @@ This begs another big question:
 
 
 
-<blockquote>
+
 
 > 
 > How do you get into production with Neutron today and still avoid vendor lock-in?
 > 
-> </blockquote>
+
 
 
 

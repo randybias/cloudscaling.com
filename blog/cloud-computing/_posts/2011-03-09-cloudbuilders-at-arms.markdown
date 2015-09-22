@@ -12,7 +12,7 @@ tags:
 - OpenStack
 ---
 
-<blockquote>The rising tide raises all boats.</blockquote>
+The rising tide raises all boats.
 
 
 

@@ -27,13 +27,13 @@ Here's the [Wikipedia page on hybrid](http://en.wikipedia.org/wiki/Hybrid).  As 
 
 
 
-<blockquote>
+
 
 >     
 >     A + B = C
 > 
 > 
-</blockquote>
+
 
 
 
@@ -65,13 +65,13 @@ The fundamental issue with all of these (except arguably the third, but I'll cov
 
 
 
-<blockquote>
+
 
 >     
 >     A + B = A + B
 > 
 > 
-</blockquote>
+
 
 
 

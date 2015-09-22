@@ -26,7 +26,7 @@ _In other words, on an open source project to open source project comparison, Cl
 Here's what I said in the GigaOm article[1]:
 
 
-<blockquote> The default AWS networking is a flat layer-3 network, which CloudStack can support, but typically does not. Much of their value-added functionality (e.g. load balancing, network area translation) disappears when using flat networking. Default CloudStack deployments aren’t network compatible with AWS.</blockquote>
+ The default AWS networking is a flat layer-3 network, which CloudStack can support, but typically does not. Much of their value-added functionality (e.g. load balancing, network area translation) disappears when using flat networking. Default CloudStack deployments aren’t network compatible with AWS.
 
 
 

@@ -32,12 +32,12 @@ Mr. Moore’s article starts off on sound footing:
 
 
 
-<blockquote>
+
 
 > 
 > “the economics of cloud computing are so compelling it is clear, over time, that it will reengineer the entire landscape of enterprise IT.”
 > 
-> </blockquote>
+
 
 
 

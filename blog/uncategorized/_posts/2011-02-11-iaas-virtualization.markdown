@@ -15,7 +15,7 @@ Infrastructure-as-a-Service (IaaS) is not virtualization-on-demand.  I realize 
 Simply put:
 
 
-<blockquote>Virtualization ≠ IaaS</blockquote>
+Virtualization ≠ IaaS
 
 
 I know many of you are clear on this.  I'm just taking a strong stand on the poisoning or dilution of the definition of IaaS.

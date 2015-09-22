@@ -34,23 +34,23 @@ For any cloud provider, public or private, our first step is to conduct a viabil
 
 Our next step was to log into the VMs, assign “roles,” and make them aware of each other via Stackato’s admin client called “kato” :
 
-<blockquote>$ ssh stackato@208.75.128.166 $ kato rename 208.75.128.166.xip.io $ kato disable mdns $ sudo reboot $ kato setup core api.208.75.128.166.xip.io $ kato enable stager
+$ ssh stackato@208.75.128.166 $ kato rename 208.75.128.166.xip.io $ kato disable mdns $ sudo reboot $ kato setup core api.208.75.128.166.xip.io $ kato enable stager
 > 
-> </blockquote>
+
 
 Note that the non-core nodes needed to access the core node via its LAN ip address, in this case on the 10.*.*.* network.
 
 On each non-core node:
 
-<blockquote>$ kato attach -e dea 10.0.5.6
+$ kato attach -e dea 10.0.5.6
 > 
-> </blockquote>
+
 
 On data-services node:
 
-<blockquote>$ kato attach -e data-services 10.0.5.6
+$ kato attach -e data-services 10.0.5.6
 > 
-> </blockquote>
+
 
 At that point, everything worked exactly the same on OCS as it would on a Vanilla OpenStack deployment. This was exciting news for us! Manually building a cluster was a breeze. We now had a MVP Stackato Private PaaS cluster running on OCS, and we logged into the Stackato Management Console to begin our viability testing.
 
@@ -70,27 +70,27 @@ To achieve this, we created a DEA template from the Stackato VM. Once the node b
 
 We used the following commands on a fresh Stackato VM:
 
-<blockquote>$ kato attach -e dea CORE_IP {joins the node to the cluster}  
+$ kato attach -e dea CORE_IP {joins the node to the cluster}  
 $ touch /home/stackato/.stackato-dea-template {tell the node it’s a template}  
 $ sudo poweroff
 > 
-> </blockquote>
+
 
 Now ssh back into the Core Node of the cluster to enable auto-scaling and restart the health manager with this new piece of vital information:
 
-<blockquote>$ stackato ssh api  
+$ stackato ssh api  
 $ kato config --json health_manager enable_autoscaling 'true'  
 $ kato restart health_manager
 > 
-> </blockquote>
+
 
 We now needed to let the cloud controller know that we were on an OpenStack cloud. This was [achieved by adding system-specific details ](http://docs.stackato.com/cluster/autoscaling.html#ec2-openstack-configuration-file)into  the file openstack_config.yml and then restarting both the cloud controller and the health manager:
 
-<blockquote>$ kato config --json cloud_controller primary_scaling_platform '"openstack"'  
+$ kato config --json cloud_controller primary_scaling_platform '"openstack"'  
 $ kato config --json cloud_controller openstack_config '"/home/stackato/stackato/etc/openstack_config.yml"'  
 $ kato restart cloud_controller health_manager
 > 
-> </blockquote>
+
 
 Now, we were finally ready to put Stackato through its paces.
 
@@ -117,7 +117,7 @@ True to form, the Stackato Health Manager issued the expected notifications to t
 
 
 
-<blockquote>
+
 
 >     
 >     
@@ -141,7 +141,7 @@ True to form, the Stackato Health Manager issued the expected notifications to t
 >     
 > 
 > 
-</blockquote>
+
 
 
 

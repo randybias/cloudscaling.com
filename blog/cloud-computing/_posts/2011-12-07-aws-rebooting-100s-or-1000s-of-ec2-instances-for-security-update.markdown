@@ -21,7 +21,7 @@ Please comment or email info@cloudscaling.com if you have any additional informa
 **UPDATE2**: I am [live-tweeting](http://twitter.com/randybias) new information as it comes in.  Latest is that we have confirmed that both 32-bit and 64-bit instances affected.  Some speculation that any instance booted before 12/5/2011 is affected, which is probably most of AWS globally.  Best guess is the above security advisory is the root cause ([CVE-2011-1166](http://security-tracker.debian.org/tracker/CVE-2011-1166)) of the reboots and AWS is probably just being cautious rebooting 32-bit instances.
 
 
-<blockquote>From: Amazon Web Services
+From: Amazon Web Services
 Subject: Amazon EC2 Maintenance - Reboot Required
 Date: December 6, 2011 11:35:53 AM EST
 
@@ -63,4 +63,4 @@ http://aws.amazon.com/support
 Sincerely,
 Amazon Web Services
 
-This message was produced and distributed by Amazon Web Services LLC, 410 Terry Avenue North, Seattle, Washington 98109-5210</blockquote>
+This message was produced and distributed by Amazon Web Services LLC, 410 Terry Avenue North, Seattle, Washington 98109-5210

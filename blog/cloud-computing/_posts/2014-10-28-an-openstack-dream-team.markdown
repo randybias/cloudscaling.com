@@ -12,9 +12,9 @@ old_categories:
 
 If you’re following the buzz surrounding the EMC acquisition of Cloudscaling, you might wonder:
 
-<blockquote>Is this a mismatch, or am I missing something?
+Is this a mismatch, or am I missing something?
 > 
-> </blockquote>
+
 
 Yes. You’re missing something. Let me explain.
 

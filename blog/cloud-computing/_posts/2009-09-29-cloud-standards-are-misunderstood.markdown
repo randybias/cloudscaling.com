@@ -49,7 +49,7 @@ This will result in the hundreds to thousands of standards predicted earlier thi
 With just a little searching you will find two main arguments for and against standards, both of which are largely misguided.  The first argument goes something like this:
 
 
-<blockquote>If we spend too much time creating cloud standards now, we'll stifle innovation and slow down cloud computing adoption.  Just look at the Web Services (e.g. WS-*, WS-I, and SOAP) initiatives!</blockquote>
+If we spend too much time creating cloud standards now, we'll stifle innovation and slow down cloud computing adoption.  Just look at the Web Services (e.g. WS-*, WS-I, and SOAP) initiatives!
 
 
 I've been guilty of this particular perspective myself, but have begun to see the light. More in a moment...
@@ -57,13 +57,13 @@ I've been guilty of this particular perspective myself, but have begun to see th
 The second argument goes something like this:
 
 
-<blockquote>If we don't create standards sooner cloud computing will become a giant morass of competing proprietary standards that will impede progress and slow cloud computing adoption.</blockquote>
+If we don't create standards sooner cloud computing will become a giant morass of competing proprietary standards that will impede progress and slow cloud computing adoption.
 
 
 What you don't usually hear is the middle-ground argument, which is where I sit now:
 
 
-<blockquote>We need some cloud standards now and some later.  We need to prioritize those standards upon which others will be built as standards don't appear in isolation.  We need to be smart and keep the foundational standards simple and easy to extend, while laying the groundwork for more standards in the future.</blockquote>
+We need some cloud standards now and some later.  We need to prioritize those standards upon which others will be built as standards don't appear in isolation.  We need to be smart and keep the foundational standards simple and easy to extend, while laying the groundwork for more standards in the future.
 
 
 Why does this make sense?  Because standards evolve in a continuum.  They aren't created all at once and they do have interrelationships, just like the elements of the cloud stack above.

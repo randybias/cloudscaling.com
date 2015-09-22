@@ -19,7 +19,7 @@ The success of Salesforce.com (SFDC) can teach us a lot about cloud and the emer
 SFDC popularized a whole new category of on-demand service called [Software-as-a-Service (SaaS)](http://en.wikipedia.org/wiki/SaaS), that most people are familiar with now.  SaaS was largely a response to an earlier failed business model called "Application Service Providers" or ASP.  The ASP model focused on delivering off-the-shelf applications in a hosted model over the Internet.  The Wikipedia article linked to above says:
 
 
-<blockquote>Software as a service is essentially an extension of the idea of the ASP model. The term _Software as a Service (SaaS)_, however, is commonly used in more specific settings: whereas most initial application service providers focused on managing and hosting third-party [independent software vendors](http://en.wikipedia.org/wiki/Independent_software_vendor)' software, contemporary software-as-a-service vendors typically develop and manage their own software</blockquote>
+Software as a service is essentially an extension of the idea of the ASP model. The term _Software as a Service (SaaS)_, however, is commonly used in more specific settings: whereas most initial application service providers focused on managing and hosting third-party [independent software vendors](http://en.wikipedia.org/wiki/Independent_software_vendor)' software, contemporary software-as-a-service vendors typically develop and manage their own software
 
 
 So, for example, you might see a list of off-the-shelf ASP applications from ISVs such as:
@@ -57,7 +57,7 @@ So, for example, you might see a list of off-the-shelf ASP applications from ISV
 As we all know, the ASP business model bombed and bombed hard.  Looking back at [some](http://news.centurylink.com/index.php?s=43&item=1735) of [these](http://www.kmworld.com/Articles/Editorial/Feature/Application-service-providers-Evolving-to-meet-market-needs-9187.aspx) [websites](http://accountingsoftwareworld.com/index.php?option=com_content&view=article&id=65&Itemid=161) that talk about ASP during it's heyday (~2000) is enlightening.  That last link provides us with this (at the time) crisp definition of ASP:
 
 
-<blockquote>This acronym refers to "Application Service Provider". ASPs generally load an application (like Oracle Small Business Suite or SAP) on a remote server, and then allow customers to access that application for a monthly or annual rental fee. This service is also referred to as "Hosting". Popular ASPs include IBM, EDS, Future-Link, and the Taylor Group.</blockquote>
+This acronym refers to "Application Service Provider". ASPs generally load an application (like Oracle Small Business Suite or SAP) on a remote server, and then allow customers to access that application for a monthly or annual rental fee. This service is also referred to as "Hosting". Popular ASPs include IBM, EDS, Future-Link, and the Taylor Group.
 
 
 While amusing, what can ASP teach us about SaaS and enterprise clouds vs. commodity clouds?
@@ -86,7 +86,7 @@ So, of course, you can see where all of this is going.  Enterprise IaaS clouds 
 And here's the punchline: regardless of whatever argument you can make for or against this line of thought, enterprises are **widely** adopting both SFDC/SaaS and AWS/IaaS. Commodity clouds are winning, not enterprise clouds and if this is true:
 
 
-<blockquote>EnterpriseCloud : ASP :: CommodityCloud : SaaS</blockquote>
+EnterpriseCloud : ASP :: CommodityCloud : SaaS
 
 
 Then you would be better betting on the commodity cloud approach.

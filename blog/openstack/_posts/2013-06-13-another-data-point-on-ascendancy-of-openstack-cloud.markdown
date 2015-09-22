@@ -19,9 +19,9 @@ Earlier this week, I gave the keynote address at the [Storage Plumbing and Data 
 
 My keynote was an updated version of the “[State of the Stack](http://go.cloudscaling.com/state-of-the-stack-2013)” presentation on OpenStack and cloud computing that I’ve given several times since the OpenStack Summit in Portland a couple of months ago. Everywhere I’ve given this presentation to a non-OpenStack audience, I ask the audience:
 
-<blockquote>**"How many of you are familiar with OpenStack?"**
+**"How many of you are familiar with OpenStack?"**
 > 
-> </blockquote>
+
 
 At SP/DE, I was surprised that approximately 80% of the hands in the room went up. These people are hard-core storage engineers. They’re building and running infrastructure supporting data warehouse, archive, DR, and Hadoop apps for service providers, SaaS providers and enterprises, chiefly in the Bay Area.
 

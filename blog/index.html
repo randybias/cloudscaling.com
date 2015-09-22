@@ -3,7 +3,7 @@ layout: default
 include_pagination: true
 ---
 
-<div class="home">
+<div class="site-container">
 
 	<!-- This loops through the paginated posts -->
 	{% for post in paginator.posts %}
@@ -22,7 +22,11 @@ include_pagination: true
 
 		<div class="content">
 			<div class="excerpt">
-				{{ post.content | truncatewords: 50 }}
+				{% if forloop.index == 1 %}
+					{{ post.content }}
+				{% else %}
+					{{ post.content | truncatewords: 50 }}
+				{% endif %}
 			</div>  
 		</div>
 	</div>

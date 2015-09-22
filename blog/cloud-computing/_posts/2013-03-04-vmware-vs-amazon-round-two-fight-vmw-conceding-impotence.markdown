@@ -15,9 +15,9 @@ tags:
 
 Two and a half years ago I wrote about the inevitable throwdown between VMware and Amazon Web Services (AWS), but recently VMware’s senior leadership appeared to [outright admit defeat](http://www.crn.com/news/cloud/240149626/vmware-top-execs-lash-out-at-amazon-public-cloud.htm).  The message to VMware’s partners was simple:
 
-<blockquote>"We want to own corporate workload," said Pat Gelsinger, VMware’s CEO. "We all lose if they end up in these commodity public clouds.”
+"We want to own corporate workload," said Pat Gelsinger, VMware’s CEO. "We all lose if they end up in these commodity public clouds.”
 > 
-> </blockquote>
+
 
 James Staten, who has lately been on an incredible roll in terms of his vision and foresight in recent [research on cloud computing](http://www.forrester.com/The+Rise+Of+The+New+Cloud+Admin/fulltext/-/E-RES86901) (paid research), nailed it in a cogent [response on his blog](http://blogs.forrester.com/james_staten/13-02-28-the_vmware_community_has_the_innovators_dilemma).  
   

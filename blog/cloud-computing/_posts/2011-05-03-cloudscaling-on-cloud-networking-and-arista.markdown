@@ -30,7 +30,7 @@ There are a couple of other interesting and related items you should also check 
 A choice quote from Don's article:
 
 
-<blockquote>“Your typical network engineer, if you say ‘programmable,’ they will freak out,” says Randy Bias, co-founder and chief technology officer of Cloudscaling, a San Francisco startup that helps company set up cloud-style data centers.</blockquote>
+“Your typical network engineer, if you say ‘programmable,’ they will freak out,” says Randy Bias, co-founder and chief technology officer of Cloudscaling, a San Francisco startup that helps company set up cloud-style data centers.
 
 
 Please enjoy the video below!

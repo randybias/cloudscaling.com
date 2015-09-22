@@ -18,7 +18,7 @@ We can all see it Amazon's continued growth. The 'Other' line in their revenue r
 
 
 
-<blockquote>Bad Amazon, don't you understand that what developers really want in a public cloud is exactly what they have in their own datacenters today?</blockquote>
+Bad Amazon, don't you understand that what developers really want in a public cloud is exactly what they have in their own datacenters today?
 
 
 

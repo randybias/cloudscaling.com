@@ -138,12 +138,12 @@ Observing this phenomenon is what led Forrester analyst Craig Le Clair to [say](
 
 
 
-<blockquote>
+
 
 > 
 > Seventy percent of the companies that were on the Fortune 1000 list a mere 10 years ago have now vanished – unable to adapt to change …
 > 
-> </blockquote>
+
 
 
 
