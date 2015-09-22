@@ -264,16 +264,17 @@
  * Posts
  */
  .post-header {
- 	margin-bottom: 50px;
+ 	margin-bottom: 30px;
  	.post-title {
- 		font-size: 48px;
- 		letter-spacing: -1px;
- 		line-height: 1;
- 		margin-bottom: 16px;
- 		font-weight: bold;
- 		@include media-query($on-laptop) {
- 			font-size: 36px;
- 		}
+ 		// color: #000000;
+ 		// font-size: 48px;
+ 		// letter-spacing: -1px;
+ 		// line-height: 1;
+ 		// margin-bottom: 14px;
+ 		// font-weight: bold;
+ 		// @include media-query($on-laptop) {
+ 		// 	font-size: 36px;
+ 		// }
  		a {
  			color: black;
  		}
@@ -295,24 +296,18 @@
  	margin-bottom: $spacing-unit;
 
  	h2 {
- 		font-size: 32px;
- 		font-weight: bold;
  		@include media-query($on-laptop) {
  			font-size: 28px;
  		}
  	}
 
  	h3 {
- 		font-size: 26px;
-
  		@include media-query($on-laptop) {
  			font-size: 22px;
  		}
  	}
 
  	h4 {
- 		font-size: 20px;
-
  		@include media-query($on-laptop) {
  			font-size: 18px;
  		}
@@ -336,6 +331,19 @@
  			}
  		}
  	}
+ 	
+	img {
+	    border: 1px solid rgba(87,87,87,0.25);
+	}
+
+	ul {
+		margin-bottom: 20px;
+		li {
+			p {
+				margin-bottom: 15px;
+			}
+		}
+	}
  }
 
  .pagination-wrapper {
@@ -397,7 +405,22 @@
 	}
 }
 
-
+.site-container {
+	max-width: $content-width;
+	margin-left: $content-left-margin;
+	@include media-query($on-laptop) {
+		margin-left: auto;
+	}
+	.post-content {
+		// Hide the first h1 since we are using Jekyll to display the title
+		h1:first-child {
+			display: none;
+		}
+		p {
+			text-align: justify;
+		}
+	}
+}
 .site-container-narrow  {
 	max-width: $content-width;
 	margin: 70px auto;
