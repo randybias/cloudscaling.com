@@ -16,7 +16,6 @@
  body {
 	font-family: $base-font-family;
 	font-size: $base-font-size;
-	line-height: $base-line-height;
 	font-weight: 300;
 	color: $text-color;
 	background-color: white;
@@ -90,20 +89,20 @@ h1 {
 	font-family: 'Helvetica Neue';
 	font-size: 48px;
 	color: #000000;
-	line-height: 48px;
+	line-height: 52px;
 	margin-bottom: 14px;
 	font-weight: bold;
 }
 
 h2 {
-	font-family: HelveticaNeue;
+	font-family: 'HelveticaNeue';
 	font-size: 32px;
 	color: #000000;
-	line-height: 28px;
+	line-height: 36px;
 }
 
 h3 {
-	font-family: HelveticaNeue-Bold;
+	font-family: 'HelveticaNeue-Bold';
 	color: #000000;
 	line-height: 28px;
 	font-size: 32px;
@@ -111,14 +110,14 @@ h3 {
 }
 
 h4 {
-	font-family: HelveticaNeue-Bold;
+	font-family: 'HelveticaNeue-Bold';
 	font-size: 20px;
 	color: #000000;
 	line-height: 28px;
 }
 
 h5 {
-	font-family: HelveticaNeue-Bold;
+	font-family: 'HelveticaNeue-Bold';
 	font-size: 16px;
 	color: #575757;
 	line-height: 28px;
@@ -188,10 +187,11 @@ pre {
 }
 
 p {
-	font-family: HelveticaNeue;
+	font-family: 'Helvetica Neue';
 	font-size: 18px;
 	color: #575757;
 	line-height: 28px;
+	text-align: justify;
 }
 
 
