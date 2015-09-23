@@ -8,7 +8,7 @@ footertitle: Cloudscaling Blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Cloudscaling is the leading provider of on-premise elastic cloud infrastructure solutions to support dynamic applications.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
 
 twitter_username: randybias
@@ -19,8 +19,7 @@ linkedin_url: http://www.linkedin.com/randybias
 markdown: kramdown
 # configure kramdown
 kramdown:
-  parse_block_html: true
-  input: GFM
+  parse_block_html: false
 
 encoding: utf-8
 
