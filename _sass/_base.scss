@@ -4,9 +4,9 @@
  body, h1, h2, h3, h4, h5, h6,
  p, blockquote, pre, hr,
  dl, dd, ol, ul, figure {
-	margin: 0;
-	padding: 0;
-}
+ 	margin: 0;
+ 	padding: 0;
+ }
 
 
 
@@ -14,13 +14,13 @@
  * Basic styling
  */
  body {
-	font-family: $base-font-family;
-	font-size: $base-font-size;
-	font-weight: 300;
-	color: $text-color;
-	background-color: white;
-	-webkit-text-size-adjust: 100%;
-}
+ 	font-family: $base-font-family;
+ 	font-size: $base-font-size;
+ 	font-weight: 300;
+ 	color: $text-color;
+ 	background-color: white;
+ 	-webkit-text-size-adjust: 100%;
+ }
 
 
 
@@ -31,8 +31,8 @@
  p, blockquote, pre,
  ul, ol, dl, figure,
  %vertical-rhythm {
-	margin-bottom: $spacing-unit / 2;
-}
+ 	margin-bottom: $spacing-unit / 2;
+ }
 
 
 
@@ -40,9 +40,9 @@
  * Images
  */
  img {
-	max-width: 100%;
-	vertical-align: middle;
-}
+ 	max-width: 100%;
+ 	vertical-align: middle;
+ }
 
 
 
@@ -50,12 +50,12 @@
  * Figures
  */
  figure > img {
-	display: block;
-}
+ 	display: block;
+ }
 
-figcaption {
-	font-size: $small-font-size;
-}
+ figcaption {
+ 	font-size: $small-font-size;
+ }
 
 
 
@@ -63,18 +63,19 @@ figcaption {
  * Lists
  */
  ul, ol {
-	margin-left: $spacing-unit;
-}
-
-li {
-	> ul,
-	> ol {
-	 margin-bottom: 0;
+ 	margin-left: $spacing-unit;
  }
- p {
-	margin-bottom: 10px;
-}
-}
+
+ li {
+ 	margin-bottom: 10px;
+ 	> ul,
+ 	> ol {
+ 		margin-bottom: 0;
+ 	}
+ 	p {
+ 		margin-bottom: 10px;
+ 	}
+ }
 
 
 
@@ -82,63 +83,63 @@ li {
  * Headings
  */
  h1, h2, h3, h4, h5, h6 {
-	font-weight: 300;
-}
+ 	font-weight: 300;
+ }
 
-h1 {
-	font-family: 'Helvetica Neue';
-	font-size: 48px;
-	color: #000000;
-	line-height: 52px;
-	margin-bottom: 14px;
-	font-weight: bold;
-}
+ h1 {
+ 	font-family: 'Helvetica Neue';
+ 	font-size: 48px;
+ 	color: #000000;
+ 	line-height: 52px;
+ 	margin-bottom: 14px;
+ 	font-weight: bold;
+ }
 
-h2 {
-	font-family: 'HelveticaNeue';
-	font-size: 32px;
-	color: #000000;
-	line-height: 36px;
-}
+ h2 {
+ 	font-family: 'HelveticaNeue';
+ 	font-size: 32px;
+ 	color: #000000;
+ 	line-height: 36px;
+ }
 
-h3 {
-	font-family: 'HelveticaNeue-Bold';
-	color: #000000;
-	line-height: 28px;
-	font-size: 32px;
-	line-height: 28px;
-}
+ h3 {
+ 	font-family: 'HelveticaNeue-Bold';
+ 	color: #000000;
+ 	line-height: 28px;
+ 	font-size: 32px;
+ 	line-height: 28px;
+ }
 
-h4 {
-	font-family: 'HelveticaNeue-Bold';
-	font-size: 20px;
-	color: #000000;
-	line-height: 28px;
-}
+ h4 {
+ 	font-family: 'HelveticaNeue-Bold';
+ 	font-size: 20px;
+ 	color: #000000;
+ 	line-height: 28px;
+ }
 
-h5 {
-	font-family: 'HelveticaNeue-Bold';
-	font-size: 16px;
-	color: #575757;
-	line-height: 28px;
-}
+ h5 {
+ 	font-family: 'HelveticaNeue-Bold';
+ 	font-size: 16px;
+ 	color: #575757;
+ 	line-height: 28px;
+ }
 
 /**
  * Links
  */
  a {
-	color: $blue;
-	text-decoration: none;
+ 	color: $blue;
+ 	text-decoration: none;
+	font-weight: bold;
+ 	&:visited {
+ 		color: darken($blue, 15%);
+ 	}
 
-	&:visited {
-		color: darken($blue, 15%);
-	}
-
-	&:hover {
-		color: $text-color;
-		text-decoration: underline;
-	}
-}
+ 	&:hover {
+ 		color: $text-color;
+ 		text-decoration: underline;
+ 	}
+ }
 
 
 
@@ -146,17 +147,19 @@ h5 {
  * Blockquotes
  */
  blockquote {
-	color: $grey-color;
-	border-left: 4px solid $grey-color-light;
-	padding-left: $spacing-unit / 2;
-	font-size: 18px;
-	letter-spacing: -1px;
-	font-style: italic;
-
-	> :last-child {
-		margin-bottom: 0;
-	}
-}
+ 	color: #666;
+ 	border-left: 4px solid $grey-color-light;
+ 	padding-left: $spacing-unit / 2;
+ 	font-size: 18px;
+ 	// letter-spacing: -1px;
+ 	font-style: italic;
+	background-color: #F2F2F2;
+    padding: 30px;
+    margin: 30px 0;
+ 	> :last-child, > p {
+ 		margin-bottom: 0 !important;
+ 	}
+ }
 
 
 
@@ -165,33 +168,42 @@ h5 {
  */
  pre,
  code {
-	font-size: 15px;
-	border: 1px solid $grey-color-light;
-	border-radius: 3px;
-	background-color: #eef;
-}
+ 	font-size: 15px;
+ 	border: 1px solid $grey-color-light;
+ 	border-radius: 3px;
+ 	background-color: #eef;
+ }
 
-code {
-	padding: 1px 5px;
-}
+ code {
+ 	padding: 1px 5px;
+ }
 
-pre {
-	padding: 8px 12px;
-	overflow-x: scroll;
+ pre {
+ 	padding: 8px 12px;
+ 	overflow-x: scroll;
 
-	> code {
-		border: 0;
-		padding-right: 0;
-		padding-left: 0;
-	}
-}
+ 	> code {
+ 		border: 0;
+ 		padding-right: 0;
+ 		padding-left: 0;
+ 	}
+ }
 
-p {
-	font-family: 'Helvetica Neue';
-	font-size: 18px;
-	color: #575757;
+ p {
+ 	font-family: 'Helvetica Neue';
+ 	font-size: 18px;
+	// color: #575757;
 	line-height: 28px;
 	text-align: justify;
+	+ h1  {
+		margin-top: 40px;
+	}
+	+ h2  {
+		margin-top: 40px;
+	}
+	+ h3  {
+		margin-top: 40px;
+	}
 }
 
 
@@ -199,21 +211,21 @@ p {
  * Wrapper
  */
  .wrapper {
-	max-width: -webkit-calc(1440px - (#{$spacing-unit} * 2));
-	max-width:         calc(1440px - (#{$spacing-unit} * 2));
-	margin-right: auto;
-	margin-left: auto;
-	padding-right: $spacing-unit;
-	padding-left: $spacing-unit;
-	@extend %clearfix;
+ 	max-width: -webkit-calc(1440px - (#{$spacing-unit} * 2));
+ 	max-width:         calc(1440px - (#{$spacing-unit} * 2));
+ 	margin-right: auto;
+ 	margin-left: auto;
+ 	padding-right: $spacing-unit;
+ 	padding-left: $spacing-unit;
+ 	@extend %clearfix;
 
-	@include media-query($on-laptop) {
-		max-width: -webkit-calc(800px - (#{$spacing-unit}));
-		max-width:         calc(800px - (#{$spacing-unit}));
-		padding-right: $spacing-unit / 2;
-		padding-left: $spacing-unit / 2;
-	}
-}
+ 	@include media-query($on-laptop) {
+ 		max-width: -webkit-calc(800px - (#{$spacing-unit}));
+ 		max-width:         calc(800px - (#{$spacing-unit}));
+ 		padding-right: $spacing-unit / 2;
+ 		padding-left: $spacing-unit / 2;
+ 	}
+ }
 
 
 
@@ -222,12 +234,12 @@ p {
  */
  %clearfix {
 
-	&:after {
-		content: "";
-		display: table;
-		clear: both;
-	}
-}
+ 	&:after {
+ 		content: "";
+ 		display: table;
+ 		clear: both;
+ 	}
+ }
 
 
 
@@ -236,17 +248,17 @@ p {
  */
  .icon {
 
-	> svg {
-		display: inline-block;
-		width: 16px;
-		height: 16px;
-		vertical-align: middle;
+ 	> svg {
+ 		display: inline-block;
+ 		width: 16px;
+ 		height: 16px;
+ 		vertical-align: middle;
 
-		path {
-			fill: $grey-color;
-		}
-	}
-}
+ 		path {
+ 			fill: $grey-color;
+ 		}
+ 	}
+ }
 
 
 // Tables

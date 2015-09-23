@@ -44,7 +44,7 @@
 	#nav-search {
 		background-color: transparent;
 		border: none;
-		border-bottom: 1px solid #B8B8B8;
+		border-bottom: 1px solid #000000;
 		outline: none;
 		line-height: 20px;
 		width: 300px;
@@ -148,6 +148,17 @@
  .footer-col-wrapper {
  	font-size: 15px;
  	margin-left: -$spacing-unit / 2;
+ 	p {
+ 		color: $footer-text-color !important;
+ 		line-height: initial;
+ 	}
+ 	h2 {
+ 		color: $footer-text-color !important;
+ 	}
+ 	.common {
+ 		color: $footer-text-color !important;
+ 		font-weight: normal;
+ 	}
  	@extend %clearfix;
  	.footer-span {
  		padding-left: $spacing-unit / 2;
@@ -290,6 +301,9 @@
 		.date-meta {
 			font-weight: bold;
 		}
+		.author-meta {
+			font-weight: bold;
+		}
 	}
 }
 
@@ -361,6 +375,7 @@
 	height: $nav-height;
 	cursor: pointer;
 	position: relative;
+	font-size: 15px;
 	&.multiple-pagination {
 		&:before {
 			width: 100%;
@@ -393,6 +408,7 @@
 			}
 			.label {
 				color: $grey-color-darker;
+				font-weight: normal;
 			}
 		}
 	}
