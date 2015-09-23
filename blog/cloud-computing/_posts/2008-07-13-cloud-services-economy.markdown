@@ -26,7 +26,7 @@ It's pretty important to define this before proceeding.  I like this technology 
 
 
 Specialized, software-based functionality provided by network servers for example, directory services that provide the network equivalent of "phone books" needed for locating users and resources.
-</blockquote>
+
 
 
 
@@ -35,7 +35,7 @@ But this doesn't quite capture what a service is in the economic sense.  Wikiped
 
 
 A service is the non-material equivalent of a good. A service provision is an economic activity that does not result in ownership, and this is what differentiates it from providing physical goods.
-</blockquote>
+
 
 
 

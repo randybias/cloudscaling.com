@@ -29,7 +29,7 @@ Like railways, the telephone system, or any other kind of infrastructure that su
 I like to think of 'cloud' as a group 'A-HA!' moment, much like the one that happened with other foundational infrastructure changes.  Early in the advent of railroads, trains, track gauges, switching equipment was all custom and had little or no interoperability.  Eventually it became apparent that standards would allow greater aggregate value to all involved.  Nicholas Carr nails it in his book Does IT Matter?:
 
 
-As was true with railroads and electricity and highways, it is only by becoming a shared and standardized infrastructure that IT will be able to deliver its greatest economic and social benefits, raising productivity and living standards and serving as a platform for a range of new and desirable consumer goods and services.  History reveals that IT needs to become ordinary—needs to lose its strategic importance as a differentiator of companies—if it is to fulfill its potential.</blockquote>
+As was true with railroads and electricity and highways, it is only by becoming a shared and standardized infrastructure that IT will be able to deliver its greatest economic and social benefits, raising productivity and living standards and serving as a platform for a range of new and desirable consumer goods and services.  History reveals that IT needs to become ordinary—needs to lose its strategic importance as a differentiator of companies—if it is to fulfill its potential.
 
 
 The primary point being here that market demands will essentially force standardization, one way or another.  Of course, we would all like to see open standards, but even de facto standards will work.  This is what's at stake in this battle.
@@ -37,7 +37,7 @@ The primary point being here that market demands will essentially force standard
 **The Contenders & Their Market Positions**
 It's interesting how two such different businesses can suddenly see themselves at odds, but with a multi-billion dollar future market in cloud computing at stake, it's not surprising that we may see all kinds of players emerge.  Looking at the relative market cap (AMZN @ 36.5B and VMW @ 15.5B) and stock performance of the two tells one story:
 
-[caption id="attachment_541" align="aligncenter" width="531" caption="VMW vs. AMZN"]![VMW vs. AMZN](http://cloudscaling.com/wp-content/uploads/2009/09/vmw-vs-amzn.jpg)[/caption]
+[caption id="attachment_541" align="aligncenter" width="531" caption="VMW vs. AMZN"]![VMW vs. AMZN](/assets/media/2009/09/vmw-vs-amzn.jpg)[/caption]
 
 Digging into this a bit more we can see that the story is a lot bigger than a simple tale of revenues, especially as it relates to enterprise businesses.
 

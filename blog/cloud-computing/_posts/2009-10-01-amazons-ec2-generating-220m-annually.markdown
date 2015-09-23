@@ -187,7 +187,7 @@ _EC2 Instance Revenue Run Rates_
 
 Please keep in mind that this number does not account for Elastic Block Store (EBS), bandwidth transfer in/out, or anything except EC2 instances.  The actual revenue number is likely to be a fair bit higher (+25%?).
 
-You can [download the spreadsheet](http://cloudscaling.com/wp-content/uploads/2009/10/amazon-size-revenue-estimates.xlsx) yourself to play around with, but be forewarned, it's barebones and I make no claims of being a business analyst.  I'm just clueful enough to be dangerous. ;-)
+You can [download the spreadsheet](/assets/media/2009/10/amazon-size-revenue-estimates.xlsx) yourself to play around with, but be forewarned, it's barebones and I make no claims of being a business analyst.  I'm just clueful enough to be dangerous. ;-)
 
 **EC2 Revenues as 'Other' & Rate of Growth**
 What's interesting about Amazon's reporting of it's Amazon Web Services (AWS) revenues is that it's part of the ambiguous "Other" line in their financial reports.  Looking at the most recent 10-Q shows us that the total revenue for "Other" _for six months ending June 24th, 2009_ was 260M.  In talking to my original sources, a number of 109M (half my annual estimated run rate) as part of the 260M Other line sounds 'reasonable'.  Revenues for S3, a much lower margin business are 'probably' 1/10th the size of EC2, and the only other items in 'Other' of note are [IMDB](http://www.imdb.org) and A9, both probably in the 10-20M range.  The other large unknowns are AWS credit card revenues and revenue related to bandwidth in/out of EC2.

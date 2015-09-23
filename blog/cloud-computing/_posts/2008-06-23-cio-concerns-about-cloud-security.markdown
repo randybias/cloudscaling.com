@@ -21,7 +21,7 @@ To paraphrase a VP of Enterprise IT at a Fortune 50 company
 
 
 
-This looks like an identity management problem to me.  I'm more concerned about knowing what a user stored in the cloud or what servers are in use.  How do I remove those files or turn off those servers when that user leaves us?</blockquote>
+This looks like an identity management problem to me.  I'm more concerned about knowing what a user stored in the cloud or what servers are in use.  How do I remove those files or turn off those servers when that user leaves us?
 
 
 

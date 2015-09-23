@@ -33,7 +33,7 @@ Here's the [Wikipedia page on hybrid](http://en.wikipedia.org/wiki/Hybrid).  As 
 >     A + B = C
 > 
 > 
-</blockquote>
+
 
 
 
@@ -71,7 +71,7 @@ The fundamental issue with all of these (except arguably the third, but I'll cov
 >     A + B = A + B
 > 
 > 
-</blockquote>
+
 
 
 

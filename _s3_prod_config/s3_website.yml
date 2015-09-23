@@ -46,10 +46,12 @@ exclude_from_upload:
 
 # concurrency_level: 5
 
-#redirects:
-#  index.php: /
-  #music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+redirects:
+  index.html: blog/
+  blog/author/randy-bias: blog/author/randybias
+  blog/cloud-computing/technology/top-posts-in-2008/: blog/cloud-computing/top-posts-in-2008/
+  resources: blog/
+  services: blog/
 # routing_rules:
 #   - condition:
 #       key_prefix_equals: blog/some_path

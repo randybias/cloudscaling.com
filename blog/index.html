@@ -3,8 +3,8 @@ layout: default
 include_pagination: true
 ---
 
-<div class="home">
-
+<div class="site-container">
+  	{% capture homepage %}{{ page.url | slugify  }}{% endcapture %}
 	<!-- This loops through the paginated posts -->
 	{% for post in paginator.posts %}
 
@@ -21,13 +21,11 @@ include_pagination: true
 		</div>
 
 		<div class="content">
-			<div class="excerpt">
-			{% if forloop.index == 1%}
-				{{ post.content }}
-			{% else %}
-				{{ post.content | truncatewords: 50 }}
-			{% endif %}
-			</div>  
+				{% if forloop.index == 1 and homepage == "blog-index-html" %}
+					{{ post.content }}
+				{% else %}
+					{{ post.content | truncatewords: 50 }}
+				{% endif %}
 		</div>
 	</div>
 	{% if forloop.length != forloop.index %}

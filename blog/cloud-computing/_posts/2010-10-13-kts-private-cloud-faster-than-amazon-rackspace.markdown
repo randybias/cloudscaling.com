@@ -53,7 +53,7 @@ The first benchmark provided is CPU Performance for Large Servers.  Here, the t
 > 28.66 CCUs for 12Ghz of total CPU clock speed
 > 
 > 
-</blockquote>
+
 
 
 As anyone in benchmarking would tell you, using pure CPU cycles for comparison is prone to errors, but what I want to highlight here is the large disparity between these two: 1.37 CCUs / 1 Ghz vs. 2.38 CCUs / 1 Ghz.  According to CloudHarmony, if KT’s VM in this case had 2 additional cores, their performance numbers here would probably increase by about 30% to roughly 38 CCUs, a significant increase over the best CPU performance in the pack.

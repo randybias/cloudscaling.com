@@ -69,7 +69,7 @@ EPP workloads, by contrast, have no data sharing requirements.  A very large da
 
 The majority of grid workloads are of the EPP type.  The diagram below shows this.
 
-[![](http://cloudscaling.com/wp-content/uploads/2010/11/hpc-vs-hsc-pyramid.png)](http://cloudscaling.com/wp-content/uploads/2010/11/hpc-vs-hsc-pyramid.png)
+[![](/assets/media/2010/11/hpc-vs-hsc-pyramid.png)](/assets/media/2010/11/hpc-vs-hsc-pyramid.png)
 
 I had one person confide in me that "_MPI power users drive grid requirements for vendors and assume that if their problems are solved, then the problems of [EPP] users are solved._"
 This is interesting since these two types of workloads have different needs.
@@ -79,7 +79,7 @@ The reality is that High Scalability Computing is ideal for the majority of EPP 
 
 HPC is a different beast altogether as many of the MPI workloads require very low latency and servers with individually high performance.  It turns out however, that all MPI workloads are not the same.  The lower bottom of the top part of that pyramid is filled with MPI workloads that require a great network, but not an Infiniband network:
 
-[![](http://cloudscaling.com/wp-content/uploads/2010/11/hpc-vs-hsc-pyramid-mpi-high-latency.png)](http://cloudscaling.com/wp-content/uploads/2010/11/hpc-vs-hsc-pyramid-mpi-high-latency.png)
+[![](/assets/media/2010/11/hpc-vs-hsc-pyramid-mpi-high-latency.png)](/assets/media/2010/11/hpc-vs-hsc-pyramid-mpi-high-latency.png)
 
 In keeping with Amazon Web Service's tendency to build out using commodity (cloud) techniques, their new HPC offering does not use Infiniband, but instead opts for 10Gig Ethernet.  This makes the network great, but not awesome and allows them to create a cloud service tailored for many HPC jobs.  In fact, this [recent benchmark posting](http://blog.cyclecomputing.com/2010/11/a-couple-more-nails-in-the-coffin-of-the-private-compute-cluster-gpu-on-cloud.html) by CycleComputing shows that AWS' Cloud HPC system has impressive performance particularly for many MPI workloads.
 

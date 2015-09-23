@@ -48,7 +48,7 @@ During the “debate” that occurred in 2013, I was frequently bemused by the a
 
 For those who are still holdouts though, I think the latest OpenStack User Survey data continues to reinforce how important the EC2 and other AWS APIs are:
 
-[![A Brief State of the Stack 2014 v3 - 2014-11-06 CSH Updates-09.019](http://cloudscaling.com/wp-content/uploads/2015/02/A-Brief-State-of-the-Stack-2014-v3-2014-11-06-CSH-Updates-09.019.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/A-Brief-State-of-the-Stack-2014-v3-2014-11-06-CSH-Updates-09.019.jpg)
+[![A Brief State of the Stack 2014 v3 - 2014-11-06 CSH Updates-09.019](/assets/media/2015/02/A-Brief-State-of-the-Stack-2014-v3-2014-11-06-CSH-Updates-09.019.jpg)](/assets/media/2015/02/A-Brief-State-of-the-Stack-2014-v3-2014-11-06-CSH-Updates-09.019.jpg)
 
 What’s enlightening here is that in 2013 I was hearing the constant refrain of “the EC2 APIs are used by only a ‘fraction’ of the community”.  That ‘fraction’ was *merely* ~30-35% at the time according to the user surveys.  As you can see, usage of the EC2 APIs has actually increased since that time and now we’re at 44% for production deployments, a 25% increase in roughly 18 months. This is very important.
 

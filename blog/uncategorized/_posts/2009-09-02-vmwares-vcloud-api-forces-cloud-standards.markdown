@@ -18,7 +18,7 @@ Simply put, we're on the cusp of a major change in the way that IT does business
 Nick Carr said it best in [Does IT Matter?](http://www.nicholasgcarr.com/doesitmatter.html)
 
 
-... IT's transformation from a set of proprietary and heterogeneous systems into a shared and standardized infrastructure is a natural, necessary, and healthy process.  It is only by becoming an infrastructure -- a common resource -- that IT can deliver its greatest economic and social benefits.</blockquote>
+... IT's transformation from a set of proprietary and heterogeneous systems into a shared and standardized infrastructure is a natural, necessary, and healthy process.  It is only by becoming an infrastructure -- a common resource -- that IT can deliver its greatest economic and social benefits.
 
 
 Right now IT is in the same state that manufacturing processes were before the massive popularization of [assembly lines](http://en.wikipedia.org/wiki/Assembly_line) by the Ford Motor Company.  Although the assembly line had been invented before, FMC and Henry Ford helped make it a de facto standard.

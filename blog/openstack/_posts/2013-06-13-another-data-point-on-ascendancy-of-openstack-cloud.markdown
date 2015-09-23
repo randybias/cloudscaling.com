@@ -21,7 +21,7 @@ My keynote was an updated version of the “[State of the Stack](http://go.cloud
 
 **"How many of you are familiar with OpenStack?"**
 > 
-> </blockquote>
+
 
 At SP/DE, I was surprised that approximately 80% of the hands in the room went up. These people are hard-core storage engineers. They’re building and running infrastructure supporting data warehouse, archive, DR, and Hadoop apps for service providers, SaaS providers and enterprises, chiefly in the Bay Area.
 

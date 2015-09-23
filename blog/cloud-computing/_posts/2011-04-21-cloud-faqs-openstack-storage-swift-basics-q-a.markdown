@@ -96,7 +96,7 @@ Early in a client deployment we went into pre-production (closed BETA) without m
 >   4. Assemble a cross-functional team as there are many hats that are needed for a successful standup. Data center technicians to help plan the power/cooling needed at the DC, networking experts to help design and plan out the network, a great software development team to write the integrations needed and fix issues related to the software systems of the cluster, Swift is built around common unix tools and folks who are good systems administrator skills can really help tune a running system.
 > 
 
-</blockquote>
+
 
 
 _________________

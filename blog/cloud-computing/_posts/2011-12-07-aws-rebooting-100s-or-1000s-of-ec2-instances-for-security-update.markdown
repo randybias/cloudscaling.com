@@ -63,4 +63,4 @@ http://aws.amazon.com/support
 Sincerely,
 Amazon Web Services
 
-This message was produced and distributed by Amazon Web Services LLC, 410 Terry Avenue North, Seattle, Washington 98109-5210</blockquote>
+This message was produced and distributed by Amazon Web Services LLC, 410 Terry Avenue North, Seattle, Washington 98109-5210

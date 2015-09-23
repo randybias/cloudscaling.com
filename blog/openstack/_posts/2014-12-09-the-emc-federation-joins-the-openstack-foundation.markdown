@@ -34,7 +34,7 @@ By and large the OpenStack bylaws have stood the test of time quite well at this
 > 
 > 2.5 Affiliation Limits. Gold Members and Platinum Members may not belong to an Affiliated Group. An Affiliated Group means that for Members that are business entities, one entity is "Controlled" by the other entity. "Controlled" or "Control" means one entity owns, directly or indirectly, more than 50% of the voting securities of the Controlled entity which vote for the election of the board of directors or other managing body of an entity, or which is under common control with the Controlled entity. An Affiliated Group does not apply to government agencies, academic institutions or individuals.
 > 
-> </blockquote>
+
 
 
 

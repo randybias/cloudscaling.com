@@ -39,7 +39,7 @@ Let’s take a look back at the arc of my thinking and how things did NOT change
 My thinking evolved through three clear phases:
 
 
-Automation -> VMs & Virtual Datacenters -> New IT Paradigm</blockquote>
+Automation -> VMs & Virtual Datacenters -> New IT Paradigm
 
 
 _Phase 1: Automation_

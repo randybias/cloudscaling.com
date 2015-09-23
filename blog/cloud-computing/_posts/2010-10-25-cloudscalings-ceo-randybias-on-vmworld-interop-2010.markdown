@@ -71,7 +71,7 @@ It’s interesting that even VMware, [probably Amazon’s key competitor](http:/
 
 
 
-_In the final analysis they [purchasers] are not the people making strategic decisions in the business. Developers have always been at the leading edge, because that’s where business value is generated. Things that don’t differentiate you at a higher level will be SaaS apps – which will also be purchased at a higher level. The differentiated stuff you have to do yourself, and that means software development”._</blockquote>
+_In the final analysis they [purchasers] are not the people making strategic decisions in the business. Developers have always been at the leading edge, because that’s where business value is generated. Things that don’t differentiate you at a higher level will be SaaS apps – which will also be purchased at a higher level. The differentiated stuff you have to do yourself, and that means software development”._
 
 
 
@@ -103,7 +103,7 @@ This parallels our experience that most enterprises will ‘fail forward’ tryi
 
 
 
-_Of the more than eight thousand systems projects Standish examined, only 16 percent were considered successes—completed on time and on budget and fulfilling the original specifications. Nearly a third were canceled outright, and the remainder all went over budget, off schedule, and out-of-spec. **Large companies—those with more than $500 million in annual sales—did even worse than the average: Only 9 percent of their IT projects succeeded.** [ed. emphasis mine]_</blockquote>
+_Of the more than eight thousand systems projects Standish examined, only 16 percent were considered successes—completed on time and on budget and fulfilling the original specifications. Nearly a third were canceled outright, and the remainder all went over budget, off schedule, and out-of-spec. **Large companies—those with more than $500 million in annual sales—did even worse than the average: Only 9 percent of their IT projects succeeded.** [ed. emphasis mine]_
 
 
 

@@ -17,7 +17,7 @@ old_categories:
 
 
 However, the general consensus is that cloud computing has become an umbrella term covering various solutions.
-</blockquote>
+
 
 
 If there was a general consensus on anything it was that _cloud computing isn't well defined yet_.  In fact, the definition problem was a running joke at most of the events, including Structure '08, that I went to this week.

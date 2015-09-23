@@ -1,12 +1,15 @@
 $(window).load(function() {
-	// $(".loader").fadeOut("slow");
+	$(".loader").fadeOut("slow");
 })
 
 $(function() {
 	$( ".search-icon" ).on( "click", function() {
 		$('#global-search').submit();
 	});
-
+	$( ".menu-icon" ).on( "click", function() {
+		$('.trigger').toggleClass('hide');
+		$('.responsive-search').toggleClass('open');
+	});
 	$.fn.footnotify = function() {
 
 		var str = this.html();
@@ -18,8 +21,8 @@ $(function() {
 
 		replaced_text = str.replace(regex, function(match, contents, offset, s, count)
 		{
-			return "<a href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='footnotes'><sup>"+match+"</sup></span></a>";
-		}
+			var int_footnote = match.replace(/\[|\]/g, "");
+			return "<sup>[<a class='footnote-anchor' href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='footnotes'>"+int_footnote+"</span></a>]</sup>";		}
 		); 
 
 		this.html(replaced_text);
@@ -28,6 +31,11 @@ $(function() {
 
 	if ($( ".post-content" ).length )
 		$( ".post-content" ).footnotify();
+	// var html = $( ".post-content hr" ).html();
+	// $(html).append('toto');
+	// $(html.split('<br>')).each(function(){
+	//     $(this).append('<div>'+this+'</div>')
+	//})
 });
 var getUrlParameter = function getUrlParameter(sParam) {
 	var sPageURL = decodeURIComponent(window.location.search.substring(1)),

@@ -396,4 +396,4 @@ While it’s impossible given the breadth to simply distill our coverage and vie
 > 
 So the question we pose to you is this: you may have analysts that help you understand top down. Who do you have that does bottom up?
 
-www.RedMonk.com Copyright © RedMonk, LLC 2011</blockquote>
+www.RedMonk.com Copyright © RedMonk, LLC 2011

@@ -40,7 +40,7 @@ Quoting the original [README](https://github.com/xtoddx/nova/blob/master/README.
 
 You have come across a cloud computing fabric controller. It has identified itself as "Nova." It is apparent that it maintains compatibility with the popular Amazon EC2 and S3 APIs.
 > 
-> </blockquote>
+
 
 Notice the lack of any  mention of “native APIs” in the Nova project description and compare it to today’s Nova [README](https://github.com/openstack/nova/blob/master/README.rst).
 

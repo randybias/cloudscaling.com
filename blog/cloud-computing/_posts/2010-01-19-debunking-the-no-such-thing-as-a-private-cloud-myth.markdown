@@ -59,7 +59,7 @@ Understanding the importance of private clouds is important, because the cloud c
 Let's address each part of the “no such thing as an (internal) private cloud” myth.
 
 
-**![simple-cloud](http://cloudscaling.com/wp-content/uploads/2010/01/simple-cloud-300x146.png)**
+**![simple-cloud](/assets/media/2010/01/simple-cloud-300x146.png)**
 
 
 
@@ -100,7 +100,7 @@ But other shared infrastructures do not use the utility billing model.  Certain
 It might be heresy, but I think there are essentially two big buckets: shared infrastructure and utilities.  Public utilities are a subset of shared infrastructure as is illustrated in the Venn diagram below.
 
 
-![venn-diagram-shared-infra-public-utilities](http://cloudscaling.com/wp-content/uploads/2010/01/venn-diagram-shared-infra-public-utilities-300x300.png)
+![venn-diagram-shared-infra-public-utilities](/assets/media/2010/01/venn-diagram-shared-infra-public-utilities-300x300.png)
 
 
 
@@ -125,7 +125,7 @@ What defines their clouds is the method by which they built the actual IT infras
 That's cloud computing.  Cloud computing is a methodology for delivering IT that changes everything. This is similar to how client/server computing disrupted mainframe computing changing IT in the process. The diagram below clearly illustrates my point.
 
 
-![mainframe-clientserver-cloud-evolution-blue](http://cloudscaling.com/wp-content/uploads/2010/01/mainframe-clientserver-cloud-evolution-blue-1023x722.png)
+![mainframe-clientserver-cloud-evolution-blue](/assets/media/2010/01/mainframe-clientserver-cloud-evolution-blue-1023x722.png)
 
 
 

@@ -21,7 +21,7 @@ In a recent [new interview](http://gigaom.com/2007/12/26/vmware-mendel-roseblum-
 
 
 People are now beginning to utilize virtualization and federate these pizza-box servers. I think if you start to view them as one unit, you can get more utilization out of them. I think in coming months you are going to see a big push to make all servers (and other hardware) inside a data center look more like a single unit. Ironically, if you look at the future â€” low-end pizza box servers with multicore CPUs running our software â€” you will start to see the big machine we were building where we got started.
-</blockquote>
+
 
 
 

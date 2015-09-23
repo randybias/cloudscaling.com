@@ -33,7 +33,7 @@ I'm leaving out half of the story because Velocity also [gathers the planet's ex
 
 Many lessons are best learned by doing. Come learn from and connect with the people who have experience building some of the most impressive infrastructures and ops teams on the planet (and the scars to prove it...). You're at even greater disadvantage if you don't, because we'll be learning and sharing with each other.
 
-[![RegNow_336x280](http://cloudscaling.com/wp-content/uploads/2010/06/RegNow_336x280.gif)](http://en.oreilly.com/velocity2010)
+[![RegNow_336x280](/assets/media/2010/06/RegNow_336x280.gif)](http://en.oreilly.com/velocity2010)
 
 Cloudscaling will be there.
 

@@ -36,13 +36,13 @@ There are some definitions out there that we can leverage to set initial context
 
 Converged infrastructure (CI) is an approach to data center management that relies on a specific vendor and the vendor’s partners to provide pre-configured bundles of hardware and software in a single chassis.
 > 
-> </blockquote>
+
 
 [Hyper-converged infrastructure](http://searchvirtualstorage.techtarget.com/definition/hyper-convergence) (HCI):
 
 Hyper-convergence (hyperconvergence) is a type of infrastructure system with a software-centric architecture that tightly integrates compute, storage, networking and virtualization resources and other technologies from scratch in a commodity hardware box supported by a single vendor. 
 > 
-> </blockquote>
+
 
 These definitions are somewhat helpful, but they obscure what I see as the fundamental difference between CI and HCI. While it’s true that HCI is inherently a software-centric model, there is nothing that says that a software-centric model can’t be applied to CI. In fact, if you look at Cloudscaling’s product, Open Cloud System, it was largely a software-centric model applied to converged infrastructure. You could swap out any hardware you wanted as the “pre-configured” bundles were basically software abstractions that could be applied to any certified hardware we supported.
 
@@ -68,7 +68,7 @@ This is why, for example, the PCI specification requires you to provide “[netw
 
 What the value in having network isolation if all data is stored on all machines for all purposes and workloads?  None.
 
-[![hyper-converged-infrastructure-example](http://cloudscaling.com/wp-content/uploads/2015/02/hyper-converged-infrastructure-example.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/hyper-converged-infrastructure-example.jpg) 
+[![hyper-converged-infrastructure-example](/assets/media/2015/02/hyper-converged-infrastructure-example.jpg)](/assets/media/2015/02/hyper-converged-infrastructure-example.jpg) 
 
 Here’s the exercise: insert a firewall between all of the places the control software can run and all of the “data plane” where the virtualized resources are. Protect the shared storage layer in such a way that an attacker who breaches the APIs can’t access VM data or such that if the same attacker breaches a hypervisor he can’t read the primary database of the control software.
 
@@ -80,7 +80,7 @@ As you can see, this kind of approach isn’t going to be acceptable in most ent
 
 One downside of a Vblock has been running out of capacity, such as disk IO, before completely exhausting another resource such as memory or CPU. A reasonable criticism, however, hyper-converged just amplifies this problem. Rather than running out of capacity in a single block or rack, you can run out of a resource across the entire cluster. If you have 10 nodes that provide X disk IOPS and Y RAM, you can have the situation where you are using all of X, but have half of Y, meaning that your per VM cost is actually *doubled* because you overspent on the nodes.
 
-[![Cloudscaling OCS Product Deck - 2014-08-17 - DRAFT.057](http://cloudscaling.com/wp-content/uploads/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg) 
+[![Cloudscaling OCS Product Deck - 2014-08-17 - DRAFT.057](/assets/media/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg)](/assets/media/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg) 
 
 As an aside, this is why VCE recently announced their [Technology Extensions](http://www.vce.com/products/vblock/tech-extension) to support independent scaling of resources.  This kind of approach to mitigating the above weakness in a Vblock simply can’t exist in HCI because of its extreme homogeneity and collapsed control plane.
 
@@ -102,7 +102,7 @@ Whoops!  In a hyper-converged system homogeneity forces us into an awkward situ
 
 Not only that, it means that you are running a scale-up control plane rather than a scale-out one.  Scale-out systems get more capacity by adding more nodes horizontally, but if you only run one instance of the control plane software at a time, you can’t get N-way horizontal scalability.
 
-[![DevOps - CloudExpo NYC 2014.001](http://cloudscaling.com/wp-content/uploads/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)](http://cloudscaling.com/wp-content/uploads/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)
+[![DevOps - CloudExpo NYC 2014.001](/assets/media/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)](/assets/media/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)
 
 **So, Why Run Hyper-converged Infrastructure?** 
 

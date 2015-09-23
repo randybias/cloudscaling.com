@@ -27,7 +27,7 @@ APIs usually reflect the underlying architectural assumptions of a given system.
 
 **The capabilities of an API are only as good as that infrastructure’s ability to deliver on what the API promises. And elastic clouds like AWS deliver different services than enterprise architectures like VCE’s VBlock.**
 > 
-> </blockquote>
+
 
  When an API is native, the implicit contract between the API and the infrastructure is well understood. However, when an API has been ported or copied – like the AWS and GCE APIs – this contract is at risk. How “true” your cloud is to a ported API depends on how well your new cloud’s architecture mimics, emulates, or recreates the native architecture that the API was attached to originally.
 

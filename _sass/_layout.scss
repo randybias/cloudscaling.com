@@ -44,7 +44,7 @@
 	#nav-search {
 		background-color: transparent;
 		border: none;
-		border-bottom: 1px solid #B8B8B8;
+		border-bottom: 1px solid #000000;
 		outline: none;
 		line-height: 20px;
 		width: 300px;
@@ -77,13 +77,13 @@
 			clear: both;
 			display: none;
 		}
-		&:hover {
+		&.open {
 			.trigger {
 				display: block;
 				padding-bottom: 5px;
 				position: absolute;
 				line-height: 30px;
-				bottom: -80px;
+				bottom: -100px;
 				width: 100%;
 				left: 0;
 				right: 0;
@@ -127,26 +127,66 @@
 	}
 }
 
+.hide {
+	display: none !important;
+}
+
+.search-wrapper {
+	transition: all 0.25s ease;
+	-webkit-transition: all 0.25s ease;
+	-moz-transition: all 0.25s ease;
+	.responsive-search {
+		width: 50%;
+		height: 60px;
+		margin: 0 auto;
+		padding-top: 30px;
+		display: none;
+		&.open {
+			display: block;
+		}
+		input {
+			width: 80%;
+			background-color: transparent;
+			border: none;
+			border-bottom: 1px solid #000000;
+			outline: none;
+			font-size: 18px;
+		}
+	}
+}
+
 
 
 /**
  * Site footer
  */
+
  .site-footer {
  	border-top: 1px solid $grey-color-light;
  	padding: $spacing-unit 0;
  	background-color: $grey-color-footer;
- 	color: $footer-text-color;
+ 	color: $footer-text-color !important;
  }
 
  .footer-heading {
- 	font-size: 18px;
- 	margin-bottom: $spacing-unit / 2;
+ 	font-size: 15px;
+ 	margin-bottom: 10px;
  }
 
  .footer-col-wrapper {
- 	font-size: 15px;
+ 	font-size: 15px !important;
  	margin-left: -$spacing-unit / 2;
+ 	p {
+ 		color: $footer-text-color !important;
+ 		line-height: initial;
+ 	}
+ 	h2 {
+ 		color: $footer-text-color !important;
+ 	}
+ 	.common {
+ 		color: $footer-text-color !important;
+ 		font-weight: normal;
+ 	}
  	@extend %clearfix;
  	.footer-span {
  		padding-left: $spacing-unit / 2;
@@ -218,6 +258,9 @@
  				width: calc(20% - (#{$spacing-unit} / 2));
  			}
  		}
+ 		p {
+ 			 font-size: 15px;
+ 		}
  		@include media-query($on-laptop) {
  			&.footer-col-1,
  			&.footer-col-2 {
@@ -264,102 +307,123 @@
  * Posts
  */
  .post-header {
- 	margin-bottom: 50px;
+ 	margin-bottom: 40px;
  	.post-title {
- 		font-size: 48px;
- 		letter-spacing: -1px;
- 		line-height: 1;
- 		margin-bottom: 16px;
- 		font-weight: bold;
- 		@include media-query($on-laptop) {
- 			font-size: 36px;
- 		}
- 		a {
- 			color: black;
- 		}
- 	}
- 	.post-meta {
- 		font-size: $meta-font-size;
- 		color: $grey-color-darker;
- 		.date-meta, 
- 		.author-meta {
- 			color: $blue;
- 		}
- 		.date-meta {
- 			font-weight: bold;
- 		}
- 	}
- }
+		// color: #000000;
+		// font-size: 48px;
+		// letter-spacing: -1px;
+		// line-height: 1;
+		// margin-bottom: 14px;
+		// font-weight: bold;
+		// @include media-query($on-laptop) {
+		// 	font-size: 36px;
+		// }
+		a {
+			color: black;
+		}
+	}
+	.post-meta {
+		font-size: $meta-font-size;
+		color: $grey-color-darker;
+		.date-meta, 
+		.author-meta {
+			color: $blue;
+		}
+		.date-meta {
+			font-weight: bold;
+		}
+		.author-meta {
+			font-weight: bold;
+		}
+	}
+}
 
- .post-content {
- 	margin-bottom: $spacing-unit;
+.post-content {
+	margin-bottom: $spacing-unit;
+	.post-content {
+		// Hide the first h1 since we are using Jekyll to display the title
+		h1:first-child {
+			display: none;
+		}
+	}
+	
+	h2 {
+		@include media-query($on-laptop) {
+			font-size: 28px;
+		}
+	}
 
- 	h2 {
- 		font-size: 32px;
- 		font-weight: bold;
- 		@include media-query($on-laptop) {
- 			font-size: 28px;
- 		}
- 	}
+	h3 {
+		@include media-query($on-laptop) {
+			font-size: 22px;
+		}
+	}
 
- 	h3 {
- 		font-size: 26px;
+	h4 {
+		@include media-query($on-laptop) {
+			font-size: 18px;
+		}
+	}
 
- 		@include media-query($on-laptop) {
- 			font-size: 22px;
- 		}
- 	}
+	p {
+		margin-bottom: 30px;
+		color: $p-text-color;
+		@include media-query($on-laptop) {
+			margin-bottom: 15px;
+		}
+	}
+	hr {
+		&:last-of-type {
+			margin: 70px 0 30px 0;
+			& ~ p {
+				font-size: 15px;
+				a {
+					margin-bottom: 20px;
+				}
+			}
+		}
+	}
+	
+	img {
+		border: 1px solid rgba(87,87,87,0.25);
+		padding: 5%;
+		max-width: 90%;
+		margin: 20px 0;
+	}
 
- 	h4 {
- 		font-size: 20px;
+	ul {
+		margin-bottom: 20px;
+		li {
+			p {
+				margin-bottom: 15px;
+			}
+		}
+	}
+}
 
- 		@include media-query($on-laptop) {
- 			font-size: 18px;
- 		}
- 	}
-
- 	p {
- 		margin-bottom: 30px;
- 		color: $p-text-color;
- 		@include media-query($on-laptop) {
- 			margin-bottom: 15px;
- 		}
- 	}
- 	hr {
- 		&:last-of-type {
- 			margin: 70px 0 30px 0;
- 			& ~ p {
- 				font-size: 15px;
- 				a {
- 					margin-bottom: 20px;
- 				}
- 			}
- 		}
- 	}
- }
-
- .pagination-wrapper {
- 	background: $grey-color;
- 	height: $nav-height;
- 	cursor: pointer;
- 	position: relative;
- 	&.multiple-pagination {
- 		&:before {
- 			width: 100%;
- 			height: 100%;
- 			border-right: 2px solid #CFCFCF;
- 			position: absolute;
- 			content: "";
- 			left: -50.5%;
- 		}
- 		.pagination {
- 			width: 49.5%;
- 			float: left;
- 			position: relative;
- 			top: 50%;
- 			-webkit-transform: translateY(-50%);
- 			-ms-transform: translateY(-50%);
- 			transform: translateY(-50%);
+.pagination-wrapper {
+	background: $grey-color;
+	height: $nav-height;
+	cursor: pointer;
+	position: relative;
+	font-size: 15px;
+	&.multiple-pagination {
+		&:before {
+			width: 100%;
+			height: 100%;
+			border-right: 2px solid #CFCFCF;
+			position: absolute;
+			content: "";
+			left: -50.5%;
+		}
+		.pagination {
+			width: 49.5%;
+			float: left;
+			position: relative;
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
 			// &:first-child {
 			// 	border-right: 1px solid #CFCFCF;
 			// }
@@ -367,14 +431,30 @@
 				float: right;
 				margin: 0 5%;
 				text-decoration: none;
+				.label {
+					margin-left: 16px;
+					@include media-query($on-laptop) {
+						margin-left: 0px;
+					}
+				}
 			}
 			.next {
 				float: left;
 				margin: 0 5%;
 				text-decoration: none;
+				.label {
+					margin-right: 16px;
+					@include media-query($on-laptop) {
+						margin-right: 0px;
+					}
+				}
 			}
 			.label {
 				color: $grey-color-darker;
+				font-weight: normal;
+				@include media-query($on-laptop) {
+					display: block;
+				}
 			}
 		}
 	}
@@ -397,7 +477,13 @@
 	}
 }
 
-
+.site-container {
+	max-width: $content-width;
+	margin-left: $content-left-margin;
+	@include media-query($on-laptop) {
+		margin-left: auto;
+	}
+}
 .site-container-narrow  {
 	max-width: $content-width;
 	margin: 70px auto;
@@ -407,4 +493,9 @@
 	&:first-child {
 		margin-top: 0px;
 	}
+}
+
+.form-wrapper {
+	margin: 30px;
+	text-align: center;
 }

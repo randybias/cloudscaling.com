@@ -58,7 +58,7 @@ Scalability is the property of a system to continue to work as it increases in s
 > 
 > A service is said to be scalable if when we increase the resources in a system, it results in increased performance in a manner proportional to resources added.
 > 
-> </blockquote>
+
 
 
 

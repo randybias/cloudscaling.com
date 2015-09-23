@@ -60,7 +60,7 @@ Here is a choice bit from the 10-Q:
 > 
 > Property and equipment acquired under capital leases were $954 million and $716 million during Q1 2015 and Q1 2014. This reflects additional investments in support of continued business growth primarily due to investments in technology infrastructure for AWS. We expect this trend to continue over time.
 > 
-> </blockquote>
+
 
 
 

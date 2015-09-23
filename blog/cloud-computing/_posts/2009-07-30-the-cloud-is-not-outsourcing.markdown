@@ -39,7 +39,7 @@ My purpose in this particular post is not to pick on George.  He's a super shar
 The fundamental issue with the outsourcing argument is the perspective viewpoint.  It's best summed up, again by @GeorgeReese as "[not my problem](http://twitter.com/GeorgeReese/status/2895495010)":
 
 
-@samcharrington Not having hardware or assets to manage is the most interesting part of the cloud (not my problem)</blockquote>
+@samcharrington Not having hardware or assets to manage is the most interesting part of the cloud (not my problem)
 
 
 What I think George means here is that from the perspective of the cloud consumer a primary value proposition of the cloud is that it abstracts and hides away the details and pains normally associated with delivering these services.  He argues this is why you can never have an internal cloud, because you own the hardware, you must deal with the 'pain' associated with managing those assets, both operationally and fiscally.

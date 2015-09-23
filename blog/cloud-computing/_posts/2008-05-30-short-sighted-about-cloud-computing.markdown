@@ -52,7 +52,7 @@ Cloud services are _fundamentally game changing_, where web services are just 'h
 
 
 web services ('ho-hum') + network effect == cloud services ('holy cow!')
-</blockquote>
+
 
 
 

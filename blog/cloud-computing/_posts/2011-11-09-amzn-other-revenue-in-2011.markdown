@@ -13,7 +13,7 @@ old_categories:
 I had meant to put more content together around these numbers, but due to time constraints I won't be able to.  Regardless, the picture speaks for itself.  Here's my AMZN 'Other' revenue numbers with the blue bar representing my estimates of AWS revenue with the green bar representing the rest of AMZN's 'Other' line.
 
 
-[![](http://cloudscaling.com/wp-content/uploads/2011/11/aws-rev-numbers.jpg)](http://cloudscaling.com/blog/cloud-computing/amzn-other-revenue-in-2011/attachment/aws-rev-numbers)
+[![](/assets/media/2011/11/aws-rev-numbers.jpg)](http://cloudscaling.com/blog/cloud-computing/amzn-other-revenue-in-2011/attachment/aws-rev-numbers)
 
 
 
