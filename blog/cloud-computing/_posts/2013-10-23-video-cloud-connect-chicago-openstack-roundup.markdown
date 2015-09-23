@@ -24,7 +24,7 @@ If crowd size and quality of audience participation are any indication, the [Ope
 
 
 
-Randy Bias and [Narayan Desai](www.linkedin.com/in/nldesai/) (Argonne National Laboratory and OpenStack pioneer) led an OpenStack boot camp on Monday for a near-capacity crowd. Topics covered included 
+Randy Bias and [Narayan Desai](http://www.linkedin.com/in/nldesai/) (Argonne National Laboratory and OpenStack pioneer) led an OpenStack boot camp on Monday for a near-capacity crowd. Topics covered included 
 
 
 
@@ -68,7 +68,7 @@ What was most impressive was the quality of the questions asked, indicating not 
 
 
 
-On Tuesday, Randy led an OpenStack content track, along with help from speakers [Boris Renski](www.linkedin.com/in/borisrenski) of Mirantis, [Sean Lynch](www.linkedin.com/pub/sean-lynch/1/b47/205) of Metacloud, [Scott Devoid](www.linkedin.com/in/devoid) of Argonne National Laboratory, [Joshua Buss](www.linkedin.com/pub/joshua-buss/4/868/b83) of Brightag, and capping off the day in a debate with [Jay Cuthrell](www.linkedin.com/in/qthrul) of VCE. Topics included:
+On Tuesday, Randy led an OpenStack content track, along with help from speakers [Boris Renski](http://www.linkedin.com/in/borisrenski) of Mirantis, [Sean Lynch](http://www.linkedin.com/pub/sean-lynch/1/b47/205) of Metacloud, [Scott Devoid](http://www.linkedin.com/in/devoid) of Argonne National Laboratory, [Joshua Buss](http://www.linkedin.com/pub/joshua-buss/4/868/b83) of Brightag, and capping off the day in a debate with [Jay Cuthrell](http://www.linkedin.com/in/qthrul) of VCE. Topics included:
 
 
 

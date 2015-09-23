@@ -28,7 +28,7 @@ For your reading pleasure, I present our first big technical whitepaper:
 
 
 	
-  * [The Infrastructure-as-a-Service Builder's Guide v1.0 (PDF)](/files/iaas-building-guide-v1.pdf) [![](/wp-content/themes/CloudScaling/images/pdficon_large.gif)](/files/iaas-building-guide-v1.pdf)
+  * [The Infrastructure-as-a-Service Builder's Guide v1.0 (PDF)](/assets/files/iaas-building-guide-v1.pdf) [![](/wp-content/themes/CloudScaling/images/pdficon_large.gif)](/assets/files/iaas-building-guide-v1.pdf)
 
 
 Thanks!
