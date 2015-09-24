@@ -246,7 +246,7 @@
  			}
  		}
  		p {
- 			 font-size: 15px;
+ 			font-size: 15px;
  		}
  		@include media-query($on-laptop) {
  			&.footer-col-1,
@@ -295,6 +295,11 @@
  */
  .post-header {
  	margin-bottom: 40px;
+ 	h1 {
+ 		@include media-query($on-laptop) {
+ 			font-size: 32px;
+ 		}
+ 	}
  	.post-title {
 		// color: #000000;
 		// font-size: 48px;
@@ -305,6 +310,7 @@
 		// @include media-query($on-laptop) {
 		// 	font-size: 36px;
 		// }
+		
 		a {
 			color: black;
 		}
@@ -333,7 +339,11 @@
 			display: none;
 		}
 	}
-	
+	h1 {
+		@include media-query($on-laptop) {
+			font-size: 32px;
+		}
+	}
 	h2 {
 		@include media-query($on-laptop) {
 			font-size: 28px;
@@ -503,8 +513,8 @@
 		border: none;
 		outline: none;
 		margin-left: -5px;
-    	padding-top: 7px;
-    	font-weight: bold;
+		padding-top: 7px;
+		font-weight: bold;
 	}
 }
 
