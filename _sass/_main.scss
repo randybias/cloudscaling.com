@@ -46,9 +46,11 @@
 .index--single-post {
 	max-width: $content-width;
 	// margin-left: $content-left-margin;
-	margin: 70px auto;
-	padding-bottom: 70px;
+	margin: $post_spacing auto;
+	padding-bottom: $post_spacing;
 	@include media-query($on-laptop) {
+		margin: $post_spacing / 2 auto;
+		padding-bottom: $post_spacing / 2;
 		margin-left: auto;
 	}
 	&:first-child {

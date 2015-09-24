@@ -42,8 +42,9 @@
 		border-bottom: 1px solid #000000;
 		outline: none;
 		line-height: 20px;
-		width: 260px;
+		min-width: 70%;
 		font-size: 18px;
+		border-radius: 0
 	}
 	.menu-icon {
 		display: none;
