@@ -26,8 +26,11 @@
 		
 		{% endif %}
 		{% if paginator.next_page %}
-		<div class="pagination">
+		<div class="pagination hide">
 			<a href="{{ paginator.next_page_path }}" class="next">Next <span class="page_number "> Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></a>
+		</div>
+		<div class="pagination">
+			<a href="{{ paginator.next_page_path }}" class="loadmore">Load More Posts</a>
 		</div>
 		{% else %}
 		<span class="next ">Next</span>

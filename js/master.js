@@ -3,6 +3,33 @@ $(window).load(function() {
 })
 
 $(function() {
+
+	$('.loadmore').on( "click", function(event) {
+		event.preventDefault();
+		loadMorePosts();
+	});
+
+	function loadMorePosts() {
+		var _this = this;
+		var $blogContainer = $(".site-container");
+		var nextPage = parseInt($blogContainer.attr("data-page")) + 1;
+		var totalPages = parseInt($blogContainer.attr("data-totalPages"));
+
+		$(this).addClass("loading");
+
+		$.get("/blog/page/" + nextPage, function (data) {
+			var htmlData = data;
+			var $articles = $(htmlData).find(".index--single-post");
+
+			$blogContainer.attr("data-page", nextPage).append($articles);
+
+			if ($blogContainer.attr("data-totalPages") == nextPage) {
+				$(".next").remove();
+			}
+
+			$(_this).removeClass("loading");
+		});  
+	}
 	$( ".search-icon" ).on( "click", function() {
 		$('#global-search').submit();
 	});
@@ -23,7 +50,7 @@ $(function() {
 		{
 			var int_footnote = match.replace(/\[|\]/g, "");
 			return "<sup>[<a class='footnote-anchor' href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='footnotes'>"+int_footnote+"</span></a>]</sup>";		}
-		); 
+			); 
 
 		this.html(replaced_text);
 		return this;

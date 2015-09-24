@@ -136,7 +136,7 @@
  	}
 
  	&:hover {
- 		color: $text-color;
+ 		color: $blue;
  		text-decoration: underline;
  	}
  }
@@ -209,6 +209,7 @@
 
 sup {
 	a {
+		outline: none;
 		&.footnote-anchor{
 			.footnotes {
 				font-weight: normal;

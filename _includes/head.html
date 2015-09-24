@@ -8,12 +8,13 @@
     <meta name="description" content="{{ site.description }}">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ site.url }}/{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <!-- TO BE REMOVE -->
     <meta name="robots" content="noindex">
     <script src="/js/jquery.min.js"></script>
     <script src="/js/lunr.min.js"></script>
+    <!-- <script src="/js/jquery.jscroll.min.js"></script> -->
     <script src="/js/master.js"></script>
 </head>

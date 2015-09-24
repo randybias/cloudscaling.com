@@ -3,8 +3,16 @@ layout: default
 include_pagination: true
 ---
 
-<div class="site-container">
-  	{% capture homepage %}{{ page.url | slugify  }}{% endcapture %}
+{% if paginator.page %}
+	{% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
+	{% assign currentPage = paginator.page %}
+{% else %}
+	{% assign offset = 0 %}
+	{% assign currentPage = 1 %}
+{% endif %}
+
+<div class="site-container" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
+	{% capture homepage %}{{ page.url | slugify  }}{% endcapture %}
 	<!-- This loops through the paginated posts -->
 	{% for post in paginator.posts %}
 
@@ -13,23 +21,25 @@ include_pagination: true
 	<div class="index--single-post">
 		<div class="post-header">
 			<h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-			<p class="post-meta">Posted on <span class="date-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-			{% if post_author %} by <span class="author-meta"><a href="/blog/author/{{ post_author.slug }}">
-					{{ post.author }}
-				</a></span>
+			<p class="post-meta">Posted on {{ post.date | date: "%b %-d, %Y" }}
+				{% if post_author %} by <span class="author-meta"><a href="/blog/author/{{ post_author.slug }}">
+				{{ post.author }}
+			</a></span>
 			{% else if post.author %} by <span class="author-meta">{{ post.author }}</span>{% endif %}</p>
 		</div>
 
 		<div class="content">
-				{% if forloop.index == 1 and homepage == "blog-index-html" %}
-					{{ post.content }}
-				{% else %}
-					{{ post.content | truncatewords: 50 }}
-				{% endif %}
+			{% if forloop.index == 1 and homepage == "blog-index-html" %}
+			<div class="post-content">
+				{{ post.content }}
+			</div>
+			{% else %}
+			{{ post.content | truncatewords: 50 }}
+			{% endif %}
 		</div>
+		<!-- <hr> -->
 	</div>
 	{% if forloop.length != forloop.index %}
-	<hr>
 	{% endif %}
 	{% endfor %}
 </div>

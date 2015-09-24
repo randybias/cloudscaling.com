@@ -85,7 +85,7 @@ jQuery(function() {
           $search_results.append(appendString);
         });
       } else {
-        $search_results.html('<p class="center">No results found<p>');
+        $search_results.html('<p class="">No results found<p>');
       }
     });
   }

@@ -32,11 +32,6 @@
 .site-nav {
 	float: right;
 	line-height: $nav-height;
-
-	// .trigger {
-	// 		clear: both;
-	// 		display: none;
-	// }
 	.search-icon {
 		cursor: pointer;
 	}
@@ -47,7 +42,7 @@
 		border-bottom: 1px solid #000000;
 		outline: none;
 		line-height: 20px;
-		width: 300px;
+		width: 260px;
 		font-size: 18px;
 	}
 	.menu-icon {
@@ -65,14 +60,6 @@
 	}
 
 	@include media-query($on-palm) {
-		// position: absolute;
-		// top: 113px;
-		// margin: 0 5%;
-		// width: 90%;
-		// right: 0;
-		// #nav-search {
-		// 	display: none;
-		// }
 		.trigger {
 			clear: both;
 			display: none;
@@ -404,7 +391,6 @@
 .pagination-wrapper {
 	background: $grey-color;
 	height: $nav-height;
-	cursor: pointer;
 	position: relative;
 	font-size: 15px;
 	&.multiple-pagination {
@@ -496,6 +482,34 @@
 }
 
 .form-wrapper {
-	margin: 30px;
-	text-align: center;
+	.nav-search-input {
+		margin-top: $spacing-unit / 2;
+		background-color: #f2f2f2;
+		border: none;
+		height: 50px;
+		width: 270px;
+		font-size: 18px;
+		padding-left: 10px;
+		&:focus {
+			outline: none;
+		}
+	}
+	#submit_search {
+		background-color: #e2e2e2;
+		text-transform: uppercase;
+		border-radius: 0;
+		height: 52px;
+		width: 50px;
+		border: none;
+		outline: none;
+		margin-left: -5px;
+    	padding-top: 7px;
+    	font-weight: bold;
+	}
+}
+
+.search {
+	#results {
+		margin-top: $spacing-unit / 2;
+	}
 }
