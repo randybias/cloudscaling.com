@@ -1,0 +1,81 @@
+.pagination-wrapper {
+	background: $grey-color;
+	height: $nav-height;
+	position: relative;
+	font-size: 15px;
+	&.multiple-pagination {
+		&:before {
+			width: 100%;
+			height: 100%;
+			border-right: 2px solid #CFCFCF;
+			position: absolute;
+			content: "";
+			left: -50.5%;
+		}
+		.pagination {
+			width: 49.5%;
+			float: left;
+			position: relative;
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+			.previous {
+				float: right;
+				margin: 0 5%;
+				text-decoration: none;
+				.label {
+					margin-left: 16px;
+					@include media-query($on-laptop) {
+						margin-left: 0px;
+					}
+				}
+			}
+			.next {
+				float: left;
+				margin: 0 5%;
+				text-decoration: none;
+				.label {
+					margin-right: 16px;
+					@include media-query($on-laptop) {
+						margin-right: 0px;
+					}
+				}
+			}
+			.label {
+				color: $grey-color-darker;
+				font-weight: normal;
+				@include media-query($on-laptop) {
+					display: block;
+				}
+			}
+		}
+	}
+	.pagination {
+		width: 100%;
+		position: relative;
+		top: 50%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		text-align: center;
+		.next {
+			float: none;
+			margin: 0 5%;
+			text-decoration: none;
+		}
+		.label {
+			color: $grey-color-darker;
+		}
+		.icon--loading {
+			display: none;
+		}
+		.loadmore {
+			&.loading {
+				.icon--loading {
+					display: block;
+				}
+			}
+		}
+	}
+}
