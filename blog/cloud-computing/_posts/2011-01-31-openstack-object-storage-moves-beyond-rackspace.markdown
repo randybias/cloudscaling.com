@@ -1,5 +1,5 @@
 ---
-author: su
+author: Joe Arnold
 comments: true
 date: 2011-01-31 16:27:23+00:00
 layout: post
