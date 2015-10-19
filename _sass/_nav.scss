@@ -130,6 +130,7 @@
  	margin-bottom: 10px;
  	@include media-query($on-palm) {
  		line-height: 20px;
+ 		font-size:12px;
  	}
  }
 
@@ -167,6 +168,9 @@
  	}
  	.icon-cc {
  		width: 220px;
+ 		@include media-query($on-palm) {
+			width: 120px;
+		}
  	}
  	.social-media-list {
  		list-style: none;
@@ -220,6 +224,9 @@
  		}
  		p {
  			font-size: 15px;
+ 			@include media-query($on-palm) {
+				font-size: 12px;
+			}
  		}
  		@include media-query($on-laptop) {
  			&.footer-col-1,

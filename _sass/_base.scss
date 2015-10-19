@@ -68,6 +68,9 @@
 
  li {
  	margin-bottom: 10px;
+ 	@include media-query($on-palm) {
+		margin-bottom:5px;
+	}
  	> ul,
  	> ol {
  		margin-bottom: 0;
@@ -197,12 +200,25 @@
 	text-align: justify;
 	+ h1  {
 		margin-top: 40px;
+		@include media-query($on-palm) {
+			margin-top:20px;
+		}
 	}
 	+ h2  {
 		margin-top: 40px;
+		@include media-query($on-palm) {
+			margin-top:20px;
+		}
 	}
 	+ h3  {
 		margin-top: 40px;
+		@include media-query($on-palm) {
+			margin-top:20px;
+		}
+	}
+	@include media-query($on-palm) {
+		font-size:16px;
+		line-height:22px;
 	}
 }
 
