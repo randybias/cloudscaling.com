@@ -10,9 +10,9 @@ footer: false
           {% if post.author contains page.author %}
             {% assign content = post.content %}
             {% assign title = post.title %}
-	    <article>
-  	      {% include archive_post.html %}
-	    </article>
+  	     
+          {% include archive_post.html %}
+
           {% endif %}
 	{% endfor %}
 </div>

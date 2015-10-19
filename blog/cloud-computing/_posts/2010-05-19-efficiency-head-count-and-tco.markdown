@@ -1,5 +1,5 @@
 ---
-author: su
+author: Andrew Shafer
 comments: true
 date: 2010-05-19 17:00:12+00:00
 layout: post

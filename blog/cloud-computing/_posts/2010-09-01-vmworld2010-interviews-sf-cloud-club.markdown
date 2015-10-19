@@ -26,7 +26,7 @@ John Furrier interviewed the following members of the SF Cloud Computing Club to
   * Randy Bias, CEO, Cloudscaling
 
 
-The link is here:[ http://www.justin.tv/nicefishfilms/b/269320590](http://www.justin.tv/nicefishfilms/b/269320590)
+The link is here:[ https://www.youtube.com/watch?v=FOiNL7bmsts](https://www.youtube.com/watch?v=FOiNL7bmsts)
 
 
 The video clip is below:

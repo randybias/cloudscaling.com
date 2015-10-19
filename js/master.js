@@ -5,8 +5,13 @@ $(window).load(function() {
 $(function() {
 
 	$('.loadmore').on( "click", function(event) {
-		event.preventDefault();
-		loadMorePosts();
+		if (!$(this).hasClass('.loading')) {
+			event.preventDefault();
+			$(this).addClass("loading");
+			console.log("clicked");
+			loadMorePosts();
+			$(this).removeClass("loading");
+		}
 	});
 
 	function loadMorePosts() {
@@ -14,8 +19,6 @@ $(function() {
 		var $blogContainer = $(".site-container");
 		var nextPage = parseInt($blogContainer.attr("data-page")) + 1;
 		var totalPages = parseInt($blogContainer.attr("data-totalPages"));
-
-		$(this).addClass("loading");
 
 		$.get("/blog/page/" + nextPage, function (data) {
 			var htmlData = data;
@@ -26,8 +29,6 @@ $(function() {
 			if ($blogContainer.attr("data-totalPages") == nextPage) {
 				$(".next").remove();
 			}
-
-			$(_this).removeClass("loading");
 		});  
 	}
 	$( ".search-icon" ).on( "click", function() {
