@@ -27,7 +27,7 @@ IRG on VMware vs. Microsoft:
 
 
 > 
-> ![](http://origin.ih.constantcontact.com/fs074/1101654540507/img/39.gif)The Virtualization War — At the Microsoft Virtual Analyst Meeting, Muglia chirped happily that he was gaining hypervisor market share every day. Although we think that must be true, we couldn't get any of the underlying data so we couldn't de-spin it. As we continue to muck about in the Cloud and Utility Datacenter, it's pretty clear that's still all about VMware. So what does the future portend? I continue to think that Microsoft is strongly in the game. The most recent financial reports give an interesting perspective on this. VMware has suffered a year of quarter-over-quarter declines in license revenue, buffered somewhat by rising service revenues. This isn't necessarily a bad report, but at the most recent report Microsoft reported that System Center - the System Management tool that in the end is probably what VMware competes with - grew at a very healthy year-over-year rate of 30% (independently we have heard that it is about a $1.5B/year product. That suggest that System Center is significantly bigger than VMW (comparing apples to apple if that is possible) and growing much more rapidly. As we said, it would probably be premature to count Microsoft out now.
+> ![](/assets/media/external/39.gif)The Virtualization War — At the Microsoft Virtual Analyst Meeting, Muglia chirped happily that he was gaining hypervisor market share every day. Although we think that must be true, we couldn't get any of the underlying data so we couldn't de-spin it. As we continue to muck about in the Cloud and Utility Datacenter, it's pretty clear that's still all about VMware. So what does the future portend? I continue to think that Microsoft is strongly in the game. The most recent financial reports give an interesting perspective on this. VMware has suffered a year of quarter-over-quarter declines in license revenue, buffered somewhat by rising service revenues. This isn't necessarily a bad report, but at the most recent report Microsoft reported that System Center - the System Management tool that in the end is probably what VMware competes with - grew at a very healthy year-over-year rate of 30% (independently we have heard that it is about a $1.5B/year product. That suggest that System Center is significantly bigger than VMW (comparing apples to apple if that is possible) and growing much more rapidly. As we said, it would probably be premature to count Microsoft out now.
 > 
 > 
 </blockquote>
@@ -305,12 +305,12 @@ Diagrams showing Data Transfer pricing:
 
 
 
-![](http://origin.ih.constantcontact.com/fs074/1101654540507/img/37.gif)
+![](/assets/media/external/37.gif)
 
 
 
 
-![](http://origin.ih.constantcontact.com/fs074/1101654540507/img/36.gif)
+![](/assets/media/external/36.gif)
 
 
 

@@ -16,7 +16,7 @@ tags:
 
 
 
-[![Azmir and Jenifer still for post](http://www.cloudscaling.com/wp-content/uploads/2013/07/Azmir-and-Jenifer-still-for-post-300x199.png)](http://www.cloudscaling.com/wp-content/uploads/2013/07/Azmir-and-Jenifer-still-for-post.png)In April of this year, Cloudscaling [announced a partnership](http://cloudscaling.com/blog/press-releases/juniper/) with Juniper Networks to integrate Juniper’s Junos V Contrail virtual network control (VNC) technology into Cloudscaling’s [Open Cloud System](http://cloudscaling.com/products/ocs-system-overview/) (OCS).
+[![Azmir and Jenifer still for post](/assets/media/2013/07/Azmir-and-Jenifer-still-for-post-300x199.png)](/assets/media/2013/07/Azmir-and-Jenifer-still-for-post.png)In April of this year, Cloudscaling [announced a partnership](http://cloudscaling.com/blog/press-releases/juniper/) with Juniper Networks to integrate Juniper’s Junos V Contrail virtual network control (VNC) technology into Cloudscaling’s [Open Cloud System](http://cloudscaling.com/products/ocs-system-overview/) (OCS).
 
 
 

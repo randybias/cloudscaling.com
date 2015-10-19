@@ -16,7 +16,7 @@ tags:
 Earlier this week, one of our clients, a Tier 1 ISP, launched an object storage cloud based on [OpenStack](http://www.openstack.org/), an open source compute and storage framework created by [Rackspace](http://www.rackspace.com/index.php) and NASA. The new storage cloud is the first commercial OpenStack-based storage offering in the market after Rackspace itself, which is based on the same technology. Cloudscaling assisted in developing this solution for the new product, including hardware, networking, configuration, systems integration, monitoring and management.
 
 
-![](https://lh6.googleusercontent.com/DOeRQlnZaAlkGsJkwp7zRNmf3plTugOpQax-riTabw_JyaR3DtKgs3LkaiF-5ZYrnGnJq59Y-sxcUQVwfh-CSVflXl3O90UJn0ZANkKcXN1A7YwRrQ)
+![](/assets/media/external/1petabyte-internap-santaclara.jpeg)
 
 
 To understand why this is important, let’s look at why object storage is different than block storage, as well as the cases where each excels.

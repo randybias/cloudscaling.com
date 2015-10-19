@@ -37,9 +37,9 @@ At the moment my client list is short, but impressive:
   * [Cloud Central](http://www.cloudcentral.com.au) (first IaaS provider in Australia; pre-launch)
 
 
-Find out how I can help you with your cloud strategy in my [one page briefing (PDF)](http://neotactics-public.s3.amazonaws.com/randybias-cloud-consulting-services.pdf).
+Find out how I can help you with your cloud strategy in my [one page briefing (PDF)](/assets/pdf/randybias-cloud-consulting-services.pdf).
 
-[](http://neotactics-public.s3.amazonaws.com/randybias-cloud-consulting-services.pdf)
+[](/assets/pdf/randybias-cloud-consulting-services.pdf)
 
 
 

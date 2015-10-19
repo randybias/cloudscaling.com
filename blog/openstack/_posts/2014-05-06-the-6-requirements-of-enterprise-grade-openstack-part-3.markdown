@@ -93,7 +93,7 @@ Perhaps more importantly, both flat and multi_host networking models require you
 
 
 
-[![OpenStack multi_host mode](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.0081.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.0081.jpg)
+[![OpenStack multi_host mode](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.0081.jpg)](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.0081.jpg)
 
 
 
@@ -108,7 +108,7 @@ By contrast, single_host mode suffers from the singular sin of trying to make a 
 
 
 
-[![OpenStack single_host mode](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.007.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.007.jpg)
+[![OpenStack single_host mode](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.007.jpg)](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.007.jpg)
 
 
 
@@ -158,7 +158,7 @@ Infrastructure can’t ever be truly elastic, but its properties can enable elas
 
 
 
-[![Jevon's Paradox](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.011.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.011.jpg)
+[![Jevon's Paradox](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.011.jpg)](/assets/media/2014/05/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.011.jpg)
 
 
 

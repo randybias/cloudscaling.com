@@ -28,7 +28,7 @@ He’s worked at the White House Office of Science and Technology Policy on open
 
 He’s also the newest member of the Cloudscaling [Advisory Board](http://cloudscaling.com/advisoryboard/).
 
-[![BrianBehlendorf](http://www.cloudscaling.com/wp-content/uploads/2013/07/BrianBehlendorf.jpg)](http://www.cloudscaling.com/wp-content/uploads/2013/07/BrianBehlendorf.jpg)Brian and I caught up at [OSCON](http://en.wikipedia.org/wiki/Brian_Behlendorf) a few weeks ago. We talked about his journey in open source, the birth of Apache, interoperability, and advice on how to be a great open source foundation board member.
+[![BrianBehlendorf](/assets/media/2013/07/BrianBehlendorf.jpg)](/assets/media/2013/07/BrianBehlendorf.jpg)Brian and I caught up at [OSCON](http://en.wikipedia.org/wiki/Brian_Behlendorf) a few weeks ago. We talked about his journey in open source, the birth of Apache, interoperability, and advice on how to be a great open source foundation board member.
 
 Here’s the play-by-play:
 

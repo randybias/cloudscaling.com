@@ -14,7 +14,7 @@ old_categories:
 
 
 
-[![Randy Bias at ccevent chi 13](http://www.cloudscaling.com/wp-content/uploads/2013/10/Randy-Bias-at-ccevent-chi-13.png)](http://www.cloudscaling.com/wp-content/uploads/2013/10/Randy-Bias-at-ccevent-chi-13.png)
+[![Randy Bias at ccevent chi 13](/assets/media/2013/10/Randy-Bias-at-ccevent-chi-13.png)](/assets/media/2013/10/Randy-Bias-at-ccevent-chi-13.png)
 
 
 

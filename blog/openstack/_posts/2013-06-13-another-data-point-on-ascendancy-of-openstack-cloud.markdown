@@ -15,7 +15,7 @@ tags:
 
 Earlier this week, I gave the keynote address at the [Storage Plumbing and Data Engineering Conference](http://snia.org/spdecon) in Santa Clara (it’s abbreviated SPDEcon and pronounced, “Speedy-con,” by the way).
 
-[![Screen Shot 2013-06-13 at 3.32.03 PM](http://www.cloudscaling.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-13-at-3.32.03-PM-300x51.png)](http://snia.org/spdecon)Sponsored by the SNIA, the event is targeted for hardcore storage development and data engineers who configure, integrate and support storage and data management solutions – often called “storage plumbing.”
+[![Screen Shot 2013-06-13 at 3.32.03 PM](/assets/media/2013/06/Screen-Shot-2013-06-13-at-3.32.03-PM-300x51.png)](http://snia.org/spdecon)Sponsored by the SNIA, the event is targeted for hardcore storage development and data engineers who configure, integrate and support storage and data management solutions – often called “storage plumbing.”
 
 My keynote was an updated version of the “[State of the Stack](http://go.cloudscaling.com/state-of-the-stack-2013)” presentation on OpenStack and cloud computing that I’ve given several times since the OpenStack Summit in Portland a couple of months ago. Everywhere I’ve given this presentation to a non-OpenStack audience, I ask the audience:
 

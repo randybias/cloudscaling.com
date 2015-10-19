@@ -55,7 +55,7 @@ So what’s required? There are 6 key elements:
 
 
 
-[![6 Requirements for Enterprise-grade OpenStack Supporting Material.002](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.002.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.002.jpg)
+[![6 Requirements for Enterprise-grade OpenStack Supporting Material.002](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.002.jpg)](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.002.jpg)
 
 
 
@@ -104,7 +104,7 @@ While I think it’s self-evident that agility is the driving light behind cloud
 
 
 
-[caption id="" align="aligncenter" width="499"]![](http://news.netcraft.com/wp-content/uploads/2013/07/AMZN-growth.png) Netcraft AWS Growth Relentless[/caption]
+[caption id="" align="aligncenter" width="499"]![](/assets/media/external/AMZN-growth.png) Netcraft AWS Growth Relentless[/caption]
 
 
 
@@ -113,7 +113,7 @@ This growth is all net new applications, or what Microsoft calls next generation
 
 
 
-![Agility Driven by Next Gen Apps](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)
+![Agility Driven by Next Gen Apps](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)
 
 
 
@@ -123,7 +123,7 @@ At its current rate of growth, next generation cloud applications will equal the
 
 
 
-![](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.004.jpg)
+![](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.004.jpg)
 
 
 
@@ -208,7 +208,7 @@ An enterprise-grade cloud operating system can provide guarantees of sub-minute 
 
 
 
-[![Load Balancing vs. Simple HA](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.005.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.005.jpg)
+[![Load Balancing vs. Simple HA](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.005.jpg)](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.005.jpg)
 
 
 

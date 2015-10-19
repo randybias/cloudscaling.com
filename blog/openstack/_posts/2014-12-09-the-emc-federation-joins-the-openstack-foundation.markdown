@@ -70,7 +70,7 @@ In April of 2013, EMC and VMware launched Pivotal and created a federation of it
 
 
 
-[![EMCFederation-and-OpenStack-Diagram](http://www.cloudscaling.com/wp-content/uploads/2014/12/EMCFederation-and-OpenStack-Diagram.png)](http://www.cloudscaling.com/wp-content/uploads/2014/12/EMCFederation-and-OpenStack-Diagram.png)
+[![EMCFederation-and-OpenStack-Diagram](/assets/media/2014/12/EMCFederation-and-OpenStack-Diagram.png)](/assets/media/2014/12/EMCFederation-and-OpenStack-Diagram.png)
 
 
 

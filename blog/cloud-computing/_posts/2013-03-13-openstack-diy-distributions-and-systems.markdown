@@ -47,6 +47,6 @@ Customers choose OpenStack because of the project’s feature velocity, so seaml
   
 Finally, support for OpenStack systems cover the entire “stack”.  Cloudscaling extends support beyond just the OpenStack software to include key areas such as the hypervisor, hardware infrastructure and network elements.   This comprehensive approach to support is unique in the OpenStack product landscape.
 
-[![blog1](http://www.cloudscaling.com/wp-content/uploads/2013/03/blog1.jpg)](http://www.cloudscaling.com/wp-content/uploads/2013/03/blog1.jpg)
+[![blog1](/assets/media/2013/03/blog1.jpg)](/assets/media/2013/03/blog1.jpg)
 
 _— Summary of options for deploying OpenStack-based clouds. —_

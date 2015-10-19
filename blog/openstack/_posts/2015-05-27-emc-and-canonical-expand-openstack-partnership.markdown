@@ -74,7 +74,7 @@ The solution for Canonical can be found at [this link](https://community.emc.com
 
 
 
-![EMC and Canonical Ubuntu OpenStack Reference Architecture](http://www.storagereview.com/images/StorageReview-EMC-Canocial.png)
+![EMC and Canonical Ubuntu OpenStack Reference Architecture](/assets/media/external/StorageReview-EMC-Canocial.png)
 
 
 

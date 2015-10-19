@@ -124,7 +124,7 @@ Look at the number of developer centric APIs Google already has (this is a parti
 
 
 
-[![google-dev-apis-screenshot](http://www.cloudscaling.com/wp-content/uploads/2014/02/google-dev-apis-screenshot-1024x768.png)](http://www.cloudscaling.com/wp-content/uploads/2014/02/google-dev-apis-screenshot.png)
+[![google-dev-apis-screenshot](/assets/media/2014/02/google-dev-apis-screenshot-1024x768.png)](/assets/media/2014/02/google-dev-apis-screenshot.png)
 
 
 

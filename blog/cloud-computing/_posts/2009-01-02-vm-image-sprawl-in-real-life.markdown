@@ -18,7 +18,7 @@ A while back, [Geva Perry](http://gevaperry.typepad.com/) and I were chatting ab
 **Real Data**
 So, around the time we were chatting I started collecting some information on the number of public Amazon Machine Image (AMIs).  This isn't a perfect sampling, but should be pretty good for most purposes.
 
-Here's what the data looks like as of today:![Amazon Machine Image (AMI) Count](http://neotactics-public.s3.amazonaws.com/Amazon-AMI-Count-Q4-08.png)
+Here's what the data looks like as of today:![Amazon Machine Image (AMI) Count](/assets/media/external/Amazon-AMI-Count-Q4-08.png)
 
 As you can see there is quite a steady stream of new images added to EC2.  The data flatlines during the holiday break, but I'm sure we'll see it pick back up starting next week.
 

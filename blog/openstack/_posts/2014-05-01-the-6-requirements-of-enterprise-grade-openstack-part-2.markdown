@@ -73,7 +73,7 @@ If you want to build your own customized cloud operating system[1] built around 
 
 
 
-[![Cloud OS Development Team Requirements](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.009.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.009.jpg)
+[![Cloud OS Development Team Requirements](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.009.jpg)](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.009.jpg)
 
 
 
@@ -93,7 +93,7 @@ Hybrid is the new cloud. Most customers we talk to acknowledge the reality of ne
 
 
 
-[![RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy](http://www.cloudscaling.com/wp-content/uploads/2014/04/RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy.jpg)
+[![RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy](/assets/media/2014/04/RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy.jpg)](/assets/media/2014/04/RightScale-State-of-the-Cloud-2014-hybrid-cloud-strategy.jpg)
 
 
 
@@ -113,7 +113,7 @@ Every enterprise needs a hybrid-first cloud strategy. Meaning, hybrid cloud shou
 
 
 
-[![Triaging and Mapping Apps to the Right Cloud](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.010.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.010.jpg)
+[![Triaging and Mapping Apps to the Right Cloud](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.010.jpg)](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.010.jpg)
 
 
 
@@ -160,7 +160,7 @@ Here is a slide I used in a recent webinar to help explain these requirements.
 
 
 
-[![Hybrid Cloud Interoperability Requirements](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.006.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.006.jpg)
+[![Hybrid Cloud Interoperability Requirements](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.006.jpg)](/assets/media/2014/04/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.006.jpg)
 
 
 
@@ -215,7 +215,7 @@ Ultimately, you have to place your own bet on where you think OpenStack lands, b
 
 
 
-[![RightScale State of the Cloud 2014 on Top Public Clouds Used by Businesses](http://www.cloudscaling.com/wp-content/uploads/2014/04/RightScale-State-of-the-Cloud-2014-top-public-clouds.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/04/RightScale-State-of-the-Cloud-2014-top-public-clouds.jpg)
+[![RightScale State of the Cloud 2014 on Top Public Clouds Used by Businesses](/assets/media/2014/04/RightScale-State-of-the-Cloud-2014-top-public-clouds.jpg)](/assets/media/2014/04/RightScale-State-of-the-Cloud-2014-top-public-clouds.jpg)
 
 
 

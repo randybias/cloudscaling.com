@@ -16,7 +16,7 @@ tags:
 
 
 
-[![openstack-logo-small transparent 2](http://www.cloudscaling.com/wp-content/uploads/2012/10/openstack-logo-small-transparent-2.png)](http://www.cloudscaling.com/wp-content/uploads/2012/10/openstack-logo-small-transparent-2.png)Voting is now open for the OpenStack Summit fall 2013 in Hong Kong. Cloudscalers have submitted a variety of presentations, from Randy Bias’ popular “State of the Stack” overview of the project to technical deep dives on security, block storage, networking, SELinux and more.
+[![openstack-logo-small transparent 2](/assets/media/2012/10/openstack-logo-small-transparent-2.png)](/assets/media/2012/10/openstack-logo-small-transparent-2.png)Voting is now open for the OpenStack Summit fall 2013 in Hong Kong. Cloudscalers have submitted a variety of presentations, from Randy Bias’ popular “State of the Stack” overview of the project to technical deep dives on security, block storage, networking, SELinux and more.
 
 
 

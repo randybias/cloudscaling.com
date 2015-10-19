@@ -69,7 +69,7 @@ At Cloud Connect in February of 2011, I gave a [keynote](http://vimeo.com/213723
 But in the 2.5 years since then, much has changed. AWS’s growth has continued unabated, and GCE entered the race in earnest. Rackspace, meanwhile, faces declining growth velocity. If Rackspace earnings for Q2-Q4 of this year match Q1, they will have declined from that high of ~90% annual growth for their public cloud down to ~30% annual growth, a staggering decline in the past few years. See the following chart, which assumes that quarter over quarter growth in 2013 stays constant.
 
   
-[![rackspace-yearly-growth-numbers (2)](http://www.cloudscaling.com/wp-content/uploads/2013/07/rackspace-yearly-growth-numbers-2-1024x619.jpg)](http://www.cloudscaling.com/wp-content/uploads/2013/07/rackspace-yearly-growth-numbers-2.jpg)
+[![rackspace-yearly-growth-numbers (2)](/assets/media/2013/07/rackspace-yearly-growth-numbers-2-1024x619.jpg)](/assets/media/2013/07/rackspace-yearly-growth-numbers-2.jpg)
 
 There is no public information about GCE’s growth, but I believe it to be on par with AWS. This is based partly upon learning that the level of interest in their service was so high that their wait list queue was longer than the customer list of most other public clouds actually in production. And that was while they were still in private beta.
 

@@ -10,7 +10,7 @@ old_categories:
 - Company
 ---
 
-[caption id="attachment_7048" align="alignleft" width="100"][![Andrew Tahvildary](http://www.cloudscaling.com/wp-content/uploads/2013/12/andrew_tahvildary.jpg)](http://www.cloudscaling.com/wp-content/uploads/2013/12/andrew_tahvildary.jpg) Andrew Tahvildary[/caption]
+[caption id="attachment_7048" align="alignleft" width="100"][![Andrew Tahvildary](/assets/media/2013/12/andrew_tahvildary.jpg)](/assets/media/2013/12/andrew_tahvildary.jpg) Andrew Tahvildary[/caption]
 
 Andrew Tahvildary joined Cloudscaling last month as Vice President of Engineering. He joins us most recently from [newScale](http://www.cisco.com/web/about/ac49/ac0/ac1/ac259/newscale.html#!), where he led the engineering team for more than six years as the company effected a successful exit via acquisition by Cisco. He was a member of the executive leadership team, responsible for product development and architecture, quality assurance, support, release management, program management and lifecycle budgeting for the engineering organization.
 

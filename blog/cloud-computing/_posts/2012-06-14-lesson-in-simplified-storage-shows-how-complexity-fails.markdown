@@ -34,13 +34,13 @@ A system that is twice as complex as another system isn't just twice as likely t
 
 In the cloud computing space, some feel that one of Amazon Web Services' (AWS) weaknesses is that it provides only DAS by default. To counter this, many competitors run SAN-based cloud services only, taking on the complexity of SAN-based storage as a bid for differentiation. Yet AWS remains the leader in every regard in cloud computing, mainly because it sticks to a principle of simplicity.
 
-If we look at DAS versus SAN and trace the path data takes when written by an application running "in the cloud," it would look something like [this figure](http://cdn.oreilly.com/radar/images/posts/0412-data-path-san-vs-das-lg.png):
+If we look at DAS versus SAN and trace the path data takes when written by an application running "in the cloud," it would look something like [this figure](/assets/media/external/0412-data-path-san-vs-das-lg.png):
 
 
 
 
-[![DAS vs San data path](http://cdn.oreilly.com/radar/images/posts/0412-data-path-san-vs-das-450.png)](http://cdn.oreilly.com/radar/images/posts/0412-data-path-san-vs-das-lg.png)
-_DAS vs. San data path. [Click to enlarge](http://cdn.oreilly.com/radar/images/posts/0412-data-path-san-vs-das-lg.png)._
+[![DAS vs San data path](/assets/media/external/0412-data-path-san-vs-das-450.png)](/assets/media/external/0412-data-path-san-vs-das-lg.png)
+_DAS vs. San data path. [Click to enlarge](/assets/media/external/0412-data-path-san-vs-das-lg.png)._
 
 
 
@@ -99,8 +99,8 @@ In all, adding the SAN conservatively doubles the number of steps and moving par
 
 The problem, however, is not so much that there are more pieces, but that those pieces all potentially interact with each other and can cause issues. The problem is multiplicative. There are twice as many parts (or more) in a SAN, but that creates four times as many potential interactions, each of which could be a failure. The following figure shows all the steps as both rows and columns. Interactions could theoretically occur between each two of the steps. (I've blacked out the squares where a component intersects with itself because that's not an interaction between different components.)
 
-[![Complexity matrix](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-580.png)](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-lg.png)
-_[Click to enlarge](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-lg.png)._
+[![Complexity matrix](/assets/media/external/0412-simple-vs-complex-580.png)](/assets/media/external/0412-simple-vs-complex-lg.png)
+_[Click to enlarge](/assets/media/external/0412-simple-vs-complex-lg.png)._
 
 This diagram is a matrix of the combinations, where we assume that the hypervisor RAID in my example above isn't part of the SAN solution. The lighter-colored quadrant in the upper left is the number of potential interactions or failure points for DAS, and the entire diagram depicts those for SAN. Put more in math terms, there are N * (N-1) possible interactions/failures. With this DAS example, that means there are 8 * (8-1) or 56. For the SAN, it's 240 (16 * (16-1)) minus the hypervisor RAID (16) for 224 — exactly four times as many potential areas of problems or interactions that may cause failures.
 
@@ -110,8 +110,8 @@ To be certain, each of these components and interactions have varying chances of
 
 If every component of our DAS or SAN system is rated for "five 9s" (99.999%) uptime, our calculation is as follows:
 
-[![Simple vs complex numbers](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-numbers-580.png)](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-numbers-lg.png)
-_[Click to enlarge](http://cdn.oreilly.com/radar/images/posts/0412-simple-vs-complex-numbers-lg.png)._
+[![Simple vs complex numbers](/assets/media/external/0412-simple-vs-complex-numbers-580.png)](/assets/media/external/0412-simple-vs-complex-numbers-lg.png)
+_[Click to enlarge](/assets/media/external/0412-simple-vs-complex-numbers-lg.png)._
 
 The point here is not that DAS is "four 9s" or SAN is "five 9s," but that by adding more components, we have actually reduced our likely uptime. Simpler solutions are more robust because there are fewer pieces to fail. We have lost a full "9" by doubling the number of components in the system.
 

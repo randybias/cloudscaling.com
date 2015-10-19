@@ -161,7 +161,7 @@ Let’s take a look at a typical CoprHD deployment:
 
 
 
-[![](https://coprhd.atlassian.net/wiki/download/attachments/3211310/coprhd.001.png?version=1&modificationDate=1433514112010&api=v2)](https://coprhd.atlassian.net/wiki/download/attachments/3211310/coprhd.001.png?version=1&modificationDate=1433514112010&api=v2)
+[![](/assets/media/external/coprhd.001.png)](/assets/media/external/coprhd.001.png)
 
 
 
@@ -203,7 +203,7 @@ Here is a more precise diagram showing more of the individual services each runn
 
 
 
-[![](https://coprhd.atlassian.net/wiki/download/attachments/3211310/coprhd.002.png?version=1&modificationDate=1433514117624&api=v2)](https://coprhd.atlassian.net/wiki/download/attachments/3211310/coprhd.002.png?version=1&modificationDate=1433514117624&api=v2)
+[![](/assets/media/external/coprhd.002.png)](/assets/media/external/coprhd.002.png)
 
 
 

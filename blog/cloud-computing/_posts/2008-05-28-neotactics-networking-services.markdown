@@ -13,4 +13,4 @@ tags:
 - Networking
 ---
 
-Just a quick blurb to mention that we recently released a one page brief on the networking services that neoTactics provides.  You can get it [here ![neoTactics Networking Brief](http://www.adobe.com/images/pdficon_small.gif)](http://neotactics-collateral.s3.amazonaws.com/neotactics-networking-brief.pdf) or from the [services](http://neotactics.com/services/networks/) page.
+Just a quick blurb to mention that we recently released a one page brief on the networking services that neoTactics provides.  You can get it [here ![neoTactics Networking Brief](/assets/media/external/pdficon_small.gif)](http://neotactics-collateral.s3.amazonaws.com/neotactics-networking-brief.pdf) or from the [services](http://neotactics.com/services/networks/) page.

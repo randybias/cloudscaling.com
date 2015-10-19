@@ -46,7 +46,7 @@ I think that in this context talking about Software-as-a-Service (SaaS) takes on
 **Cloud Economy Taxonomy**
 The epiphany I had is basically that while SaaS might not be cloud computing, it's certainly part of the cloud computing economy.  In fact, if you think about it, long term, it makes sense that everyone focuses on one part of the following stack based on their target market.  The biggest players will inevitably build all three parts of this stack (e.g. Google's Gmail), but most folks will wind up focusing on building infrastructure, platforms, **or** software.  Not all three at once.
 
-![](http://neotactics-public.s3.amazonaws.com/cloud-economy-stack.png)
+![](/assets/media/external/cloud-economy-stack.png)
 
 
 SaaS

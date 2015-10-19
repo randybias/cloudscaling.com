@@ -30,13 +30,13 @@ A couple of solid resources that will help deepen your understanding of these th
 
 This view of the world is the cornerstone of Cloudscaling’s product strategy. Essentially, we believe that two kinds of clouds are needed for two different types of applications:
 
-[![Cloudscaling OCS Product Deck - 2014-08-17 - DRAFT.083](http://www.cloudscaling.com/wp-content/uploads/2014/10/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.083.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/10/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.083.jpg)
+[![Cloudscaling OCS Product Deck - 2014-08-17 - DRAFT.083](/assets/media/2014/10/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.083.jpg)](/assets/media/2014/10/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.083.jpg)
 
 Yes, part of this was driven by pragmatism. VMware is king of the hill in enterprise virtualization and it’s hard to imagine a universe where that changes. But once nascent “cloud-native” applications are emerging very rapidly. Cloud-native apps manage their own availability and uptime, and they’re designed for scale-out with minimal or zero human engagement. This is where [DevOps](http://en.wikipedia.org/wiki/DevOps) comes in. It’s the primary vehicle by which enterprises can successfully build cloud-native applications. It also brings into focus the prevalent [“pets vs. cattle” meme](http://www.cloudscaling.com/blog/cloud-computing/pets-vs-cattle-the-elastic-cloud-story/) that describes in a nutshell what a cloud-native application is: treating servers as disposable field replaceable units (FRUs) rather than critical pieces of infrastructure that must never fail.
 
 EMC’s strategy is consistent with this approach to infrastructure and applications. They use a term that IDC coined called “third platform apps” to describe these new cloud-native applications. The speed at which the third platform is growing is almost unprecedented:
 
-[![6 Requirements for Enterprise-grade OpenStack Supporting Material.003](http://www.cloudscaling.com/wp-content/uploads/2014/10/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)](http://www.cloudscaling.com/wp-content/uploads/2014/10/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)
+[![6 Requirements for Enterprise-grade OpenStack Supporting Material.003](/assets/media/2014/10/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)](/assets/media/2014/10/6-Requirements-for-Enterprise-grade-OpenStack-Supporting-Material.003.jpg)
 
 We didn’t realize it during our first conversations back in 2012, but EMC and Cloudscaling were slowly moving towards each other, even though we didn’t quite see eye to eye on how to get there. EMC made some impressive moves in pursuing its scale-out architecture portfolio, including the [acquisitions of Isilon](http://www.emc.com/about/news/press/2010/20101115-01.htm) and ScaleIO, and internal developments such as ViPR.
 
@@ -71,7 +71,7 @@ The mission, vision and go-to-market execution proof-points driving EMC toward c
 
 Here’s to the future. It’s going to be bright!
 
-[![randyb-signature-page1](http://www.cloudscaling.com/wp-content/uploads/2014/10/randyb-signature-page11.gif)](http://www.cloudscaling.com/wp-content/uploads/2014/10/randyb-signature-page11.gif)
+[![randyb-signature-page1](/assets/media/2014/10/randyb-signature-page11.gif)](/assets/media/2014/10/randyb-signature-page11.gif)
 
 —Randy Bias
 

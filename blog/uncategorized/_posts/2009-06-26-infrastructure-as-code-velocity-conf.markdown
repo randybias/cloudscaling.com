@@ -38,4 +38,4 @@ Check these out when you can!  Most of the presenters and participants are frie
 
 * * *
 
-[1] Pretty cool that Ezra picked the name 'Control Tower' to describe the command & control management system.  This was the same as for [CloudScale](http://cloudscaling.com/cloudscale).  You can see it at the top of one of the pics [here](http://neotactics-public.s3.amazonaws.com/cs-snaps/cs-alpha-pic-provisioning.png).
+[1] Pretty cool that Ezra picked the name 'Control Tower' to describe the command & control management system.  This was the same as for [CloudScale](http://cloudscaling.com/cloudscale).  You can see it at the top of one of the pics [here](/assets/media/external/cs-snaps/cs-alpha-pic-provisioning.png).
