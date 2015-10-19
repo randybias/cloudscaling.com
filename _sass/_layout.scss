@@ -23,6 +23,10 @@
 	-moz-transition: all 0.25s ease;
 	.responsive-search {
 		width: 50%;
+		@include media-query($on-laptop) {
+			width: 80%;
+			text-align: center;
+		}
 		height: 60px;
 		margin: 0 auto;
 		padding-top: 30px;
@@ -51,6 +55,9 @@
  	@include media-query($on-laptop) {
  		padding: $page-spacing-unit / 2 0;
  	}
+ 	@include media-query($on-palm) {
+		padding: $page-spacing-unit / 4 0;
+	}
 
  }
 
@@ -79,10 +86,16 @@
  */
  .post-header {
  	margin-bottom: 40px;
+ 	@include media-query($on-palm) {
+		margin-bottom:20px;
+	}
  	h1 {
  		@include media-query($on-laptop) {
  			font-size: 32px;
  			line-height: initial;
+ 		}
+ 		@include media-query($on-palm) {
+ 			font-size: 24px;
  		}
  	}
  	.post-title {
@@ -124,6 +137,9 @@
 
 .post-content {
 	margin-bottom: $spacing-unit;
+	@include media-query($on-palm) {
+		margin-bottom:$spacing-unit / 2;
+	}
 	.post-content {
 		// Hide the first h1 since we are using Jekyll to display the title
 		h1:first-child {
@@ -135,11 +151,19 @@
 			font-size: 32px;
 			line-height: 32px;
 		}
+		@include media-query($on-palm) {
+			font-size: 24px;
+			line-height: 24px;
+		}
 	}
 	h2 {
 		@include media-query($on-laptop) {
 			font-size: 28px;
 			line-height: 28px;
+		}
+		@include media-query($on-palm) {
+			font-size: 20px;
+			line-height: 20px;
 		}
 	}
 
@@ -148,11 +172,18 @@
 			font-size: 22px;
 			line-height: 22px;
 		}
+		@include media-query($on-palm) {
+			font-size: 16px;
+			line-height: 16px;
+		}
 	}
 
 	h4 {
 		@include media-query($on-laptop) {
 			font-size: 18px;
+		}
+		@include media-query($on-palm) {
+			font-size: 14px;
 		}
 	}
 
@@ -162,12 +193,23 @@
 		@include media-query($on-laptop) {
 			margin-bottom: 15px;
 		}
+		@include media-query($on-palm) {
+			margin-bottom:10px;
+			font-size:16px;
+			line-height:22px;
+		}
 	}
 	hr {
 		&:last-of-type {
 			margin: 70px 0 30px 0;
+			@include media-query($on-palm) {
+				margin:35px 0 15px 0;
+			}
 			& ~ p {
 				font-size: 15px;
+				@include media-query($on-palm) {
+					font-size: 12px;
+				}
 				a {
 					margin-bottom: 20px;
 				}
@@ -275,6 +317,10 @@
 		margin: $post_spacing / 2 auto;
 		padding-bottom: $post_spacing / 2;
 		margin-left: auto;
+	}
+	@include media-query($on-palm) {
+		margin:25px 0;
+		padding-bottom: 15px;
 	}
 	&:first-child {
 		margin-top: 0px;

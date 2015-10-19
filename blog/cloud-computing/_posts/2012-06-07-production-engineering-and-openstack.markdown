@@ -1,5 +1,4 @@
 ---
-author: Cloudscaling Staff
 comments: true
 date: 2012-06-07 17:02:58+00:00
 layout: post
