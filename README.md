@@ -1,7 +1,7 @@
 Cloudscaling - Blog
 ========
 
-This project uses [Jekyll](http://jekyllrb.com/docs/installation/). [Ruby](https://www.ruby-lang.org/en/downloads/) is required. [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert oembed to iframe. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler] is a package manager that makes versioning Ruby software like Jekyll a lot easier and manage dependencies.
+This project uses [Jekyll](http://jekyllrb.com/docs/installation/). Jekyll requires [Ruby](https://www.ruby-lang.org/en/downloads/). [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert oembed to iframe. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler](http://bundler.io/) is a package manager that makes versioning Ruby software like Jekyll a lot easier and manage dependencies.
 
 Getting Started
 ---------------
@@ -22,7 +22,7 @@ The site uses 2 configuration files. one for staging and one for production:
 1. `_s3_prod_config/s3_website.yml` is used for production
 2. `_s3_stage_config/s3_website.yml` is used for staging
 
-In order to change to a different S3 Bucket, open the config file and update the following:
+In order to change to a different S3 Bucket, create two S3 buckets, one for production and one for staging then open the both config file and update the following with staging and production information:
 
 1. s3_id: <Enter S3 ID here>
 2. s3_secret: <Enter S3 Secret here>
@@ -30,6 +30,7 @@ In order to change to a different S3 Bucket, open the config file and update the
 
 Blog Deployment
 ---------------
+
 The site uses s3_website to deploy files to S3.
 s3_website will download a jar file the first time you run it.
 The following commands will run as a dry-run, enter 'y' to deploy:
@@ -39,6 +40,7 @@ The following commands will run as a dry-run, enter 'y' to deploy:
 
 Blog Configuration
 ---------------
+
 [s3_website](https://github.com/laurilehmijoki/s3_website) needs both Ruby and Java to run. (S3_website is partly written in Scala, hence the need for Java.) The site uses s3_website to deploy files.
 The configuration files are stored in `_s3_prod_config` and `_s3_stage_config`. 
 In order to change the S3 bucket, update `s3_website.yml` 
