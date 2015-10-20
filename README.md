@@ -1,7 +1,7 @@
 Cloudscaling - Blog
 ========
 
-This project uses [Ruby](https://www.ruby-lang.org/en/downloads/) , [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert oembed to iframe. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler] is a package manager that makes versioning Ruby software like Jekyll a lot easier and manage dependencies.
+This project uses [Jekyll](http://jekyllrb.com/docs/installation/). [Ruby](https://www.ruby-lang.org/en/downloads/) is required. [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert oembed to iframe. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler] is a package manager that makes versioning Ruby software like Jekyll a lot easier and manage dependencies.
 
 Getting Started
 ---------------
@@ -16,19 +16,19 @@ Getting Started
 
 
 Blog Deployment Notes
-====================
+---------------
 The following commands will run as a dry-run, enter 'y' to deploy
 1. Run `sh _deploy/deploy.sh stage` to push to staging
 2. Run `sh _deploy/deploy.sh production` to push to production
 
 Blog Configuration Notes
-====================
+---------------
 [s3_website](https://github.com/laurilehmijoki/s3_website) needs both Ruby and Java to run. (S3_website is partly written in Scala, hence the need for Java.) The site uses s3_website to deploy files.
 The configuration files are stored in `_s3_prod_config` and `_s3_stage_config`. 
 In order to change the S3 bucket, update `s3_website.yml` 
 
 Jekyll Theme Notes
-====================
+---------------
 
 1. All project assets (pdf, sheets and images) reside within the jekyll assets folder `assets`
 2. Plugins are under `_plugins`
