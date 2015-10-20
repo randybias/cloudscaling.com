@@ -1,6 +1,8 @@
-s3_id: AKIAJICRPMZAMAJIDN7Q
-s3_secret: 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
-s3_bucket: stage.www.cloudscaling.com
+# S3 Config
+s3_id: <Enter S3 ID here>
+s3_secret: <Enter S3 Secret here>
+s3_bucket: <Enter S3 bucket here>
+
 
 # site: path-to-your-website
 

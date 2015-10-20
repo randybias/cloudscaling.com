@@ -19,9 +19,14 @@ Deployment Configuration
 ---------------
 The site uses 2 configuration files. one for staging and one for production:
 
-1. Run `_s3_prod_config/s3_website.yml` for production
-2. Run `_s3_stage_config/s3_website.yml` for staging
+1. `_s3_prod_config/s3_website.yml` is used for production
+2. `_s3_stage_config/s3_website.yml` is used for staging
 
+In order to change to a different S3 Bucket, open the config file and update the following:
+
+1. s3_id: <Enter S3 ID here>
+2. s3_secret: <Enter S3 Secret here>
+3. s3_bucket: <Enter S3 bucket here>
 
 Blog Deployment
 ---------------
