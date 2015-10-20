@@ -19,7 +19,7 @@ tags:
 - saas
 ---
 
-[caption id="" align="alignright" width="300" caption="Happiness in Business"][![](http://farm3.static.flickr.com/2482/3592960452_90656305a7.jpg)](http://whatconsumesme.com/2009/what-im-writing/how-to-be-happy-in-business-venn-diagram/)[/caption]
+[caption id="" align="alignright" width="300" caption="Happiness in Business"][![](/assets/media/external/3592960452_90656305a7.jpg)](http://whatconsumesme.com/2009/what-im-writing/how-to-be-happy-in-business-venn-diagram/)[/caption]
 
 If you can't be '[best](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-1-service-clouds)' or '[cheapest](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-2-commodity-clouds)', that only leaves being 'first' (see [Pt. 1: Service Clouds](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-1-service-clouds) and [Pt. 2: Commodity Clouds](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-2-commodity-clouds)).  Since Amazon Web Services (AWS) clinched the 'first' and 'best' titles for the general marketplace, your best bet is to pick a subset of the market to focus on.  Focused clouds find a sweet spot and exploit it.  This is really Business 101 for Startups.  A diagram I saw recently by [Ben Caddell](http://whatconsumesme.com) brought this into focus and provides a very simple to understand reminder for those of us who may have forgotten (see right).
 

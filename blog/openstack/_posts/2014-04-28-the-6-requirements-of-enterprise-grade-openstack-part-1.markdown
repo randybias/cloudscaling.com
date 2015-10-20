@@ -403,7 +403,7 @@ Final Installment:
 
 
 
-[4] Google’s cluster architecture has quite a bit of detail [here](http://static.googleusercontent.com/media/research.google.com/en/us/archive/googlecluster-ieee.pdf).
+[4] Google’s cluster architecture has quite a bit of detail [here](/assets/pdf/googlecluster-ieee.pdf).
 
 
 

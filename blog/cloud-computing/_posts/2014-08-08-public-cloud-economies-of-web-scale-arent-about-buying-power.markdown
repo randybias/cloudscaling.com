@@ -33,7 +33,7 @@ No, the real economies of scale that are relevant here are the tremendous invest
   * Amazon's Whitepaper on [Dynamo](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) the technology behind S3 [PDF]
 
 	
-  * Microsoft's work on [Valiant Load Balancing](http://research.microsoft.com/pubs/80693/vl2-sigcomm09-final.pdf) [PDF]
+  * Microsoft's work on [Valiant Load Balancing](/assets/pdf/vl2-sigcomm09-final.pdf) [PDF]
 
 	
   * Google's [G-Scale Network](http://www.opennetsummit.org/archives/apr12/hoelzle-tue-openflow.pdf) and SDN boundary pushing [PDF]

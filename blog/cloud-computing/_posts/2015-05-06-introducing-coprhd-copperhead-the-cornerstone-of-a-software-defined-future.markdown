@@ -28,7 +28,7 @@ This move is partly in direct response to enterprise customer requests and our o
 
 
 
-For those of you not familiar with ViPR Controller, it is a “software-defined storage” (SDS) controller, much like OpenDaylight is a software-defined networking (SDN) controller.  This means that ViPR can control and manage a variety of storage platforms and, in fact, today it is [already multi-vendor, supporting not only EMC, but NetApp, Hitachi, and many others](https://www.emc.com/collateral/data-sheet/h11750-emc-vipr-software-defined-storage-ds.pdf).  ViPR Controller has REST APIs, ability to integrate to OpenStack Cinder APIs, a pluggable backend, and is truly the only software stack I’ve seen out there that fulfills the hopes and dreams of a true SDS controller by not only providing heterogeneous storage management but also metering, a storage service catalog, resource pooling, and much, much more.
+For those of you not familiar with ViPR Controller, it is a “software-defined storage” (SDS) controller, much like OpenDaylight is a software-defined networking (SDN) controller.  This means that ViPR can control and manage a variety of storage platforms and, in fact, today it is [already multi-vendor, supporting not only EMC, but NetApp, Hitachi, and many others](/assets/pdf/h11750-emc-vipr-software-defined-storage-ds.pdf).  ViPR Controller has REST APIs, ability to integrate to OpenStack Cinder APIs, a pluggable backend, and is truly the only software stack I’ve seen out there that fulfills the hopes and dreams of a true SDS controller by not only providing heterogeneous storage management but also metering, a storage service catalog, resource pooling, and much, much more.
 
 
 

@@ -19,7 +19,7 @@ Fantastical thinking by private cloud builders has led to a deep misunderstandin
   
 ![](https://lh3.googleusercontent.com/0ZIf7DeOnR7GRp_cvGp3B2eXMd2fSjffGLBwmBuDAI_Ht6ADQb0ikFoPibvFoGiu_paV7BeWQdLfnn8dltE4pBfwLHQFXn2UyqB88eVOFKDQVIUmonTEjEE)
 
-[I've written a detailed whitepaper called “Converged Storage, Wishful Thinking and Reality”](http://cloudscaling.com/wp-content/themes/cloudscaling/assets/downloads/cloudscaling_whitepaper_converged_storage.pdf), which you can download from our resources page that explains:
+[I've written a detailed whitepaper called “Converged Storage, Wishful Thinking and Reality”](/assets/pdf/cloudscaling_whitepaper_converged_storage.pdf), which you can download from our resources page that explains:
 
   * Cloud storage marketing is selling pipe dreams
 
@@ -33,4 +33,4 @@ Fantastical thinking by private cloud builders has led to a deep misunderstandin
 
 This is a must read if you are evaluating storage options, distributed storage technology like Ceph, Gluster, or Sheepdog, traditional storage systems like EMC, NetApp, or ZFS, and will help you in your quest to build the best private cloud out there.
 
-// [DOWNLOAD THE WHITEPAPER: [Converged Storage, Wishful Thinking and Reality](http://cloudscaling.com/wp-content/themes/cloudscaling/assets/downloads/cloudscaling_whitepaper_converged_storage.pdf)](http://cloudscaling.com/wp-content/themes/cloudscaling/assets/downloads/cloudscaling_whitepaper_converged_storage.pdf) //
+// [DOWNLOAD THE WHITEPAPER: [Converged Storage, Wishful Thinking and Reality](/assets/pdf/cloudscaling_whitepaper_converged_storage.pdf)](/assets/pdf/cloudscaling_whitepaper_converged_storage.pdf) //

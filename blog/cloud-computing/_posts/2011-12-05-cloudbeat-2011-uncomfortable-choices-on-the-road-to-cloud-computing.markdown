@@ -25,7 +25,7 @@ tags:
 
 Building a cloud that works like AWS or Google involves a complete rethink of just about every concept considered canonical in enterprise IT for the past 20 years.
 
-This is the message Randy Bias and [Lew Tucker (Vice President and CTO, Cloud Computing at Cisco)](http://newsroom.cisco.com/dlls/ekits/Lew_Tucker_Bio.pdf) delivered on the main stage [CloudBeat 2011](http://venturebeat.com/tag/cloudbeat-2011/) last Wednesday.
+This is the message Randy Bias and [Lew Tucker (Vice President and CTO, Cloud Computing at Cisco)](/assets/pdf/Lew_Tucker_Bio.pdf) delivered on the main stage [CloudBeat 2011](http://venturebeat.com/tag/cloudbeat-2011/) last Wednesday.
 
 High-level takeaways from the video (embedded below) include:
 

@@ -417,7 +417,7 @@ If you haven’t already, check out ScaleIO, which is [free to download](http://
 
 
 
-[2] Here “Null” or “no disk limit” refers to performing a baseline test removing all physical disk I/O from the equation and providing some idea of the absolute performance of the software itself, including network overhead.  More [here](http://www.emc.com/collateral/analyst-reports/h14196-esg-lab-spotlight-proven-performance-and-scalability-wp.pdf) in the 3rd party ESG ScaleIO tests.
+[2] Here “Null” or “no disk limit” refers to performing a baseline test removing all physical disk I/O from the equation and providing some idea of the absolute performance of the software itself, including network overhead.  More [here](/assets/pdf/h14196-esg-lab-spotlight-proven-performance-and-scalability-wp.pdf) in the 3rd party ESG ScaleIO tests.
 
 
 

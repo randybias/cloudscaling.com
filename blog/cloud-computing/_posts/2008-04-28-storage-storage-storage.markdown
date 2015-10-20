@@ -14,7 +14,7 @@ tags:
 
 Storage requirements are exploding causing more and more small and medium businesses to employ creative solutions to stem the tide.  In December, Hu Yoshida, CTO of Hitachi Data Systems (HDS), posted a [blog entry](http://blogs.hds.com/hu/2007/12/the_changing_enterprise_data_profile-_idc.html) about projected enterprise data growth.  The entire posting is worth a read, but the included chart really paints the picture well:
 
-![](http://farm3.static.flickr.com/2230/2093807115_1deacbc95e.jpg)
+![](/assets/media/external/2093807115_1deacbc95e.jpg)
 
 Experience with our clients bears this out and we think most organizations are 'feeling the pinch'.  Perhaps most interesting about this trend is that, as Hu points out in the article, data falls into different kinds of buckets.  He chooses to talk about structured vs. unstructured data, but there are other ways to slice this pie.
 
