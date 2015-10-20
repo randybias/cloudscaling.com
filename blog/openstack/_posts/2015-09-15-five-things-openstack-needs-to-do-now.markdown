@@ -36,7 +36,7 @@ However, for those with attention challenges, here's the synopsis for each slide
 
 I hope you enjoy this as I enjoyed presenting it and was more on fire than usual.[1]
 
-[embed width="600"]https://www.youtube.com/watch?v=rI13aja9zm0[/embed]
+{% oembed https://www.youtube.com/watch?v=rI13aja9zm0 %}
 
 * * *
 

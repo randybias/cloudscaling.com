@@ -46,7 +46,7 @@ The video:
 
 
 
-[embed width="600"]https://www.youtube.com/watch?v=rOSmvwEhFmg[/embed]
+{% oembed https://www.youtube.com/watch?v=rOSmvwEhFmg %}
 
 
 
@@ -56,7 +56,7 @@ The Slideshare:
 
 
 
-[embed width="600"]http://www.slideshare.net/randybias/state-of-the-stack-v4-openstack-in-all-its-glory[/embed]
+{% oembed http://www.slideshare.net/randybias/state-of-the-stack-v4-openstack-in-all-its-glory %}
 
 
 
