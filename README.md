@@ -15,13 +15,24 @@ Getting Started
 7. Open a browser `http://127.0.0.1:4000/`
 
 
-Blog Deployment Notes
+Deployment Configuration
 ---------------
-The following commands will run as a dry-run, enter 'y' to deploy
+The site uses 2 configuration files. one for staging and one for production:
+
+1. Run `_s3_prod_config/s3_website.yml` for production
+2. Run `_s3_stage_config/s3_website.yml` for staging
+
+
+Blog Deployment
+---------------
+The site uses s3_website to deploy files to S3.
+s3_website will download a jar file the first time you run it.
+The following commands will run as a dry-run, enter 'y' to deploy:
+
 1. Run `sh _deploy/deploy.sh stage` to push to staging
 2. Run `sh _deploy/deploy.sh production` to push to production
 
-Blog Configuration Notes
+Blog Configuration
 ---------------
 [s3_website](https://github.com/laurilehmijoki/s3_website) needs both Ruby and Java to run. (S3_website is partly written in Scala, hence the need for Java.) The site uses s3_website to deploy files.
 The configuration files are stored in `_s3_prod_config` and `_s3_stage_config`. 

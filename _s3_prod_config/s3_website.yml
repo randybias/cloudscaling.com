@@ -2,9 +2,6 @@ s3_id: AKIAJICRPMZAMAJIDN7Q
 s3_secret: GhwSBnilNaq/Ob5dCXsLDX5HZwroPE2whBUSwp8z
 s3_bucket: cloudscaling.com
 
-# Below are examples of all the available configurations.
-# See README for more detailed info on each of them.
-
 # site: path-to-your-website
 
 index_document: index.html
@@ -29,6 +26,8 @@ exclude_from_upload:
     - README.md
     - .gitignore
     - .sass-cache
+    - Gemfile
+    - Gemfile.lock
 
 redirects:
   index.html: blog/
@@ -51,10 +50,3 @@ redirects:
   resources/index.html: blog/
   services: blog/
   services/index.html: blog/
-# routing_rules:
-#   - condition:
-#       key_prefix_equals: blog/some_path
-#     redirect:
-#       host_name: blog.example.com
-#       replace_key_prefix_with: some_new_path/
-#       http_redirect_code: 301
