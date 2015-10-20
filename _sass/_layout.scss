@@ -18,9 +18,7 @@
 
 
 .search-wrapper {
-	transition: all 0.25s ease;
-	-webkit-transition: all 0.25s ease;
-	-moz-transition: all 0.25s ease;
+	background-color: #f2f2f2;
 	.responsive-search {
 		width: 50%;
 		@include media-query($on-laptop) {

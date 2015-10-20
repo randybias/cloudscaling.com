@@ -8,9 +8,7 @@ $(function() {
 		if (!$(this).hasClass('.loading')) {
 			event.preventDefault();
 			$(this).addClass("loading");
-			console.log("clicked");
 			loadMorePosts();
-			$(this).removeClass("loading");
 		}
 	});
 
@@ -29,6 +27,7 @@ $(function() {
 			if ($blogContainer.attr("data-totalPages") == nextPage) {
 				$(".next").remove();
 			}
+			$('.loadmore').removeClass("loading");
 		});  
 	}
 	$( ".search-icon" ).on( "click", function() {
