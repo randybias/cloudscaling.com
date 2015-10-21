@@ -1,13 +1,13 @@
 Cloudscaling - Blog
 ========
 
-This project uses [Jekyll](http://jekyllrb.com/docs/installation/). Jekyll requires [Ruby](https://www.ruby-lang.org/en/downloads/). [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert oembed to iframe. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler](http://bundler.io/) is a package manager that makes versioning Ruby software like Jekyll a lot easier and manage dependencies.
+This project uses [Jekyll](http://jekyllrb.com/docs/installation/). Jekyll requires [Ruby](https://www.ruby-lang.org/en/downloads/). [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert certain content to iframes. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler](http://bundler.io/) is a package manager that makes versioning Ruby software like Jekyll a lot easier while also managing dependencies.
 
 Getting Started
 ---------------
 
 1. Clone this repo locally.
-2. Jekyll requires the Ruby language. If you have a Mac, you've most likely already got Ruby. If you open up the Terminal application, and run the command ruby --version you can confirm this. Your Ruby version should be at least 2.0.0. If you've got that, you're all set. Otherwise, follow [these instructions to install Ruby](https://www.ruby-lang.org/en/downloads/).
+2. Jekyll requires the Ruby language. If you have a Mac, you've most likely already got Ruby. If you open up the Terminal application, and run the command `ruby --version` you can confirm this. Your Ruby version should be at least 2.0.0. If you've got that, you're all set. Otherwise, follow [these instructions to install Ruby](https://www.ruby-lang.org/en/downloads/).
 3. `cd` to the project root
 4. Run `gem install bundler` to install the bundler
 5. Run `bundle install` to install the build dependencies.
@@ -22,7 +22,7 @@ The site uses 2 configuration files. one for staging and one for production:
 1. `_s3_prod_config/s3_website.yml` is used for production
 2. `_s3_stage_config/s3_website.yml` is used for staging
 
-In order to change to a different S3 Bucket, create two S3 buckets, one for production and one for staging then open the both config file and update the following with staging and production information:
+To support both a staging and production environment, open both config files and update the following with the S3 info for your staging and production environments:
 
 1. s3_id: <Enter S3 ID here>
 2. s3_secret: <Enter S3 Secret here>

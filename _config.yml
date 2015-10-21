@@ -34,3 +34,4 @@ author_dir: author
 exclude:
     - node_modules
     - sass-cache
+    - vendor

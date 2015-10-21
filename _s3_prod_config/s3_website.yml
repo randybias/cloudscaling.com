@@ -29,6 +29,8 @@ exclude_from_upload:
     - .sass-cache
     - Gemfile
     - Gemfile.lock
+    - .bundle
+    - vendor
 
 redirects:
   index.html: blog/
