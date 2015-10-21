@@ -3,7 +3,7 @@ $(window).load(function() {
 })
 
 $(function() {
-
+	
 	$('.loadmore').on( "click", function(event) {
 		if (!$(this).hasClass('.loading')) {
 			event.preventDefault();
@@ -45,24 +45,45 @@ $(function() {
 
 		var count = 0;
 
-
+		var footnotes = [];
 		replaced_text = str.replace(regex, function(match, contents, offset, s, count)
 		{
 			var int_footnote = match.replace(/\[|\]/g, "");
-			return "<sup>[<a class='footnote-anchor' href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='footnotes'>"+int_footnote+"</span></a>]</sup>";		}
-			); 
-
+			if ($.inArray(int_footnote, footnotes) !== -1)
+			{
+			  	return "<sup>[<span class='footnotes'>"+int_footnote+"</span>]</sup> <a class='footnote-anchor footnote-anchor-bottom' href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='end-of-line'>↩</span></a>";
+			}
+			else
+			{
+				footnotes.push(int_footnote);
+				return "<sup>[<a class='footnote-anchor footnote-anchor-top' href='#footnotes-"+match+"' name='footnotes-"+match+"' data-offset='"+ offset +"' data-match="+ match +"><span class='footnotes'>"+int_footnote+"</span></a>]</sup>"; 
+			}
+		}
+		); 
 		this.html(replaced_text);
 		return this;
 	}
 
 	if ($( ".post-content" ).length )
 		$( ".post-content" ).footnotify();
-	// var html = $( ".post-content hr" ).html();
-	// $(html).append('toto');
-	// $(html.split('<br>')).each(function(){
-	//     $(this).append('<div>'+this+'</div>')
-	//})
+
+	$('.footnote-anchor').on( "click", function(event) {
+		event.preventDefault();
+		var scrollto = $(this).attr('name');
+		if ($(this).hasClass('footnote-anchor-top'))
+		{
+			$('html, body').animate({
+		        scrollTop: $( ".footnote-anchor-bottom[name*='"+scrollto+"']" ).offset().top
+		    }, 500);
+		}
+		else
+		{
+			$('html, body').animate({
+		        scrollTop: $("[name*='"+scrollto+"']").offset().top
+		    }, 500);
+		}
+		
+	});
 });
 var getUrlParameter = function getUrlParameter(sParam) {
 	var sPageURL = decodeURIComponent(window.location.search.substring(1)),
@@ -78,13 +99,3 @@ var getUrlParameter = function getUrlParameter(sParam) {
 		}
 	}
 };
-$( document ).ready(function() {
-
-	// if (window.location.href.indexOf("search.html?s=") > -1) {
-	// 	var search_query = getUrlParameter('s');
-	// 	$('.nav-search-input').val(search_query);
-	// 	window.data.then(function(loaded_data) {
-	// 		$('#submit_search').click();
-	// 	});
-	// }
-});
