@@ -3,7 +3,6 @@ s3_id: <Enter S3 ID here>
 s3_secret: <Enter S3 Secret here>
 s3_bucket: <Enter S3 bucket here>
 
-
 # site: path-to-your-website
 
 index_document: index.html
@@ -30,6 +29,8 @@ exclude_from_upload:
     - .sass-cache
     - Gemfile
     - Gemfile.lock
+    - .bundle
+    - vendor
 
 redirects:
   index.html: blog/
