@@ -18,7 +18,7 @@
 
 
 .search-wrapper {
-	background-color: #f2f2f2;
+	background-color: white;
 	.responsive-search {
 		//width: 50%;
 		// @include media-query($on-laptop) {
@@ -197,6 +197,13 @@
 			line-height:22px;
 		}
 	}
+
+	ul, ol {
+		@include media-query($on-palm) {
+			font-size:16px;
+			line-height:22px;
+		}
+	}
 	hr {
 		&:last-of-type {
 			margin: 70px 0 30px 0;
@@ -245,11 +252,8 @@
 		margin-top: $spacing-unit / 2;
 		background-color: #f2f2f2;
 		border: none;
-		// height: 50px;
 		font-size: 18px;
-		// padding-left: 10px;
 		padding: 16px 0px;
-		padding-left: 15px;
 		&:focus {
 			outline: none;
 		}
