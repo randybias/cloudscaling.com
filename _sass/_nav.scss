@@ -47,6 +47,7 @@
 		display: none;
 	}
 
+
 	.page-link {
 		color: $text-color;
 		line-height: $base-line-height;
@@ -234,3 +235,27 @@
  		}
  	}
  }
+.search-wrapper {
+	.wrapper {
+		position: relative;
+	}
+	#site_search {
+		position: relative;
+		#submit_search {
+			float:right;
+			position: absolute;
+			right:0;
+			top:15px;
+			font-size:15px;
+			bottom:0;
+		}
+		.nav-search-input {
+			width:100%;
+			padding-left:0;
+			padding-right:0;
+			#inner-editor {
+				padding-left:15px;
+			}
+		}
+	}
+}
