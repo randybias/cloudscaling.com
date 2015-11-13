@@ -31,7 +31,8 @@ $(function() {
 		});  
 	}
 	$( ".search-icon" ).on( "click", function() {
-		$('#global-search').submit();
+		if ($('#nav-search').val())
+			$('#global-search').submit();
 	});
 	$( ".menu-icon" ).on( "click", function() {
 		$('.trigger').toggleClass('hide');

@@ -1,31 +1,47 @@
+{% assign pagename = page.url | slugify %}
 <header class="site-header">
 
-  <div class="wrapper">
+	<div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/blog/">
-      <img height="40" src="{{ site.baseurl }}/assets/images/cloudscaling_logo.svg">
-    </a>
+		<a class="site-title" href="{{ site.baseurl }}/blog/">
+			<img height="40" src="{{ site.baseurl }}/assets/images/cloudscaling_logo.svg">
+		</a>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-      <div class="trigger">
-        <form id="global-search" action="/search.html" method="get">
-          <input type="text" name="s" id="nav-search">
-          <span class="search-icon"><img height="24" width="24" src="{{ site.baseurl }}/assets/images/search.svg"></span>
-        </form>
-      </div>
-    </nav>
-  </div>
-  <div class="search-wrapper">
-    <form class="responsive-search" action="/search.html" method="get">
-      <input type="text" name="s" id="nav-search">
-      <span class="search-icon"><img height="20" width="20" src="{{ site.baseurl }}/assets/images/search.svg"></span>
-    </form>
-  </div>
+		{% if pagename != 'search-html' %}
+
+		<nav class="site-nav">
+			<a href="#" class="menu-icon">
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+				viewBox="-293 385 24 24" style="enable-background:new -293 385 24 24;" xml:space="preserve">
+				<path d="M-283.5,388c3.6,0,6.5,2.9,6.5,6.5c0,1.6-0.6,3.1-1.6,4.2l0.3,0.3h0.8l5,5l-1.5,1.5l-5-5v-0.8l-0.3-0.3
+				c-1.1,1-2.6,1.6-4.2,1.6c-3.6,0-6.5-2.9-6.5-6.5S-287.1,388-283.5,388 M-283.5,390c-2.5,0-4.5,2-4.5,4.5s2,4.5,4.5,4.5
+				s4.5-2,4.5-4.5S-281,390-283.5,390z"/>
+			</svg>
+		</a>
+
+		<div class="trigger">
+			<form id="global-search" action="/search.html" method="get">
+				<input type="text" name="s" id="nav-search">
+				<span class="search-icon">
+					<img height="24" width="24" src="{{ site.baseurl }}/assets/images/search.svg">
+				</span>
+			</form>
+		</div>
+		{% endif %}
+	</nav>
+</div>
+{% if pagename != 'search-html' %}
+<div class="search-wrapper">
+	<div class="wrapper">
+		<div class="responsive-search site-container">
+			<div class="form-wrapper">
+				<form action="/search.html" method="get" id="site_search">
+					<input type="text" name="s" class="nav-search-input">
+					<input type="submit" value="Search" id="submit_search">
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+{% endif %}
 </header>

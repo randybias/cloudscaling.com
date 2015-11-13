@@ -3,10 +3,29 @@
 ---
 @charset "utf-8";
 
+// Making sure Helvetica Neue is added
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('/css/font/HelveticaNeue.eot'); /* IE9 Compat Modes */
+  src: url('/css/font/HelveticaNeue.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       // url('/css/font/HelveticaNeue.woff') format('woff'), /* Modern Browsers */
+       url('/css/font/HelveticaNeue.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style:   normal;
+  font-weight:  400;
+}
 
+@font-face {
+  font-family: 'HelveticaNeue-Bold';
+  src: url('/css/font/HelveticaNeue-Bold.eot'); /* IE9 Compat Modes */
+  src: url('/css/font/HelveticaNeue-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       // url('/css/font/HelveticaNeue-Bold.woff') format('woff'), /* Modern Browsers */
+       url('/css/font/HelveticaNeue-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-style:   normal;
+  font-weight:	600;
+}
 
 // Our variables
-$base-font-family: HelveticaNeue, Arial, sans-serif;
+$base-font-family: 'HelveticaNeue', Arial, sans-serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $meta-font-size:   $base-font-size * 0.84;
