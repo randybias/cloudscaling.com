@@ -20,27 +20,12 @@
 .search-wrapper {
 	background-color: white;
 	.responsive-search {
-		//width: 50%;
-		// @include media-query($on-laptop) {
-		// 	width: 80%;
-		// 	text-align: center;
-		// }
-		// height: 60px;
-		// margin: 0 auto;
-		// padding-top: 30px;
 		display: none;
 		&.open {
-			display: block;
+			@include media-query($on-palm) {
+	 			display: block;
+	 		}
 		}
-		// input {
-		// 	width: 70%;
-		// 	background-color: transparent;
-		// 	border: none;
-		// 	border-bottom: 1px solid #000000;
-		// 	outline: none;
-		// 	font-size: 18px;
-		// 	border-radius: 0;
-		// }
 	}
 }
 
@@ -96,17 +81,7 @@
  			font-size: 24px;
  		}
  	}
- 	.post-title {
-		// color: #000000;
-		// font-size: 48px;
-		// letter-spacing: -1px;
-		// line-height: 1;
-		// margin-bottom: 14px;
-		// font-weight: bold;
-		// @include media-query($on-laptop) {
-		// 	font-size: 36px;
-		// }
-		
+ 	.post-title {		
 		a {
 			color: black;
 		}
@@ -253,7 +228,7 @@
 		background-color: #f2f2f2;
 		border: none;
 		font-size: 18px;
-		padding: 16px 0px;
+		padding: 16px 5px;
 		&:focus {
 			outline: none;
 		}

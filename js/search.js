@@ -61,7 +61,7 @@ jQuery(function() {
     $('.nav-search-input').val(search_query);
     window.data.then(function(loaded_data) {
       $(".loader").fadeOut("slow");
-      $('#submit_search').click();
+      $('#submit_search').submit();
     });
   }
 
