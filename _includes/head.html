@@ -12,14 +12,25 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <link rel="author" href="" />
-    
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content=">{% if page.title %}{{ page.title }} | Cloudscaling {% else %}{{ site.title }}{% endif %}">
+    <meta itemprop="description" content="{{ site.description }}">
+    <!--<meta itemprop="image" content="">-->
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@randybias">
+    <meta name="twitter:creator" content="@randybias">
+    <meta name="twitter:title" content=">{% if page.title %}{{ page.title }} | Cloudscaling {% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <!--<meta name="twitter:image" content="http://www.example.com/image.html">-->
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | Cloudscaling {% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:description" content="{{ page.content | truncatewords: 50 }}" />
     <!-- <meta property="og:image" content="" /> -->
-
-    <!-- <meta property="og:description" content="{{ page.content | truncatewords: 50 }}" /> -->
     <meta property="og:site_name" content="Cloudscaling" />
 
     <!-- TO BE REMOVE -->
