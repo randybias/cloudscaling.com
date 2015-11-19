@@ -23,13 +23,13 @@
     <meta name="twitter:site" content="@randybias">
     <meta name="twitter:creator" content="@randybias">
     <meta name="twitter:title" content=">{% if page.title %}{{ page.title }} | Cloudscaling {% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{{ site.description }}">
+    <!--<meta name="twitter:description" content="{{ page.content | truncatewords: 50 }}">-->
     <!--<meta name="twitter:image" content="http://www.example.com/image.html">-->
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | Cloudscaling {% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:description" content="{{ page.content | truncatewords: 50 }}" />
+    <!--<meta property="og:description" content="{{ page.content | truncatewords: 50 }}" />-->
     <!-- <meta property="og:image" content="" /> -->
     <meta property="og:site_name" content="Cloudscaling" />
 
