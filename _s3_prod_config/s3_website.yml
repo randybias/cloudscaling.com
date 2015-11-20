@@ -30,6 +30,7 @@ exclude_from_upload:
 redirects:
   index.html: blog/
   blog.html: blog/
+  blog/index.html: blog/
   #cloud-computing/: blog/
   blog/cloud-computing/index.html: blog/
   #company/: blog/

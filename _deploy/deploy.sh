@@ -29,7 +29,7 @@ deploy_prod() {
 
 	if [ $(confirm) -eq 1 ]
 	then
-	  echo ${green}"Deploying blog to S3 cloudscaling.com"${nc}
+	  echo ${green}"Deploying blog to S3 www.cloudscaling.com"${nc}
 	  s3_website push --config-dir _s3_prod_config
 	else
 	  echo ${green}"Stopped Deployment"${nc}
@@ -46,7 +46,7 @@ deploy_stage() {
 
 	if [ $(confirm) -eq 1 ]
 	then
-	  echo ${green}"Deploying blog to S3 stage.www.cloudscaling.com"${nc}
+	  echo ${green}"Deploying blog to S3 stage.cloudscaling.com"${nc}
 	  s3_website push --config-dir _s3_stage_config
 	else
 	  echo ${green}"Stopped Deployment"${nc} 
