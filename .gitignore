@@ -2,8 +2,7 @@ _site
 .sass-cache
 .bundle
 vendor
-s3_private_config.yml
-s3_private_config.yaml
+s3_private_config.sh
 .DS_Store
 .DS_Store?
 .Spotlight-V100

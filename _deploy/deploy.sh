@@ -4,7 +4,7 @@ green='\033[0;32m'
 nc='\033[0m' # No Color
 
 # Check if the environment is provided
-if [ $# -eq 0 ]
+if [[ $# -eq 0 ]]
   then
     echo ${red}"No arguments supplied"
     exit 1
@@ -29,7 +29,7 @@ deploy_prod() {
 
 	if [ $(confirm) -eq 1 ]
 	then
-	  echo ${green}"Deploying blog to S3 www.cloudscaling.com"${nc}
+	  echo ${green}"Deploying blog to S3 cloudscaling.com"${nc}
 	  s3_website push --config-dir _s3_prod_config
 	else
 	  echo ${green}"Stopped Deployment"${nc}
@@ -54,11 +54,13 @@ deploy_stage() {
 }
 
 # Take user input to call build for production or staging
-if [ $1 = "production" ]; then
+if [[ "$1" == "production" || "$1" == "prod" ]]; then
+   . _s3_prod_config/s3_private_config.sh
    deploy_prod
-elif [ $1 = "stage" ]; then
-	deploy_stage
+elif [[ "$1" == "stage" ]]; then
+   . _s3_stage_config/s3_private_config.sh
+   deploy_stage
 else
-  echo ${red}"Invalid environment, use 'production' or 'stage'"${nc}
+  echo ${red}"Invalid environment, use 'prod' or 'stage'"${nc}
   exit 1
 fi
