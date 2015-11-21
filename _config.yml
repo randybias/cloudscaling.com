@@ -9,10 +9,14 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Cloudscaling is the leading provider of on-premise elastic cloud infrastructure solutions to support dynamic applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
+url: "http://www.cloudscaling.com" # the base hostname & protocol for your site
+
+timezone:       America/Los_Angeles
+locale:         en_us
 
 twitter_username: randybias
 github_username:  randybias
+googleplus_username: 108444194906673112871
 rss_url: feed.xml
 linkedin_url: http://www.linkedin.com/randybias
 # Build settings

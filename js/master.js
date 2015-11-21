@@ -14,7 +14,7 @@ $(function() {
 
 	function loadMorePosts() {
 		var _this = this;
-		var $blogContainer = $(".site-container");
+		var $blogContainer = $(".page-content .site-container");
 		var nextPage = parseInt($blogContainer.attr("data-page")) + 1;
 		var totalPages = parseInt($blogContainer.attr("data-totalPages"));
 
@@ -27,7 +27,7 @@ $(function() {
 			if ($blogContainer.attr("data-totalPages") == nextPage) {
 				$(".next").remove();
 			}
-			$('.loadmore').removeClass("loading");
+			$('.loadmore').removeClass("loading").attr('href', '/blog/page/'+nextPage+'/');
 		});  
 	}
 	$( ".search-icon" ).on( "click", function() {

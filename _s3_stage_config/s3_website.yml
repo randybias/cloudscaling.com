@@ -1,8 +1,3 @@
-# S3 Config
-s3_id: <Enter S3 ID here>
-s3_secret: <Enter S3 Secret here>
-s3_bucket: <Enter S3 bucket here>
-
 # site: path-to-your-website
 
 index_document: index.html
@@ -11,12 +6,6 @@ error_document: 404.html
 max_age:
   "assets/*": 6000
   "*": 300
-
-# gzip:
-#   - .html
-#   - .css
-#   - .md
-# gzip_zopfli: true
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
 s3_endpoint: us-west-2
@@ -35,6 +24,7 @@ exclude_from_upload:
 redirects:
   index.html: blog/
   blog.html: blog/
+  blog/index.html: blog/
   #cloud-computing/: blog/
   blog/cloud-computing/index.html: blog/
   #company/: blog/

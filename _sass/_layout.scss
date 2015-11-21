@@ -1,9 +1,10 @@
 .site-container {
 	max-width: $content-width;
-	margin-left: $content-left-margin;
-	@include media-query($on-laptop) {
-		margin-left: auto;
-	}
+	margin-left: auto;
+	margin-right:auto;
+	//@include media-query($on-laptop) {
+	//	margin-left: auto;
+	//}
 }
 .site-container-narrow  {
 	max-width: $content-width;
@@ -202,6 +203,7 @@
 		padding: 5%;
 		max-width: 90%;
 		margin: 20px 0;
+		display: block;
 	}
 
 	ul {
@@ -261,10 +263,11 @@
 .home,
 .post {
 	max-width: $content-width;
-	margin-left: $content-left-margin;
-	@include media-query($on-laptop) {
-		margin-left: auto;
-	}
+	margin-left: auto;
+	margin-right:auto;
+	//@include media-query($on-laptop) {
+	//	margin-left: auto;
+	//}
 	.post-content {
 		// Hide the first h1 since we are using Jekyll to display the title
 		h1:first-child {
@@ -315,5 +318,12 @@
 .footnote-anchor {
 	.end-of-line {
 		clear: both;
+	}
+}
+.site-footer .cloudflare-badge {
+	float:right;
+	@include media-query($on-laptop){
+		float:left;
+		margin-bottom:1em;
 	}
 }

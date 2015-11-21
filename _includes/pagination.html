@@ -1,39 +1,45 @@
+{% capture homepage %}{{ page.url | slugify  }}{% endcapture %}
+
 <div class="pagination-wrapper {% if paginator.previous_page or  page.previous.url %} multiple-pagination {% endif %}">
 
-	{% if page.path contains '_posts' %}
-		<!-- Single Post -->
-		{% if page.previous.url %}
-		<div class="pagination">
-			<a class="previous" href="{{page.previous.url}}">
-				{{page.previous.title | truncate 40 }} <span class="label">Previous Post </span>
-			</a>
-		</div>
-		{% endif %}
-		{% if page.next.url %}
-		<div class="pagination">
-			<a class="next" href="{{page.next.url}}">
-				<span class="label">Next Post</span> {{page.next.title | truncate 40}} 
-			</a>
-		</div>
-		{% endif %}
-		<!-- End Single Post -->
-	{% else %}
-		{% if paginator.previous_page %}
-		<div class="pagination">
-			<a href="{{ paginator.previous_page_path }}" class="previous">Previous <span class="page_number "> Page: {{ paginator.page - 1 }} of {{ paginator.total_pages }}</span></a>
+	{% if homepage != "blog-index-html" %}
 
-		</div>
-		
+
+		{% if page.path contains '_posts' %}
+			<!-- Single Post -->
+			{% if page.previous.url %}
+			<div class="pagination">
+				<a class="previous" href="{{page.previous.url}}">
+					{{page.previous.title | truncate 40 }} <span class="label">Previous Post </span>
+				</a>
+			</div>
+			{% endif %}
+			{% if page.next.url %}
+			<div class="pagination">
+				<a class="next" href="{{page.next.url}}">
+					<span class="label">Next Post</span> {{page.next.title | truncate 40}} 
+				</a>
+			</div>
+			{% endif %}
+			<!-- End Single Post -->
+		{% else %}
+			{% if paginator.previous_page %}
+			<div class="pagination">
+				<a href="{{ paginator.previous_page_path }}" class="previous">Previous <span class="page_number "> Page: {{ paginator.page | minus: '1' }} of {{ paginator.total_pages }}</span></a>
+
+			</div>
+			{% endif %}
+			{% if paginator.next_page %}
+			<div class="pagination">
+				<a href="{{ paginator.next_page_path }}" class="next">Next <span class="page_number "> Page: {{ paginator.page | plus: '1' }} of {{ paginator.total_pages }}</span></a>
+			</div>
+			{% endif %}
 		{% endif %}
-		{% if paginator.next_page %}
-		<div class="pagination hide">
-			<a href="{{ paginator.next_page_path }}" class="next">Next <span class="page_number "> Page: {{ paginator.page }} of {{ paginator.total_pages }}</span></a>
-		</div>
+	{% else %}
+		{% if homepage == "blog-index-html" %}
 		<div class="pagination">
 			<a href="{{ paginator.next_page_path }}" class="loadmore">Load More Posts <span class="icon--loading">Loading...</span></a>
 		</div>
-		{% else %}
-		<span class="next ">Next</span>
 		{% endif %}
 	{% endif %}
 </div>
