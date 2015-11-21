@@ -2,3 +2,7 @@ _site
 .sass-cache
 .bundle
 vendor
+_s3_prod_config/s3_private_config.yml
+_s3_prod_config/s3_private_config.yaml
+_s3_stage_config/s3_private_config.yml
+_s3_stage_config/s3_private_config.yaml
