@@ -22,11 +22,13 @@ The site uses 2 configuration files. one for staging and one for production:
 1. `_s3_prod_config/s3_website.yml` is used for production
 2. `_s3_stage_config/s3_website.yml` is used for staging
 
-To support both a staging and production environment, open both config files and update the following with the S3 info for your staging and production environments:
+The S3 configuration credentials are supplied with the following variables:
 
-1. s3_id: <Enter S3 ID here>
-2. s3_secret: <Enter S3 Secret here>
-3. s3_bucket: <Enter S3 bucket here>
+1. s3_id: <%= ENV['S3_ID'] %>
+2. s3_secret: <%= ENV['S3_SECRET'] %>
+3. s3_bucket: <%= ENV['S3_BUCKET'] %>
+
+As these credentials are confidential, they are instantiated in variables and are not part of the repository.
 
 Blog Deployment
 ---------------
@@ -61,3 +63,26 @@ Jekyll Theme Notes
     - authors page - single_author.html
 5. The `blog` folder has all the posts, the sub folders are use to replicate the categories from the main blog. Example: 
     - cloud-computing/_posts/2015-08-11-cloud-youre-doing-it-wrong.markdown => HOST/blog/cloud-computing/cloud-youre-doing-it-wrong/
+
+CloudFlare setup for S3
+---------------
+First you'll want to create your Amazon S3 bucket through the appropriate Amazon webpage.  Please make sure to note the full host URL assigned to the bucket you just created -- for example,  'files.example.com'.
+
+1. Login to your CloudFlare account.
+2. From the dropdown menu on the top left, select your domain.
+ Select the DNS settings tab.
+3. Add a CNAME record to your AWS bucket.
+
+If your domain is "example.com" and you want to use the CNAME "files"  you'll need to make sure the S3 bucket name is "files.example.com". Amazon requires that the CNAME match the bucket name.
+
+--Configuring CORS (Cross Origin Resource Sharing) directions from Amazon:
+
+Configuring your bucket for CORS is easy. To get started, open the Amazon S3 Management Console, and follow these simple steps:
+1. Right click on your Amazon S3 bucket and open the “Properties” pane.
+2. Under the “Permissions” tab, click the “Add CORS configuration” button to add a new CORS configuration. You can then specify the websites (e.g., "mywebsite.com") that should have access to your bucket, and the specific HTTP request methods (e.g., “GET”) you wish to allow.
+3. Click Save.
+
+CloudFlare supports CORS and operates in the following way:
+
+1. The CloudFlare CDN identifies cache items based on the Host Header + Origin Header +  Path and Query, which supports different objects using the same host header, but different origin headers
+2. CloudFlare passes Access-Control-Allow-Origin header through unaltered from the origin server to the browser
