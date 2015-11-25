@@ -54,3 +54,4 @@ redirects:
   resources/index.html: blog/
   services: blog/
   services/index.html: blog/
+  feed: feed.xml

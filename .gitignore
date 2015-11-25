@@ -7,3 +7,4 @@ s3_private_config.sh
 .DS_Store?
 .Spotlight-V100
 .Trashes
+_s3_local_config
