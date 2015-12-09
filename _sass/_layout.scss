@@ -36,6 +36,10 @@
  */
  .page-content {
  	padding: $page-spacing-unit 0;
+ 	img {
+		display: block;
+   		margin: 0 auto;
+ 	}
  	@include media-query($on-laptop) {
  		padding: $page-spacing-unit / 2 0;
  	}

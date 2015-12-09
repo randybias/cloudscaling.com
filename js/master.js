@@ -65,7 +65,7 @@ $(function() {
 		return this;
 	}
 
-	if ($( ".post-content" ).length )
+	if ($( ".post-content" ).length && !($('body').hasClass('blog-author-randy-bias-index-html')))
 		$( ".post-content" ).footnotify();
 
 	$('.footnote-anchor').on( "click", function(event) {
