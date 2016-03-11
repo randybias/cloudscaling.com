@@ -98,7 +98,7 @@ The fundamental problem with any multi-purpose tool is that it makes compromises
 
 
 
-![](http://ceph.com/docs/dumpling/_images/stack.png)
+![](/assets/media/2015/08/stack.png)
 
 
 
@@ -143,7 +143,7 @@ By comparison, multi-purpose systems need to have a single unified way of laying
 
 
 
-![](http://ceph.com/docs/master/_images/ditaa-92220e0223f86eb33cfcaed4241c6680226c5ce2.png)
+![](/assets/media/2015/08/ditaa-92220e0223f86eb33cfcaed4241c6680226c5ce2.png)
 
 
 
