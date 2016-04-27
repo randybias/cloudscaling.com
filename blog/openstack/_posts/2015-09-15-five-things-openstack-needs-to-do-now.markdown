@@ -8,10 +8,6 @@ old_categories:
 - OpenStack
 ---
 
-
-
-# Five Things OpenStack Needs to Do ... Now.
-
 At the most recent [OpenStack SV 2015](http://www.openstacksv.com) event, I was invited to speak and provide a viewpoint on OpenStack's future.  The year before in 2014 I gave a talk entitled "[Lie of the Benevolent Dictator](https://www.youtube.com/watch?v=zOAb6wfBYxU)" which spawned the Product Working Group for OpenStack.  A blog posting entitled [The Future of OpenStack is Now, 2015](http://www.cloudscaling.com/blog/openstack/the-future-of-openstack-is-now-2015/) in January of this year summed that presentation up along with providing some more color.  I have spoken at length on the topic of OpenStack's future and so it can be challenging to take that discussion to the next level.  So this year I tried something just a little bit different.
 
 I tried to spend more time riffing and talking from the heart (than normal) and focused on delivering 5 simple slides in 20 minutes.  That's 4-5 minutes per slide instead of my normal 1 minute per slide.  In other words, it may be difficult to get all of the value from this deck that you normally would unless you watch the video itself.
