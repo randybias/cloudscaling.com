@@ -82,7 +82,7 @@ One downside of a Vblock has been running out of capacity, such as disk IO, befo
 
 [![Cloudscaling OCS Product Deck - 2014-08-17 - DRAFT.057](/assets/media/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg)](/assets/media/2015/02/Cloudscaling-OCS-Product-Deck-2014-08-17-DRAFT.057.jpg) 
 
-As an aside, this is why VCE recently announced their [Technology Extensions](http://www.vce.com/products/vblock/tech-extension) to support independent scaling of resources.  This kind of approach to mitigating the above weakness in a Vblock simply can’t exist in HCI because of its extreme homogeneity and collapsed control plane.
+As an aside, this is why VCE recently announced their [Technology Extensions](http://www.vce.com/products/vscale/tech-extensions) to support independent scaling of resources.  This kind of approach to mitigating the above weakness in a Vblock simply can’t exist in HCI because of its extreme homogeneity and collapsed control plane.
 
 The most successful and largest hyperscale/webscale clouds all, without exception, scale cloud resources such as network, storage, and compute independently of each other.  Heck, the default AWS instance doesn’t even have local disk (ephemeral storage) any more!
 
