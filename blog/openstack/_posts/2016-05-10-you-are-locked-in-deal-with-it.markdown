@@ -23,15 +23,17 @@ Open source can't save you.  You're locked in.  Don't believe me?  Using RedHat?
 - retraining and skillset differences
 - potential issues with your legal team[1]
 
-And that isn't even a complete list.  The reality of the situation is that you're just as locked in to open source as anything else.  "Wait," you might say, "at least I'm less locked in!", which is true in a way, but it still confuses things, because you don't really care about being locked in.  Locked in is a codeword for something else: "retaining control."
+And that isn't even a complete list.  The reality of the situation is that you're just as locked in to open source as anything else.  "Wait," you might say, "at least I'm less locked in!", which is true in a way, but it still confuses things, because you don't really care about being locked in.  "Locked in" is a codeword for something else: "giving the vendor control."
 
 How do you retain control?
 
-**Reducing switching costs.**
+**By reducing switching costs.**
+
+It must be possible to switch to a new system/product/platform and this is why open source can seem like a compelling solution.
 
 # Switching Cost Reduction: The True Lever We All Need
 
-Whether you're EMC or another business, what you're looking for in open source isn't really no lock-in, it's reducing switching costs.  Open source at least gives you the option of switching.  It's hard (per my examples above), but doable.  Being doable means you have a big lever you can use against the vendors who support you.  It means you get to invert the relationship between buyer and vendor such the buyer has the power, as it should be.  This is similar to what Apple did in [inverting the power dynamics with the carriers](https://archive.wired.com/gadgets/wireless/magazine/16-02/ff_iphone?currentPage=all)   It's also similar to what the [Open Compute Project](http://opencompute.org) hopes to achieve.
+Whether you're EMC or another business, what you're looking for in open source isn't really no lock-in, it's reducing switching costs.  Open source at least gives you the option of switching.  It's hard (per my examples above), but doable.  Being doable means you have a big lever you can use against the vendors who support you.  It means you get to invert the relationship between buyer and vendor such the buyer has the power, as it should be.  This is similar to what Apple did in [inverting the power dynamics with the carriers](https://archive.wired.com/gadgets/wireless/magazine/16-02/ff_iphone?currentPage=all).  It's also similar to what the [Open Compute Project](http://opencompute.org) hopes to achieve.
 
 In fact, this is fundamentally at the heart of what is necessary for your business to succeed in the future: *being able to fire your vendor*.
 
@@ -54,17 +56,17 @@ Customers want the power dynamic with their vendors to change.  "Oracle" is a fo
 
 ## But is Open Source Really Required to Change the Vendor Dynamic?
 
-One thing I find startling though, is the over reliance on open source to change this dynamic.  You all know I'm a big fan of open source, yet building great business models around it is still something we're learning. [2]  The world's greatest open source software won't be written for "free".  Someone has to fund it.  Community efforts like [OpenStack](http://www.openstack.org) are a conglomeration of businesses deriving value from open source while also monetizing it.  So open source has to be written by someone and that someone needs a pay check.
+One thing I find startling though, is the over reliance on open source to change this dynamic.  You all know I'm a big fan of open source, yet building great business models around it is still something we're learning.[2]  The world's greatest open source software won't be written for "free".  Someone has to fund it.  Community efforts like [OpenStack](http://www.openstack.org) are a agglomeration of businesses deriving value from open source while also monetizing it.  So open source has to be written by someone and that someone needs a pay check.
 
 Is there another way?  You betcha.[3]  Vendors can take the initiative to create solutions for migrating off of their proprietary software systems.  Sounds crazy doesn't it?  It also doesn't give you the other two elements of "control" (above).  Yet, it's worth consideration.  If the new enterprise buyer simply won't tolerate the existing power dynamics, then you have the opportunity to change them by making it easy to leave you.
 
-You can do this by creating migration tools, adhering to open standards, and making certain our customer's have a switching path.
+You can do this by creating migration tools, adhering to open standards, and making certain our customers have a switching path.
 
 Then you are competing on support, relationships, and innovation track.  I think you can handle it.  If you're dependent on locking your customers into proprietary systems to keep them, then your product probably sucks anyway.  I don't know many who would admit that.
 
 Ultimately, this path might actually be better for everyone.  The Internet is run using proprietary hardware (routers), which all speak a standardized protocol (TCP/IP), which means that while they aren't "open source", they do use "open standards", and switching costs for ISPs is lower.  Effectively we created a commons that is of value to all, using proprietary systems, but open standards.
 
-It also means that enterprise software businesses might be able to build compelling business models that provide shareholder value, while allowing buyers to control the power dynamic.  This means there are more great software companies writing software, hopefully fair bits of it, if not all, are open soure.
+It also means that enterprise software businesses might be able to build compelling business models that provide shareholder value, while allowing buyers to control the power dynamic.  This means there are more great software companies writing software, with hopefully fair bits of it, if not all, as open source.
 
 That's good for everyone.
 
