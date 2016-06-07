@@ -44,6 +44,7 @@ redirects:
   blog/author/randybias/index.html: blog/author/randy-bias/
   blog/cloud-computing/technology/top-posts-in-2008: blog/cloud-computing/top-posts-in-2008/
   blog/cloud-computing/technology/top-posts-in-2008/index.html: blog/cloud-computing/top-posts-in-2008/
+  wp-content/themes/cloudscaling/assets/downloads/cloudscaling_whitepaper_tiered_storage_private_clouds.pdf: http://cloudscaling.com/assets/pdf/cloudscaling_whitepaper_tiered_storage_private_clouds.pdf
   resources: blog/
   resources/index.html: blog/
   services: blog/
