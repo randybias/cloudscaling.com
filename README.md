@@ -86,3 +86,17 @@ CloudFlare supports CORS and operates in the following way:
 
 1. The CloudFlare CDN identifies cache items based on the Host Header + Origin Header +  Path and Query, which supports different objects using the same host header, but different origin headers
 2. CloudFlare passes Access-Control-Allow-Origin header through unaltered from the origin server to the browser
+
+Amazon S3 Setup to Support WWW and Non-WWW
+------------------------------------------
+
+We have two S3 buckets on AWS, but the site content lives in just the canonical buckets. The other bucket (non-canonical) redirects all requests to the canonical. 
+
+Use these settings for the canonical domain.
+
+![](assets/readme/s3-setup-1.png)
+
+Use these settings for the non-canonical domain.
+
+![](assets/readme/s3-setup-2.png)
+
