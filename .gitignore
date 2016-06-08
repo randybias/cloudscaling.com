@@ -8,3 +8,4 @@ s3_private_config.sh
 .Spotlight-V100
 .Trashes
 _s3_local_config
+Gemfile.lock
