@@ -32,6 +32,8 @@ exclude_from_upload:
     - .bundle
     - vendor
     - ^index.html$
+    - ^assets/readme/s3-setup-1.png$
+    - ^assets/readme/s3-setup-2.png$
 
 redirects:
   index.html: blog/
