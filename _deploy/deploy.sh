@@ -22,7 +22,7 @@ confirm() {
 # Deploy to production
 deploy_prod() {
 	echo ${green}"Building blog for production"${nc}
-	jekyll build --config _config.yml,_config_prod.yml
+	bundle exec jekyll build --config _config.yml,_config_prod.yml
 
 	echo ${red}"Dry run"${nc}
 	s3_website push --dry-run --config-dir _s3_prod_config
@@ -43,7 +43,7 @@ deploy_prod() {
 # Deploy to stage
 deploy_stage() {
 	echo ${green}"Building blog for staging"${nc}
-	jekyll build --config _config.yml,_config_stage.yml
+	bundle exec jekyll build --config _config.yml,_config_stage.yml
 
 	echo ${red}"Dry run"${nc}
 	s3_website push --dry-run --config-dir _s3_stage_config
@@ -53,7 +53,7 @@ deploy_stage() {
 	  echo ${green}"Deploying blog to S3 stage.cloudscaling.com"${nc}
 	  s3_website push --config-dir _s3_stage_config
 	else
-	  echo ${green}"Stopped Deployment"${nc} 
+	  echo ${green}"Stopped Deployment"${nc}
 	fi
 }
 
