@@ -28,7 +28,7 @@ One hundred years later, the science around manufacturing processes is so good t
 Best of all, business owners can measure the value of the work that the manufacturing process and people provide.  IT, through cloud computing, can do the same, and in a lot less than 100 years if we put some real intention behind it.
 
 **Cloud Computing as Business Enablement**
-One of the core propositions of cloud computing that I regularly espouse is the notion of 'cloud' being an operational process change and NOT a technology or simple [outsourcing](http://cloudscaling.com/blog/cloud-computing/the-cloud-is-not-outsourcing).  This is frequently lost in the hype around '[auto-scaling](http://cloudscaling.com/blog/technology/auto-magical-scaling)' and such.  By an operational process change I mean two-fold:
+One of the core propositions of cloud computing that I regularly espouse is the notion of 'cloud' being an operational process change and NOT a technology or simple [outsourcing](http://cloudscaling.com/blog/cloud-computing/the-cloud-is-not-outsourcing).  This is frequently lost in the hype around '[auto-scaling](http://cloudscaling.com/blog/cloud-computing/auto-magical-scaling)' and such.  By an operational process change I mean two-fold:
 
 
 
