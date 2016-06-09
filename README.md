@@ -1,5 +1,5 @@
 Cloudscaling - Blog
-========
+===================
 
 This project uses [Jekyll](http://jekyllrb.com/docs/installation/). Jekyll requires [Ruby](https://www.ruby-lang.org/en/downloads/). [Sass](http://sass-lang.com) and [Ruby-oembed](https://github.com/judofyr/ruby-oembed) to preprocess and convert certain content to iframes. [s3_website](https://github.com/laurilehmijoki/s3_website) is mainly used to create redirects and push files to staging and production. [Bundler](http://bundler.io/) is a package manager that makes versioning Ruby software like Jekyll a lot easier while also managing dependencies.
 
@@ -14,9 +14,27 @@ Getting Started
 6. Now, run `bundle exec jekyll serve build --watch` to start jekyll and watch for file changes.
 7. Open a browser `http://127.0.0.1:4000/`
 
+Adding New Posts
+----------------
+
+### Goals
+
+  - Simplify the new post creation process
+  - Create all new posts without a category
+  - Add all new blog posts to a single folder
+
+### Process
+
+  - Create all new posts from the `./blog/_posts/` folder
+  - The filename for all new posts need to include
+    + The date, in `yyyy-mm-dd-` format
+    + The slug, `this-is-my-post`
+    + The file extention, `.markdown`
+  - The full path to a new post should look like the following
+    + `./blog/_posts/2013-08-20-vote-now-fall-openstack-summit-presentations.markdown`
 
 Deployment Configuration
----------------
+------------------------
 The site uses 2 configuration files. one for staging and one for production:
 
 1. `_s3_prod_config/s3_website.yml` is used for production
@@ -30,6 +48,16 @@ The S3 configuration credentials are supplied with the following variables:
 
 As these credentials are confidential, they are instantiated in variables and are not part of the repository.
 
+These credentials should be added to the following files for production and staging respectively:
+
+  - `./_s3_prod_config/s3_private_config.sh`
+  - `./_s3_stage_config/s3_private_config.sh`
+
+See the following files for an example:
+
+  - `./_s3_prod_config/s3_private_config.sh.dist`
+  - `./_s3_stage_config/s3_private_config.sh.dist`
+
 Blog Deployment
 ---------------
 
@@ -41,14 +69,14 @@ The following commands will run as a dry-run, enter 'y' to deploy:
 2. Run `sh _deploy/deploy.sh production` to push to production
 
 Blog Configuration
----------------
+------------------
 
 [s3_website](https://github.com/laurilehmijoki/s3_website) needs both Ruby and Java to run. (S3_website is partly written in Scala, hence the need for Java.) The site uses s3_website to deploy files.
 The configuration files are stored in `_s3_prod_config` and `_s3_stage_config`. 
 In order to change the S3 bucket, update `s3_website.yml` 
 
 Jekyll Theme Notes
----------------
+------------------
 
 1. All project assets (pdf, sheets and images) reside within the jekyll assets folder `assets`
 2. Plugins are under `_plugins`
@@ -61,11 +89,11 @@ Jekyll Theme Notes
     - a regular page - page.html
     - a single post - post.html
     - authors page - single_author.html
-5. The `blog` folder has all the posts, the sub folders are use to replicate the categories from the main blog. Example: 
-    - cloud-computing/_posts/2015-08-11-cloud-youre-doing-it-wrong.markdown => HOST/blog/cloud-computing/cloud-youre-doing-it-wrong/
+5. The `blog` folder has all the posts, the sub folders are use to replicate the categories from the main blog.
+    - Example: cloud-computing/_posts/2015-08-11-cloud-youre-doing-it-wrong.markdown => HOST/blog/cloud-computing/cloud-youre-doing-it-wrong/
 
 CloudFlare setup for S3
----------------
+-----------------------
 First you'll want to create your Amazon S3 bucket through the appropriate Amazon webpage.  Please make sure to note the full host URL assigned to the bucket you just created -- for example,  'files.example.com'.
 
 1. Login to your CloudFlare account.
@@ -100,3 +128,18 @@ Use these settings for the non-canonical domain.
 
 ![](assets/readme/s3-setup-2.png)
 
+Contribution Process
+--------------------
+
+This site uses [GitHub Flow](https://guides.github.com/introduction/flow/) workflow for contributions.
+
+Read more about [GitHub Flow](https://guides.github.com/introduction/flow/) here.
+
+Here is a high-level overview of the process:
+
+  1. Fork the repository
+  2. Create a branch using the `git checkout -b $BRANCH_NAME`. Replace `$BRANCH_NAME` with your branch name
+  3. Add commits to your branch using the `git add .` and `git commit -m ""` commands. Push your commits to your branch with `git push origin $BRANCH_NAME`
+  4. Open a Pull Request using the https://help.github.com/articles/using-pull-requests/GitHub UI.
+  5. Discuss and review your code in the [GitHub UI](https://help.github.com/articles/using-pull-requests/)
+  6. Once your Pull Request has been reviewed and approved, one of the site owners will merge and deploy your Pull Request
