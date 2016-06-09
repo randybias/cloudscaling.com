@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+export S3_ID='XXXXXXXXXXXXXXXXXXXX'
+export S3_SECRET='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+export S3_BUCKET='example.com'
