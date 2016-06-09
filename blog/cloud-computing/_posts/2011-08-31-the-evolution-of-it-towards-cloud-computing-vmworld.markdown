@@ -50,7 +50,7 @@ We are on a continuum of change, moving from mainframes, to client/server (enter
 The following diagram, which I use in a lot of presentations, helps with understanding what I mean:
 
 
-[![](/assets/media/2011/08/evolution-it-diagram.png)](http://cloudscaling.com/blog/cloud-computing/the-evolution-of-it-towards-cloud-computing-vmworld/attachment/evolution-it-diagram)
+![](/assets/media/2011/08/evolution-it-diagram.png)
 
 
 This is a simplified diagram.  You could pick a number of dimensions to show the continuum we are on.  On the far left think [Control Data Computers](http://en.wikipedia.org/wiki/Control_Data_Corporation) and on the far right, think Google.  The transition and direction seem obvious when looked at like this.
