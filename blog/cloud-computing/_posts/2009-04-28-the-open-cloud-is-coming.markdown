@@ -1,5 +1,5 @@
 ---
-author: su
+author: Randy Bias
 comments: true
 date: 2009-04-28 22:24:19+00:00
 layout: post
