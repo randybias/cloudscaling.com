@@ -18,7 +18,8 @@ In addition to the keynote, I provided some updated information on AWS releases
 
 But first as a reminder, here's the graphic showing Amazon's development momentum by showing 'significant' feature releases per year:
 
-[caption id="attachment_1728" align="aligncenter" width="518" caption="AWS Release Counts by Year"][![](/assets/media/2011/03/cloudscaling-cloud-connect-2011-keynote-randybias-aws-releases1.png)](/assets/media/2011/03/cloudscaling-cloud-connect-2011-keynote-randybias-aws-releases1.png)[/caption]
+![AWS Release Counts by Year](/assets/media/2011/03/cloudscaling-cloud-connect-2011-keynote-randybias-aws-releases1.png)
+<cite>AWS Release Counts by Year</cite>
 
 This shows a strong development cycle and continued momentum on Amazon's part.  The light grey bar on the right indicates a rough prediction for releases this year (2011).  If AWS meets this, that would be roughly 5-6 'significant' releases per month.
 

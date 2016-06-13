@@ -52,17 +52,20 @@ Note that the simplicity of the bonnie testing method may have caused some weird
 **Basic Numbers**
 Here is a basic high-level chart showing the numbers.
 
-[caption id="attachment_847" align="alignnone" width="553" caption="Figure 1. High level of SATA vs. VM disk"]![Figure 1. High level of SATA vs. VM disk](/assets/media/2009/12/iscsi-vs-local-disk-pic12-1024x646.png)[/caption]
+![Figure 1. High level of SATA vs. VM disk](/assets/media/2009/12/iscsi-vs-local-disk-pic12-1024x646.png)
+<cite>Figure 1. High level of SATA vs. VM disk</cite>
 
 The first thing you will notice, of course, is the two big spikes for sequential and random file reads.  These numbers are artificially inflated as clearly 325,000 IOPS for sequential and 460,000 IOPS for random reads are ridiculous.  This is likely due to caching either in the OS or the controller on the physical box.  bonnie++ is supposed to account for this, but for some reason, in this instance it did not.  So it might be a little easier to evaluate the relative performance on a logarithmic scale:
 
-[caption id="attachment_846" align="alignnone" width="553" caption="Figure 2. Logarithmic scale for test Results"]![Figure 2. Logarithmic Scale for High Level Results](/assets/media/2009/12/iscsi-vs-local-disk-pic2-1024x646.png)[/caption]
+![Figure 2. Logarithmic Scale for High Level Results](/assets/media/2009/12/iscsi-vs-local-disk-pic2-1024x646.png)
+<cite>Figure 2. Logarithmic scale for test Results</cite>
 
 Much better.  What is easier to notice here is that the VM generally performs better on both standard measures of disk speed: raw throughput and disk operations (I/O per second or [IOPS](http://en.wikipedia.org/wiki/IOPS)) with the obvious exception of the two aberrant data points.
 
 Removing those two data points will give us an even clearer picture:
 
-[caption id="attachment_848" align="alignnone" width="553" caption="Figure 3. Normalized test results"]![Figure 3. Normalized test results](/assets/media/2009/12/iscsi-vs-local-disk-pic3-1024x646.png)[/caption]
+![Figure 3. Normalized test results](/assets/media/2009/12/iscsi-vs-local-disk-pic3-1024x646.png)
+<cite>Figure 3. Normalized test results</cite>
 
 Great.  Now this is very clear.  As you can see, the first half of the chart shows raw throughput (Kbytes/second).  When reading blocks from the VM disk we're nearly saturating the gigabit ethernet link which should top out at 125Mbps theoretical, and we're hitting 107MBps on average over 10 runs, so this is quite acceptable.  The SATA disk, in comparison gets just over 60MBps, which is about right, even though the SATA spec and controller are capable of more.  Sustained block reads from SATA disks will typically be 60-80MBps in the real world.
 
@@ -70,7 +73,8 @@ Much more interesting is the number of [IOPS](http://en.wikipedia.org/wiki/IOPS)
 
 If we change to a logarithmic scale again the data becomes much easier to read:
 
-[caption id="attachment_849" align="alignnone" width="553" caption="Figure 4. Normalized logarithmic scale test data"]![Figure 4. Normalized logarithmic scale test data](/assets/media/2009/12/iscsi-vs-local-disk-pic4-1024x646.png)[/caption]
+![Figure 4. Normalized logarithmic scale test data](/assets/media/2009/12/iscsi-vs-local-disk-pic4-1024x646.png)
+<cite>Figure 4. Normalized logarithmic scale test data</cite>
 
 Now you can see that doing random seeks (i.e. moving the head of the disk drive from one location to a new one to read a piece of data) are starkly different.  A single SATA disk gets about 185 IOPS while a set of 6 SAS disks in the SAN is right around 10,000 IOPS.  This is a huge performance difference.  There are several reasons for this.  One, a typical SATA disk has an average latency of 8.5ms and a 15K SAS disk has only 3ms.  Also, with 6 disks in a RAID configuration, I have 6x more disk heads to read with.
 

@@ -23,7 +23,8 @@ tags:
 - vmware
 ---
 
-[caption id="attachment_470" align="alignright" width="300" caption="Spectrum of Cloud Computing Providers"]![Spectrum of Cloud Computing Providers](/assets/media/2009/08/premium-commodity-cloud-spectrum-300x57.png)[/caption]
+![Spectrum of Cloud Computing Providers](/assets/media/2009/08/premium-commodity-cloud-spectrum-300x57.png)
+<cite>Spectrum of Cloud Computing Providers</cite>
 
 There will soon be two major paths for cloud computing providers: commodity and premium.  If you read my series, [Cloud Futures](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-4-the-culling), you'll know that I broke down cloud service providers into three major old_categories: [service clouds](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-1-service-clouds), [consumer clouds](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-2-commodity-clouds) (previously 'commodity')[1], and [focused clouds](http://cloudscaling.com/blog/cloud-computing/cloud-futures-pt-3-focused-clouds).  In retrospect I realize now that there are possibly four, not three major categories.  The missing category is premium enterprise clouds.  Previously I had lumped these under focused clouds, but I now realize that, in fact, there are likely to be so many of these that they deserve their own category.  I'll go even further and suggest that in terms of markets targeted, there will really only be two ends of a spectrum: enterprise and non-enterprise.
 
@@ -37,74 +38,38 @@ Ultimately, commodity clouds will be forced via pricing pressure to continue to 
 
 This table summarizes the differences.
 <table bordercolor="#000000" style="background-color: #ffffff;" border="1" width="400" cellpadding="3" cellspacing="3" >
-<tbody >
-<tr >
-
-<td >
-</td>
-
-<td >**Commodity**
-</td>
-
-<td >**Premium**
-</td>
-</tr>
-<tr >
-
-<td >Focus
-</td>
-
-<td >Price
-</td>
-
-<td >Value
-</td>
-</tr>
-<tr >
-
-<td >Hypervisor
-</td>
-
-<td >Xen
-</td>
-
-<td >VMware ESX/vSphere
-</td>
-</tr>
-<tr >
-
-<td >Pricing
-</td>
-
-<td >$
-</td>
-
-<td >$$$$
-</td>
-</tr>
-<tr >
-
-<td >"Enterprise" Features
-</td>
-
-<td >No
-</td>
-
-<td >Yes; lots
-</td>
-</tr>
-<tr >
-
-<td >Your App Needs Changing?
-</td>
-
-<td >Yes
-</td>
-
-<td >No
-</td>
-</tr>
-</tbody>
+    <tbody >
+        <tr >
+            <td ></td>
+            <td >**Commodity**</td>
+            <td >**Premium**</td>
+        </tr>
+        <tr >
+            <td >Focus</td>
+            <td >Price</td>
+            <td >Value</td>
+        </tr>
+        <tr >
+            <td >Hypervisor</td>
+            <td >Xen</td>
+            <td >VMware ESX/vSphere</td>
+        </tr>
+        <tr >
+            <td >Pricing</td>
+            <td >$</td>
+            <td >$$$$</td>
+        </tr>
+        <tr >
+            <td >"Enterprise" Features</td>
+            <td >No</td>
+            <td >Yes; lots</td>
+        </tr>
+        <tr >
+            <td >Your App Needs Changing?</td>
+            <td >Yes</td>
+            <td >No</td>
+        </tr>
+    </tbody>
 </table>
 **Enterprise Clouds Are Already Here**
 

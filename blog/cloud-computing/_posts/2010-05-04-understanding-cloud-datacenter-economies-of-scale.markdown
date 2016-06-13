@@ -54,10 +54,8 @@ There are a number of areas where you can achieve economies.  James touched on a
 
 In James Hamilton's model (see pie chart below) server costs are the dominant cost, but he critically left out development & labor costs.  This can be as much as 10% for a cloud and while it's possible for large clouds to drive this down to a marginal cost, in practice there are no _Infrastructure-as-a-Service_ clouds of sufficient size to achieve this yet. While James focuses primarily on power & cooling in his presentation, let's take a closer look at some other areas.
 
-[caption id="attachment_1026" align="alignnone" width="300" caption="Jame's Hamilton's Distribution of Cloud Datacenter Costs"]![james-hamilton-pie-chart](/assets/media/2010/05/james-hamilton-pie-chart-300x188.png)[/caption]
-
-
-
+![James Hamilton's Distribution of Cloud Datacenter Costs](/assets/media/2010/05/james-hamilton-pie-chart-300x188.png)
+<cite>James Hamilton's Distribution of Cloud Datacenter Costs</cite>
 
 **Networking**
 There are  two key areas of networking where you can achieve economies of scale:
@@ -104,10 +102,8 @@ If you do the math, the basic cost for administration is $75/mo/server for the e
 
 The lesson here, which James alludes to in his presentation (see his map of AWS releases in 2009 below), is that one major economy of scale is the ability to have significant resources deployed for software development purposes. The outcome of most cloud software development is generally automation or technology that enables the business to scale more efficiently.
 
-[caption id="attachment_1034" align="aligncenter" width="578" caption="James Hamilton's map of 2009 AWS releases"]![james-hamilton-aws-rapid-innovation-chart](/assets/media/2010/05/james-hamilton-aws-rapid-innovation-chart.png)[/caption]
-
-
-
+![james-hamilton-aws-rapid-innovation-chart](/assets/media/2010/05/james-hamilton-aws-rapid-innovation-chart.png)
+<cite>James Hamilton's map of 2009 AWS releases</cite>
 
 **Standardization & Homogenization**
 Often overlooked is that businesses built at cloud scale *must* run relatively homogeneous environments.  By standardizing, they can achieve reasonable scale.  For example, Google is reputed to run as little as five hardware configurations across its one million+ server base.  In contrast, a typical enterprise  has hundreds of configurations across a much smaller server base, increasing operational overhead and expense dramatically.
