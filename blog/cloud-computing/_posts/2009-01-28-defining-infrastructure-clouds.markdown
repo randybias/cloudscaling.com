@@ -22,7 +22,8 @@ Infrastructure-as-a-Service (IaaS) is that lowest tier of the [cloud pyramid](ht
 
 The traditional datacenter is where we need to go to understand what 'Internet infrastructure' really means.  We've been deploying it in one form or another for 20+ years now.  Here is an example based on my experience (from a recent presentation) as a talking point:
 
-[caption id="" align="aligncenter" width="485" caption="Traditional Datacenter Stack"][![Traditional Datacenter Stack](/assets/media/external/traditional-datacenter-stack.png)](/assets/media/external/traditional-datacenter-stack.png)[/caption]
+![Traditional Datacenter Stack](/assets/media/external/traditional-datacenter-stack.png)
+<cite>Traditional Datacenter Stack</cite>
 
 This is pretty close to a canonical infrastructure taxonomy.  We can add/remove some bits,  and I would appreciate input to make this diagram better, but this is essentially the entire story for Internet and datacenter infrastructures.
 

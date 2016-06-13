@@ -37,7 +37,8 @@ The primary point being here that market demands will essentially force standard
 **The Contenders & Their Market Positions**
 It's interesting how two such different businesses can suddenly see themselves at odds, but with a multi-billion dollar future market in cloud computing at stake, it's not surprising that we may see all kinds of players emerge.  Looking at the relative market cap (AMZN @ 36.5B and VMW @ 15.5B) and stock performance of the two tells one story:
 
-[caption id="attachment_541" align="aligncenter" width="531" caption="VMW vs. AMZN"]![VMW vs. AMZN](/assets/media/2009/09/vmw-vs-amzn.jpg)[/caption]
+![VMW vs. AMZN](/assets/media/2009/09/vmw-vs-amzn.jpg)
+<cite>VMW vs. AMZN</cite>
 
 Digging into this a bit more we can see that the story is a lot bigger than a simple tale of revenues, especially as it relates to enterprise businesses.
 

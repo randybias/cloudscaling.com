@@ -26,7 +26,8 @@ What happens when a service provider is wrong?  Ever been to some kind of major
 **Understanding Subscription Models**
 So, if oversubscription is the de facto standard and if it's done improperly it could affect your cloud deployments (cloud user) or bottom line (cloud provider), let's look at a simplified example of building a subscription model.  The following image is an Excel spreadsheet that models CPU subscription rates [1] (click through to download the original Excel spreadsheet):
 
-[caption id="attachment_514" align="aligncenter" width="535" caption="Subscription Modeling (click to download)"][![Subscription Modeling](/assets/media/2009/08/subscription-model-table.jpg)](/assets/sheets/subscription-modeling.xlsx)[/caption]
+[![Subscription Modeling](/assets/media/2009/08/subscription-model-table.jpg)](/assets/sheets/subscription-modeling.xlsx)
+<cite>Subscription Modeling (click to download)</cite>
 
 For this example, the very first row in the table represents a baseline.  We're assuming:
 

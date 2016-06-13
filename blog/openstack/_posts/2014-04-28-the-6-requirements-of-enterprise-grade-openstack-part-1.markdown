@@ -104,7 +104,8 @@ While I think it’s self-evident that agility is the driving light behind cloud
 
 
 
-[caption id="" align="aligncenter" width="499"]![](/assets/media/external/AMZN-growth.png) Netcraft AWS Growth Relentless[/caption]
+![Netcraft AWS Growth Relentless](/assets/media/external/AMZN-growth.png)
+<cite>Netcraft AWS Growth Relentless</cite>
 
 
 

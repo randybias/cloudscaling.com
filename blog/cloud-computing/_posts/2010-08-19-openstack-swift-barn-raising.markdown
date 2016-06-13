@@ -45,3 +45,5 @@ Finally, a shout out and thanks to the Scalers working on OpenStack/Swift: Big u
 Want to hack on OpenStack or Chef? We're looking for good people to build open source [automation tools](http://cloudscaling.com/contact/jobs/openstack-ruby-developer) and [cloud infrastructure](http://cloudscaling.com/contact/jobs/openstack-python-developer). Join us.
 
 [Drop us a line...](mailto:jobs@cloudscaling.com)
+
+_Originally by [Joe Arnold](https://twitter.com/@joearnold)_

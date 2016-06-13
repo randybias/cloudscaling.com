@@ -40,6 +40,4 @@ The cloud ecosystem needs a strong open source alternative. OpenStack is that ch
 
 Now, let’s get back to work and finish those OpenStack deployments under development.
 
-
-
-_by Joe Arnold_
+_Originally by [Joe Arnold](https://twitter.com/@joearnold)_
