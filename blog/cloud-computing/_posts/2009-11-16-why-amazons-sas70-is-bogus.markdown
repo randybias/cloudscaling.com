@@ -23,8 +23,9 @@ Unfortunately, a SAS70 audit isn't what most people think it is.  Worse yet, Ama
 
 Let me explain.
 
-**Understanding the SAS70 Audit
-**The SAS70 is a methodology for performing an audit, not the audit rules themselves. The SAS70 can prove whatever you decide it needs to prove. From taking the garbage out to turning the lights on.
+**Understanding the SAS70 Audit**
+
+The SAS70 is a methodology for performing an audit, not the audit rules themselves. The SAS70 can prove whatever you decide it needs to prove. From taking the garbage out to turning the lights on.
 
 From [Wikipedia](http://en.wikipedia.org/wiki/SAS70):
 
@@ -64,6 +65,7 @@ None of the above. The company being audited decides and can make the control ob
 Again, _the SAS70 is just an auditing framework_.  Why then do so many think it's useful?
 
 **Background on the SAS70 Audit**
+
 The SAS70 comes out of the financial industry and is a relatively generic framework for that reason. The financial industry has tons of different regulatory requirements that vary from state to state and country to country. Moreover, within the financial industry these kinds of audits are undertaken all of the time, the parties involved know what they are testing for, and how to negotiate it.
 
 For example, a large bank might outsource work to a secondary institution and have a desire to see that institution provide proof they are following certain guidelines or regulations.  A good example is the [Bank Secrecy Act](http://en.wikipedia.org/wiki/Bank_Secrecy_Act). The large bank in this case knows what the BSA requires and how to evaluate the secondary institution's SAS70.  This knowledge allows them to assess secondary institution's level of compliance with the BSA. At the same time, the secondary institution is familiar with what its large partners will require and sets up its annual Type 2 to cover the 'usual suspects' of controls and control objectives.
@@ -71,6 +73,7 @@ For example, a large bank might outsource work to a secondary institution and ha
 So how did we get here?
 
 **Hosting Companies and the SAS70**
+
 In recent years as financial institutions began to outsource they required that various hosting (and other) businesses perform the audit as well.  Unlike their usual partners it hasn't been clear what hosters need to be compliant with. Because of this most folks have simply done these SAS70s as simple Type 1s that are one-offs. This allowed the hosters to keep their costs down while allowing the bank to outsource and the hosters to generate revenue.
 
 Here's the problem: _Cloud computing is ushering in whole new ways of delivering IT services._
@@ -85,9 +88,11 @@ There are a couple of security and IT standards that can be used as the basis fo
 So, even if Amazon used one of these, _it's still not good enough_ for them to keep their controls and control objectives hidden from public view.  How are we to be certain that they are sufficient? [3]
 
 **Summary**
+
 Until there is a security standard for running a cloud then SAS70 audits with unpublished controls and control objectives like the recent AMZN announcement are simply smoke and mirrors.  They provide little or no real assurance to the average consumer of the AWS public cloud and serve only to provide a false sense of security.
 
 **UPDATE**: @wpauley says he has a copy of the AWS controls, but I haven't seen them yet.  When I get a copy I will post them.
+
 **UPDATE2**: Apparently @wpauley was a special case. AWS is keeping the controls under wraps. If you have a copy send them to me anonymously and I will get them posted.
 
 

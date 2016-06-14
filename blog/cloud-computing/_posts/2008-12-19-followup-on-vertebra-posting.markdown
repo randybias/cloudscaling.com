@@ -24,4 +24,4 @@ Pretty excited to take a close look.  There is a lot of promise here.
 * * *
 
 
-**Update: **Here is the [official Vertebra home page](http://www.engineyard.com/vertebra), which gives more of a high level picture of the tool.
+**Update:** Here is the [official Vertebra home page](http://www.engineyard.com/vertebra), which gives more of a high level picture of the tool.

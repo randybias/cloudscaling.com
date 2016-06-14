@@ -65,8 +65,9 @@ Let's address each part of the “no such thing as an (internal) private cloud�
 
 
 
-**The Cloud Picture
-** I can say with 100% certainty that cloud pictures were used for much more than the Internet in the early 90s when the commercial Internet was forming. I know this because I was a network engineer.  My peers and I used clouds to represent any 'autonomous system' or group of such in a routing architecture.  It was a convenience mechanism to simplify network diagrams.
+**The Cloud Picture**
+
+I can say with 100% certainty that cloud pictures were used for much more than the Internet in the early 90s when the commercial Internet was forming. I know this because I was a network engineer.  My peers and I used clouds to represent any 'autonomous system' or group of such in a routing architecture.  It was a convenience mechanism to simplify network diagrams.
 
 One example was using it to represent a large **private** wide area network (WAN), consisting of Frame Relay circuits or T-1s.  A cloud was also frequently used to represent the entire public switched telephone network (PSTN) or even, at times, entire groups of internal enterprise datacenters & networks.
 
@@ -88,8 +89,9 @@ Want more?  Here are three of the first page of network diagrams that came up o
 
 Without the historical context, it is understandable how one could conclude that the term “the cloud” was used as another term for "The Internet”.
 
-**Clouds Are Shared Infrastructure, not Utilities
-** Let’s explore the “utility” concept outside the context of the IT function[3]. A common definition of a 'utility' amongst cloud pundits today is: _a shared infrastructure with metered usage, which has a pay-as-you-go model_. An example of a non-IT utility is power companies like Pacific Gas & Electric (PG&E) which are energy utilities.  [Nick Carr](http://www.roughtype.com/)'s famous books, [Does IT Matter?](http://www.amazon.com/exec/obidos/ASIN/1591394449/amazingbooks0b0) and [The Big Switch](http://www.amazon.com/exec/obidos/ASIN/0393062287/amazingbooks0b0) extensively examine the concept of shared infrastructures leading to the rise of utility computing.
+**Clouds Are Shared Infrastructure, not Utilities** 
+
+Let’s explore the “utility” concept outside the context of the IT function[3]. A common definition of a 'utility' amongst cloud pundits today is: _a shared infrastructure with metered usage, which has a pay-as-you-go model_. An example of a non-IT utility is power companies like Pacific Gas & Electric (PG&E) which are energy utilities.  [Nick Carr](http://www.roughtype.com/)'s famous books, [Does IT Matter?](http://www.amazon.com/exec/obidos/ASIN/1591394449/amazingbooks0b0) and [The Big Switch](http://www.amazon.com/exec/obidos/ASIN/0393062287/amazingbooks0b0) extensively examine the concept of shared infrastructures leading to the rise of utility computing.
 
 Nick posits that all shared infrastructures, including roads, telegraph, the national air system, railroad system, electrical system, and gas system, are utilities.  Do you think of a road as a utility?  What about the air traffic control system?  I don’t and neither does Wikipedia nor is that term used commonly.  A public utility is “a company that performs a public service; subject to government regulation” according to [WordNet](http://wordnetweb.princeton.edu/perl/webwn?o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&s=public+utility).  In other words, a utility is a for-profit entity entrusted to perform an important public function and is commonly regulated.
 
@@ -105,6 +107,7 @@ It might be heresy, but I think there are essentially two big buckets: shared in
 
 
 **Infrastructure Can Be a Public Utility OR a Private Shared Infrastructure**
+
 Infrastructure is frequently deployed by private individuals or entities for the purpose of sharing with others. Private road and highways **are commonly** shared.  No, I'm not referring to a simple driveway; I'm talking about large-scale construction efforts in which on-campus roads are built on university campuses, enterprise businesses, military bases, etc.  People fly private planes all the time, yet they share the national air infrastructure in terms of air controllers and air space, but not the planes themselves.  The military or large federated organizations also have large-scale shared infrastructure that is not a ‘public’ service.  There are many more examples and it is clear that not all shared infrastructure is a public utility.
 
 We now have a conundrum.  The  'utility' concept isn't as clear-cut as being simply a shared infrastructure.  It clearly implies a financial arrangement.  What do we do?
@@ -127,16 +130,12 @@ That's cloud computing.  Cloud computing is a methodology for delivering IT tha
 
 ![mainframe-clientserver-cloud-evolution-blue](/assets/media/2010/01/mainframe-clientserver-cloud-evolution-blue-1023x722.png)
 
-
-
-
 This diagram shows the evolution to client-server from mainframe computing. Cloud computing is the next progression in the evolution of IT. Public cloud proponents want us to believe that everything in that third column is subsumed by the financial & business model, which is not true.  If you extract cloud computing from the public utility business model, there are significant and important advantages to moving away from the client-server model.  These advantages will be embraced by larger businesses that cannot easily progress to the public cloud model. **_ In fact, the private cloud model is a critical transitional step. It is an essential component to help larger organizations move their compute capacity to the public cloud._**[4]
-
-
 
 Just what is a private cloud?  Private clouds are the cloud computing methodologies that Amazon and Google pioneered but applied in such a fashion that only a single tenant uses them.  They are owned by a single entity and **optionally** shared.  If Amazon deploys a copy of their Elastic Compute Cloud (EC2) for a customer, that copy of EC2 is a little private cloud used only by that customer.  It's the same technology and methodology wrapped up in one little neat 'cloud' ball for the client.  It's private, it's a cloud, and the financial model it uses is not the utility billing model.
 
 **Summary**
+
 Will cloud be delivered as a utility?  Absolutely.  It is today.  In fact, the public utility model will be the dominant financial paradigm for cloud computing within the next two decades.  Most people will consume cloud computing built and delivered by others.  The cost economics are too compelling.
 
 However, there will always be a demand for a private, unshared, cloud option.   This option could be outsourced or not, but it is 'private’ because organizations will have some kind of requirement that disallows public cloud usage.  It could be security, regulatory, performance, or just plain old paranoia driving these requirements that prevent the ‘public cloud option’.

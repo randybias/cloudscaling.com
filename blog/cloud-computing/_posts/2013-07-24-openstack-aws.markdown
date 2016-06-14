@@ -18,11 +18,11 @@ tags:
 - Rackspace
 ---
 
-## **An Open Letter to the OpenStack Community:**
+## An Open Letter to the OpenStack Community:
 
-## **Our Future Depends on Embracing Amazon**
+## Our Future Depends on Embracing Amazon
 
- <**UPDATE**: Please see [the follow up response](http://cloudscaling.com/blog/company/looking-in-the-mirror-a-response-to-my-open-letter/) to this letter .>
+<**UPDATE**: Please see [the follow up response](http://cloudscaling.com/blog/company/looking-in-the-mirror-a-response-to-my-open-letter/) to this letter .>
 
 Dear Stackers, 
 
@@ -113,9 +113,9 @@ Time is of the essence. AWS is already dabbling with providing private AWS regio
 
 **My proposal is as follows:**
 
-****1. Embrace major public cloud APIs
+1. Embrace major public cloud APIs
 
-GCE, AWS, Azure, and possibly vCloud
+    GCE, AWS, Azure, and possibly vCloud
 
 2. Rename the Nova API to the Rackspace Cloud Servers API
 
@@ -123,19 +123,17 @@ GCE, AWS, Azure, and possibly vCloud
 
 4. Expand testing and the work around [refstack](http://www.openstack.org/summit/portland-2013/session-videos/presentation/heat-refstack-a-reference-implementation-of-openstack)
 
-Refstack should focus on public cloud interoperability & hybrid cloud
+    Refstack should focus on public cloud interoperability & hybrid cloud
 
-5. Embrace existing AWS interoperability testing frameworks
+5. Embrace existing AWS interoperability testing frameworks  
 
-The Cloudscaling aws-compat and the Eucalyptus eutester library are examples
+    The Cloudscaling aws-compat and the Eucalyptus eutester library are examples
 
 Amazon and Google are our friends because they are spreading awareness and adoption of cloud computing. They are “making the pie bigger” for us all. Together, they are creating a rich and vibrant public cloud ecosystem, and OpenStack and can connect to it with a rich and vibrant  private cloud ecosystem. I want OpenStack to be the dominant hybrid cloud solution. Please help me make this a reality.
 
 Sincerely,
 
 Randy Bias
-
- 
 
 (1) For those interested, here is the [original check-in](https://github.com/openstack/nova/commit/d6c78d600091f476e360371df033be7eda1b749b) of the Rackspace (nee “Nova”) API by Todd Wiley of ANSO Labs at the time.  Note that the files are “rsapi” and “rackspace.py” NOT Nova.
 
@@ -144,5 +142,3 @@ Randy Bias
 (3) The last estimates were that AWS Elastic Compute Cloud (EC2) closed off 2012 with roughly 2B in revenue and 2M+ virtual servers, numbers that eclipse all other major clouds besides GCE, which should be considered the #2 public cloud already.
 
 (4) A low level API without an opinion would have allowed for having multiple API “bridges” similar to how CloudStack has an EC2 API bridge to easily and cleanly support multiple higher level “opinionated” APIs with much less effort and with much higher levels of maintainability. Imagine Nova with the AWS, GCE, Rackspace Cloud Servers, and vCloud/vSphere APIs. That would have been straightforward using this kind of architecture. [OCCI](http://occi-wg.org/about/specification/) is a good example and a strong candidate.
-
-  

@@ -78,7 +78,7 @@ The fundamental issue with all of these (except arguably the third, but I'll cov
 
 * * *
 
-****When NIST, VMware, and others apply the term ‘hybrid’ they are referring to connecting two kinds of clouds.  Once connected however, the result is still two clouds, albeit connected; not a new cloud that is a union of the parts of the two.****
+**When NIST, VMware, and others apply the term ‘hybrid’ they are referring to connecting two kinds of clouds.  Once connected however, the result is still two clouds, albeit connected; not a new cloud that is a union of the parts of the two.**
 
 As long as the industry misuses (some might even say ‘abuses’) the term hybrid by using it any time they connect two clouds, more confusion is added to what is already a difficult conversation:
 
