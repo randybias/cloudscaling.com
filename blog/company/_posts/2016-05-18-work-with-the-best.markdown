@@ -6,8 +6,6 @@ slug: work-with-the-best
 title: Work With the Best!
 ---
 
-# Work With the Best!
-
 ## Opportunity: Chief Evangelist, Emerging Technologies Division, EMC Corporation
 
 You might be a little too jaded to “change the world”, but it’s important to you to make a difference in a customer’s initiatives, driving them towards success.  An ideal job for you is one where you are challenged, but relatively autonomous.  Where you can work with or for high caliber industry veterans who are leading, not following.  You are also a leader and not a follower and are keen to get out there and prove yourself, while continuing to learn and absorb from those around you.
