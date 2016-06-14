@@ -1,14 +1,16 @@
 ---
 author: Randy Bias
-date: 2016-06-13
+date: 2016-06-14
 layout: post
-slug: project-coprhd-a-vendor-agnostic-sds-controller-now-supports-ceph
-title: "Project CoprHD: A Vendor Agnostic SDS Controller, Now Supports Ceph"
+slug: coprhd--now-supports-ceph
+title: "CoprHD Now Supports Ceph"
 ---
 
 Last year, EMC announced the open sourcing of ViPR Controller, the world's leading SDS controller as [CoprHD](https://coprhd.github.io/) ("copperhead").  Since then we have made tremendous progress, with multiple releases, and operating the project [in the open](https://coprhd.atlassian.net/projects/COP/issues/COP-21849?filter=allopenissues).  Recently we achieved another key milestone, the addition of support for RedHat's Ceph project.  CoprHD already supported EMC's ScaleIO[1], a software-defined storage (SDS) solution for block storage, but it was important for us to continue to move the needle and add support for additional SDS solutions.
 
-In particular, I think that CoprHD provides an ideal platform for reducing risk in your deployments, by allowing you to deploy multiple storage systems, aggregating them together, putting them in different "pools", and using sophisticated scheduling systems to help with optimizing storage placement and management.  Now, it's possible to use CoprHD to help you manage Ceph and ScaleIO side-by-side, or to have an intermediate abstraction layer, that might make it [easier to replace one with the other, reducing the "lock-in" factor](http://cloudscaling.com/blog/openstack/you-are-locked-in-deal-with-it/).
+Here is a [complete list of the commits that add Ceph support to CoprHD](https://github.com/CoprHD/coprhd-controller/compare/2c1f11a2dee...8fe38c06cee).  A special thanks to Fedor Tersin on my team in Moscow for his hard work on this.
+
+I think that CoprHD provides an ideal platform for reducing risk in your deployments, by allowing you to deploy multiple storage systems, aggregating them together, putting them in different "pools", and using sophisticated scheduling systems to help with optimizing storage placement and management.  Now, it's possible to use CoprHD to help you manage Ceph and ScaleIO side-by-side, or to have an intermediate abstraction layer, that might make it [easier to replace one with the other, reducing the "lock-in" factor](http://cloudscaling.com/blog/openstack/you-are-locked-in-deal-with-it/).
 
 | **Capability** | **ScaleIO** | **Ceph** | **Notes** |
 | --- | :---: | :---: | --- |
