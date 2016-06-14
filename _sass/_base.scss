@@ -302,6 +302,7 @@ table {
 	word-break: normal;
 	word-break: keep-all;
 	border-collapse: collapse;
+ 	margin-bottom: $spacing-unit;
 	thead {
 		tr {
 			background-color: $grey-color;
@@ -313,9 +314,9 @@ table {
 		th, td {
 			padding: 20px;
 			border-bottom: 1px solid #ddd;
-			&:last-child {
-				border: none;
-			}
+			// &:last-child {
+			// 	border: none;
+			// }
 		}
 	}
 	// th, td {

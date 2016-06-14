@@ -43,9 +43,7 @@ I think that CoprHD provides an ideal platform for reducing risk in your deploym
 | Resynchronize Snapshot/Consistency Group/Clone | - | - | (4) |
 | Continuous Copy | - | - | (4) |
 | Metering | - | - | |
-| Monitoring | - | - | |  
-
-.  
+| Monitoring | - | - | |
 
 (1) Limited up to 31 snapshots/clones of a volume in ScaleIO  
 (2) Neither supported due to a bug in common CoprHD code  
