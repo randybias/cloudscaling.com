@@ -20,11 +20,7 @@ Read on for more.<!-- more -->
 **What is a Datacenter?**
 Once again, Wikipedia to the rescue where we find that a [datacenter](http://en.wikipedia.org/wiki/Data_center) is:
 
-
-
-... a facility used to house computer systems and associated components, such as telecommunications and storage systems. It generally includes redundant or backup power supplies, redundant data communications connections, environmental controls (e.g., air conditioning, fire suppression) and security devices.
-
-
+>... a facility used to house computer systems and associated components, such as telecommunications and storage systems. It generally includes redundant or backup power supplies, redundant data communications connections, environmental controls (e.g., air conditioning, fire suppression) and security devices.
 
 This is a nice clean definition, but what should immediately jump out at you is how tied to locality the notion of a datacenter is.  It has specific redundant power supplies, redundant communications, environmental controls, and it's own security devices.
 
@@ -32,10 +28,7 @@ A datacenter is a specific place housing specific servers.  Clearly clouds need 
 
 Where are you servers? [2]
 
-_ Out there.  Somewhere.
-In the clouds.  You don't know.
-You don't care.
-_
+>_Out there.  Somewhere. In the clouds. You don't know. You don't care._
 
 **Clouds**
 Being an abstraction of datacenters, clouds are a representation of the very notion of location independence.  The 'cloud' will give you some resources: storage, servers, applications, and you don't care where or how so long as they are reasonably reliable and redundant.
@@ -58,11 +51,7 @@ Why do we need an abstraction?  Because it allows us to think about and use infr
 **Distributed Computing**
 The distributed computing entry on Wikipedia gives us some background, but suffers from an academic writing style.  A simpler definition is:
 
-
-
 A programming paradigm focusing on designing distributed, open, scalable, transparent, fault tolerant systems. This paradigm is a natural result of the use of computers to form networks.
-
-
 
 Distributed computing techniques are the result of our highly connected computers.  Cloud computing is simply a natural outgrowth of the need to service our desire to build distributed, open, scalable, transparent, and fault tolerant applications.  What is Google if not one gigantic distributed computing application?
 
@@ -74,28 +63,13 @@ Clouds are a form of distributed computing.  Distributed computing can be simpli
 There is a classic set of concerns about distributed computing that are very well formed called the [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing).  Briefly recapped, the Fallacies are:
 
   1. The network is reliable.
-
-
   2. Latency is zero.
-
-
   3. Bandwidth is infinite.
-
-
   4. The network is secure.
-
-
   5. Topology doesn't change.
-
-
   6. There is one administrator.
-
-
   7. Transport cost is zero.
-
-
   8. The network is homogeneous.
-
 
 These fallacies explain the traditional problems with distributed computing, but although you might have a multi-server application in your local datacenter, the datacenter environments themselves mask most of the normal distributed computing issues.  This is because inside a single location, the network is usually very reliable, extremely low latency, high bandwidth, secure, stable, under a single user or group's control, and homogeneous, or nearly so.
 
@@ -108,25 +82,12 @@ It matters because the older datacenter-centric model of systems management is m
 
 Just digging in briefly, if you look at a typical datacenter there is significant support infrastructure that facilitates the efficient running of that datacenter, like:
 
-
-
   * NTP (Network Time Protocol) servers for synchronizing time
-
-
   * DNS (Domain Name Service) servers for mapping hostnames to IP addresses
-
-
   * DHCP servers to give hosts IP addresses
-
-
   * Network installation systems such as Kickstart, Jumpstart, and RIS
-
-
   * Monitoring services such as Nagios, Munin, HP OpenView, and Sitescope
-
-
   * Power control and environmental metrics are also necessary
-
 
 This isn't even a complete list and many of these tools are either unnecessary or unfeasible in the cloud yet most of the functionality is still required. The functionality is usually delivered in a different manner than inside the datacenter.  Most datacenter management tools don't map directly to the cloud.  New solutions are needed or the old tools need to be changed.
 
@@ -135,22 +96,11 @@ So if the cloud isn't a datacenter, if those tools don't map, if managing a sing
 **Cloud Oriented Architectures**
 Cloud Oriented Architecture (COA) is an application-centric architecture.  What does it mean to be application-centric?  I think we're still figuring this out, but at the very least, being application centric means:
 
-
-
   * Deploy your application wherever you like: external clouds or internal datacenters
-
-
   * Applications can go on one server or many
-
-
   * Add more resources and capacity to your application at any time
-
-
   * Composite your application from many 'services'; on one cloud or many
-
-
   * Determine the health and state of your application on demand
-
 
 For additional ideas, James Urquhart (The Wisdom of Clouds) takes a [deep dive](http://blog.jamesurquhart.com/2008/08/principles-of-cloud-oriented.html) into COA.
 
@@ -161,10 +111,7 @@ Cloud Oriented Architectures, cloud APIs, and the difference between clouds and 
 
 It's going to take new and ongoing innovation to deliver COA to the cloud melding the skills of developers and wisdom of Internet, IT, and web operators.
 
-
-
 * * *
-
 
 [1] http://www.itbusinessedge.com/blogs/dcc/?p=72
 [2] Please excuse my attempt at Haiku.  :)

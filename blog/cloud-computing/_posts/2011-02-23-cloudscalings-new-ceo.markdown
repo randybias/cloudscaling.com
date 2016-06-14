@@ -10,14 +10,13 @@ old_categories:
 - Cloud Computing
 ---
 
-
-
 While this might not have been [a bit of news](http://www.prnewswire.com/news-releases/cloudscaling-names-michael-grant-ceo-116738379.html) you were expecting to hear today, I can say without any dissembling that I am extremely excited about our new CEO, Michael Grant.
 
 But before I talk about Michael I wanted to review where Cloudscaling is today and how we got here.
 
-**Cloudscaling's History
-**Cloudscaling was started in the summer of 2009 by myself and Adam Waters, my co-founder and COO. That was the summer I left GoGrid.  It was really just the two of us until Q1 2010, but more on that shortly.
+**Cloudscaling's History**
+
+Cloudscaling was started in the summer of 2009 by myself and Adam Waters, my co-founder and COO. That was the summer I left GoGrid.  It was really just the two of us until Q1 2010, but more on that shortly.
 
 Adam and I knew we wanted to have a major impact on the evolution of cloud computing, but it wasn't immediately obvious where and what so we went into "seeker mode". This is the process whereby small startups seek for specific customer problems that can be resolved with technology solutions.
 
@@ -31,8 +30,9 @@ Obviously, this is an amazing set of accomplishments in less than one year's tim
 
 Now what?
 
-**We Never Sit Idle
-**I have been involved with close to 15 startups as advisor, founder, founding team member, and team member. I am ambitious, as is Adam, who has a similar history.
+**We Never Sit Idle**
+
+I have been involved with close to 15 startups as advisor, founder, founding team member, and team member. I am ambitious, as is Adam, who has a similar history.
 
 We wanted more and we knew our limitations, so late 2010 we began a search for new leadership to help drive Cloudscaling to its next stage of growth.
 
@@ -40,8 +40,9 @@ We know what we are and are not good at. We know how to hire great people to avo
 
 What we needed, though, was that top-level leadership to help transform the business.
 
-**Michael Grant
-**That's where Michael comes in. His background is critical to our future direction. His organizational skills, previous CEO experience, and deep product marketing background were missing from our leadership team. More importantly, he knew how to lead a team of strong personalities and skilled "A" players.
+**Michael Grant**
+
+That's where Michael comes in. His background is critical to our future direction. His organizational skills, previous CEO experience, and deep product marketing background were missing from our leadership team. More importantly, he knew how to lead a team of strong personalities and skilled "A" players.
 
 This means I can now let Michael lead the charge on building the business while Adam and I focus on other areas.  In particular, I plan to focus on leading our architecture team, supporting our product efforts, driving the company vision, espousing that vision, and continuing market education -- amongst the many other things I couldn't possibly give up.
 
@@ -50,5 +51,3 @@ Changing the leadership in a small business is always hard and scary for the fou
 Best,
 
 --Randy, Co-Founder and CTO
-
-

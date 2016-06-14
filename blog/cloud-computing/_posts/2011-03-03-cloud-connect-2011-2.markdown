@@ -19,19 +19,10 @@ The annual [Cloud Connect](http://www.cloudconnectevent.com/) conference is next
 The 2011 event is the most ambitious yet in the diversity of topics and sheer size. Alistair Croll’s team has put together an excellent series of sessions and participants.
 
 Four folks from our leadership team are participating in 12 panels plus a keynote address this year:
-
-
-
 	
   * Randy Bias, Co-Founder & CTO
-
-	
   * Andrew Shafer, Vice President of Engineering
-
-	
   * Francesco Paola, Vice President, Client and Partner Services
-
-	
   * Paul Guth, Vice President, Technical Operations
 
 
@@ -39,100 +30,63 @@ Below is a quick lineup of where we’re speaking and when. Come see us in Santa
 
 **Monday, March 7, 2011**
 
-
-Cloudy Operations
-Grand Ballroom E -- 8:59 - 4:30
+Cloudy Operations  
+Grand Ballroom E -- 8:59 - 4:30  
 Andrew Shafer
 
-
-
-
-Cloud Performance Summit: Tools and Techniques for Performance Optimization
-Grand Ballroom H -- 1:15 - 4:30
+Cloud Performance Summit: Tools and Techniques for Performance Optimization  
+Grand Ballroom H -- 1:15 - 4:30  
 Paul Guth
 
+**Tuesday, March 8, 2011**
 
-**Tuesday, March 8, 2011
-**
-
-
-Keynote
-Theater -- 9:45 - 9:55
+Keynote  
+Theater -- 9:45 - 9:55  
 Randy Bias
 
-
-
-
-Open Source Built the Web - Now It’s Helping to Build the Cloud
-Grand Ballroom G -- 2:30 - 3:30
+Open Source Built the Web - Now It’s Helping to Build the Cloud  
+Grand Ballroom G -- 2:30 - 3:30  
 Randy Bias
 
-
-
-
-How Does ROI Drive Architecture?
-Grand Ballroom E -- 3:45 - 4:30
+How Does ROI Drive Architecture?  
+Grand Ballroom E -- 3:45 - 4:30  
 Randy Bias
 
-
-
-
-Platforms & Ecosystems: Birds of a Feather (BOF)
-Grand Ballroom H -- 6:00 - 7:30
+Platforms & Ecosystems: Birds of a Feather (BOF)  
+Grand Ballroom H -- 6:00 - 7:30  
 Andrew Shafer
-
 
 **Wednesday, March 9, 2011**
 
-
-Private Cloud Conference
-Virtualization on Demand vs. Private Cloud -- Room 203
+Private Cloud Conference  
+Virtualization on Demand vs. Private Cloud -- Room 203  
 11:15 - 12:15
 Randy Bias
 
-
-
-
-Real Barriers and Solutions to Implementing Private Cloud
-Room 203 -- 1:15 - 2:15
+Real Barriers and Solutions to Implementing Private Cloud  
+Room 203 -- 1:15 - 2:15  
 Randy Bias and Francesco Paola
 
-
-
-
-Implementing Private Cloud: Open Source vs Everyone Else
-Room 203 -- 2:30 - 3:30
+Implementing Private Cloud: Open Source vs Everyone Else  
+Room 203 -- 2:30 - 3:30  
 Randy Bias
 
-
-
-
-Hybrid Cloud Computing: Final Answer or Transitory Architecture?
-Room 203 -- 3:45 - 4:30
+Hybrid Cloud Computing: Final Answer or Transitory Architecture?  
+Room 203 -- 3:45 - 4:30  
 Randy Bias
 
+**Thursday, March 10, 2011**
 
-**Thursday, March 10, 2011
-**
-
-
-Moving from “Dev vs. Ops” to “DevOps”
-Grand Ballroom E -- 8:15 - 9:15
+Moving from “Dev vs. Ops” to “DevOps”  
+Grand Ballroom E -- 8:15 - 9:15  
 Andrew Shafer and Paul Guth
 
-
-
-
-Performance and Monitoring
-Grand Ballroom G -- 9:30 - 10:30
+Performance and Monitoring  
+Grand Ballroom G -- 9:30 - 10:30  
 Randy Bias
 
-
-
-
-Ask the Experts: The DevOps Panel
-Grand Ballroom E -- 10:45 - 11:45
+Ask the Experts: The DevOps Panel  
+Grand Ballroom E -- 10:45 - 11:45  
 Andrew Shafer and Paul Guth
-
 
 If you’ve not [registered](http://www.cloudconnectevent.com/registration/) yet, do it today. We’ll see you in Santa Clara.
