@@ -32,9 +32,6 @@ deploy_prod() {
 	  echo ${green}"Deploying blog to S3 cloudscaling.com"${nc}
           . _s3_prod_config/s3_private_config.sh
 	  s3_website push --config-dir _s3_prod_config
-	  echo ${green}"Deploying blog to S3 www.cloudscaling.com"${nc}
-          . _s3_prod_config_www/s3_private_config.sh
-	  s3_website push --config-dir _s3_prod_config_www
 	else
 	  echo ${green}"Stopped Deployment"${nc}
 	fi
