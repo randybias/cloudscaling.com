@@ -33,4 +33,4 @@ Watch the video, and tell us what you think.
 
 * * *
 
-{% oembed https://www.youtube.com/watch?v=Jy0myZ78BtM %}
+{% youtube Jy0myZ78BtM %}
