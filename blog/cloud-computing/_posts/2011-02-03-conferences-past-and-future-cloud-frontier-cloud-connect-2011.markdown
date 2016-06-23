@@ -30,10 +30,10 @@ Meanwhile, embedded below is my keynote from Cloud Frontiers 2011 in early Decem
 <!-- more -->
 
 Cloud Frontier's Part 1:
-[iframe_youtube video="C-4Kn2C47OE"]
+{% oembed https://www.youtube.com/watch?v=C-4Kn2C47OE %}
 
 Cloud Frontier's Part 2:
-[iframe_youtube video="9ChEp6it-Dk"]
+{% oembed https://www.youtube.com/watch?v=9ChEp6it-Dk %}
 
 Cloud Frontier's Part 3:
-[iframe_youtube video="iLKl9H6J_N8"] 
+{% oembed https://www.youtube.com/watch?v=iLKl9H6J_N8 %}

@@ -39,4 +39,3 @@ Please enjoy the video below!
 
 * * *
 
-[iframe_youtube video="zfi3zSCFZ1s"] 
