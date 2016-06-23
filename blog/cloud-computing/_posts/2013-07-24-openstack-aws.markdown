@@ -22,7 +22,7 @@ tags:
 
 ## Our Future Depends on Embracing Amazon
 
-<**UPDATE**: Please see [the follow up response](http://cloudscaling.com/blog/company/looking-in-the-mirror-a-response-to-my-open-letter/) to this letter .>
+<**UPDATE**: Please see [the follow up response](http://cloudscaling.com/blog/openstack/looking-in-the-mirror-a-response-to-my-open-letter/) to this letter .>
 
 Dear Stackers, 
 

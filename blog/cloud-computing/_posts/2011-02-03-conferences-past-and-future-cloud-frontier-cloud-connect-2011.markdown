@@ -29,11 +29,14 @@ Meanwhile, embedded below is my keynote from Cloud Frontiers 2011 in early Decem
 
 <!-- more -->
 
-Cloud Frontier's Part 1:
-[iframe_youtube video="C-4Kn2C47OE"]
+## Cloud Frontiers Part 1:
 
-Cloud Frontier's Part 2:
-[iframe_youtube video="9ChEp6it-Dk"]
+{% youtube C-4Kn2C47OE %}
 
-Cloud Frontier's Part 3:
-[iframe_youtube video="iLKl9H6J_N8"] 
+## Cloud Frontiers Part 2:
+
+{% youtube 9ChEp6it-Dk %}
+
+## Cloud Frontiers Part 3:
+
+{% youtube iLKl9H6J_N8 %}
