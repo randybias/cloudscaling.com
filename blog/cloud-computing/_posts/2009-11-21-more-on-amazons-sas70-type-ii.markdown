@@ -24,31 +24,20 @@ Regardless, a bit more light has been shed on Amazon's controls and measures in 
 
 At a high level, CJ Moses, who presents the webinar talks to the core areas they covered in the control objectives, which are:
 
-
-
-	
   1. Security organization
 
-	
   2. Amazon employee lifecycle
 
-	
   3. Logical security
 
-	
   4. Physical security
 
-	
   5. Environmental safeguards
 
-	
   6. Change management
 
-	
   7. Data integrity, availability, and redundancy
 
-	
   8. Incident handling
-
 
 This looks pretty reasonable at a high level.  Of course, it would be nice to see the actual controls and objectives, but at least they are covering the appropriate areas of security.  I do notice that there isn't much around perimeter or related security.  I'm guessing they are trying to gloss over the AWS distributed firewall.  It would be nice if someone besides Amazon was vetting the way this was built.  They appear to consider it a piece of core intellectual property despite the fact it would be trivial to reproduce.  I'm not exactly certain why.

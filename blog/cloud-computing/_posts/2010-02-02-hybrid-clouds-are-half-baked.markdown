@@ -109,7 +109,7 @@ The most accurate use of the term I've seen to date is GoGrid’s use for their 
 
 Cloud computing is about on-demand self-service IT resources, whether it's servers (physical or virtual), storage, or network.  There is no need to make up a new marketing name for 'physical & virtual'.  Just say: "_Our cloud now provides physical servers on-demand for high performance workloads!_"  Everyone gets that.
 
-Precise language, especially when discussing the confusing bleeding edge, is critical. Fuzzy terms, which can be perceived as marketing fluff, are best left at the door. We (those of us in the cloud industry) do ourselves and our customers a disservice by misuse of the term 'hybrid' unless we truly have figured out how to do the equation of _**A + B = C** _and **C** is something brand new. I challenge all thought leaders (myself included) to figure something else out or reuse one of the above terms.
+Precise language, especially when discussing the confusing bleeding edge, is critical. Fuzzy terms, which can be perceived as marketing fluff, are best left at the door. We (those of us in the cloud industry) do ourselves and our customers a disservice by misuse of the term 'hybrid' unless we truly have figured out how to do the equation of _**A + B = C**_ and **C** is something brand new. I challenge all thought leaders (myself included) to figure something else out or reuse one of the above terms.
 
 
 

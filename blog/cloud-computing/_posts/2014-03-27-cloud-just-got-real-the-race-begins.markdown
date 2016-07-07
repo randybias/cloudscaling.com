@@ -23,7 +23,7 @@ Let me explain.
 
 
 
-**There are Three Ways to be #1**
+## There are Three Ways to be #1
 
 
 
@@ -71,7 +71,7 @@ And that, in essence, I think boils down why Google took a while to get “in ma
 
 
 
-**Public Cloud is A Development Engine Game**
+## Public Cloud is A Development Engine Game
 
 
 
@@ -91,7 +91,7 @@ This also maps to the actual underlying technology structure of the business and
 
 
 
-**Google Cloud Platform’s Announcements**
+## Google Cloud Platform’s Announcements
 
 
 
@@ -137,7 +137,7 @@ Hints of this can be found in the more nuanced technical announcements yesterday
 
 
 
-**Being Best AND Cheapest**
+## Being Best AND Cheapest
 
 
 

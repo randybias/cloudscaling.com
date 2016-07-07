@@ -13,8 +13,7 @@ tags:
 - Sandhill
 ---
 
-_**"People don't realize that lock-in actually occurs at the architectural level, not at the API- or hypervisor-level"
-**_
+_**"People don't realize that lock-in actually occurs at the architectural level, not at the API- or hypervisor-level"**_
 
 Randy Bias [discusses the impact of OpenStack on the cloud computing ecosystem](http://sandhill.com/opinion/daily_blog.php?id=71) with sandhill.com's Kamesh Pemmaraju.
 
