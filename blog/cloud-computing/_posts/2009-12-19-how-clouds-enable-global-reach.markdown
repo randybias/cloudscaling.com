@@ -23,7 +23,7 @@ As you know, since then quite a bit has changed.  Amazon's Elastic Compute Clou
 
 All of this goes to show that my prediction around the importance of **reach** in cloud computing is coming true.  One of the examples that brings this home that I enjoy talking about is [Friendster](http://www.friendster.com/).
 
-For those of you new to social networking, Friendster was one of the very first social networks.  They were a true first mover in the space, but due to some strategic and tactical errors, they quickly fell behind sites like MySpace, Facebook, and LinkedIn. _ Except in the AsiaPacific region_!
+For those of you new to social networking, Friendster was one of the very first social networks.  They were a true first mover in the space, but due to some strategic and tactical errors, they quickly fell behind sites like MySpace, Facebook, and LinkedIn. _Except in the AsiaPacific region_!
 
 Friendster is one of the largest social networking sites still within that geographic region. You can see how they have re-tooled their business to be friendly to the AsiaPac region by providing localization in many Asian languages.
 
