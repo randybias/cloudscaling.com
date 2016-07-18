@@ -48,7 +48,7 @@ jQuery(function() {
     display_search_results(results); 
   }
 
-  $("#site_search").submit(function(){
+  $("#site_search").submit(function(event){
     event.preventDefault();
     var query = $(".nav-search-input").val(); 
     var results = window.idx.search(query); 
