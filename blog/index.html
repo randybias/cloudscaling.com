@@ -6,9 +6,11 @@ include_pagination: true
 {% if paginator.page %}
 	{% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
 	{% assign currentPage = paginator.page %}
+	{% assign hasSidebar = " has-sidebar" %}
 {% else %}
 	{% assign offset = 0 %}
 	{% assign currentPage = 1 %}
+	{% assign hasSidebar = "" %}
 {% endif %}
 
 <div class="site-container" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
@@ -18,7 +20,7 @@ include_pagination: true
 
 	{% assign post_author = site.data.authors[post.author] %}
 
-	<div class="index--single-post">
+	<div class="index--single-post{{ hasSidebar }}">
 		<div class="post-header">
 			<h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
 			<p class="post-meta">Posted on {{ post.date | date: "%b %-d, %Y" }}
@@ -30,15 +32,31 @@ include_pagination: true
 
 		<div class="content">
 			{% if forloop.index == 1 and homepage == "blog-index-html" %}
-			<div class="post-content">
+			<div class="post-content first">
 				{{ post.content }}
 			</div>
 			{% else %}
-			{{ post.content | truncatewords: 50 }}
+			{{ post.content | strip_html | truncatewords: 50 }}
 			{% endif %}
 		</div>
 		<!-- <hr> -->
 	</div>
+
+	{% if forloop.index == 1 and hasSidebar != "" %}
+	<div class="sidebar">
+		<div id="sidebar-sticky">
+			<h2>Also on {{ site.title }}</h2>
+			<ul>
+				<li><a href="/blog/company/work-with-the-best/">Work With the Best!</a></li>
+				<li><a href="/blog/cloud-computing/will-containers-replace-hypervisors-almost-certainly/">Will Containers Replace Hypervisors? Almost Certainly!</a></li>
+				<li><a href="/blog/openstack/you-are-locked-in-deal-with-it/">You Are Locked In ... Deal With It!</a></li>
+				<li><a href="/blog/openstack/the-ranchers-dilemma/">The Rancher's Dilemma: Reconciling Pets & Cattle</a></li>
+				<li><a href="/blog/openstack/randys-picks-for-openstack-2016-spring-summit-submissions/">My Picks for OpenStack 2016 Spring Summit Submissions</a></li>
+			</ul>
+		</div>
+	</div>
+	{% endif %}
+
 	{% if forloop.length != forloop.index %}
 	{% endif %}
 	{% endfor %}
