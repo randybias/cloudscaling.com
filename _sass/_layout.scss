@@ -299,26 +299,24 @@
 }
 
 .index--single-post {
-	max-width: $content-width;
+	max-width: calc(#{$content-width} - #{$sidebar-width});;
 	margin: $post_spacing auto;
-	padding-bottom: $post_spacing;
+	padding-top: $post_spacing;
 	@include media-query($on-laptop) {
 		margin: $post_spacing / 2 auto;
-		padding-bottom: $post_spacing / 2;
+		padding-top: $post_spacing / 2;
 		margin-left: auto;
 	}
 	@include media-query($on-palm) {
 		margin:25px 0;
-		padding-bottom: 15px;
+		padding-top: 15px;
 	}
 	&:first-child {
+		border-top: none;
 		margin-top: 0px;
+		padding-top: 0;
 	}
-	border-bottom: 3px solid #D8D8D8;
-	&:last-child {
-		border-bottom: none;
-		padding-bottom: 0;
-	}
+	border-top: 3px solid #D8D8D8;
 }
 .footnote-anchor {
 	.end-of-line {
@@ -333,10 +331,52 @@
 	}
 }
 
+
+.index--single-post.has-sidebar {
+	max-width: #{$content-width};
+	float: none;
+
+	@media (min-width: $content-width){
+		max-width: calc(#{$content-width} - #{$sidebar-width} - #{$sidebar-margin});
+		float: left;
+		display: block;
+		clear: none;
+	}
+}
+
+.sidebar {
+	width: calc(#{$sidebar-width} - #{$sidebar-margin} - #{$sidebar-margin});
+	float: left;
+	display: none;
+	padding: 2% 0;
+	margin: 2% 0 3% $sidebar-margin;
+
+	ul {
+		border-left: 3px solid #D8D8D8;
+		margin: 0;
+		padding: 0;
+
+		li {
+			margin: 0 0 0 35px;
+			padding: 5px 0;
+		}
+	}
+	h2, ul {
+		width: calc(#{$sidebar-width} - #{$sidebar-margin});
+		position: relative;
+	}
+	ul {
+		clear: both;
+	}
+
+	@media (min-width: $content-width){
+		display: block;
+	}
+}
+
 .social-media-list {
 	.icon {
 		display: block;
 		overflow: hidden;
 	}
 }
-
