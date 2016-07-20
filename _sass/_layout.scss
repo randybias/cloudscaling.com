@@ -227,7 +227,8 @@
 
 
 .form-wrapper {
-	width: 100%;
+	width: calc(#{$content-width} - #{$sidebar-width});
+  	margin: 0 auto ($spacing-unit / 2) auto;
 	.nav-search-input {
 		padding: 0;
 		margin-top: $spacing-unit / 2;
@@ -259,6 +260,8 @@
 .search {
 	#results {
 		margin-top: $spacing-unit / 2;
+		width: calc(#{$content-width} - #{$sidebar-width});
+		margin: auto;
 	}
 }
 
@@ -299,7 +302,7 @@
 }
 
 .index--single-post {
-	max-width: calc(#{$content-width} - #{$sidebar-width});;
+	max-width: calc(#{$content-width} - #{$sidebar-width});
 	margin: $post_spacing auto;
 	padding-top: $post_spacing;
 	@include media-query($on-laptop) {
