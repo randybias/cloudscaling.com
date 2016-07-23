@@ -56,6 +56,9 @@ GEM
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
+    rack (1.6.4)
+    rack-protection (1.5.3)
+      rack
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -68,6 +71,7 @@ GEM
       thor (~> 0.18)
     safe_yaml (1.0.4)
     sass (3.4.18)
+    stringex (2.6.0)
     thor (0.19.1)
     timers (4.0.4)
       hitimes
@@ -80,8 +84,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  rack-protection
   ruby-oembed
   s3_website
+  stringex
 
 BUNDLED WITH
    1.10.6
