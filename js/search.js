@@ -42,22 +42,28 @@ jQuery(function() {
 
   function doneTyping () {
 
-    var query = $(".nav-search-input").val(); 
-    var results = window.idx.search(query); 
+    var query = clean_user_input($(".nav-search-input").val());
+    var results = window.idx.search(query);
+
+    // update input with cleaned query value
+    $(".nav-search-input").val(query);
 
     display_search_results(results); 
   }
 
-  $("#site_search").submit(function(){
+  $("#site_search").submit(function(event){
     event.preventDefault();
-    var query = $(".nav-search-input").val(); 
-    var results = window.idx.search(query); 
+    var query = clean_user_input($(".nav-search-input").val());
+    var results = window.idx.search(query);
+
+    // update input with cleaned query value
+    $(".nav-search-input").val(query);
 
     display_search_results(results); 
   });
 
   if (window.location.href.indexOf("search.html?s=") > -1) {
-    var search_query = getUrlParameter('s');
+    var search_query = clean_user_input(getUrlParameter('s'));
     $('.nav-search-input').val(search_query);
     window.data.then(function(loaded_data) {
       $(".loader").fadeOut("slow");
@@ -88,5 +94,12 @@ jQuery(function() {
         $search_results.html('<p class="">No results found<p>');
       }
     });
+  }
+
+  function clean_user_input(dirty) {
+    return dirty
+      .replace(/[+]/g, " ")                                 // replace plus characters (+) with space (allows multi term search from header)
+      .replace(/[!@^&\/\\#,+()$~%.'":*?<>{}_`\[\];]/g,'')   // remove all special characters (sanitize user input)
+      .replace(/\s\s+/g, ' ');                              // cleanup extra spaces between words
   }
 });

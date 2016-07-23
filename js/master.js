@@ -1,9 +1,12 @@
 $(window).load(function() {
 	$(".loader").fadeOut("slow");
+	if ($('#sidebar-sticky').length) {
+		initiateSidebar();
+	}
 })
 
 $(function() {
-	
+
 	$('.loadmore').on( "click", function(event) {
 		if (!$(this).hasClass('.loading')) {
 			event.preventDefault();
@@ -28,7 +31,10 @@ $(function() {
 				$(".next").remove();
 			}
 			$('.loadmore').removeClass("loading").attr('href', '/blog/page/'+nextPage+'/');
-		});  
+
+			// added content has moved the bottom of the page, reinitiate sidebar, but give new posts time to load
+			setTimeout(initiateSidebar(), 1000);
+		});
 	}
 	$( ".search-icon" ).on( "click", function() {
 		if ($('#nav-search').val())
@@ -100,3 +106,44 @@ var getUrlParameter = function getUrlParameter(sParam) {
 		}
 	}
 };
+var initiateSidebar = function initiateSidebar() {
+	var window_height = $(window).height()
+	stick_me = $('#sidebar-sticky'),						// the element you want to stick
+	limit_me = $('.pagination-wrapper'),					// bottom most element to prevent colliding with
+	start_at = 253,											// default element start location
+	hold_at = 15,											// upper limit for stuck element (stick offset from top)
+	stop_at = (limit_me.offset().top - window_height),		// element hide point (to avoid collision)
+	stick_at = (start_at - hold_at),						// position to enable sticky
+	footer_height = ($(document).height() - limit_me.offset().top)
+	space_available = window_height - (footer_height + stick_me.height() + hold_at);
+
+	// enable stuck element when reinitalizing on smaller screen heights, because bottom of page has moved
+	if (stick_me.hasClass('sticky_hidden')) {
+		stick_me.stop().fadeTo('fast',1).removeClass('sticky_hidden');
+	}
+
+	$(window).scroll(function () {
+		var position = $(document).scrollTop();					// current position while scrolling
+
+		// hide to avoid colliding with the limit element, if the current window height is shorter than what we need
+		if (position >= stop_at && space_available <= 0) {
+			if (!stick_me.hasClass('sticky_hidden')) {
+				stick_me.stop().fadeTo('fast',0).addClass('sticky_hidden');
+			}
+		}
+		// we're scrolling below the stick point, stick the element
+		else if (position >= stick_at) {
+			stick_me.css({'position': 'fixed', 'top': hold_at + 'px'});
+
+			// if we're coming back up and fadded the element directly reenable it
+			if (stick_me.hasClass('sticky_hidden')) {
+				stick_me.stop().css({'opacity':'1'}).removeClass('sticky_hidden');
+			}
+		}
+		// we're scrolling up and need to release the element to it's natural location
+		else {
+			stick_me.css({'position': 'relative', 'top': '0px'});
+		}
+
+	});
+}
