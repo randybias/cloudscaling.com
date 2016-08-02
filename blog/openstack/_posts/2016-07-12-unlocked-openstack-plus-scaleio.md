@@ -6,6 +6,7 @@ author: Randy Bias
 date: 2016-07-12 16:33:37
 
 ---
+
 For the past few months an elite team of Cloudscalers (EMCers) have been working diligently on making [ScaleIO](https://www.emc.com/storage/scaleio/index.htm) great in OpenStack-land.  ScaleIO "supported" OpenStack, but it might take a fair bit of time and energy to get it setup.  No longer.  As of last Friday, both Mirantis OpenStack and Canonical OpenStack work with ScaleIO at the push of a button.  The free and frictionless[1]  version of ScaleIO can be automatically installed for these OpenStack distributions and at any time you can upgrade your free & frictionless installation to a fully supported commercial version of ScaleIO.
 
 This work was done by coordinating carefully with our partners, writing a bunch of plugin and recipe code, feedback from customers, and testing, testing, testing.
@@ -16,11 +17,11 @@ There are several key areas of work:
 2. Canonical integration by building Juju Charms based on the Puppet recipes above
 3. Mirantis integration by creating Fuel plugins for ScaleIO, which also leverage Puppet recipes as required
 
-# ScaleIO Puppet Recipes
+## ScaleIO Puppet Recipes
 
 At the heart of much of the work is a set of Puppet recipes to configure and install ScaleIO and OpenStack.  There are two sets of work: *[puppet-scaleio](https://github.com/emccode/puppet-scaleio)* for ScaleIO and *[puppet-scaleio-openstack](https://github.com/emccode/puppet-scaleio-openstack)* for the configuration of OpenStack for managing ScaleIO.
 
-## Supported Configurations
+### Supported Configurations
 
 These two sets of recipes together support:
 
@@ -29,7 +30,7 @@ These two sets of recipes together support:
 * Deploying and operating ScaleIO in a hyperconverged or "2-layer" configuration[2] 
 * Ubuntu 14.04 LTS[3] 
 
-## puppet-scaleio
+### puppet-scaleio
 
 This Puppet recipe configures and manages ScaleIO.
 
@@ -46,7 +47,7 @@ And was tested with all of the following:
 * Ubuntu 14.04 LTS
 * Linux kernel 4.2.0-30-generic and 3.13.0-*-generic
 
-## puppet-scaleio-openstack
+### puppet-scaleio-openstack
 
 This Puppet recipe configures and manages OpenStack to work with ScaleIO.
 
@@ -67,7 +68,7 @@ And was tested with all of the following:
 * Linux kernel 4.2.0-30-generic and 3.13.0-83-generic
 * OpenStack Juno, Kilo, Liberty
 
-# Canonical OpenStack and ScaleIO
+## Canonical OpenStack and ScaleIO
 
 Juju is a state of the art, open source service modelling tool used with Ubuntu Server and Canonical OpenStack to manage your datacenter. Juju allows you to model, configure, manage, maintain, deploy and scale cloud services quickly and efficiently. It makes Canonical OpenStack easy for customers to deploy and automates many manual steps.
 
@@ -77,7 +78,7 @@ The following configuration is tested and supported:
 
 * Canonical OpenStack Liberty with ScaleIO 2.0 running on Ubuntu 14.04 LTS
 
-# Mirantis OpenStack and ScaleIO
+## Mirantis OpenStack and ScaleIO
 
 Mirantis OpenStack depends on Fuel, an open-source deployment and lifecycle management engine. It makes Mirantis OpenStack easy for customers to deploy in optimal configurations on a wide range of generic x86 servers and network hardware. It automates manual steps that might otherwise require great familiarity with OpenStack and hours or days of engineering time; as well as has a simple UI and can auto-discover servers and storage components.
 
@@ -87,7 +88,7 @@ The following configurations have been tested and validated by both Cloudscalers
 
 * Mirantis OpenStack versions 6.1, 7.0 and 8.0 with ScaleIO 2.0 running on Ubuntu 14.04 LTS
 
-# Minor Differences Between Distributions
+## Minor Differences Between Distributions
 
 There are minor differences in support of the various distributions based on constraints of those systems themselves.  Meaning that while we support a fairly robust set of options for configuration with the Puppet recipes, not all options may be available in Canonical or Mirantis.  We will work to close this gap over time.
 
@@ -131,7 +132,7 @@ MOS9.0 for FUEL. |
 | Volumes size granularity is 8GB | + | + | For persistent volumes volume sizes are rounded by 8GB automatically, it could be forbidden via config file. |
 | Live instance migration | + | + |  |
 
-# Making ScaleIO Great in OpenStack (Again?)
+## Making ScaleIO Great in OpenStack (Again?)
 
 This is the beginning of driving greater ScaleIO adoption in OpenStack land.  As a reminder, ScaleIO is a much easier to operate and scale version of Ceph RBD.  It is usually in the range of [7-10x faster](http://cloudscaling.com/blog/cloud-computing/killing-the-storage-unicorn-purpose-built-scaleio-spanks-multi-purpose-ceph-on-performance/) (sometimes **much** faster than this, depending on configuration or workload).  EMC is finding that our some of our best ScaleIO customers are those who have been ground up on the shoals of the [Ceph cloud-wrecking reef](https://www.emc.com/collateral/white-papers/h14872-the-case-for-tiered-storage-in-the-enterprise.pdf).  Hopefully this program makes it easier for adopters of OpenStack to [perform their own bake off between ScaleIO and Ceph](https://www.emc.com/video-collateral/demos/microsites/mediaplayer-video/battle-of-the-titans-tokyo-2015.htm) and helps make a better decision sooner in your OpenStack journey.
 
@@ -141,4 +142,3 @@ Meanwhile, we’re working on better integration to Red Hat OpenStack, updates f
 [2]  Hyper-converged configurations mean that the storage and compute run together on the same server(s) where a 2-layer configuration refers to a more traditional SAN architecture where storage runs on dedicated nodes and is connected to the compute that consumes it via a network  
 [3]  Other flavors of Ubuntu and other Linux distributions will be tested in the near future  
 [4]  That means support for KVM live migration just as we have in the VxRack Neutrino system  
-

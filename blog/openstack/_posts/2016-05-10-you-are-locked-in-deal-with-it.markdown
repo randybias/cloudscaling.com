@@ -12,7 +12,7 @@ You don't want lock-in?  Great.  Find another universe.  In this universe everyo
 
 Here's what you *really* want: control.  Let me explain.
 
-# Debunking the No-Lock-In Myth
+## Debunking the No-Lock-In Myth
 
 Open source can't save you.  You're locked in.  Don't believe me?  Using RedHat?  It's open source.  Try switching to SUSE or Ubuntu across your enterprise.  Right.  It won't happen.  Or, more accurately, it won't happen easily.  Because switching from RedHat means you have to deal with all of these issues:
 
@@ -31,7 +31,7 @@ How do you retain control?
 
 It must be possible to switch to a new system/product/platform and this is why open source can seem like a compelling solution.
 
-# Switching Cost Reduction: The True Lever We All Need
+## Switching Cost Reduction: The True Lever We All Need
 
 Whether you're EMC or another business, what you're looking for in open source isn't really no lock-in, it's reducing switching costs.  Open source at least gives you the option of switching.  It's hard (per my examples above), but doable.  Being doable means you have a big lever you can use against the vendors who support you.  It means you get to invert the relationship between buyer and vendor such the buyer has the power, as it should be.  This is similar to what Apple did in [inverting the power dynamics with the carriers](https://archive.wired.com/gadgets/wireless/magazine/16-02/ff_iphone?currentPage=all).  It's also similar to what the [Open Compute Project](http://opencompute.org) hopes to achieve.
 
@@ -39,7 +39,7 @@ In fact, this is fundamentally at the heart of what is necessary for your busine
 
 There are also a few other things that are desirable, but not nearly as large of an imperative.
 
-## Open Source's Contribution to "Control"
+### Open Source's Contribution to "Control"
 
 While reducing switching costs is the primary vehicle to controlling the relationship to the vendor, open source, specifically, provides a couple of other big values:
 
@@ -50,11 +50,11 @@ The ability to influence the roadmap is important.  Not nearly as important as i
 
 Community means having other businesses like you around the table, with the same stake, and an interest in seeing the community-driven project made to work for all.  It also means that if you are having problems, it's more likely that someone else like you in the community is seeing the same things and you can share notes and work on the issues together, rather than being dependent on a vendor and their support team.
 
-# The Vendor Power Dynamic is Inverting ... Period
+## The Vendor Power Dynamic is Inverting ... Period
 
 Customers want the power dynamic with their vendors to change.  "Oracle" is a four-letter word inside the enterprise.  Enterprise software vendors who insist on maintaining lock-in of their customer base are going to be surprised as the power dynamic shifts.  Let me be clear here.  I believe it is no longer a case of "if" but "when".  Many enterprises are [switching to an "open source first" strategy](http://reflectionsblog.emc.com/open-source-first-strategy/).  I see this more and more as I talk to businesses and I don't think this is a "pendulum swing".  I think it's a permanent change in perspective.
 
-## But is Open Source Really Required to Change the Vendor Dynamic?
+### But is Open Source Really Required to Change the Vendor Dynamic?
 
 One thing I find startling though, is the over reliance on open source to change this dynamic.  You all know I'm a big fan of open source, yet building great business models around it is still something we're learning.[2]  The world's greatest open source software won't be written for "free".  Someone has to fund it.  Community efforts like [OpenStack](http://www.openstack.org) are a agglomeration of businesses deriving value from open source while also monetizing it.  So open source has to be written by someone and that someone needs a pay check.
 
@@ -70,13 +70,13 @@ It also means that enterprise software businesses might be able to build compell
 
 That's good for everyone.
 
-# A Brief Aside on The "Other" Open Source Software Model
+## A Brief Aside on The "Other" Open Source Software Model
 
 I'll blog about this soon, but there is another open source software model.  You can run it as software as a *aaS company.  Most prominent of these are companies like Amazon and Google.  Running open source as a service means you are usually buying into a walled garden, in other words, another form of lock-in.  I thought you went to open source to "avoid lock-in" and maintain control?  Why are you suddenly in such a hurry to cede control?  This model for open source is why people like Richard Stallman started freaking out and why the [Affero GPL (AGPL)](http://www.gnu.org/licenses/why-affero-gpl.en.html) was created.  This isn't a new issue.
 
 More soon.
 
-# Do You Hear Me?
+## Do You Hear Me?
 
 Let me run it down as clearly as possible.
 
