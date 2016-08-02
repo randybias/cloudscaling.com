@@ -16,7 +16,7 @@ Finally, what is OpenStack’s place in this?  Unlike ESX, OpenStack isn’t a h
 
 Let’s discuss.
 
-# Containers as Infrastructure vs. Containers as Application-centric Packaging and Management Tools
+## Containers as Infrastructure vs. Containers as Application-centric Packaging and Management Tools
 
 Perhaps I will talk more about this in future, but it’s important to understand that, unlike VMs, containers have a dual lens you can view them through: are they infrastructure (aka “lightweight VMs”) or are they application management and configuration systems?  The reality is that they are both.  If you are an infrastructure person you likely see them as the former and if a developer you likely see them as the latter.
 
@@ -24,7 +24,7 @@ This points to a de facto path to flattening some parts of the cloud stack and t
 
 For this blog posting, I’m looking at containers primarily through the lens of being an infrastructure tool.
 
-# When Hypervisors Died
+## When Hypervisors Died
 
 The death knell of the hypervisor was sounded when Intel provided much of the unique capabilities of the hypervisor directly in the chip via the [Intel-VTx](https://en.wikipedia.org/wiki/X86_virtualization) instruction set.  Prior to this, VMware and Xen had two unique approaches to providing hypervisor capabilities: binary translation and paravirtualization respectively.  Arguments raged about which was faster, but once Intel-VTx came along, by virtue of being on the chip die, it was the de facto speed winner.  After that, VMware ESX and Xen both used Intel-VTx by default.  This also allowed the creation of KVM which depends 100% on the Intel-VTx chipset for these capabilities.  Perhaps most importantly, it negated most of the differences between "type-1" and "type-2" hypervisors.
 
@@ -32,7 +32,7 @@ Now, of course, you could argue, that hypervisors still provide value, but this 
 
 Let me explain.
 
-## The Paravirtualization Driver Layer in Hypervisors
+### The Paravirtualization Driver Layer in Hypervisors
 
 Once Intel-VTx came about, the big problem for managing existing legacy “pet” workloads was supporting a wide variety of operating systems.  This is what exists in enterprise environments today and support for heterogeneous environments is critical to supporting them.  Unfortunately, while you can run an unmodified kernel on Intel-VTx, system calls that touch networking and disk still wind up hitting emulated hardware.  Intel-VTx primarily solved the issues of segregating, isolating, and allowing high performance access to direct CPU calls and memory access (via [Extended Page Table [EPT]](https://en.wikipedia.org/wiki/Second_Level_Address_Translation)).  Intel-VT does not solve access to network and disk, although SR-IOV, VT-d, and related attempted to address this issue, but never quite got there. [1]
 
@@ -46,7 +46,7 @@ Most importantly, at this point, the hypervisors themselves are really just a la
 
 And one has to ask: “For how long will we have heterogeneous operating systems in the enterprise datacenter?”
 
-# The Homogenization of the Enterprise Datacenter Means Containers Win Ultimately
+## The Homogenization of the Enterprise Datacenter Means Containers Win Ultimately
 
 As we move towards cloud native applications and the third platform, we are all keenly aware of the need to standardize and normalize the underlying operating systems.  You can’t get greater operational efficiency if you are running 20 different operating systems.  If you desire containers, then you are also looking at running them on homogeneous or mostly homogeneous environments.  If you are moving to any kind of PaaS platform, you are standardizing the underlying operating systems.  Everywhere you look, we're moving away from heterogeneity.[3]
 
@@ -56,7 +56,7 @@ The primary argument for the hypervisor is around supporting pet workloads that 
 
 Unfortunately for the hypervisor, all of this is coming to fruition in container land one way or another.  Except perhaps heterogeneity, which is simply becoming a non-issue.
 
-## Containers and Security
+### Containers and Security
 
 It’s a popular refrain to talk about containers as being “less secure” than hypervisors, despite the fact that for some of us, containers were originally conceived as an application security mechanism.  They allow packaging up an application into a very low attack surface, running it as an unprivileged user, in an isolated jail![4]  That’s far better than a typical VM-based approach where you lug along most of an operating system that has to be patched and maintained regularly.
 
@@ -66,13 +66,13 @@ You can expect Intel to continue to enrich the Intel-VTx instruction set and for
 
 Combined with removing most of the operating system wrapped arbitrarily around the application in a hypervisor VM, containers may actually already be *more* secure than the hypervisor model.  But we can say for certain that given time this will certainly be true.
 
-## Containers and Resiliency
+### Containers and Resiliency
 
 We then must ask the question: “what about DRS and HA?”  Taking aside the fact that these capabilities are largely about supporting pet workloads and that containers don’t play in this world, the reality is that DRS and HA are largely unnecessary in an elastic third platform world.  Platform-as-a-Service (PaaS) tools like [Cloud Foundry](http://www.cloudfoundry.org), container management systems like [Kubernetes](http://kubernetes.io/), [Rancher](http://www.rancher.com), [Mesos](http://mesos.apache.org/), and similar management tools are already designed to dynamically scale your workloads.  They detect performance and failure issues within your running application and take proactive steps to deal with them.
 
 This then leads us to understand that hypervisors sole value resides primarily around supporting many operating systems using PV drivers, something that is not a requirement in the next generation datacenter.
 
-# The Change in Pictures
+## The Change in Pictures
 
 To help you grok what this change might look like, here’s a view of what the end game is, which assumes that hypervisors “win” in the second platform and are a key tool for supporting legacy workloads, while containers “win” in the third platform for cloud native applications, and become the primary tool to enable modern datacenters and their workloads.
 
@@ -89,7 +89,7 @@ This third point is worth going into a bit more detail on.  It will require a fu
 
 I think it's certainly worth consideration that hypervisors and "pet" type mentality drag us into making overwrought, complex infrastructure topologies that are simply unnecessary for modern applications.
 
-# OpenStack + Containers or OpenStack vs. Containers?
+## OpenStack + Containers or OpenStack vs. Containers?
 
 For some, there is a question of whether cloud native applications and modern datacenters are dominated by OpenStack or the container ecosystem.  For others, these systems work together.   There are equally good arguments on either side.  On one hand, OpenStack can look like a complex, overwrought attempt at ocean boiling for Infrastructure-as-a-Service (IaaS).  On the other, there is no other ecosystem that is as comprehensive, including DNS services, networking services, storage, VMs, bare metal, containers, database services, key management, and so on.
 
@@ -97,7 +97,7 @@ Things might be further confused in that if you look at the [primary “PaaS” 
 
 A go forward path that already looks like it’s happening is that hypervisors and containers coexist in the short to medium term, but that as time goes on, the stack flattens and we begin running containers directly on bare metal systems, cutting the hypervisor out, simplifying the stack, while providing greater security, availability, and performance.  Ultimately we wind up with a picture that looks like above.
 
-# The Ship Has Sailed
+## The Ship Has Sailed
 
 From my viewpoint, the ship has sailed on hypervisors.  It’s now a container world for the next generation of cloud native applications and it’s only a matter of time before we get there.  In the meantime, running containers on top of virtualization substrates is a common way to “just get started”, while the underlying technologies get better and better at running containers directly on bare metal.  The modern datacenter will be relatively homogeneous, just like the web scale companies who brought us cloud computing.  It will host predominantly cloud-native applications which will manage their own resiliency using platforms like Cloud Foundry, and it will be more secure and higher performance, with much greater levels of utilization, than ever before primarily due to the trajectory of containers and their ecosystem.
 

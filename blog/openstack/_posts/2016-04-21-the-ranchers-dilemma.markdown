@@ -18,7 +18,7 @@ Before I do though, let me say that pets vs cattle is still alive and well. As I
 
 Still time marches on and I want to share why it is ultimately possible to cross the streams. Let's also discuss what remains to get to a place where we can all become ranchers, incorporating pets, cattle, and perhaps children onto a single farm/ranch/infrastructure that can accommodate a variety of generational IT workloads.
 
-# Background: The Three Platforms
+## Background: The Three Platforms
 
 In order to understand the rest of this blog posting, you need to wrap your head around the generational shift in IT patterns that IDC outlined and called the First, Second, and Third Platforms:
 
@@ -30,7 +30,7 @@ Here’s a diagram that covers enough of a subset of characteristics as to make 
 
 ![Characteristics of the Three Platforms](/assets/media/2016/cloud-computing-patterns-are-different.jpeg)
 
-# Differing Generational IT Workload Requirements
+## Differing Generational IT Workload Requirements
 
 Although there are many differences between the second and third platforms, I believe the pets vs cattle meme has been as successful as it has because it highlights the biggest difference: servers as a disposable, commodity item. No identity and low or no cost. Treating servers like electrical amps, data packets, cellular minutes, oil, gas, or anything else that is a true commodity.
 
@@ -50,7 +50,7 @@ Is it possible to have a modern, inexpensive, software-centric infrastructure sy
 
 Certainly! Although not all of the elements are there today.  Some are though and the quality of those components has increased dramatically in the past year or so.
 
-# Storage Tools & Technology for the Modern Cloud Rancher
+## Storage Tools & Technology for the Modern Cloud Rancher
 
 A key tool for those trying to enable “cloud ranchers” is “live migration”. The ability to move a virtual machine or possibly container between hosts without impacting the running workload. This requires a shared storage system that was traditionally provided by a complex and expensive fiber channel SAN (FC-SAN). More modern approaches like [ScaleIO](https://www.emc.com/storage/scaleio/index.htm), VSAN, and Ceph provide so-called [“server SANs”](http://wikibon.org/wiki/v/The_Rise_of_Server_SAN) that replace FC-SANs with a software-centric scale-out model running on top of generic commodity servers.
 
@@ -60,13 +60,13 @@ Some of these technology gaps are able to be overcome and some are not. Certain 
 
 Today’s OpenStack deployments can support live migration if they use ScaleIO or Ceph as the underlying storage substrate.  More importantly, these software-centric storage systems can run on top of generic commodity storage and drive the relative cost of storage towards zero.  In effect, providing different infrastructure value propositions for legacy or cloud-native applications.  Some, like ScaleIO, even have the [performance of FC-SANs and can provide equivalent performance to modern all flash arrays](/blog/cloud-computing/killing-the-storage-unicorn-purpose-built-scaleio-spanks-multi-purpose-ceph-on-performance/).
 
-# We Aren’t There Yet
+## We Aren’t There Yet
 
 I’ve only touched on storage here and very lightly on compute. There are a number of other gaps that need to be filled before you can succeed at running pets and cattle applications on the same system. For example, the scheduling system(s) in OpenStack aren’t where they can replicate [VMware DRS and HA](https://pubs.vmware.com/vsphere-50/index.jsp?topic=%2Fcom.vmware.wssdk.pg.doc_50%2FPG_Ch13_Resources.15.6.html). Even when that happens, you would need to enable the capability selectively per application, since providing DRS and HA to cattle applications is a bad idea. [3]
 
 The point is that we’re starting to see the window open on delivering a unified infrastructure system that enables us to support pets and cattle simultaneously.
 
-# Getting a Taste of the Future
+## Getting a Taste of the Future
 
 If you are in Austin, TX next week for the OpenStack Summit, myself and some EMC colleagues are going to demonstrate the live migration of a pet-based workload (Oracle) running on top of OpenStack with ScaleIO as an underlying substrate.  We will show live migrating a massive Oracle database server (64GB RAM) with little or no impact to overall storage system throughput (~10% or less) running on a hyperconverged OpenStack cluster (migration network and storage network are shared).
 
@@ -77,9 +77,8 @@ Here are the [details](https://www.openstack.org/summit/austin-2016/summit-sched
 | Presentation Title | Using ScaleIO in an OpenStack Environment |
 | Date & Time | Monday, April 25, 3:40pm-4:20pm |
 | Location | Austin Convention Center - Level 4 - MR 18 A/B |
-| | |  
   
-# Wrapping Up
+## Wrapping Up
 
 It’s just a matter of time before pets and cattle are reconciled by cloud ranchers. In the meantime, check yourself before you wreck yourself. Trying to cross the streams is still a top cause for failures. There are no panaceas in IT.  I guarantee you won’t see scale-out, high performance, SRDF any time soon. You are always making tradeoffs. It just so happens that sometimes we can make tradeoffs that accommodate more than one master.
 
