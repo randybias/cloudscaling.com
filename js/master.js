@@ -41,6 +41,7 @@ $(function() {
 
 	$( "#mobile-open" ).on( "click", function() {
 		$( this ).parent().toggleClass( "nav-open" );
+		$( '.pagination-wrapper, .cloudflare-badge' ).toggleClass( "hide" );
 	});
 
 	// Prevent swiping on mobile when touching the header and menu overlay

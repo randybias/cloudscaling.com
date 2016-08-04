@@ -46,6 +46,18 @@
 		display: none;
 	}
 
+	.featured-posts {
+		display: block;
+
+		@media (min-width: $content-width){
+			display: none;
+		}
+	}
+
+	.nav-home {
+		display: none;
+	}
+
 	#mobile-open {
 		border-radius: 100%;
 		border: 2px solid #000000;
@@ -150,6 +162,10 @@
 				height: 100vh;
 				position: absolute;
 				left: 0;
+
+				@media (min-width: $content-width){
+					display: none;
+				}
 			}
 
 			@media (min-width: $content-width) {
@@ -205,26 +221,12 @@
 			&:hover {
 				text-decoration: none;
 			}
+
+			@media (min-width: $content-width){
+				display: none;
+			}
 		}
 	}
-
-	.featured-posts {
-		display: block;
-
-		@media (min-width: $content-width){
-			display: none;
-		}
-	}
-
-	.nav-home {
-
-		@media (min-width: $content-width){
-			display: none;
-		}
-	}
-
-
-
 
 
 	#nav-search {
