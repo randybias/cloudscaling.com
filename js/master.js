@@ -43,6 +43,11 @@ $(function() {
 		$( this ).parent().toggleClass( "nav-open" );
 	});
 
+	// Prevent swiping on mobile when touching the header and menu overlay
+	$( ".notouch" ).on ( "touchmove", function(e){
+		e.preventDefault();
+	});
+
 	$.fn.footnotify = function() {
 
 		var str = this.html();

@@ -1,6 +1,6 @@
 {% include featured_posts.html %}
 {% assign pagename = page.url | slugify %}
-<header class="site-header">
+<header class="site-header notouch">
 
 	<div class="wrapper">
 
@@ -14,7 +14,7 @@
 				<span></span>
 				<span></span>
 			</div>
-			<div class="mobile-popout">
+			<div class="mobile-popout notouch">
 
 			{% if pagename != 'search-html' %}
 				<form id="global-search" action="/search.html" method="get">

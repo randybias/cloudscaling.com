@@ -142,7 +142,15 @@
 			width: 100%;
 			background: #FAFAFA;
 			border-bottom: solid 5px #E2E2E2;
-			padding-bottom: 2%;
+
+			&:after {
+				content: '';
+				background: #E2E2E2;
+				width: 100%;
+				height: 100vh;
+				position: absolute;
+				left: 0;
+			}
 
 			@media (min-width: $content-width) {
 				position: relative;
@@ -186,6 +194,8 @@
 			line-height: 20px;
 			color: #000000;
 			font-weight: normal;
+			display: block;
+			padding-bottom: 2%;
 
 			&:before {
 				content: '\2190';
