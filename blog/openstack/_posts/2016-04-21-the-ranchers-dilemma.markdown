@@ -4,6 +4,7 @@ date: 2016-04-22
 layout: post
 slug: the-ranchers-dilemma
 title: "The Rancher's Dilemma: Reconciling Pets & Cattle"
+featured: true
 old_categories:
 - OpenStack
 ---

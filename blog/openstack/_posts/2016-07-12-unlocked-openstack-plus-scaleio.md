@@ -4,7 +4,7 @@ title: "Unlocked: OpenStack + ScaleIO"
 slug: unlocked-openstack-plus-scaleio
 author: Randy Bias
 date: 2016-07-12 16:33:37
-
+featured: true
 ---
 
 For the past few months an elite team of Cloudscalers (EMCers) have been working diligently on making [ScaleIO](https://www.emc.com/storage/scaleio/index.htm) great in OpenStack-land.  ScaleIO "supported" OpenStack, but it might take a fair bit of time and energy to get it setup.  No longer.  As of last Friday, both Mirantis OpenStack and Canonical OpenStack work with ScaleIO at the push of a button.  The free and frictionless[1]  version of ScaleIO can be automatically installed for these OpenStack distributions and at any time you can upgrade your free & frictionless installation to a fully supported commercial version of ScaleIO.
