@@ -32,6 +32,18 @@ Adding New Posts
     + The file extention, `.markdown`
   - The full path to a new post should look like the following
     + `./blog/_posts/2013-08-20-vote-now-fall-openstack-summit-presentations.markdown`
+  - To include a post in the list of featured post add the featured attribute with a value of true.
+ 
+	```
+	---
+	layout: post
+	title: "My Post Title"
+	slug: path-to-my-post
+	author: My Name
+	date: YYYY-MM-DD HH:MM:SS
+	featured: true
+	---
+	```
 
 Deployment Configuration
 ------------------------
