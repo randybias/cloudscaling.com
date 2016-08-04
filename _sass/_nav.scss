@@ -54,10 +54,6 @@
 		}
 	}
 
-	.nav-home {
-		display: none;
-	}
-
 	#mobile-open {
 		border-radius: 100%;
 		border: 2px solid #000000;
@@ -203,27 +199,6 @@
 						line-height: #{$base-line-height * .8};
 					}
 				}
-			}
-		}
-
-		.nav-home {
-			line-height: 20px;
-			color: #000000;
-			font-weight: normal;
-			display: block;
-			padding-bottom: 2%;
-
-			&:before {
-				content: '\2190';
-				margin-right: 5px;
-			}
-
-			&:hover {
-				text-decoration: none;
-			}
-
-			@media (min-width: $content-width){
-				display: none;
 			}
 		}
 	}
