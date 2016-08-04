@@ -1,3 +1,4 @@
+{% include featured_posts.html %}
 {% assign pagename = page.url | slugify %}
 <header class="site-header">
 
@@ -7,41 +8,46 @@
 			<img height="40" src="{{ site.baseurl }}/assets/images/cloudscaling_logo.svg">
 		</a>
 
-		{% if pagename != 'search-html' %}
-
 		<nav class="site-nav">
-			<a href="#" class="menu-icon">
-				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-				viewBox="-293 385 24 24" style="enable-background:new -293 385 24 24;" xml:space="preserve">
-				<path d="M-283.5,388c3.6,0,6.5,2.9,6.5,6.5c0,1.6-0.6,3.1-1.6,4.2l0.3,0.3h0.8l5,5l-1.5,1.5l-5-5v-0.8l-0.3-0.3
-				c-1.1,1-2.6,1.6-4.2,1.6c-3.6,0-6.5-2.9-6.5-6.5S-287.1,388-283.5,388 M-283.5,390c-2.5,0-4.5,2-4.5,4.5s2,4.5,4.5,4.5
-				s4.5-2,4.5-4.5S-281,390-283.5,390z"/>
-			</svg>
-		</a>
+			<a href="#" id="mobile-open" class="home-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+			</a>
+			<div class="mobile-popout">
 
-		<div class="trigger">
-			<form id="global-search" action="/search.html" method="get">
-				<input type="text" name="s" id="nav-search">
-				<span class="search-icon">
-					<img height="24" width="24" src="{{ site.baseurl }}/assets/images/search.svg">
-				</span>
-			</form>
-		</div>
-		{% endif %}
-	</nav>
-</div>
-{% if pagename != 'search-html' %}
-<div class="search-wrapper">
-	<div class="wrapper">
-		<div class="responsive-search site-container">
-			<div class="form-wrapper">
-				<form action="/search.html" method="get" id="site_search">
-					<input type="text" name="s" class="nav-search-input">
-					<input type="submit" value="Search" id="submit_search">
+			{% if pagename != 'search-html' %}
+				<form id="global-search" action="/search.html" method="get">
+					<input type="text" name="s" id="nav-search">
+					<span class="search-icon">
+						<img height="24" width="24" src="{{ site.baseurl }}/assets/images/search.svg">
+					</span>
 				</form>
+			{% endif %}
+
+				<div class="featured-posts">
+					<h2>Recommended Posts</h2>
+					{{featured_post_list}}
+				</div>
+
+				<a href="/blog" class="nav-home">Return to Homepage</a>
+			</div>
+		</nav>
+	</div>
+
+	{% if pagename != 'search-html' %}
+	<div class="search-wrapper">
+		<div class="wrapper">
+			<div class="responsive-search site-container">
+				<div class="form-wrapper">
+					<form action="/search.html" method="get" id="site_search">
+						<input type="text" name="s" class="nav-search-input">
+						<input type="submit" value="Search" id="submit_search">
+					</form>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
-{% endif %}
+	{% endif %}
+
 </header>

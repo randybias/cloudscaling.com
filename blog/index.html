@@ -3,6 +3,8 @@ layout: default
 include_pagination: true
 ---
 
+{% include featured_posts.html %}
+
 {% if paginator.page %}
 	{% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
 	{% assign currentPage = paginator.page %}
@@ -46,13 +48,9 @@ include_pagination: true
 	<div class="sidebar">
 		<div id="sidebar-sticky">
 			<h2>Also on {{ site.title }}</h2>
-			<ul>
-				<li><a href="/blog/company/work-with-the-best/">Work With the Best!</a></li>
-				<li><a href="/blog/cloud-computing/will-containers-replace-hypervisors-almost-certainly/">Will Containers Replace Hypervisors? Almost Certainly!</a></li>
-				<li><a href="/blog/openstack/you-are-locked-in-deal-with-it/">You Are Locked In ... Deal With It!</a></li>
-				<li><a href="/blog/openstack/the-ranchers-dilemma/">The Rancher's Dilemma: Reconciling Pets & Cattle</a></li>
-				<li><a href="/blog/openstack/randys-picks-for-openstack-2016-spring-summit-submissions/">My Picks for OpenStack 2016 Spring Summit Submissions</a></li>
-			</ul>
+
+			{{featured_post_list}}
+
 		</div>
 	</div>
 	{% endif %}

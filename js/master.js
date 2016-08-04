@@ -1,8 +1,6 @@
 $(window).load(function() {
 	$(".loader").fadeOut("slow");
-	if ($('#sidebar-sticky').length) {
-		initiateSidebar();
-	}
+	initiateSidebar();
 })
 
 $(function() {
@@ -40,10 +38,11 @@ $(function() {
 		if ($('#nav-search').val())
 			$('#global-search').submit();
 	});
-	$( ".menu-icon" ).on( "click", function() {
-		$('.trigger').toggleClass('hide');
-		$('.responsive-search').toggleClass('open');
+
+	$( "#mobile-open" ).on( "click", function() {
+		$( this ).parent().toggleClass( "nav-open" );
 	});
+
 	$.fn.footnotify = function() {
 
 		var str = this.html();
@@ -107,6 +106,10 @@ var getUrlParameter = function getUrlParameter(sParam) {
 	}
 };
 var initiateSidebar = function initiateSidebar() {
+	if (!$('#sidebar-sticky').length) {
+		return false;
+	}
+
 	var window_height = $(window).height()
 	stick_me = $('#sidebar-sticky'),						// the element you want to stick
 	limit_me = $('.pagination-wrapper'),					// bottom most element to prevent colliding with

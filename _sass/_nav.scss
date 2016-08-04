@@ -1,11 +1,16 @@
 /**
  * Site header
  */
- .site-header {
+.site-header {
 	min-height: $nav-height;
 	// Positioning context for the mobile navigation icon
-	position: relative;
 	background-color: $grey-color;
+	position: fixed;
+	width: 100%;
+
+	@media (min-width: $content-width){
+		position: relative;
+	}
 }
 
 .site-title {
@@ -33,10 +38,183 @@
 
 .site-nav {
 	float: right;
-	line-height: $nav-height;
-	.search-icon {
-		cursor: pointer;
+	position: relative;
+	line-height: 113px;
+	text-align: right;
+
+	h2 {
+		display: none;
 	}
+
+	#mobile-open {
+		border-radius: 100%;
+		border: 2px solid #000000;
+		float: left;
+		width: 40px;
+		height: 40px;
+		z-index: 3;
+		position: absolute;
+		display: block;
+		top: 30px;
+		right: 0;
+		max-width: none;
+
+		span {
+			display: block;
+			position: absolute;
+			width: 24px;
+			height: 2px;
+			background: #000000;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+
+			&:nth-child(2) {
+				top: calc(50% - 7px);
+			}
+
+			&:nth-child(3) {
+				top: calc(50% + 7px);
+			}
+		}
+
+		@media (min-width: $content-width){
+			display: none;
+		}
+	}
+
+	.mobile-popout {
+		display: none;
+
+		@media (min-width: $content-width){
+			display: block;
+		}
+	}
+
+	&.nav-open {
+		line-height: 0;
+
+		h2 {
+			font-size: 20px;
+			width: 80%;
+			margin: 2% auto 1% auto;
+			display: block;
+		}
+
+		#mobile-open {
+			border: solid 2px #B3272D;
+
+			span {
+				background: #B3272D;
+				top: 50%;
+				left: 5%;
+				width: 90%;
+
+				&:nth-child(1) {
+					-webkit-transform: rotate(45deg);
+					-moz-transform: rotate(45deg);
+					-o-transform: rotate(45deg);
+					-ms-transform: rotate(45deg);
+					transform: rotate(45deg);
+				}
+
+				&:nth-child(2) {
+					-webkit-transform: rotate(-45deg);
+					-moz-transform: rotate(-45deg);
+					-o-transform: rotate(-45deg);
+					-ms-transform: rotate(-45deg);
+					transform: rotate(-45deg);
+				}
+
+				&:nth-child(3) {
+					display: none;
+				}
+			}
+		}
+
+		.mobile-popout {
+			display: block;
+			position: fixed;
+			text-align: center;
+			left: 0;
+			top: 113px;
+			width: 100%;
+			background: #FAFAFA;
+			border-bottom: solid 5px #E2E2E2;
+			padding-bottom: 2%;
+
+			@media (min-width: $content-width) {
+				position: relative;
+				top: 0px;
+				right: 30px;
+				background: transparent;
+				border: none;
+				width: auto;
+				line-height: 113px;
+
+				h2 {
+					display: none;
+				}
+			}
+		}
+
+		#global-search {
+			margin: 3% auto;
+		}
+
+		.featured-posts {
+			h2 {
+				font-weight: bold;
+				text-decoration: underline;
+			}
+			ul {
+				margin: 0;
+				padding: 0;
+
+				li {
+					list-style-type: none;
+
+					a {
+						line-height: #{$base-line-height * .8};
+					}
+				}
+			}
+		}
+
+		.nav-home {
+			line-height: 20px;
+			color: #000000;
+			font-weight: normal;
+
+			&:before {
+				content: '\2190';
+				margin-right: 5px;
+			}
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+
+	.featured-posts {
+		display: block;
+
+		@media (min-width: $content-width){
+			display: none;
+		}
+	}
+
+	.nav-home {
+
+		@media (min-width: $content-width){
+			display: none;
+		}
+	}
+
+
+
+
 
 	#nav-search {
 		background-color: transparent;
@@ -61,53 +239,6 @@
 		// Gaps between nav items, but not on the first one
 		&:not(:first-child) {
 			margin-left: 20px;
-		}
-	}
-
-	@include media-query($on-palm) {
-		.trigger {
-			clear: both;
-			display: none;
-		}
-		&.open {
-			.trigger {
-				display: block;
-				padding-bottom: 5px;
-				position: absolute;
-				line-height: 30px;
-				bottom: -100px;
-				width: 100%;
-				left: 0;
-				right: 0;
-				margin-left: 0;
-				margin-right: 0;
-				outline: 0;
-			}
-		}
-		
-		position: absolute;
-		top: 40px;
-		right: 30px;
-		text-align: right;
-
-		.menu-icon {
-			display: block;
-			float: right;
-			width: 24px;
-			height: 24px;
-			line-height: 0;
-			padding-top: 10px;
-			text-align: center;
-
-			> svg {
-				width: 24px;
-				height: 24px;
-			}
-		}
-
-		.page-link {
-			display: block;
-			padding: 5px 10px;
 		}
 	}
 }
@@ -266,3 +397,5 @@
 		}
 	}
 }
+
+

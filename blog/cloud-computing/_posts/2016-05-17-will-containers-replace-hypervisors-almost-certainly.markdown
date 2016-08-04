@@ -4,6 +4,7 @@ date: 2016-05-17
 layout: post
 slug: will-containers-replace-hypervisors-almost-certainly
 title: Will Containers Replace Hypervisors?  Almost Certainly!
+featured: true
 ---
 
 After OpenStack, the number one topic that I get asked about these days is containers and their prospects for the enterprise and cloud-native applications.  The prospect of containers replacing hypervisors such as VMware ESX or Linux KVM (the default for most OpenStack deployments) is of keen interest to many.  Yet, there is confusion.  Many people can’t distinguish the difference between containers and VMs.  Still others like to wave the security boogeyman in favor of VMs, believing that containers can’t be secure.
