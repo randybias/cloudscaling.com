@@ -41,4 +41,4 @@ exclude:
     - vendor
 
 # Number of articles links to include in the "Also on Cloudscaling" list in sidebar & mobile header
-featured_post_limit: 3
+featured_post_limit: 5

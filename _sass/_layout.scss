@@ -346,3 +346,11 @@
 		overflow: hidden;
 	}
 }
+
+// Fix mobile layout issue on search page by setting max width limit
+@media (max-width: $content-width) {
+	* {
+		max-width: 100%;
+
+	}
+}
