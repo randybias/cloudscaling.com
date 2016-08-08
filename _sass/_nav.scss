@@ -54,6 +54,18 @@
 		}
 	}
 
+	#nav-search {
+		background-color: transparent;
+		border: none;
+		outline: none;
+		line-height: 20px;
+		min-width: 0;
+		font-size: 18px;
+		border-bottom: solid 1px #000000;
+		border-radius: 0;
+		padding: 0;
+	}
+
 	#mobile-open {
 		border-radius: 100%;
 		border: 2px solid #000000;
@@ -100,120 +112,121 @@
 		}
 	}
 
-	&.nav-open {
-		line-height: 0;
+	@media (max-width: #{$content-width - 1}) {
+		&.nav-open {
+			line-height: 0;
 
-		h2 {
-			font-size: 20px;
-			width: 80%;
-			margin: 2% auto 1% auto;
-			display: block;
-		}
-
-		#mobile-open {
-			border: solid 2px #B3272D;
-
-			span {
-				background: #B3272D;
-				top: 50%;
-				left: 5%;
-				width: 90%;
-
-				&:nth-child(1) {
-					-webkit-transform: rotate(45deg);
-					-moz-transform: rotate(45deg);
-					-o-transform: rotate(45deg);
-					-ms-transform: rotate(45deg);
-					transform: rotate(45deg);
-				}
-
-				&:nth-child(2) {
-					-webkit-transform: rotate(-45deg);
-					-moz-transform: rotate(-45deg);
-					-o-transform: rotate(-45deg);
-					-ms-transform: rotate(-45deg);
-					transform: rotate(-45deg);
-				}
-
-				&:nth-child(3) {
-					display: none;
-				}
-			}
-		}
-
-		.mobile-popout {
-			display: block;
-			position: fixed;
-			text-align: center;
-			left: 0;
-			top: 113px;
-			width: 100%;
-			background: #FAFAFA;
-			border-bottom: solid 5px #E2E2E2;
-
-			&:after {
-				content: '';
-				background: #E2E2E2;
-				width: 100%;
-				height: 100vh;
-				position: absolute;
-				left: 0;
-
-				@media (min-width: $content-width){
-					display: none;
-				}
+			h2 {
+				font-size: 20px;
+				margin: 2% auto 1% auto;
+				display: block;
 			}
 
-			@media (min-width: $content-width) {
-				position: relative;
-				top: 0px;
-				right: 30px;
-				background: transparent;
+			#nav-search {
+				background-color: transparent;
 				border: none;
-				width: auto;
-				line-height: 113px;
+				outline: none;
+				line-height: 20px;
+				min-width: 80%;
+				font-size: 22px;
+				border-radius: 0;
+				padding: 25px 0;
+			}
+
+			#mobile-open {
+
+				span {
+					top: 50%;
+					left: 5%;
+					width: 90%;
+
+					&:nth-child(1) {
+						-webkit-transform: rotate(45deg);
+						-moz-transform: rotate(45deg);
+						-o-transform: rotate(45deg);
+						-ms-transform: rotate(45deg);
+						transform: rotate(45deg);
+					}
+
+					&:nth-child(2) {
+						-webkit-transform: rotate(-45deg);
+						-moz-transform: rotate(-45deg);
+						-o-transform: rotate(-45deg);
+						-ms-transform: rotate(-45deg);
+						transform: rotate(-45deg);
+					}
+
+					&:nth-child(3) {
+						display: none;
+					}
+				}
+			}
+
+			.mobile-popout {
+				display: block;
+				position: fixed;
+				text-align: center;
+				left: 0;
+				top: 113px;
+				width: 100%;
+				background: #FFFFFF;
+				border-bottom: solid 5px #FFFFFF;
+
+				&:after {
+					content: '';
+					background: #FFFFFF;
+					width: 100%;
+					height: 100vh;
+					position: absolute;
+					left: 0;
+				}
+			}
+
+			#global-search {
+				border-bottom: solid 10px #e2e2e2;
+
+				.search-icon {
+					img {
+						width: 30px;
+						height: 30px;
+						margin-top: -4px;
+						position: absolute;
+						top: 25px;
+						right: 30px;
+					}
+				}
+			}
+
+			.featured-posts {
+				text-align: left;
+				width: 95%;
+				margin: auto;
 
 				h2 {
-					display: none;
+					font-weight: bold;
 				}
-			}
-		}
+				ul {
+					margin: 0;
+					padding: 0;
 
-		#global-search {
-			margin: 3% auto;
-		}
+					li {
+						list-style-type: none;
+						border-top: solid 1px #e2e2e2;
+						padding: 5px 0;
 
-		.featured-posts {
-			h2 {
-				font-weight: bold;
-				text-decoration: underline;
-			}
-			ul {
-				margin: 0;
-				padding: 0;
+						a {
+							line-height: #{$base-line-height * .8};
+						}
 
-				li {
-					list-style-type: none;
-
-					a {
-						line-height: #{$base-line-height * .8};
+						&:last-child {
+							border-bottom: solid 1px #e2e2e2;
+						}
 					}
 				}
 			}
 		}
 	}
 
-
-	#nav-search {
-		background-color: transparent;
-		border: none;
-		border-bottom: 1px solid #000000;
-		outline: none;
-		line-height: 20px;
-		min-width: 70%;
-		font-size: 18px;
-		border-radius: 0;
-	}
 	.menu-icon {
 		display: none;
 		
@@ -385,5 +398,3 @@
 		}
 	}
 }
-
-
