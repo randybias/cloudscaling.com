@@ -1,0 +1,26 @@
+{% assign featured_posts = '' %}
+{% assign featured_count = 0 %}
+
+{% for post in site.posts %}
+    {% if post.featured %}
+        {% capture featured_posts %}
+            {{featured_posts}}
+            <li>
+                <a href="{{post.url}}">{{post.title}}</a>
+            </li>
+        {% endcapture %}
+
+        {% assign featured_count = featured_count | plus:1 %}
+    {% endif %}
+
+    {% if featured_count >= site.featured_post_limit %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+
+{% capture featured_post_list %}
+    <ul>
+        {{featured_posts}}
+    </ul>
+{% endcapture %}

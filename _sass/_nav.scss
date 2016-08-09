@@ -1,11 +1,16 @@
 /**
  * Site header
  */
- .site-header {
+.site-header {
 	min-height: $nav-height;
 	// Positioning context for the mobile navigation icon
-	position: relative;
 	background-color: $grey-color;
+	position: fixed;
+	width: 100%;
+
+	@media (min-width: $content-width){
+		position: relative;
+	}
 }
 
 .site-title {
@@ -33,21 +38,195 @@
 
 .site-nav {
 	float: right;
-	line-height: $nav-height;
-	.search-icon {
-		cursor: pointer;
+	position: relative;
+	line-height: 113px;
+	text-align: right;
+
+	h2 {
+		display: none;
+	}
+
+	.featured-posts {
+		display: block;
+
+		@media (min-width: $content-width){
+			display: none;
+		}
 	}
 
 	#nav-search {
 		background-color: transparent;
 		border: none;
-		border-bottom: 1px solid #000000;
 		outline: none;
 		line-height: 20px;
-		min-width: 70%;
+		min-width: 0;
 		font-size: 18px;
+		border-bottom: solid 1px #000000;
 		border-radius: 0;
+		padding: 0;
 	}
+
+	#mobile-open {
+		border-radius: 100%;
+		border: 2px solid #000000;
+		float: left;
+		width: 40px;
+		height: 40px;
+		z-index: 3;
+		position: absolute;
+		display: block;
+		top: 30px;
+		right: 0;
+		max-width: none;
+		cursor: pointer;
+
+		span {
+			display: block;
+			position: absolute;
+			width: 24px;
+			height: 2px;
+			background: #000000;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+
+			&:nth-child(2) {
+				top: calc(50% - 5px);
+			}
+
+			&:nth-child(3) {
+				top: calc(50% + 5px);
+			}
+		}
+
+		@media (min-width: $content-width){
+			display: none;
+		}
+	}
+
+	.mobile-popout {
+		display: none;
+
+		@media (min-width: $content-width){
+			display: block;
+		}
+	}
+
+	@media (max-width: #{$content-width - 1}) {
+		&.nav-open {
+			line-height: 0;
+
+			h2 {
+				font-size: 20px;
+				margin: 2% auto 1% auto;
+				display: block;
+			}
+
+			#nav-search {
+				background-color: transparent;
+				border: none;
+				outline: none;
+				line-height: 20px;
+				min-width: 80%;
+				font-size: 22px;
+				border-radius: 0;
+				padding: 25px 0;
+			}
+
+			#mobile-open {
+
+				span {
+					top: 50%;
+					left: 20%;
+					width: 60%;
+
+					&:nth-child(1) {
+						-webkit-transform: rotate(45deg);
+						-moz-transform: rotate(45deg);
+						-o-transform: rotate(45deg);
+						-ms-transform: rotate(45deg);
+						transform: rotate(45deg);
+					}
+
+					&:nth-child(2) {
+						-webkit-transform: rotate(-45deg);
+						-moz-transform: rotate(-45deg);
+						-o-transform: rotate(-45deg);
+						-ms-transform: rotate(-45deg);
+						transform: rotate(-45deg);
+					}
+
+					&:nth-child(3) {
+						display: none;
+					}
+				}
+			}
+
+			.mobile-popout {
+				display: block;
+				position: fixed;
+				text-align: center;
+				left: 0;
+				top: 113px;
+				width: 100%;
+				background: #FFFFFF;
+				border-bottom: solid 5px #FFFFFF;
+
+				&:after {
+					content: '';
+					background: #FFFFFF;
+					width: 100%;
+					height: 100vh;
+					position: absolute;
+					left: 0;
+				}
+			}
+
+			#global-search {
+				border-bottom: solid 10px #e2e2e2;
+
+				.search-icon {
+					img {
+						width: 30px;
+						height: 30px;
+						margin-top: -4px;
+						position: absolute;
+						top: 25px;
+						right: 30px;
+					}
+				}
+			}
+
+			.featured-posts {
+				text-align: left;
+				width: 95%;
+				margin: auto;
+
+				h2 {
+					font-weight: bold;
+				}
+				ul {
+					margin: 0;
+					padding: 0;
+
+					li {
+						list-style-type: none;
+						border-top: solid 1px #e2e2e2;
+						padding: 5px 0;
+
+						a {
+							line-height: #{$base-line-height * .8};
+						}
+
+						&:last-child {
+							border-bottom: solid 1px #e2e2e2;
+						}
+					}
+				}
+			}
+		}
+	}
+
 	.menu-icon {
 		display: none;
 		
@@ -61,53 +240,6 @@
 		// Gaps between nav items, but not on the first one
 		&:not(:first-child) {
 			margin-left: 20px;
-		}
-	}
-
-	@include media-query($on-palm) {
-		.trigger {
-			clear: both;
-			display: none;
-		}
-		&.open {
-			.trigger {
-				display: block;
-				padding-bottom: 5px;
-				position: absolute;
-				line-height: 30px;
-				bottom: -100px;
-				width: 100%;
-				left: 0;
-				right: 0;
-				margin-left: 0;
-				margin-right: 0;
-				outline: 0;
-			}
-		}
-		
-		position: absolute;
-		top: 40px;
-		right: 30px;
-		text-align: right;
-
-		.menu-icon {
-			display: block;
-			float: right;
-			width: 24px;
-			height: 24px;
-			line-height: 0;
-			padding-top: 10px;
-			text-align: center;
-
-			> svg {
-				width: 24px;
-				height: 24px;
-			}
-		}
-
-		.page-link {
-			display: block;
-			padding: 5px 10px;
 		}
 	}
 }

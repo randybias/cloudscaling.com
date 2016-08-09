@@ -4,6 +4,7 @@ date: 2016-05-10
 layout: post
 slug: you-are-locked-in-deal-with-it
 title: "You Are Locked In ... Deal With It!"
+featured: true
 old_categories:
 - OpenStack
 ---
