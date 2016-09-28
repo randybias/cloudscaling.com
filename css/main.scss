@@ -74,10 +74,10 @@ $post_spacing: 70px;
 }
 
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 "base",
+"featured-posts",
 "layout",
 "syntax-highlighting",
 "main",
