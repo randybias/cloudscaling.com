@@ -4,6 +4,7 @@ date: 2016-09-27
 layout: post
 slug: the-history-of-pets-vs-cattle
 title: The History of Pets vs Cattle and How to Use the Analogy Properly
+featured: true
 ---
 
 I have been meaning to write this post for a long time, but one thing or another has gotten in the way. It's important to me to provide an accurate history, definition, and proper usage of the Pets vs Cattle meme so that everyone can understand why it was successful and how it's still vital as a tool for driving understanding of cloud. The meme has taken off because it helped created an understanding of the "old way" vs. the "new way" of doing things. That's great, but the value of the meme becomes muddied when misused. We can all agree there's enough muddy terminology and phraseology already, such as "cloud," "hybrid," and "DevOps". So this post aims to set the record straight and assure a canonical history that everyone can reference and use.

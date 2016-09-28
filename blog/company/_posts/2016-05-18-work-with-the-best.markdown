@@ -4,7 +4,6 @@ date: 2016-05-18
 layout: post
 slug: work-with-the-best
 title: Work With the Best!
-featured: true
 ---
 
 ## Opportunity: Chief Evangelist, Emerging Technologies Division, EMC Corporation

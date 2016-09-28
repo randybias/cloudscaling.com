@@ -4,7 +4,6 @@ comments: false
 layout: post
 slug: randys-picks-for-openstack-2016-spring-summit-submissions
 title: My Picks for OpenStack 2016 Spring Summit Submissions
-featured: true
 tags:
 - OpenStack
 ---
