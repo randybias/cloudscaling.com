@@ -11,6 +11,7 @@ Getting Started
 3. `cd` to the project root
 4. Run `gem install bundler` to install the bundler
 5. Run `bundle install` to install the build dependencies.
+  - If you receive any errors, try: `bundle install --path vendor/bundle` 
 6. Now, run `bundle exec jekyll serve build --watch` to start jekyll and watch for file changes.
 7. Open a browser `http://127.0.0.1:4000/`
 
