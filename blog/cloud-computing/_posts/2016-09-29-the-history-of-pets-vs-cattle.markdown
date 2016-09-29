@@ -1,6 +1,6 @@
 ---
 author: Randy Bias
-date: 2016-09-27
+date: 2016-09-29
 layout: post
 slug: the-history-of-pets-vs-cattle
 title: The History of Pets vs Cattle and How to Use the Analogy Properly
@@ -27,7 +27,7 @@ Let's take a minute to clearly define pets and cattle.
 
 ## Pets
 
-> Servers or server pairs that are treated as indispensable or unique systems that can never be down. Typically they are manually built, created, and "hand fed". Examples include mainframes, HA loadbalancers/firewalls, database systems designed as master/slave (active/passive), and so on.
+> Servers or server pairs that are treated as indispensable or unique systems that can never be down. Typically they are manually built, managed, and "hand fed". Examples include mainframes, solitary servers, HA loadbalancers/firewalls (active/active or active/passive), database systems designed as master/slave (active/passive), and so on.
 
 ## Cattle
 
@@ -39,9 +39,9 @@ Most importantly, this analogy, as presented above, has helped educate a generat
 
 # Going Off The Ranch
 
-That's why it's important to stick to or, at least start with, the core message above. People can and will, take this simple analogy and turn it to their own uses. Folks have added to the analogy (pets, cattle, ants) and have modified it in various manners. That's fine, but it often muddies the waters, which means it waters down the value. Here's a recent case in point to illustrate.
+That's why it's important to stick to or, at least start with, the core message above. People can and will, take this simple analogy and turn it to their own uses. Folks have added to the analogy (e.g. "pets, cattle, & ants", "children, pets, and cattle", etc.) and have modified it in various manners. That's fine, but it often muddies the waters, which means it waters down the value. Here's a recent case in point to illustrate.
 
-The Kubernetes team borrowed the analogy to explain their addition of "Pet Sets" to Kubernetes functionality over this summer and posted a blog entitled [Stateful Applications in Containers!? Kubernetes 1.3 Says "Yes!"](http://blog.kubernetes.io/2016/07/stateful-applications-in-containers-kubernetes.html). It's understandable that folks in the container ecosystem would take pets vs cattle and interpret it to mean something about stateful applications. There is a certain insecurity around containers applicability for stateful applications. Something I personally don't understand since containers have always been applicable for stateful applications, but perhaps the container ecosystems support for persistent storage has been less than stellar. That's a longer discussion however.
+The Kubernetes team borrowed the analogy to explain their addition of "Pet Sets" to Kubernetes functionality over this summer and posted a blog entitled [Stateful Applications in Containers!? Kubernetes 1.3 Says "Yes!"](http://blog.kubernetes.io/2016/07/stateful-applications-in-containers-kubernetes.html). It's understandable that folks in the container ecosystem would take pets vs cattle and interpret it to mean something about stateful applications. There is a certain insecurity around containers applicability for stateful applications. Something I personally don't understand since containers have always been applicable for stateful applications, but perhaps the container ecosystems support for persistent storage has been less than stellar. Quite a few folks have been looking to solve this problem though, including the fantastic [Rex-Ray project](https://github.com/emccode/rexray). That's a longer discussion however.
 
 The core issue with the k8s blog posting is that if you look at the examples of stateful applications that are supported in Kubernetes 1.3 using Pet Sets it's a canonical list of **cattle**-architected data store systems: "Cassandra, Kafka, and MongoDB". All of these data storage systems are designed for failure and exactly match my definition for cattle applications above. In other words, Kubernetes now supports cattle data stores using so-called "Pet Sets".
 
@@ -51,7 +51,7 @@ It matters. If we say that pets are about systems that require "special handling
 
 # Getting Value from Pets vs Cattle
 
-Hey, do what you need to do. If you feel you need to take Pets vs Cattle and bend it to serve marketing or other purposes, that's certainly your prerogative. Just understand how it was used originally and why it's still invaluable in quickly helping IT folks and executives quickly understand what has changed. I also would very much appreciate if you simply acknowledged you were providing your own new context and pointed to this blog posting for the true history of the meme.
+Hey, do what you need to do. If you feel you need to take Pets vs Cattle and bend it to serve marketing or other purposes, that's certainly your prerogative[2]. Just understand how it was used originally and why it's still invaluable in quickly helping IT folks and executives quickly understand what has changed. I also would very much appreciate if you simply acknowledged you were providing your own new context and pointed to this blog posting for the true history of the meme.
 
 Ultimately, focusing on the disposability of servers—a concept that Google, in fact, pioneered—is the most important aspect of Pets vs. Cattle and losing that, focusing on some other aspect, or ascribing something not intended (e.g. stateful applications as pets) distracts and muddies the waters.
 
@@ -61,4 +61,5 @@ Cloud on.
 
 * * *
 
-[1] [Cloud Connect 2011 Keynote](https://vimeo.com/21372341) 
+[1] The [Cloud Connect 2011 Keynote](https://vimeo.com/21372341)  
+[2] In fact, I've begun extending the thinking in [The Rancher's Dilemma: Reconciling Pets & Cattle](http://cloudscaling.com/blog/openstack/the-ranchers-dilemma/)
