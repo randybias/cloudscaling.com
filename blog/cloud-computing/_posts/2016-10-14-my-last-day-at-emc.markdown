@@ -16,7 +16,7 @@ I want to thank all of the Cloudscalers who helped Cloudscaling deploy a number 
    
 More recently, the Cloudscalers were at the heart of the Dell EMC VxRack Neutrino product, which is a greatly under-appreciated part of the Dell EMC portfolio. I hope that it ultimately succeeds in the market place.
 
-The list of Cloudscalers to thank is much to long and there were several generations.  You all know who you are and that I will always regard your willingness to follow my and Adam's leadership as a blessing and foundational to our success.
+The list of Cloudscalers to thank is much too long and there were several generations.  You all know who you are and that I will always regard your willingness to follow my and Adam's leadership as a blessing and foundational to our success.
 
 I also want to thank a bunch of fabulous people at EMC who supported my mission there. In particular, CJ Desai, my boss, for making sure I had what I needed to succeed and Josh Bernstein, who was primary partner in crime while here. Blake McConnell also for being there to hear my gripes when I had them and giving me straight feedback. I also had a great bunch of peers who were incredibly helpful including Manuvir Das, Boaz Palgi, Dan Dougherty, Doug Bowers, and many others.
 
