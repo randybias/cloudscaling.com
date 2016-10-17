@@ -28,7 +28,7 @@ There was a special team of folks in Moscow who included some legacy Cloudscaler
 - Anastasia Kravets
 - Alexey Morlang
    
-A big shout out to all of the various investors that supported us, including Dan Scholnick and Fred Wang at Trinity, Ankur Single and Pradeep Sindhu at Juniper, and the folks at Seagate.
+A big shout out to all of the various investors that supported us, including Dan Scholnick and Fred Wang at Trinity, Ankur Singla and Pradeep Sindhu at Juniper, and the folks at Seagate.
 
 My co-founder at Cloudscaling, Adam Waters, has always been an amazing partner and friend. Without him, Cloudscaling would have imploded multiple times.
 
