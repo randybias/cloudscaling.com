@@ -36,7 +36,7 @@ Finally and most importantly, my wife, Donna Bias and my beautiful baby, Lia Kae
 
 # The Disposition of this Blog
 
-This domain is owned by Dell EMC.  I've put in a request to transfer the domain to me, and I hope that this goes through. OTOH, the content is all hosted at [GitHub](https://github.com/randybias/cloudscaling), so it can't be lost.  Fingers crosses that Dell EMC comes through.
+This domain is owned by Dell EMC.  I've put in a request to transfer the domain to me, and I hope that this goes through. OTOH, the content is all hosted at [GitHub](https://github.com/randybias/cloudscaling.com), so it can't be lost.  Fingers crosses that Dell EMC comes through.
 
 # Farewell & I'll See You Soon
 
