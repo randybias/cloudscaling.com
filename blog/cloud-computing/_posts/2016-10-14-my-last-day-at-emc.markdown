@@ -34,11 +34,11 @@ My co-founder at Cloudscaling, Adam Waters, has always been an amazing partner a
 
 Finally and most importantly, my wife, Donna Bias and my beautiful baby, Lia Kae Bias.
 
-# The Disposition of this Blog
+## The Disposition of this Blog
 
-This domain is owned by Dell EMC.  I've put in a request to transfer the domain to me, and I hope that this goes through. OTOH, the content is all hosted at [GitHub](https://github.com/randybias/cloudscaling.com), so it can't be lost.  Fingers crosses that Dell EMC comes through.
+This domain is owned by Dell EMC.  I've put in a request to transfer the domain to me, and I hope that this goes through. OTOH, the content is all hosted at [GitHub](https://github.com/randybias/cloudscaling.com), so it can't be lost.  Fingers crossed that Dell EMC comes through.
 
-# Farewell & I'll See You Soon
+## Farewell & I'll See You Soon
 
 Obviously this industry is too small to truly say farewell. But I do want to say farewell in my capacity as a Cloudscaler and EMCer. That chapter is closed. And while I will always be a Stacker I expect I will take a much broader view of things in the near future. If I am not blogging here, I'll be blogging elsewhere.
 
