@@ -9,7 +9,7 @@ featured: true
 
 I have been meaning to write this post for a long time, but one thing or another has gotten in the way. It's important to me to provide an accurate history, definition, and proper usage of the Pets vs Cattle meme so that everyone can understand why it was successful and how it's still vital as a tool for driving understanding of cloud. The meme has taken off because it helped created an understanding of the "old way" vs. the "new way" of doing things. That's great, but the value of the meme becomes muddied when misused. We can all agree there's enough muddy terminology and phraseology already, such as "cloud," "hybrid," and "DevOps". So this post aims to set the record straight and assure a canonical history that everyone can reference and use.
 
-# The History
+## The History
 
 Some time in 2011 or 2012 I was struggling with explaining to customers how AWS, cloud native apps, and cloud more generally was fundamentally different from what had gone before[1]. Most explanations required an exorbitant amount of time. I was searching for a way to synopsize this when I came across a great little presentation from Bill Baker about [Scaling SQL Server](https://twitter.com/randybias/status/444306871545892864). Bill wasn't running around presenting this in cloud circles. I dug it up through Google searches. Bill wasn't talking about cloud or cloud computing. His focus was about "scale-up" vs. "scale-out" architectures generally.
 
@@ -21,15 +21,15 @@ Here is the elevator pitch I would give in presentations, pretty much verbatim:
 
 **This** explanation of Pets vs Cattle is what [resonated with Tim Bell at CERN](https://twitter.com/noggin143/status/354666097691205633) and many others and caused them to replicate and propagate the analogy, which created the meme that has edified so many and has so cleanly represented the transition we are all going through to cloud.
 
-# Understanding Pets and Cattle
+## Understanding Pets and Cattle
 
 Let's take a minute to clearly define pets and cattle.
 
-## Pets
+### Pets
 
 > Servers or server pairs that are treated as indispensable or unique systems that can never be down. Typically they are manually built, managed, and "hand fed". Examples include mainframes, solitary servers, HA loadbalancers/firewalls (active/active or active/passive), database systems designed as master/slave (active/passive), and so on.
 
-## Cattle
+### Cattle
 
 > Arrays of more than two servers, that are built using automated tools, and are designed for failure, where no one, two, or even three servers are irreplaceable. Typically, during failure events no human intervention is required as the array exhibits attributes of "routing around failures" by restarting failed servers or replicating data through strategies like triple replication or erasure coding. Examples include web server arrays, multi-master datastores such as Cassandra clusters, multiple racks of gear put together in clusters, and just about anything that is load-balanced and multi-master.
 
@@ -37,7 +37,7 @@ The key here is that in the old world redundancy through having two of everythin
 
 Most importantly, this analogy, as presented above, has helped educate a generation of IT managers, CIOs, and others, while giving them a tool for further explaining the old vs new.
 
-# Going Off The Ranch
+## Going Off The Ranch
 
 That's why it's important to stick to or, at least start with, the core message above. People can and will, take this simple analogy and turn it to their own uses. Folks have added to the analogy (e.g. "pets, cattle, & ants", "children, pets, and cattle", etc.) and have modified it in various manners. That's fine, but it often muddies the waters, which means it waters down the value. Here's a recent case in point to illustrate.
 
@@ -49,7 +49,7 @@ The problem, of course, is that it's implied that true pet-architected systems, 
 
 It matters. If we say that pets are about systems that require "special handling" instead of systems that "cannot fail" then we ultimately confuse people trying to understand the new way vs. the old way.
 
-# Getting Value from Pets vs Cattle
+## Getting Value from Pets vs Cattle
 
 Hey, do what you need to do. If you feel you need to take Pets vs Cattle and bend it to serve marketing or other purposes, that's certainly your prerogative[2]. Just understand how it was used originally and why it's still invaluable in quickly helping IT folks and executives quickly understand what has changed. I also would very much appreciate if you simply acknowledged you were providing your own new context and pointed to this blog posting for the true history of the meme.
 
