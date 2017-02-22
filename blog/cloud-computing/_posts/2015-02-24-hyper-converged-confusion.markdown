@@ -26,7 +26,7 @@ Let’s take a look.
 
 <!-- more -->
 
-**Background and Definitions**
+##Background and Definitions
 
 Hyper-converged infrastructure is a class of infrastructure that arose on the heels of “converged infrastructure” of which the VCE Vblock is the canonical example.  There isn’t a canonical version of hyper-converged, but leaders in the space include Nutanix, Simplivity, Pivot3, Maxta,  VMware’s EVO:RACK / EVO:RAIL, and EMC's own [VSPEXblue](http://www.emc.com/cloud/vspex/products.htm?pid=Home-Products-Hero-013015) are up and comers. Hyper-converged in OpenStack land is represented quite well by Piston Cloud, who doubled down on this architecture early, which [attracted investment from Cisco Systems](http://www.businessinsider.com/cisco-piston-cloud-vmware-2013-2), one of the original investors in VCE and co-creators of the converged infrastructure marketplace.
 
@@ -60,7 +60,7 @@ The key to understanding the flaws in HCI for larger production deployments is t
 
 Let’s dig into those three areas I mentioned as being flawed: security, resource scaling, and control plane scaling.
 
-**Security**
+##Security
 
 There is now almost 20 years of security best practices characterized by “[defense-in-depth](http://en.wikipedia.org/wiki/Defense_in_depth_%28computing%29),”  a tried and true approach to stopping or, at least, slowing attackers.  A hyper-converged infrastructure, in collapsing the data plane and control plane, makes it impossible to create partitions between areas of a system such that a variety of security measures can be deployed. In effect, it means that you can’t use defense-in-depth principles.  A penetration anywhere results in the system being completely “owned” or if you prefer, [pwned](http://en.wikipedia.org/wiki/Pwn).
 
@@ -76,7 +76,7 @@ It’s not easy, and any “software-centric” approach to attempting to do so 
 
 As you can see, this kind of approach isn’t going to be acceptable in most enterprise environments.  In fact, I’m pretty sure you can’t get through a compliance audit with this kind of system so it’s unlikely they will ever support production, web-facing applications or really any enterprise app with any kind of real security requirements.  Most usage in the enterprise will be VDI, dev, test, QA, and other niche applications.
 
-**Independent Resource Scaling** 
+##Independent Resource Scaling
 
 One downside of a Vblock has been running out of capacity, such as disk IO, before completely exhausting another resource such as memory or CPU. A reasonable criticism, however, hyper-converged just amplifies this problem. Rather than running out of capacity in a single block or rack, you can run out of a resource across the entire cluster. If you have 10 nodes that provide X disk IOPS and Y RAM, you can have the situation where you are using all of X, but have half of Y, meaning that your per VM cost is actually *doubled* because you overspent on the nodes.
 
@@ -92,7 +92,7 @@ You have to fit your workloads to hardware that has been purpose-designed for th
 
 Again, this isn’t really an acceptable architecture for a larger cloud or a production system, but it’s a great architecture for smaller businesses and niche applications where you have a known, relatively fixed workload (e.g. VDI) or where you don’t care if the workload is inefficient (e.g. dev/test/QA).
 
-**Scaling the Control Plane Means Scaling UP the Data Plane**
+##Scaling the Control Plane Means Scaling UP the Data Plane
 
 In a hyper-converged system the “control plane”, or the software, APIs, and control systems that manage the system, are “distributed”.  In practice, this means that the control plane software and data is mixed with the VMs and VM data storage.  It also usually uses the same network. Yes, this is a security problem, but it also uncovers another issue, which is that there isn’t a specific entry point.  You have 10 nodes, which ones are running the control plane at any given time?  It can’t be all of them, because then what do you when it’s 100 nodes?  Or 1,000?
 
@@ -104,7 +104,7 @@ Not only that, it means that you are running a scale-up control plane rather tha
 
 [![DevOps - CloudExpo NYC 2014.001](/assets/media/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)](/assets/media/2015/02/DevOps-CloudExpo-NYC-2014.001.jpg)
 
-**So, Why Run Hyper-converged Infrastructure?** 
+##So, Why Run Hyper-converged Infrastructure?
 
 As far as I am concerned the primary value proposition of a hyper-converged system is it’s simplicity, which results in a significant reduction in the cost of labor.  A single good IT person can manage a hyper-converged cluster part time.  So, of course, this is why it’s ideal for an SMB or SME environment. Or perhaps in niche applications within the enterprise around VDI and development support.
 
