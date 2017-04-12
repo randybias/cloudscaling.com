@@ -35,7 +35,7 @@ I propose the following definition of CR:
 
 We can argue about whether these definitions are 100% correct. They are good enough for our purposes, which is framing the definition of CR in rough context so that we can understand that it is really just the last link in the chain of a holistic cycle:
 
-![Holistic DevOps Cycle](/assets/media/2017/holistic-devops-cycle.jpeg)
+![Holistic DevOps Cycle](/assets/media/2017/holistic-devops-cycle.jpg)
 
 What is this multi-colored ring, you ask? It’s the famous OODA Loop. Before we can continue, we need to touch on what the OODA Loop is and why it’s relevant to DevOps. We’ll keep it brief though as there is already a long history between the OODA Loop and DevOps.
 
