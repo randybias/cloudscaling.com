@@ -1,6 +1,6 @@
 ---
 author: Randy Bias
-date: 2017-04-11
+date: 2017-04-12
 layout: post
 slug: the-essential-devops-process-were-ignoring-continuous-response
 title: "The Essential DevOps Process We're Ignoring: Continuous Response"
