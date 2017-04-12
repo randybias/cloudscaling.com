@@ -4,7 +4,6 @@ date: 2015-09-19 09:07:24+00:00
 layout: post
 slug: five-things-openstack-needs-to-do-now
 title: Five Things OpenStack Needs to Do ... Now.
-featured: true
 old_categories:
 - OpenStack
 ---

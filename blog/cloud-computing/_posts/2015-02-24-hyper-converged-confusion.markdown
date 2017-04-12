@@ -34,14 +34,11 @@ There are some definitions out there that we can leverage to set initial context
 
 [Converged infrastructure](http://searchdatacenter.techtarget.com/definition/converged-infrastructure) (CI):
 
-Converged infrastructure (CI) is an approach to data center management that relies on a specific vendor and the vendor’s partners to provide pre-configured bundles of hardware and software in a single chassis.
-> 
-
+> Converged infrastructure (CI) is an approach to data center management that relies on a specific vendor and the vendor’s partners to provide pre-configured bundles of hardware and software in a single chassis.
 
 [Hyper-converged infrastructure](http://searchvirtualstorage.techtarget.com/definition/hyper-convergence) (HCI):
 
-Hyper-convergence (hyperconvergence) is a type of infrastructure system with a software-centric architecture that tightly integrates compute, storage, networking and virtualization resources and other technologies from scratch in a commodity hardware box supported by a single vendor. 
-> 
+> Hyper-convergence (hyperconvergence) is a type of infrastructure system with a software-centric architecture that tightly integrates compute, storage, networking and virtualization resources and other technologies from scratch in a commodity hardware box supported by a single vendor. 
 
 
 These definitions are somewhat helpful, but they obscure what I see as the fundamental difference between CI and HCI. While it’s true that HCI is inherently a software-centric model, there is nothing that says that a software-centric model can’t be applied to CI. In fact, if you look at Cloudscaling’s product, Open Cloud System, it was largely a software-centric model applied to converged infrastructure. You could swap out any hardware you wanted as the “pre-configured” bundles were basically software abstractions that could be applied to any certified hardware we supported.
