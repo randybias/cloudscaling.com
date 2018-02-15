@@ -12,11 +12,7 @@ old_categories:
 
 
 
-
 Yesterday I gave the seminal State of the Stack presentation at the OpenStack Summit.  This is the 4th major iteration of the deck.  This particular version took a very different direction for several reasons:
-
-
-
 
 
 	
