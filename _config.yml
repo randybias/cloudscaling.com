@@ -5,9 +5,9 @@
 title: Cloudscaling
 footertitle: Cloudscaling Blog
 
-email: randy.bias@emc.com
+email: randybias@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Cloudscaling is the leading provider of on-premise elastic cloud infrastructure solutions to support dynamic applications.
+  Cloudscaling is the blog of Randy Bias
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cloudscaling.com" # the base hostname & protocol for your site
 
@@ -42,3 +42,5 @@ exclude:
 
 # Number of articles links to include in the "Also on Cloudscaling" list in sidebar & mobile header
 featured_post_limit: 5
+
+plugins: [jekyll-paginate]

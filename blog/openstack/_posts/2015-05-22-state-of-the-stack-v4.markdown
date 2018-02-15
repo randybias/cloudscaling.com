@@ -4,7 +4,7 @@ comments: true
 date: 2015-05-22 04:26:34+00:00
 layout: post
 slug: state-of-the-stack-v4
-title: State of the Stack v4 - OpenStack In All It's Glory
+title: "State of the Stack v4 - OpenStack In All It's Glory"
 wordpress_id: 7764
 old_categories:
 - OpenStack
@@ -46,7 +46,7 @@ The video:
 
 
 
-{% oembed https://www.youtube.com/watch?v=rOSmvwEhFmg %}
+{% oembed http://www.youtube.com/watch?v=rOSmvwEhFmg %}
 
 
 
